@@ -12,16 +12,16 @@ import {
   Minus,
   Copy,
   Check,
+  ClipboardList,
 } from "lucide-react";
 
-// --- DATA ---
-
+// --- DATA: ORASAUN (REZA) ---
 const ORASAUN_DATA = [
   {
     id: "angelus",
     title: "Angelus",
     context: "Tempu bai-bain",
-    content: `Na'i Maromak nia Anju hodi Na'i Maromak nia lian ba Maria.\nNia ko'us dau-daun tamba Espiritu Santu nia grasa.\n\nAve Maria...\n\nHa'u ne'e, Na’i Maromak nia atan deit.\nAtu halo tuir duni Ita Boot nia lian.\n\nAve Maria...\n\nMaromak Filho halo an ba mane.\nNia mai moris duni hamutuk ho ita.\n\nAve Maria...\n\nMaromak nia Inan Santa, harohan mai ami ata.\nAmi atu bele hetan Jesus Kristu nia rahun diak.\n\nOrasaun: Na'i Maromak, ami ata husu ba Ita Boot atu haraik Ita Boot nia grasa mai ami nia klamar. Tuir Anju nia lia ami hatene lolos katak Ita Boot nia Oan halo An ba Mane duni. Tan nia terus to'o mate iha krus, ami harohan ba Ita Boot, halo ami ata moris tali atu ba iha lalehan. Ami husu ne'e tanba ami nia Na'i Jesus Kristu. Amen.`,
+    content: `Na'i Maromak nia Anju hodi Na'i Maromak nia lian ba Maria.\nNia ko'us dau-daun tamba Espiritu Santu nia grasa.\n\nAve Maria...\n\nHa'u ne'e, Na’i Maromak nia atan deit.\nAtu halo tuir duni Ita Boot nia lian.\n\nAve Maria...\n\nMaromak Filho halo an ba mane.\nNia mai moris duni hamutuk ho ita.\n\nAve Maria...\n\nMaromak nia Inan Santa, harohan mai ami ata.\nAmi atu bele hetan Jesus Kristu nia rahun diak.\n\nOrasaun: Na'i Maromak, ami ata husu ba Ita Boot atu haraik Ita Boot nia grasa mai ami nia klamar. Tuir Anju nia lia ami hatene lolos katak Ita Boot nia Oan halo An ba Mane duni. Tan nia terus to'o mate iha krus, ami harohan ba Ita Boot, halo ami ata moris tali atu ba iha lalehan. Ami husu ne'e tanba ami nia na'i Jesus Kristu. Amen.`,
   },
   {
     id: "regina-coeli",
@@ -41,6 +41,31 @@ const ORASAUN_DATA = [
   },
 ];
 
+// --- DATA: MISSA (MISA) ---
+const MISA_SECTIONS = [
+  {
+    id: "iniciais",
+    title: "Ritos Iniciais",
+    content: `S: Hodi Padre,...\nP: Amen.\n\nS: Na’i Jesus Cristo nia graça, Aman Maromak nia domin, hamutuk iha Espírito Santo, horik ho imi.\nP: Rahun-di’ak ba Maromak be halibur ita, iha Cristo nia domin.\n\nS: Maun-alin no feton sira: atu hala’o loloos mistério santo sira, hanoin lai katak ita ema maksalak. Confessa ita salan.\n\nHa’u confessa ba Maromak, Kbiit-tomak Na’in, No ba imi, maun-alin no feton sira, katak ha’u sala fil-fila, hodi hanoin no hateten, hodi hahalok no la hala’o ha’u knaar, ha’u sala, ha’u sala tebes duni. Tan ne’e, ha’u husu ba Santa Maria, Virgem nafatin, ba Anjo no Santo sira hotu, no mos ba imi, maun-alin no feton sira, atu harohan ba Maromak, ita Na’in, mai ha’u.\n\nS: Maromak kbiit-tomak Na’in sadi’a ita ba, perdua ita salan, lori ita ba moris rohan-laek.\nP: Amen.\n\nV: Na’i Sadi’a ami\nR: Na’i sadi’a ami\nV: Cristo sadi’a ami\nR: Cristo sadi’a ami\n\nGlória ba Maromak iha leten aas liu,\nPaz iha rai-klaran, ba ema sira be laran-di’ak.\nNa’i Maromak, Liurai lalehan, Aman Maromak kbiit-tomak Na’in: ami hawelok Ita, ami hahí Ita, ami adora Ita, ami haliban Ita, tan Ita-nia glória boot tebes...`,
+  },
+  {
+    id: "liturjia",
+    title: "Liturgia da Palavra",
+    content: `L: Na’i nia futar Lia.\nP: Agradece ba Maromak.\n\nS: Na’i horik ho imi.\nP: Horik mos ho ita.\n\nS: Na’i Jesus Cristo nia Evangelho, tuir São N.\nP: Na’i Glória ba Ita.\n\nS: Lia maksoin.\nP: Cristo, ami hahí Ita.`,
+  },
+  {
+    id: "profissao",
+    title: "Profissão de Fé",
+    content: `Ha’u fiar Maromak mesak ida de’it, Aman Kbiit-tomak Na’in, Mahalo lalehan no rai, buat hotu be bele haré no labele haré.\n\nHa’u fiar Na’i ida de’it, Jesus Cristo, Maromak Oan-mane Mesak, moris nanis hosi Aman molok tempo hahú. Maromak hosi Maromak, Naroman hosi Naroman. Maromak loos, hosi Maromak loloos; Aman hako’us, la halo Nia, nia-An ida de’it ho Aman. Buat hotu halo ona hodi Nia.\n\nTan ita ema, atu soi ita, Nia tun ona hosi Lalehan. Hodi Espírito Santo, Nia hola isin iha Virgem Maria nia knotak, halo nia-An ba ema. Tan mos ba ita, ema hedi Nia ba cruz, iha Pôncio Pilatos nia ukun; terus, mate tiha, ema hakoi Nia...`,
+  },
+  {
+    id: "comunhao",
+    title: "Ritos da Comunhão",
+    content: `S: Tuir Maksoi hanorin, ita barani harohan:\n\nAmi Aman, be iha lalehan, halo ami hahí-hana’i Ita naran, halo Ita nia reino to’o mai ami; Ita nia hakaran halo tuir ba iha rai nu’udar iha lalehan. Ohin ne’e haraik aihan lor-loron nian mai ami; haraik perdão mai ami salan, nu’udar ami perdua ema halo aat ami; labele husik ami monu ba tentação; maibé hasai ami hosi aat.\n\nS: Na’i nia damen horik nafatin ho imi.\nP: Cristo-Nia domin halo ita hamutuk ona.\n\nBibi-oan Maromak nian be kasu mundo salan, sadi’a ami.\nBibi-oan Maromak nian be kasu mundo salan, haraik damen mai ami.`,
+  },
+];
+
+// --- DATA: KNANANUK ---
 const KNANANUK_DATA = [
   {
     id: 1,
@@ -67,6 +92,7 @@ const KNANANUK_DATA = [
 
 // --- COMPONENTS ---
 
+// Ti paulo ni header
 const Header = ({ title, showBack, onBack }) => (
   <header className="sticky top-0 z-50 w-full bg-white/90 backdrop-blur-md border-b border-gray-100 px-4 py-3 flex items-center justify-between">
     <div className="flex items-center gap-3">
@@ -78,7 +104,7 @@ const Header = ({ title, showBack, onBack }) => (
           <ChevronRight className="w-6 h-6 rotate-180 text-gray-600" />
         </button>
       )}
-      <h1 className="text-xl font-bold bg-gradient-to-r from-pink-500 to-blue-600 bg-clip-text text-transparent">
+      <h1 className="text-xl font-bold bg-gradient-to-r from-pink-500 to-blue-600 bg-clip-text text-transparent uppercase tracking-tight">
         {title}
       </h1>
     </div>
@@ -88,6 +114,7 @@ const Header = ({ title, showBack, onBack }) => (
   </header>
 );
 
+// Ti paulo ni card
 const Card = ({ children, onClick, className = "" }) => (
   <div
     onClick={onClick}
@@ -97,6 +124,7 @@ const Card = ({ children, onClick, className = "" }) => (
   </div>
 );
 
+// Ti paulo ni content view
 const ContentDisplay = ({ item, fontSize }) => {
   const [copied, setCopied] = useState(false);
 
@@ -128,7 +156,6 @@ const ContentDisplay = ({ item, fontSize }) => {
         <button
           onClick={handleCopy}
           className="p-2.5 bg-gray-50 rounded-xl hover:bg-gray-100 transition-colors shadow-sm"
-          title="Kopia testu"
         >
           {copied ? (
             <Check className="w-5 h-5 text-green-500" />
@@ -147,14 +174,14 @@ const ContentDisplay = ({ item, fontSize }) => {
   );
 };
 
-// --- MAIN APP ---
-
+// --- MAIN APP COMPONENT ---
 export default function App() {
   const [view, setView] = useState("home");
   const [selectedItem, setSelectedItem] = useState(null);
   const [fontSize, setFontSize] = useState(18);
   const [searchTerm, setSearchTerm] = useState("");
 
+  // Ti paulo ni navigation logic
   const navigateToContent = (item, originView) => {
     setSelectedItem({ ...item, origin: originView });
     setView("content");
@@ -178,29 +205,29 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col max-w-md mx-auto shadow-2xl relative overflow-hidden ring-1 ring-gray-100">
-      {/* Decorative background blobs */}
+      {/* Dekorasion ni background */}
       <div className="fixed inset-0 pointer-events-none opacity-20 overflow-hidden">
-        <div className="absolute -top-20 -left-20 w-64 h-64 bg-pink-300 rounded-full blur-3xl animate-pulse" />
+        <div className="absolute -top-20 -left-20 w-64 h-64 bg-pink-300 rounded-full blur-3xl" />
         <div className="absolute top-1/2 -right-20 w-72 h-72 bg-blue-300 rounded-full blur-3xl" />
       </div>
 
       <Header
         title={
           view === "home"
-            ? "Harohan ba Na'i"
-            : view.charAt(0).toUpperCase() + view.slice(1)
+            ? "Harohan"
+            : view === "misa"
+              ? "Misal Romano"
+              : view.toUpperCase()
         }
         showBack={view !== "home"}
         onBack={goBack}
       />
 
       <main className="flex-1 overflow-y-auto px-5 py-6 z-10 relative">
+        {/* VIEW: HOME (OIN) */}
         {view === "home" && (
           <div className="space-y-8 animate-in fade-in duration-700">
             <div className="bg-gradient-to-br from-pink-500 via-pink-600 to-indigo-700 rounded-[2.5rem] p-8 text-white shadow-xl shadow-pink-200/50 relative overflow-hidden">
-              <div className="absolute top-0 right-0 p-4 opacity-10">
-                <Cross className="w-24 h-24" />
-              </div>
               <h2 className="text-lg font-medium opacity-90 mb-1">
                 Dader diak, Sarani,
               </h2>
@@ -208,79 +235,92 @@ export default function App() {
                 "Na'i Maromak mak ha'u nia ksolok."
               </p>
               <button
-                onClick={() =>
-                  navigateToContent(
-                    ORASAUN_DATA.find((p) => p.id === "dader"),
-                    "home",
-                  )
-                }
+                onClick={() => setView("misa")}
                 className="bg-white text-pink-600 px-6 py-3 rounded-2xl text-sm font-bold shadow-sm active:scale-95 transition-all"
               >
-                Reza dader nian
+                Ba Misa Romano
               </button>
             </div>
 
             <div className="grid grid-cols-2 gap-4">
               <Card
-                onClick={() => setView("prayers")}
-                className="flex flex-col items-center justify-center gap-3 h-36 bg-white/90"
+                onClick={() => setView("misa")}
+                className="flex flex-col items-center justify-center gap-3 h-32 bg-white/90"
               >
-                <div className="p-4 bg-pink-50 rounded-[1.5rem] text-pink-500">
+                <div className="p-3 bg-amber-50 rounded-2xl text-amber-500">
+                  <ClipboardList className="w-8 h-8" />
+                </div>
+                <span className="font-bold text-gray-700">Missa</span>
+              </Card>
+              <Card
+                onClick={() => setView("prayers")}
+                className="flex flex-col items-center justify-center gap-3 h-32 bg-white/90"
+              >
+                <div className="p-3 bg-pink-50 rounded-2xl text-pink-500">
                   <Book className="w-8 h-8" />
                 </div>
-                <span className="font-bold text-gray-700">Orasaun</span>
+                <span className="font-bold text-gray-700">Reza</span>
               </Card>
               <Card
                 onClick={() => setView("songs")}
-                className="flex flex-col items-center justify-center gap-3 h-36 bg-white/90"
+                className="flex flex-col items-center justify-center gap-3 h-32 bg-white/90"
               >
-                <div className="p-4 bg-blue-50 rounded-[1.5rem] text-blue-500">
+                <div className="p-3 bg-blue-50 rounded-2xl text-blue-500">
                   <Music className="w-8 h-8" />
                 </div>
                 <span className="font-bold text-gray-700">Knananuk</span>
               </Card>
+              <Card
+                onClick={() => setView("rosary")}
+                className="flex flex-col items-center justify-center gap-3 h-32 bg-white/90"
+              >
+                <div className="p-3 bg-indigo-50 rounded-2xl text-indigo-500">
+                  <Sun className="w-8 h-8" />
+                </div>
+                <span className="font-bold text-gray-700">Rozariu</span>
+              </Card>
             </div>
-
-            <section>
-              <div className="flex justify-between items-center mb-4">
-                <h3 className="text-xs font-black text-gray-400 uppercase tracking-[0.2em]">
-                  Favoritu
-                </h3>
-              </div>
-              <div className="space-y-3">
-                {ORASAUN_DATA.slice(0, 3).map((p) => (
-                  <div
-                    key={p.id}
-                    onClick={() => navigateToContent(p, "home")}
-                    className="flex items-center gap-4 bg-white p-4 rounded-2xl border border-gray-100 shadow-sm active:bg-gray-50 transition-all group"
-                  >
-                    <div className="w-10 h-10 rounded-full bg-pink-50 flex items-center justify-center text-pink-400 group-hover:scale-110 transition-transform">
-                      <ChevronRight className="w-5 h-5" />
-                    </div>
-                    <span className="font-bold text-gray-700">{p.title}</span>
-                  </div>
-                ))}
-              </div>
-            </section>
           </div>
         )}
 
+        {/* VIEW: MISA (MISAL ROMANO) */}
+        {view === "misa" && (
+          <div className="space-y-4 animate-in slide-in-from-right-4 duration-300">
+            <div className="text-center mb-6 p-4 border-b border-pink-100">
+              <h2 className="text-red-600 font-black text-xl">
+                ORDINÁRIO DA MISSA
+              </h2>
+              <p className="text-red-500 text-xs font-bold uppercase mt-1">
+                Texto Oficial Tetum - Para o Povo
+              </p>
+            </div>
+            {MISA_SECTIONS.map((s) => (
+              <Card
+                key={s.id}
+                onClick={() => navigateToContent(s, "misa")}
+                className="flex items-center justify-between group"
+              >
+                <span className="font-bold text-gray-700">{s.title}</span>
+                <ChevronRight className="w-5 h-5 text-gray-300 group-hover:text-pink-500" />
+              </Card>
+            ))}
+          </div>
+        )}
+
+        {/* VIEW: REZA (ORASAUN) */}
         {view === "prayers" && (
-          <div className="space-y-3 animate-in fade-in slide-in-from-right-4 duration-300">
+          <div className="space-y-3 animate-in slide-in-from-right-4 duration-300">
             {ORASAUN_DATA.map((p) => (
               <Card
                 key={p.id}
                 onClick={() => navigateToContent(p, "prayers")}
-                className="flex items-center gap-4 py-5"
+                className="flex items-center gap-4"
               >
-                <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-pink-50 to-white flex items-center justify-center text-pink-500 font-bold shadow-inner">
+                <div className="w-10 h-10 rounded-xl bg-pink-50 flex items-center justify-center text-pink-500 font-bold">
                   {p.title.charAt(0)}
                 </div>
                 <div className="flex-1">
                   <h3 className="font-bold text-gray-800">{p.title}</h3>
-                  <p className="text-xs text-gray-400 line-clamp-1">
-                    {p.content.substring(0, 60)}...
-                  </p>
                 </div>
                 <ChevronRight className="w-5 h-5 text-gray-300" />
               </Card>
@@ -288,14 +328,15 @@ export default function App() {
           </div>
         )}
 
+        {/* VIEW: KNANANUK */}
         {view === "songs" && (
-          <div className="space-y-5 animate-in fade-in slide-in-from-right-4 duration-300">
-            <div className="relative group">
-              <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 w-5 h-5 group-focus-within:text-pink-400 transition-colors" />
+          <div className="space-y-5 animate-in slide-in-from-right-4 duration-300">
+            <div className="relative">
+              <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 w-5 h-5" />
               <input
                 type="text"
                 placeholder="Buka knananuk..."
-                className="w-full bg-white border border-gray-200 rounded-2xl py-4 pl-12 pr-4 outline-none focus:ring-4 focus:ring-pink-500/10 focus:border-pink-300 transition-all text-sm font-medium"
+                className="w-full bg-white border border-gray-200 rounded-2xl py-4 pl-12 pr-4 outline-none focus:ring-2 focus:ring-pink-200 transition-all"
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
               />
@@ -305,73 +346,77 @@ export default function App() {
                 <Card
                   key={song.id}
                   onClick={() => navigateToContent(song, "songs")}
-                  className="flex justify-between items-center group py-5"
+                  className="flex justify-between items-center group"
                 >
                   <div>
-                    <span className="text-[10px] font-black uppercase tracking-widest text-blue-500 bg-blue-50/50 px-3 py-1 rounded-full mb-2 inline-block">
+                    <span className="text-[10px] font-black uppercase text-blue-500 bg-blue-50 px-2 py-0.5 rounded-full mb-1 inline-block">
                       {song.category}
                     </span>
-                    <h3 className="font-bold text-gray-800 text-lg">
-                      {song.title}
-                    </h3>
+                    <h3 className="font-bold text-gray-800">{song.title}</h3>
                   </div>
-                  <ChevronRight className="w-6 h-6 text-gray-200 group-hover:text-pink-400 group-hover:translate-x-1 transition-all" />
+                  <ChevronRight className="w-5 h-5 text-gray-200 group-hover:text-pink-400" />
                 </Card>
               ))}
             </div>
           </div>
         )}
 
+        {/* VIEW: ROZARIU */}
+        {view === "rosary" && (
+          <div className="text-center py-20 animate-in fade-in">
+            <Sun className="w-16 h-16 text-indigo-400 mx-auto mb-4" />
+            <h2 className="text-xl font-bold text-gray-800">Rozariu Santu</h2>
+            <p className="text-gray-500 text-sm mt-2 px-10">
+              Misteriu sira sei prepara...
+            </p>
+          </div>
+        )}
+
+        {/* VIEW: CONTENT DISPLAY */}
         {view === "content" && selectedItem && (
           <ContentDisplay item={selectedItem} fontSize={fontSize} />
         )}
       </main>
 
-      {/* Floating Font Size Controls */}
+      {/* Floating Font Controls (Content laeng) */}
       {view === "content" && (
-        <div className="fixed bottom-24 left-1/2 -translate-x-1/2 flex items-center gap-3 bg-white/95 backdrop-blur-xl border border-gray-100 p-2.5 rounded-3xl shadow-2xl z-50 animate-in slide-in-from-bottom-10">
+        <div className="fixed bottom-24 left-1/2 -translate-x-1/2 flex items-center gap-3 bg-white/95 backdrop-blur-xl border border-gray-100 p-2.5 rounded-3xl shadow-2xl z-50">
           <button
             onClick={() => setFontSize((prev) => Math.max(prev - 2, 12))}
-            className="p-2.5 hover:bg-gray-100 rounded-2xl transition-colors active:scale-90"
+            className="p-2 hover:bg-gray-100 rounded-xl"
           >
             <Minus className="w-5 h-5 text-gray-500" />
           </button>
           <div className="w-px h-6 bg-gray-200" />
-          <div className="flex items-center gap-2 px-2">
-            <Type className="w-4 h-4 text-gray-400" />
-            <span className="text-xs font-black text-gray-400 w-4">
-              {fontSize}
-            </span>
-          </div>
+          <Type className="w-4 h-4 text-gray-400" />
           <div className="w-px h-6 bg-gray-200" />
           <button
             onClick={() => setFontSize((prev) => Math.min(prev + 2, 36))}
-            className="p-2.5 hover:bg-gray-100 rounded-2xl transition-colors active:scale-90"
+            className="p-2 hover:bg-gray-100 rounded-xl"
           >
             <Plus className="w-5 h-5 text-gray-500" />
           </button>
         </div>
       )}
 
-      {/* Navigation Bar */}
-      <nav className="bg-white/80 backdrop-blur-lg border-t border-gray-100 py-3 px-8 flex justify-between items-center z-50">
+      {/* Footer Navigation Bar (Lima tabs) */}
+      <nav className="bg-white/80 backdrop-blur-lg border-t border-gray-100 py-3 px-4 flex justify-between items-center z-50">
         {[
-          { icon: Home, label: "Oin", id: "home" },
-          { icon: Book, label: "Reza", id: "prayers" },
-          { icon: Music, label: "Knananuk", id: "songs" },
-          { icon: Sun, label: "Rosariu", id: "rosary" },
-        ].map((btn) => (
+          { id: "home", label: "OIN", icon: Home },
+          { id: "misa", label: "MISA", icon: ClipboardList },
+          { id: "prayers", label: "REZA", icon: Book },
+          { id: "songs", label: "KNANANUK", icon: Music },
+          { id: "rosary", label: "ROZARIU", icon: Sun },
+        ].map((tab) => (
           <button
-            key={btn.id}
-            onClick={() => setView(btn.id)}
-            className={`flex flex-col items-center gap-1.5 transition-all ${view === btn.id ? "text-pink-500 scale-110" : "text-gray-400 hover:text-gray-600"}`}
+            key={tab.id}
+            onClick={() => setView(tab.id)}
+            className={`flex flex-col items-center gap-1 flex-1 transition-all ${view === tab.id ? "text-pink-500" : "text-gray-400"}`}
           >
-            <btn.icon
-              className={`w-6 h-6 ${view === btn.id ? "fill-pink-50" : ""}`}
+            <tab.icon
+              className={`w-5 h-5 ${view === tab.id ? "fill-pink-50" : ""}`}
             />
-            <span className="text-[10px] font-black uppercase tracking-tighter">
-              {btn.label}
-            </span>
+            <span className="text-[9px] font-black">{tab.label}</span>
           </button>
         ))}
       </nav>
@@ -393,15 +438,6 @@ export default function App() {
         ::-webkit-scrollbar {
           width: 0px;
           background: transparent;
-        }
-
-        .animate-in {
-          animation: fadeIn 0.4s ease-out;
-        }
-
-        @keyframes fadeIn {
-          from { opacity: 0; transform: translateY(10px); }
-          to { opacity: 1; transform: translateY(0); }
         }
       `,
         }}
