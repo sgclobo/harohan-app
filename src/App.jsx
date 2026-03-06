@@ -90,6 +90,19 @@ const KNANANUK_DATA = [
   },
 ];
 
+const KNANANUK_CATEGORIES = [
+  "Entrada",
+  "Gloria",
+  "Responsorial",
+  "Aleluia",
+  "Ofertorio",
+  "Credo",
+  "Santu",
+  "Agnus Dei",
+  "Komunhao",
+  "Aksaun de Grasas",
+];
+
 // --- COMPONENTS ---
 
 // Ti paulo ni header
@@ -180,6 +193,7 @@ export default function App() {
   const [selectedItem, setSelectedItem] = useState(null);
   const [fontSize, setFontSize] = useState(18);
   const [searchTerm, setSearchTerm] = useState("");
+  const [openCategory, setOpenCategory] = useState(null);
 
   // Ti paulo ni navigation logic
   const navigateToContent = (item, originView) => {
@@ -330,7 +344,8 @@ export default function App() {
 
         {/* VIEW: KNANANUK */}
         {view === "songs" && (
-          <div className="space-y-5 animate-in slide-in-from-right-4 duration-300">
+          <div className="space-y-3 animate-in slide-in-from-right-4 duration-300">
+            {/* Search bar */}
             <div className="relative">
               <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 w-5 h-5" />
               <input
@@ -341,23 +356,102 @@ export default function App() {
                 onChange={(e) => setSearchTerm(e.target.value)}
               />
             </div>
-            <div className="grid gap-3">
-              {filteredSongs.map((song) => (
-                <Card
-                  key={song.id}
-                  onClick={() => navigateToContent(song, "songs")}
-                  className="flex justify-between items-center group"
-                >
-                  <div>
-                    <span className="text-[10px] font-black uppercase text-blue-500 bg-blue-50 px-2 py-0.5 rounded-full mb-1 inline-block">
-                      {song.category}
-                    </span>
-                    <h3 className="font-bold text-gray-800">{song.title}</h3>
-                  </div>
-                  <ChevronRight className="w-5 h-5 text-gray-200 group-hover:text-pink-400" />
-                </Card>
-              ))}
-            </div>
+
+            {/* If searching, show flat filtered results */}
+            {searchTerm ? (
+              <div className="grid gap-3">
+                {filteredSongs.map((song) => (
+                  <Card
+                    key={song.id}
+                    onClick={() => navigateToContent(song, "songs")}
+                    className="flex justify-between items-center group"
+                  >
+                    <div>
+                      <span className="text-[10px] font-black uppercase text-blue-500 bg-blue-50 px-2 py-0.5 rounded-full mb-1 inline-block">
+                        {song.category}
+                      </span>
+                      <h3 className="font-bold text-gray-800">{song.title}</h3>
+                    </div>
+                    <ChevronRight className="w-5 h-5 text-gray-200 group-hover:text-pink-400" />
+                  </Card>
+                ))}
+                {filteredSongs.length === 0 && (
+                  <p className="text-center text-gray-400 py-10 text-sm">
+                    La hetan knananuk...
+                  </p>
+                )}
+              </div>
+            ) : (
+              /* Accordion category list */
+              <div className="space-y-2">
+                {KNANANUK_CATEGORIES.map((category) => {
+                  const songsInCategory = KNANANUK_DATA.filter(
+                    (s) => s.category === category,
+                  );
+                  const isOpen = openCategory === category;
+
+                  return (
+                    <div
+                      key={category}
+                      className="bg-white rounded-2xl overflow-hidden border border-gray-100 shadow-sm"
+                    >
+                      {/* Category Header */}
+                      <button
+                        onClick={() =>
+                          setOpenCategory(isOpen ? null : category)
+                        }
+                        className="w-full flex items-center justify-between px-4 py-4"
+                      >
+                        <div className="flex items-center gap-3">
+                          <span className="text-xs font-black uppercase tracking-widest text-blue-500">
+                            {category}
+                          </span>
+                          <span className="text-xs text-gray-400 bg-gray-100 rounded-full px-2 py-0.5">
+                            {songsInCategory.length}
+                          </span>
+                        </div>
+                        <ChevronRight
+                          className={`w-5 h-5 text-gray-400 transition-transform duration-300 ${
+                            isOpen ? "rotate-90" : ""
+                          }`}
+                        />
+                      </button>
+
+                      {/* Songs list - shown when open */}
+                      {isOpen && songsInCategory.length > 0 && (
+                        <div className="border-t border-gray-100">
+                          {songsInCategory.map((song, index) => (
+                            <div
+                              key={song.id}
+                              onClick={() => navigateToContent(song, "songs")}
+                              className={`flex items-center justify-between px-4 py-3 cursor-pointer hover:bg-pink-50 transition-colors ${
+                                index !== songsInCategory.length - 1
+                                  ? "border-b border-gray-50"
+                                  : ""
+                              }`}
+                            >
+                              <h3 className="font-semibold text-gray-700 text-sm">
+                                {song.title}
+                              </h3>
+                              <ChevronRight className="w-4 h-4 text-gray-300" />
+                            </div>
+                          ))}
+                        </div>
+                      )}
+
+                      {/* Empty state */}
+                      {isOpen && songsInCategory.length === 0 && (
+                        <div className="border-t border-gray-100 px-4 py-4">
+                          <p className="text-sm text-gray-400 italic">
+                            Seidauk iha knananuk...
+                          </p>
+                        </div>
+                      )}
+                    </div>
+                  );
+                })}
+              </div>
+            )}
           </div>
         )}
 
