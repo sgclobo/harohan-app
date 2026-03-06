@@ -277,12 +277,57 @@ const Card = ({ children, onClick, className = "", style = {} }) => (
   </div>
 );
 
+// Parses **bold** and _italic_ markers in a single line of text
+const RichLine = ({ text }) => {
+  const parts = [];
+  const regex = /(\*\*[^*]+\*\*|_[^_]+_)/g;
+  let last = 0;
+  let match;
+  while ((match = regex.exec(text)) !== null) {
+    if (match.index > last) parts.push({ type: "plain", text: text.slice(last, match.index) });
+    const raw = match[0];
+    if (raw.startsWith("**")) parts.push({ type: "bold", text: raw.slice(2, -2) });
+    else parts.push({ type: "italic", text: raw.slice(1, -1) });
+    last = match.index + raw.length;
+  }
+  if (last < text.length) parts.push({ type: "plain", text: text.slice(last) });
+
+  return (
+    <span>
+      {parts.map((p, i) =>
+        p.type === "bold" ? <strong key={i}>{p.text}</strong>
+        : p.type === "italic" ? <em key={i}>{p.text}</em>
+        : <span key={i}>{p.text}</span>
+      )}
+    </span>
+  );
+};
+
+// Renders full content preserving line breaks with **bold** and _italic_ support
+const RichText = ({ content, fontSize }) => {
+  const lines = content.split("\n");
+  return (
+    <div className="text-gray-700 leading-relaxed font-serif" style={{ fontSize: `${fontSize}px` }}>
+      {lines.map((line, i) => (
+        <span key={i}>
+          <RichLine text={line} />
+          {i < lines.length - 1 && <br />}
+        </span>
+      ))}
+    </div>
+  );
+};
+
 // Ti paulo ni content view
 const ContentDisplay = ({ item, fontSize }) => {
   const [copied, setCopied] = useState(false);
 
   const handleCopy = () => {
-    const text = `${item.title}\n\n${item.content}`;
+    // Strip markers so copied text is clean plain text
+    const plain = item.content
+      .replace(/\*\*([^*]+)\*\*/g, "$1")
+      .replace(/_([^_]+)_/g, "$1");
+    const text = `${item.title}\n\n${plain}`;
     const textArea = document.createElement("textarea");
     textArea.value = text;
     document.body.appendChild(textArea);
@@ -305,6 +350,11 @@ const ContentDisplay = ({ item, fontSize }) => {
               {item.context}
             </p>
           )}
+          {item.subtitle && (
+            <p className="text-sm font-semibold text-indigo-500 mt-1 italic">
+              {item.subtitle}
+            </p>
+          )}
         </div>
         <button
           onClick={handleCopy}
@@ -317,12 +367,7 @@ const ContentDisplay = ({ item, fontSize }) => {
           )}
         </button>
       </div>
-      <div
-        className="text-gray-700 leading-relaxed whitespace-pre-wrap font-serif"
-        style={{ fontSize: `${fontSize}px` }}
-      >
-        {item.content}
-      </div>
+      <RichText content={item.content} fontSize={fontSize} />
     </div>
   );
 };
