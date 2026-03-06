@@ -88,36 +88,116 @@ const KNANANUK_DATA = [
     content:
       "Ema rai hotu, ema lubun boot, ema buka diak;\nNa’i nia ema, hahi o nia Maksoin.\n\nAmi hananu Kristu, Na'i Maromak nia Oan.\nAmi hahi Na'i Maromak boot tebes nia tutor Lia.",
   },
- {
-  id: 4,
-  category: "Entrada",
-  title: "Diak tebes ba Jesus",
-  content:
-    "<b>Diak tebes ba Jesus, Na'i Maromak.</b>\n" +
-    "Ita hananu ba Aman Maromak. (2x)\n\n" +
-    "1. Hasa'e imi laran bodi basa imi nia liman,\n" +
-    "Imi buka hadomi Na'i Maksoin.(2X)\n" +
-    "2. Hamos imi nia laran hodi hanani ba Na'i...\n" +
-    "3. Taka metin imi nia matan, hodi hana'i Na'i Jesus...\n" +
-    "4. Hamos imi nia moris hodi fiar ba Jesus",
-},
+  {
+    id: 4,
+    category: "Entrada",
+    title: "Diak Tebes Ba Jesus",
+    content: `Diak tebes ba Jesus, Na'i Maromak.
+Ita hananu ba Aman Maromak. (2x)
 
+1. Hasa'e imi laran hodi basa imi nia liman,
+Imi buka hadomi Na'i Maksoin. (2x)
+
+2. Hamos imi nia laran hodi hananu ba Na'i...
+
+3. Taka metin imi nia matan, hodi hana'i Na'i Jesus...
+
+4. Hamos imi nia moris hodi fiar ba Jesus...`,
+  },
   {
     id: 5,
     category: "Responsorial",
     title: "Ami Hahi Itaboot nia Justisa",
-    content:
-      "<b>Ami ha hi Ita Boot nia justisa,</b>\n" +
-      "<b>ami haklaken Ita Boot laran luak, Kristu, Na'i Liurai!</b>\n\n" +
-      "1. Rai hotu iha Maromak futar liman,\n" +
-      "foho aas tomak Maromak nia soi.\n" +
-      "2. Rai, tasi hotu Maromak ninian,\n" +
-      "ntan sira Maromak nia liman fatin.\n" +
-      "3. Hahi, hana'i ba Na'i Maromak,\n" +
-      "4. Hamos tan Nia Ita Maksoin.",
+    content: `Ami hahi Ita Boot nia justisa,
+Ami haklaken Ita Boot laran luak, Kristu, Na'i Liurai!
+
+1. Rai hotu iha Maromak futar liman,
+Foho aas tomak Maromak nia soi.
+
+2. Rai, tasi hotu Maromak ninian,
+Ntan sira Maromak nia liman fatin.
+
+3. Hahi, hana'i ba Na'i Maromak,
+
+4. Hamos tan Nia Ita Maksoin.`,
   },
 ];
 
+// --- DATA: ROZARIU ---
+const ROZARIU_DATA = [
+  {
+    id: "gozosos",
+    title: "I. Misterios Gozosos",
+    subtitle: "Sei reza iha segunda feira no Sabado",
+    content: `Maromak, hiit-An mai tulun ami.
+Na'i mai lalais soi ami.
+Gloria ba Padre...
+
+Misterio 1: Ita sei hanoin katak Anju São Gabriel ba fo hatene ba Maria Santissima katak nia atu sai Maromak nia Inan.
+(Ami Aman, Ave Maria 10, Gloria)
+
+Oh Maria, Inan sala laek.
+Haraik tulun mai ami nebe husu Ita Boot nia tulun.
+
+Oh Jesus haraik perdua ba ami salan.
+Keta husik ami monu ba ahi infernu nian; lori klamar sira ba lalehan, liu-liu sira nebe ema haluha atu harohan ba.
+
+Misterio 2: Ita sei hanoin katak Maria Santissima ba visita nia feto maluk Santa Isabel.
+
+Misterio 3: Ita sei hanoin katak Ita Na'i Jesus Kristu moris iha bibi luhan ida, iha rai Belem.
+
+Misterio 4: Ita sei hanoin katak Ita Nain Feto ba apresenta nia Oan Jesus iha uma kreda boot Jerusalem.
+
+Misterio 5: Ita sei hanoin katak Jesus lakon horik loron tolu ona, ita Nain Feto hetan fali Nia iha Jerusalem.`,
+  },
+  {
+    id: "luminosos",
+    title: "II. Misterios Luminosos",
+    subtitle: "Sei reza iha Quinta feira",
+    content: `Misterio 1: Ita sei hanoin katak João Baptista sarani Jesus iha mota Jordaun.
+
+Misterio 2: Ita sei hanoin katak Jesus tuir festa kaben iha Kana.
+
+Misterio 3: Ita sei hanoin katak Jesus la'o lemo rai haklaken Maromak nia Reinu.
+
+Misterio 4: Ita sei hanoin katak Jesus nakfilak An iha foho Tabor.
+
+Misterio 5: Ita sei hanoin katak Jesus han ba dala ikus, hodi hari Eukaristia.`,
+  },
+  {
+    id: "dolorosos",
+    title: "III. Misterios Dolorosos",
+    subtitle: "Sei reza iha terça no sexta feira",
+    content: `Misterio 1: Ita sei hanoin katak Jesus neon sala, halo orasaun iha toos Oliveira nian.
+
+Misterio 2: Ita sei hanoin katak ema Judeu sira futu Ita Na'i Jesus Kristu, baku nia isin, halo mesa kanek.
+
+Misterio 3: Ita sei hanoin katak ema tau aitarak ba Jesus nia futar ulun.
+
+Misterio 4: Ita sei hanoin katak Jesus lori nia krus, hodi ba to'o foho Kalvario.
+
+Misterio 5: Ita sei hanoin katak ita Na'i Jesus Kristu hedi netik iha krus, terus to'o mate tanba ita.`,
+  },
+  {
+    id: "gloriosos",
+    title: "IV. Misterios Gloriosos",
+    subtitle: "Sei reza iha quarta feira no Domingo",
+    content: `Misterio 1: Ita sei hanoin katak Jesus mate tiha, liu loron tolu nia moris hias.
+
+Misterio 2: Ita sei hanoin katak Jesus sa'e rasik ba lalehan.
+
+Misterio 3: Ita sei hanoin katak Espiritu Santu tun husi lalehan mai tan Maria Santissima no apostolu sira.
+
+Misterio 4: Ita sei hanoin katak Na'i Maromak hasa'e ita Nain Feto ba lalehan.
+
+Misterio 5: Ita sei hanoin katak Na'i Maromak haraik gloria boot ba Maria Santissima iha lalehan.
+
+—
+
+"Segundo a prática corrente, a segunda e a quinta-feira são dedicadas aos 'mistérios da alegria', a terça e a sexta-feira aos 'mistérios da dor', a quarta-feira, o sábado e o domingo aos 'mistérios da glória'. Onde se podem inserir os 'mistérios da luz'? Atendendo a que os mistérios gloriosos são propostos em dois dias seguidos –sábado e domingo– e que o sábado é tradicionalmente um dia de intenso carácter mariano, parece recomendável deslocar para ele a segunda meditação semanal dos mistérios gozosos, nos quais está mais acentuada a presença de Maria. E assim fica livre a quinta-feira precisamente para a meditação dos mistérios da luz."
+
+ROSARIUM VIRGINIS MARIAE DO SUMO PONTÍFICE JOÃO PAULO II, no. 38`,
+  },
 ];
 
 const KNANANUK_CATEGORIES = [
@@ -487,12 +567,23 @@ export default function App() {
 
         {/* VIEW: ROZARIU */}
         {view === "rosary" && (
-          <div className="text-center py-20 animate-in fade-in">
-            <Sun className="w-16 h-16 text-indigo-400 mx-auto mb-4" />
-            <h2 className="text-xl font-bold text-gray-800">Rozariu Santu</h2>
-            <p className="text-gray-500 text-sm mt-2 px-10">
-              Misteriu sira sei prepara...
-            </p>
+          <div className="space-y-3 animate-in slide-in-from-right-4 duration-300">
+            <div className="text-center mb-2 p-4 border-b border-indigo-100">
+              <h2 className="text-indigo-700 font-black text-xl">ITA NAIN FETO NIA ROSARIO</h2>
+            </div>
+            {ROZARIU_DATA.map((mystery) => (
+              <Card
+                key={mystery.id}
+                onClick={() => navigateToContent(mystery, "rosary")}
+                className="flex items-center justify-between group"
+              >
+                <div className="flex-1">
+                  <h3 className="font-bold text-gray-800">{mystery.title}</h3>
+                  <p className="text-xs text-indigo-400 italic mt-0.5">{mystery.subtitle}</p>
+                </div>
+                <ChevronRight className="w-5 h-5 text-gray-300 group-hover:text-indigo-400 ml-2 shrink-0" />
+              </Card>
+            ))}
           </div>
         )}
 
