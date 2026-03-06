@@ -88,11 +88,11 @@ const KNANANUK_DATA = [
     content:
       "Ema rai hotu, ema lubun boot, ema buka diak;\nNa’i nia ema, hahi o nia Maksoin.\n\nAmi hananu Kristu, Na'i Maromak nia Oan.\nAmi hahi Na'i Maromak boot tebes nia tutor Lia.",
   },
-  {
-    id: 4,
-    category: "Entrada",
-    title: "Diak Tebes Ba Jesus",
-    content: `Diak tebes ba Jesus, Na'i Maromak.
+ {
+  id: 4,
+  category: "Entrada",
+  title: "Diak Tebes Ba Jesus",
+  content: `Diak tebes ba Jesus, Na'i Maromak.
 Ita hananu ba Aman Maromak. (2x)
 
 1. Hasa'e imi laran hodi basa imi nia liman,
@@ -103,7 +103,7 @@ Imi buka hadomi Na'i Maksoin. (2x)
 3. Taka metin imi nia matan, hodi hana'i Na'i Jesus...
 
 4. Hamos imi nia moris hodi fiar ba Jesus...`,
-  },
+},
   {
     id: 5,
     category: "Responsorial",
@@ -217,17 +217,17 @@ const KNANANUK_CATEGORIES = [
 
 // Ti paulo ni header
 const Header = ({ title, showBack, onBack }) => (
-  <header className="sticky top-0 z-50 w-full bg-white/90 backdrop-blur-md border-b border-gray-100 px-4 py-3 flex items-center justify-between">
+  <header className="sticky top-0 z-50 w-full px-4 py-3 flex items-center justify-between shadow-md" style={{ backgroundColor: "#1a1a2e" }}>
     <div className="flex items-center gap-3">
       {showBack && (
         <button
           onClick={onBack}
-          className="p-2 hover:bg-gray-100 rounded-full transition-colors"
+          className="p-2 hover:bg-white/10 rounded-full transition-colors"
         >
-          <ChevronRight className="w-6 h-6 rotate-180 text-gray-600" />
+          <ChevronRight className="w-6 h-6 rotate-180 text-white" />
         </button>
       )}
-      <h1 className="text-xl font-bold bg-gradient-to-r from-pink-500 to-blue-600 bg-clip-text text-transparent uppercase tracking-tight">
+      <h1 className="text-xl font-bold text-white uppercase tracking-tight">
         {title}
       </h1>
     </div>
@@ -238,10 +238,11 @@ const Header = ({ title, showBack, onBack }) => (
 );
 
 // Ti paulo ni card
-const Card = ({ children, onClick, className = "" }) => (
+const Card = ({ children, onClick, className = "", style = {} }) => (
   <div
     onClick={onClick}
-    className={`bg-white rounded-2xl p-4 shadow-sm border border-gray-50 active:scale-[0.98] transition-all cursor-pointer hover:border-pink-100 ${className}`}
+    style={{ backgroundColor: "#f5dadc", ...style }}
+    className={`rounded-2xl p-4 shadow-sm border border-pink-100 active:scale-[0.98] transition-all cursor-pointer hover:border-pink-300 ${className}`}
   >
     {children}
   </div>
@@ -328,12 +329,9 @@ export default function App() {
   }, [searchTerm]);
 
   return (
-    <div className="min-h-screen bg-slate-50 flex flex-col max-w-md mx-auto shadow-2xl relative overflow-hidden ring-1 ring-gray-100">
+    <div className="min-h-screen flex flex-col max-w-md mx-auto shadow-2xl relative overflow-hidden ring-1 ring-gray-200" style={{ background: "linear-gradient(to right, #E887B7, #f9f07a, #ffffff, #a0f0f0, #4444cc)" }}>
       {/* Dekorasion ni background */}
-      <div className="fixed inset-0 pointer-events-none opacity-20 overflow-hidden">
-        <div className="absolute -top-20 -left-20 w-64 h-64 bg-pink-300 rounded-full blur-3xl" />
-        <div className="absolute top-1/2 -right-20 w-72 h-72 bg-blue-300 rounded-full blur-3xl" />
-      </div>
+      <div className="fixed inset-0 pointer-events-none overflow-hidden" style={{ background: "linear-gradient(to right, #E887B7, #f9f07a, #ffffff, #a0f0f0, #4444cc)", opacity: 0.18 }} />
 
       <Header
         title={
@@ -350,53 +348,59 @@ export default function App() {
       <main className="flex-1 overflow-y-auto px-5 py-6 z-10 relative">
         {/* VIEW: HOME (OIN) */}
         {view === "home" && (
-          <div className="space-y-8 animate-in fade-in duration-700">
-            <div className="bg-gradient-to-br from-pink-500 via-pink-600 to-indigo-700 rounded-[2.5rem] p-8 text-white shadow-xl shadow-pink-200/50 relative overflow-hidden">
-              <h2 className="text-lg font-medium opacity-90 mb-1">
-                Dader diak, Sarani,
-              </h2>
-              <p className="text-2xl font-extrabold mb-6 leading-tight">
+          <div className="space-y-6 animate-in fade-in duration-700">
+            {/* Hero card matching index.html style */}
+            <div className="rounded-[2rem] p-8 text-center shadow-xl relative overflow-hidden border border-white/60" style={{ background: "linear-gradient(135deg, #E887B7 0%, #f9d976 40%, #ffffff 70%, #7ed8f6 100%)" }}>
+              <h1 className="text-3xl font-black mb-1 tracking-tight" style={{ color: "#7a003a" }}>
+                Harohan ba Na'i
+              </h1>
+              <p className="text-base font-semibold mb-4 opacity-80" style={{ color: "#3a006a" }}>
                 "Na'i Maromak mak ha'u nia ksolok."
               </p>
               <button
                 onClick={() => setView("misa")}
-                className="bg-white text-pink-600 px-6 py-3 rounded-2xl text-sm font-bold shadow-sm active:scale-95 transition-all"
+                className="px-6 py-2.5 rounded-full text-sm font-bold shadow-md active:scale-95 transition-all border border-white/80"
+                style={{ background: "rgba(255,255,255,0.75)", color: "#7a003a" }}
               >
-                Misal Romano
+                Ba Misal Romano
               </button>
             </div>
 
             <div className="grid grid-cols-2 gap-4">
               <Card
                 onClick={() => setView("misa")}
-                className="flex flex-col items-center justify-center gap-3 h-32 bg-white/90"
+                className="flex flex-col items-center justify-center gap-3 h-32"
+                style={{ backgroundColor: "#f5dadc" }}
               >
-                <div className="p-3 bg-amber-50 rounded-2xl text-amber-500">
+                <div className="p-3 bg-amber-100 rounded-2xl text-amber-600">
                   <ClipboardList className="w-8 h-8" />
                 </div>
                 <span className="font-bold text-gray-700">Missa</span>
               </Card>
               <Card
                 onClick={() => setView("prayers")}
-                className="flex flex-col items-center justify-center gap-3 h-32 bg-white/90"
+                className="flex flex-col items-center justify-center gap-3 h-32"
+                style={{ backgroundColor: "#f5dadc" }}
               >
-                <div className="p-3 bg-pink-50 rounded-2xl text-pink-500">
+                <div className="p-3 bg-pink-100 rounded-2xl text-pink-600">
                   <Book className="w-8 h-8" />
                 </div>
                 <span className="font-bold text-gray-700">Reza</span>
               </Card>
               <Card
                 onClick={() => setView("songs")}
-                className="flex flex-col items-center justify-center gap-3 h-32 bg-white/90"
+                className="flex flex-col items-center justify-center gap-3 h-32"
+                style={{ backgroundColor: "#f5dadc" }}
               >
-                <div className="p-3 bg-blue-50 rounded-2xl text-blue-500">
+                <div className="p-3 bg-blue-100 rounded-2xl text-blue-600">
                   <Music className="w-8 h-8" />
                 </div>
                 <span className="font-bold text-gray-700">Knananuk</span>
               </Card>
               <Card
                 onClick={() => setView("rosary")}
-                className="flex flex-col items-center justify-center gap-3 h-32 bg-white/90"
+                className="flex flex-col items-center justify-center gap-3 h-32"
+                style={{ backgroundColor: "#f5dadc" }}
               >
                 <div className="p-3 bg-indigo-50 rounded-2xl text-indigo-500">
                   <Sun className="w-8 h-8" />
@@ -410,12 +414,15 @@ export default function App() {
         {/* VIEW: MISA (MISAL ROMANO) */}
         {view === "misa" && (
           <div className="space-y-4 animate-in slide-in-from-right-4 duration-300">
-            <div className="text-center mb-6 p-4 border-b border-pink-100">
-              <h2 className="text-red-600 font-black text-xl">
+            <div className="text-center mb-6 p-4 rounded-2xl border border-red-100" style={{ backgroundColor: "#f5dadc" }}>
+              <h2 className="text-red-700 font-black text-xl">
                 ORDINÁRIO DA MISSA
               </h2>
               <p className="text-red-500 text-xs font-bold uppercase mt-1">
                 Texto Oficial Tetum - Para o Povo
+              </p>
+              <p className="text-red-400 text-xs mt-1">
+                Conferência Episcopal Timorense · Comissão Nacional Liturgia
               </p>
             </div>
             {MISA_SECTIONS.map((s) => (
@@ -568,8 +575,8 @@ export default function App() {
         {/* VIEW: ROZARIU */}
         {view === "rosary" && (
           <div className="space-y-3 animate-in slide-in-from-right-4 duration-300">
-            <div className="text-center mb-2 p-4 border-b border-indigo-100">
-              <h2 className="text-indigo-700 font-black text-xl">ITA NAIN FETO NIA ROSARIO</h2>
+            <div className="text-center mb-2 p-4 rounded-2xl border border-indigo-100" style={{ backgroundColor: "#f5dadc" }}>
+              <h2 className="text-indigo-800 font-black text-xl">ITA NAIN FETO NIA ROSARIO</h2>
             </div>
             {ROZARIU_DATA.map((mystery) => (
               <Card
@@ -579,9 +586,9 @@ export default function App() {
               >
                 <div className="flex-1">
                   <h3 className="font-bold text-gray-800">{mystery.title}</h3>
-                  <p className="text-xs text-indigo-400 italic mt-0.5">{mystery.subtitle}</p>
+                  <p className="text-xs text-indigo-500 italic mt-0.5">{mystery.subtitle}</p>
                 </div>
-                <ChevronRight className="w-5 h-5 text-gray-300 group-hover:text-indigo-400 ml-2 shrink-0" />
+                <ChevronRight className="w-5 h-5 text-gray-400 group-hover:text-indigo-500 ml-2 shrink-0" />
               </Card>
             ))}
           </div>
@@ -615,7 +622,7 @@ export default function App() {
       )}
 
       {/* Footer Navigation Bar (Lima tabs) */}
-      <nav className="bg-white/80 backdrop-blur-lg border-t border-gray-100 py-3 px-4 flex justify-between items-center z-50">
+      <nav className="border-t border-white/20 py-3 px-4 flex justify-between items-center z-50 shadow-inner" style={{ backgroundColor: "#1a1a2e" }}>
         {[
           { id: "home", label: "OIN", icon: Home },
           { id: "misa", label: "MISA", icon: ClipboardList },
@@ -626,10 +633,10 @@ export default function App() {
           <button
             key={tab.id}
             onClick={() => setView(tab.id)}
-            className={`flex flex-col items-center gap-1 flex-1 transition-all ${view === tab.id ? "text-pink-500" : "text-gray-400"}`}
+            className={`flex flex-col items-center gap-1 flex-1 transition-all ${view === tab.id ? "text-pink-400" : "text-gray-400"}`}
           >
             <tab.icon
-              className={`w-5 h-5 ${view === tab.id ? "fill-pink-50" : ""}`}
+              className={`w-5 h-5 ${view === tab.id ? "fill-pink-900" : ""}`}
             />
             <span className="text-[9px] font-black">{tab.label}</span>
           </button>
@@ -643,7 +650,8 @@ export default function App() {
         
         body {
           font-family: 'Plus Jakarta Sans', sans-serif;
-          background-color: #f1f5f9;
+          background: linear-gradient(to right, #E887B7, #f9f07a, #ffffff, #a0f0f0, #4444cc);
+          min-height: 100vh;
         }
 
         .font-serif {
