@@ -88,6 +88,13 @@ const KNANANUK_DATA = [
     content:
       "Ema rai hotu, ema lubun boot, ema buka diak;\nNa’i nia ema, hahi o nia Maksoin.\n\nAmi hananu Kristu, Na'i Maromak nia Oan.\nAmi hahi Na'i Maromak boot tebes nia tutor Lia.",
   },
+  {
+    id: 4,
+    category: "Entrada",
+    title: "Diak tebes ba Jesus",
+    content:
+      "Diak tebes ba Jesus, Na'i Maromak.\nIta hananu ba Aman Maromak. (2x)\n\n1. Hasa'e imi laran bodi basa imi nia liman,\nImi buka hadomi Na'i Maksoin.(2X)\n2. Hamos imi nia laran hodi hanani ba Na'i...\n3. Taka metin imi nia matan, hodi hana'i Na'i Jesus... n\4. Hamos imi nia moris hodi fiar ba Jesus",
+  },
 ];
 
 const KNANANUK_CATEGORIES = [
@@ -252,7 +259,7 @@ export default function App() {
                 onClick={() => setView("misa")}
                 className="bg-white text-pink-600 px-6 py-3 rounded-2xl text-sm font-bold shadow-sm active:scale-95 transition-all"
               >
-                Ba Misa Romano
+                Misal Romano
               </button>
             </div>
 
