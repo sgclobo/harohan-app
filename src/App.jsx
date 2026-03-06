@@ -88,13 +88,36 @@ const KNANANUK_DATA = [
     content:
       "Ema rai hotu, ema lubun boot, ema buka diak;\nNa’i nia ema, hahi o nia Maksoin.\n\nAmi hananu Kristu, Na'i Maromak nia Oan.\nAmi hahi Na'i Maromak boot tebes nia tutor Lia.",
   },
+ {
+  id: 4,
+  category: "Entrada",
+  title: "Diak tebes ba Jesus",
+  content:
+    "<b>Diak tebes ba Jesus, Na'i Maromak.</b>\n" +
+    "Ita hananu ba Aman Maromak. (2x)\n\n" +
+    "1. Hasa'e imi laran bodi basa imi nia liman,\n" +
+    "Imi buka hadomi Na'i Maksoin.(2X)\n" +
+    "2. Hamos imi nia laran hodi hanani ba Na'i...\n" +
+    "3. Taka metin imi nia matan, hodi hana'i Na'i Jesus...\n" +
+    "4. Hamos imi nia moris hodi fiar ba Jesus",
+},
+
   {
-    id: 4,
-    category: "Entrada",
-    title: "Diak tebes ba Jesus",
+    id: 5,
+    category: "Responsorial",
+    title: "Ami Hahi Itaboot nia Justisa",
     content:
-      "Diak tebes ba Jesus, Na'i Maromak.\nIta hananu ba Aman Maromak. (2x)\n\n1. Hasa'e imi laran bodi basa imi nia liman,\nImi buka hadomi Na'i Maksoin.(2X)\n2. Hamos imi nia laran hodi hanani ba Na'i...\n3. Taka metin imi nia matan, hodi hana'i Na'i Jesus... n\4. Hamos imi nia moris hodi fiar ba Jesus",
+      "<b>Ami ha hi Ita Boot nia justisa,</b>\n" +
+      "<b>ami haklaken Ita Boot laran luak, Kristu, Na'i Liurai!</b>\n\n" +
+      "1. Rai hotu iha Maromak futar liman,\n" +
+      "foho aas tomak Maromak nia soi.\n" +
+      "2. Rai, tasi hotu Maromak ninian,\n" +
+      "ntan sira Maromak nia liman fatin.\n" +
+      "3. Hahi, hana'i ba Na'i Maromak,\n" +
+      "4. Hamos tan Nia Ita Maksoin.",
   },
+];
+
 ];
 
 const KNANANUK_CATEGORIES = [
