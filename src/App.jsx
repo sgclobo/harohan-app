@@ -23,6 +23,7 @@ import imgHbn from "./assets/hbn.webp";
 import imgMisal from "./assets/misal1.webp";
 import imgRozariu from "./assets/rozariu.png";
 import imgKnananuk from "./assets/knananuk.png";
+import imgKnananuk from "./assets/paskua.png";
 import imgReza from "./assets/reza.png";
 import imgHauSae from "./assets/hau-sae.png";
 import imgPvHalibur from "./assets/pv-halibur.png";
@@ -3959,6 +3960,111 @@ Halo sa aat ba o? Dehan took ba!
 3. Kristu saran an atu soi ema.
 4. Kristu lori krus ba to'o foho Kalvario.
 5. Kristu, mate tiha, moris hias fali.`
+  },
+  {
+    id: 1,
+    category: "Paskua",
+    title: "ALELUIA, MAUN ALIN SIRA",
+    image: "paskua.png",
+    content: `Maun alin sira:
+Ita hotu ba hananu ba Ita Na'i no Ita Maromak,
+nebe hatene manan mate hodi sei
+furak liu tan hosi rate atu la mate teni.`
+  },
+   {
+    id: 2,
+    category: "Paskua",
+    title: "KRISTU MORIS HIAS FALI",
+    content: `Kristu moris hias fali, aleluia, aleluia.
+1. Hananu ba Na'i knananuk foun ida.
+   Hananu ba Na'i, raiklaran tomak.
+2. Hananu ba Na'i, hahi Nia naran.
+   Haklaken loron-loron Nia salvasaun
+3. Fo hatene Nia gloria ba gentiu sira
+   Ba povu tomak Nia hahalok kmanek`
+  },
+   {
+    id: 3,
+    category: "Paskua",
+    title: "KRISTU NIA ROMAN",
+    content: `Kristu nia roman leno raiklaran tomak, aleluia, aleluia.
+1. Hananu ba Na'i knananuk foun ida.
+   Hananu ba Na'i raiklaran tomak.
+   Hananu ba Na'i, hahi Nia naran.
+2. Umakain rai tomak hakbesik ba Na'i.
+   Hasa'e ba Na'i gloria no kbiit;
+   hasa'e ba Na'i, hahi Nia naran.
+3. Haklaken ba gentiu sira: Na'i mak liurai.
+   Nia harii rai ne'e, sei la monu;
+   Nia ukun povu sira ho justisa.
+4. Hasa'e buat karan, lori mai to'o Nia tutor oin,
+   adora Maromak iha Nia uma santu;
+   Iha Nia tutor oin rai tomak nakdedar.`
+  },
+  {
+    id: 4,
+    category: "Paskua",
+    title: "MORIS HIAS ONA, ALELUIA",
+    content: `Moris hias ona, aleluia.
+Kristu Jesus iha ita leet.
+1. Tan ne'e ha'u hamriik, aleluia,
+   Iha ita oin, Jerusalem.
+2. Jerusalem, cidade boot no furak;
+   sidade harii met-metin, aleluia,
+   povu sira hakat ba ita.
+3. O nia kota laran be hakmatek;
+   o nia uma laran diak nakonu, aleluia;
+   tan ita Na'i Maromak.`
+  },
+  {
+    id: 5,
+    category: "Paskua",
+    title: "NA'I MANAN MATE",
+    content: `Na'i manan mate: gloria, gloria ba Na'i!
+Na'i manan mate, Na'i manan terus:
+Ita hotu mai, haksolok.
+1. Ema, rai, lalehan, tasi, aleluia.
+   Haksolok no hananu, aleluia,
+   Ita hamutuk hodi hananu,
+   Ita haksolok loron ohin
+   Ita Na'i moris hias, aleluia.
+2. Ema tomak sei hatene, aleluia,
+   katak Jesus moris hias, aleluia.
+   Mundu tomak sei fiar duni
+   katak Jesus sei soi ita.
+   Ksolok foun sei mosu mai, aleluia.`
+  },
+  {
+    id: 6,
+    category: "Paskua",
+    title: "NA'I MORIS HIAS, ALELUIA",
+    content: `Na'i moris hias (3x) Aleluia (4x) Na'i moris hias.
+1. Oh mate, o kbiit iha nebe?
+   O beran no diak, iha nebe?
+2. Ksolok, ita hotu haksolok
+   tan Kristu Maksoin moris hias ona.
+3. Mate eh moris hamutuk ho Kristu,
+   tan ne'e ita hananu, aleluia.
+4. Agradese ba Aman Maromak
+   tan soi ita hotu ho Kristu nia mate.`
+  },
+  {
+    id: 7,
+    category: "Paskua",
+    title: "SEI HANANU DAME, SEI HANANU",
+    content: `1. Sei hananu dame, sei hananu.
+   Sei hananu domin, sei hananu.
+   Ba ema kiak sira, sei hananu.
+   Ksolok sira nian, sei hananu.
+   Aleluia, aleluia, Kristu moris hias fali. (2x)
+2. Ba mundu raiklaran, sei hananu.
+   Nia halo ha'u moris, sei hananu.
+   Ba ema raiklaran, sei hananu.
+   Be buka justisa, sei hananu.
+3. Ba Kristu Jesus, sei hananu.
+   Ha'u nia liberdade, sei hananu.
+   Ba ema rai tomak, sei hananu.
+   Maromak ha'u Aman, sei hananu.`
   }
 
 ];
@@ -4718,7 +4824,7 @@ export default function App() {
                 <img src={imgKnananuk} alt="Knananuk" className="rounded-xl shadow-sm" style={{ maxWidth: "260px", width: "100%" }} />
               </div>
               <div className="text-center px-5 py-4">
-                <p className="text-base italic text-gray-700 font-serif leading-snug">"Ema nebe hananu, reza data rua"</p>
+                <p className="text-base italic text-gray-700 font-serif leading-snug">"Ema nebe hananu, reza dala rua"</p>
                 <p className="text-xs font-bold text-gray-500 mt-1 uppercase tracking-widest">Santo Agostinho</p>
               </div>
             </div>
