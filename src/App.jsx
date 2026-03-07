@@ -2014,6 +2014,516 @@ Nia mak dalan, lialos ba nafatin.
 3. Hato'o ba mundu raiklaran:
 ita Liurai mak Jesus Kristu!`
 }
+{
+  id: 1,
+  category: "Ofertorio",
+  title: "MAI HOTU MAUN ALIN, HASA’E BA NA’I",
+  content: `Aleluia, aleluia, aleluia.
+
+1. Mai hotu, maun alin, hasa'e ba Na’i
+ita moris tomak hodi hahi Nia
+ho neen, ho laran hasa'e ba Na’i, aleluia.
+
+2. Ita liman hasa’e, maun alin raiklaran,
+sakrifisiu diak ba Aman Maromak,
+susar ho ksolok ba Na’i hasa’e, aleluia.
+
+3. Simu, Aman Santu, ami isin no klamar,
+perdua haraik ba ami nia sola,
+ho Kristu Jesus, ami nia maun boot, aleluia.
+
+4. Ami hotu nia susar, ami hotu nia knaar,
+ksolok hotu ho domin ami tomak ninian,
+hosi Kristu Jesus hasa’e ba Ita, aleluia.`
+},
+{
+  id: 2,
+  category: "Ofertorio",
+  title: "KRISTU, AMI MAKSOIN",
+  content: `Kristu, ami Maksoin, ami nia moris, ami nia dalan.
+Na’i, Aman lalehan, rona ami lia, simu ami kick.
+
+1. Ami nia isin, klamar simu hamutuk tua no paun. (2x)`
+},
+{
+  id: 3,
+  category: "Ofertorio",
+  title: "ITA BOOT SIMU BA",
+  content: `Ita Boot simu ba, ha'u kole loron kalan.
+Ha'u nia ksolok no teruss, susar no ha'u knaac
+ka'u soi karik be, Na’i, soi saran wain tan;
+maibe ha'u ema mukit.
+
+1. Hodi sa los mai atu tau tan ba mutuk
+nebe nailulik hasa’e ba Maromak.
+Maibe ha'u hanoin, hanoin ho laran moras:
+ha'u ema mukit ida.
+
+2. Tau tan ba hostia ha'u saran moris tomak;
+nailulik iha altar hasa’e ba Maromak.`
+},
+{
+  id: 4,
+  category: "Ofertorio",
+  title: "IHA ITA MISSA",
+  content: `1. Ami bele hasa’e so ba Ita Boot?
+Buat tomak ami fo ba Ita, Na’i.
+
+Iha Ita Missa, ami nia Missa;
+iha ita moris, ami nia moris. (2x)
+
+2. Iha paun no tua ami nia domin,
+ami hasa’e ba ita hodi hetan kbiit.
+
+3. Simu ho laran luak ami nia moris,
+hodi haraik mai ami tulun Na’i nian.`
+},
+{
+  id: 5,
+  category: "Ofertorio",
+  title: "HASA’E BA NA’I, ITA AMAN",
+  content: `Hasa’e ba Na’i, ita Aman,
+paun no tua ita domin. (2x)
+
+1. Simu, Na’i, ami nia kolen.
+Simu, Na’i, ami nia lia
+hodi hanoin Ita Oan nia mate.
+Haraik mos moris hias.`
+},
+{
+  id: 6,
+  category: "Ofertorio",
+  title: "BA ITA ALTAR",
+  content: `1. Ba Ita altar ohin ami hasa’e,
+hasa’e ami paun no buat tomak;
+paun be mai hosi ami nia kolen
+no tua be mai hosi rai.
+
+Loron ida ne’e ho Missa ida ne’e
+haraik moris foun mai ami. (2x)
+
+2. Na’i, haraik, fo tulun mai ami,
+atu ami hamulak ho neen;
+ba oras ne’e ami hadia an daudaun,
+atu simu Na’i Maksoin.
+
+3. Ksolok hamutuk iha Nia tutor oin.
+Tan ita Maksoin moris ona,
+Na’i, mai simu ho laran luak,
+buat ami ksolok ba Ita.`
+},
+{
+  id: 7,
+  category: "Ofertorio",
+  title: "AMI NIA VIDA HASA’E BA ITA",
+  content: `Ami nia vida hasa’e ba Ita,
+ami nia domin Ita Boot nian.
+
+1. Maromak, liurai hotu nia Liurai.
+Nia mak ha'u sei serbi.
+Maromak, ha'u moris Na’i,
+ha'u saran ha'u an ba Nia Oan.
+
+2. Sasan hot-hotu ha'u nian,
+ha'u Na’i nian.
+Ha'u sei moris atu hahi Nia,
+oras ne’e no ba nafatin.
+
+3. Sei serbi Na’i ho ha'u nia kbiit tomak,
+ho ha'u isin lolon tomak.
+
+Ha'u sei se tilun ba ninia hakarak,
+ha'u sei halo tuir Nia nafatin.
+Ha'u mak be turu kahur ho tua
+atu soi maun alin sira.
+Ha'u sei lori to'o ba Na’i sira
+be dook hosi Maromak.`
+},
+{
+  id: 8,
+  category: "Ofertorio",
+  title: "AMI MORIS, ISIN NO KLAMAR",
+  content: `Ami moris, isin no klamar hasa’e ba Ita, ami Na’i.
+
+1. Aihan moris, aihan lalehan, hakotu lia atu fo;
+tun mai tebes, tun rasik mai,
+horik hamutuk ho atan sira.
+
+2. Kalis laran tua kahur be, fila ba Kristu tutor ran;
+hare ami kiak no hamrook,
+tan ami kuran diak lalehan.`
+},
+{
+  id: 9,
+  category: "Ofertorio",
+  title: "AMI KARAN FOLIN LAEK",
+  content: `Na’i, simu ba! (2x)
+
+1. Timor oan tuku fur, hana’i.
+Na’i, simu, simu ba.
+
+2. Ami karan folin laek, fo tomak.
+Aman, ...
+
+3. Kiak robot rai, oin nakraik, hana’i.
+Na’i, ...
+
+4. Ami rain no povu fo tomak.
+Na’i, ...
+
+5. Ami diak, ami aat fo tomak.
+Na’i, ...
+
+6. Ami unam, ami toos fo tomak.
+Na’i...
+
+7. Ami knaar no eskola fo tomak.
+Na’i, ...
+
+8. Ami kosar, ami ran fo tomak.
+Na’i, ...
+
+9. Ami kiak no susar fo tomak.
+Na’i, ...`
+},
+{
+  id: 10,
+  category: "Ofertorio",
+  title: "AMI HAKBESIK BA ALTAR",
+  content: `1. Ami hakbesik ba altar atu hasa'e buat karan
+Paun no tua nudar tada ami isin klamar tomak.
+
+Simu ba, Na’i, ami buat karan.
+Nudar sakrifisiu Jesus Kristu laran luak.
+
+2. Ami nia moris no ami mate fo ba Ita
+Ami nia ksolok no ami susar fo ba Ita.
+
+Buat hotu ami hasa’e ba Ita. (2x)
+Ami harohan Ita nia kbiit, Na’i. (2x)`
+},
+{
+  id: 11,
+  category: "Ofertorio",
+  title: "AMI HAKAT SA’E BA ALTAR",
+  content: `1. Ami hakat sa’e ba altar lori ami nia buat karan.
+Ami tan ne’e tuku tur hana’i ba ita Aman lalehan.
+
+Simu ba, Na’i; simu ba, Na’i
+Ami karan folin laek ne’e. (2x)
+
+2. Maski ami karan la folin maibe ami hasa’e ho fuan.
+Maski ami ema sola nain la kuran domin ba ita.`
+},
+{
+  id: 12,
+  category: "Ofertorio",
+  title: "AMI FUAN HANANU",
+  content: `Ami fuan hananu hahi Ita, o Aman laran luak;
+halo Ita futar laran malirin fan karan ami hasa’e.
+Ami liman fane buat karan ne e
+hodi foti matan hateke ba Ita,
+husu ita simu, simu netik ba.
+
+1. Halulik ba, a Na’i, buat karan hirak ne’e
+nebe Ita rasik haraik ba Ita nia Kreda.
+
+2. Keta hewai, a Na’i, karan folin laek ne’e,
+nudar tada isin klamar, ami domin ba Ita.`
+},
+{
+  id: 13,
+  category: "Ofertorio",
+  title: "AMI AMAN IHA LALEHAN",
+  content: `1. Ami Aman iha lalehan, buat hotu ami fo;
+uitoan be ami halo, mas ami hakarak to.
+
+Fo bensa mai ami karan,
+hare ba labarik iha mundu fane liman husu domin;
+fo bensa mai ami karan,
+hare ba kafuas be terus tan maluk,
+uma, aihan laek.
+
+2. Ba ema Maromak lia tun,
+Oan mane haruka mai,
+iha mundu nia mai haklaken
+"Reinu domin to'o ona."
+
+Haliku, o Na’i, ami husu,
+hamlaha be hetan iha mundu
+ho ema be moris diak.
+
+Fo bensa mai Ita Kreda,
+ho nia ami la'o ami dalan,
+kait liman no domin.`
+},
+{
+  id: 14,
+  category: "Ofertorio",
+  title: "AMAN MAROMAK, ATAN OAN AMI",
+  content: `Aman Maromak, ata oan ami hasa’e ba Ita, ami Na’i,
+ami isin no klamar.
+Simu no hano’in paun trigu, tua ami hasa’e ba Ita.`
+},
+{
+  id: 15,
+  category: "Ofertorio",
+  title: "AMAN LALEHAN, SIMU AMI",
+  content: `Aman lalehan, simu ami;
+ami isin, ami klamar hamutuk ho Jesus isin no Ran.
+
+1. Ami hakbesik ba altar,
+hasa’e paun no tua ba Ita Boot.
+
+2. Aman doben, laran luak,
+Ita la hewai ami hasa’e.`
+}
+{
+  id: 16,
+  category: "Ofertorio",
+  title: "PAI NOSSO, QUE ESTAIS NO CÉU",
+  content: `1. Pai nosso que estais no céu, tudo nos queremos dar.
+O pouco que nos fizemos também vamos ofertar.
+
+Abençoai nossa oferta; olhai as crianças do mundo
+Suspirando por amor.
+Abençoai nossa oferta; olhai os velhinhos que sofrem
+Sem ninguém, nem lar nem pão.
+
+2. Aos homens que Deus quis falar
+e à terra o Filho mandou.
+A todos veio anunciar o reino de Deus chegou.
+
+Olhai, Senhor, nos Vos pedimos;
+a fome que existe no mundo e a pobreza dos sem pão.
+Olhai, Senhor, a Vossa Igreja;
+com ela nos caminhamos de mãos dadas por amor.`
+},
+{
+  id: 17,
+  category: "Ofertorio",
+  title: "OFERTAS SINGELAS",
+  content: `1. Ofertas singelas, pão e vinho sobre a mesa colocamos.
+Sinal do trabalho que fizemos e aqui depositamos.
+
+É Teu também nosso coração;
+aceita, Senhor, a nossa oferta
+Que será depois na certa
+o Teu próprio Ser. (2x)
+
+2. Recebe, Senhor, da natureza
+todo o fruto que colhemos.
+Recebe o louvor de nossas obras
+e o progresso que fizemos.
+
+3. Sabemos que tudo tem valor
+depois que a terra visitaste.
+Embora tivéssemos pecado
+foi bem mais o que pagaste.`
+},
+{
+  id: 18,
+  category: "Ofertorio",
+  title: "MINHA VIDA TEM SENTIDO",
+  content: `1. Minha vida tem sentido cada vez que eu venho aqui.
+E Te faço o meu pedido de não me esquecer de Ti.
+Meu amor é como este pão que era trigo,
+que alguém plantou depois colheu.
+E depois tornou-se salvação,
+e deu mais vida e alimentou o povo meu.
+
+Eu Te ofereço este pão,
+eu Te ofereço o meu amor. (2x)
+
+2. Minha vida tem sentido cada vez que eu venho aqui.
+Meu amor é como este vinho que era fruto
+que alguém plantou depois colheu.
+E depois encheu-se de carinho,
+e deu mais vida e saciou o povo meu.
+
+Eu Te ofereço vinho e pão;
+eu Te ofereço meu amor.`
+},
+{
+  id: 19,
+  category: "Ofertorio",
+  title: "SUSAR EH DIAK AMI NIAN",
+  content: `Susar eh diak ami nian, simu ami isin, Na’i.
+Susar eh kiak ami nian, simu ami domin, Na’i. (2x)
+
+1. Ami lakon Ita dalan iha kalan, Na’i, ba loron ohin. (2x)
+Ami la hatene tuir Ita dalan, Kuran hadomi.
+
+2. Ami lakon Ita dalan iha kalan, Na’i, ba loron ohin. (2x)
+Ami la hatene tuir hodi hein Ita nia tulun.
+
+3. Nudar ema lakon aihan, Na’i, ba loron ohin. (2x)
+Ami nia moris tomak hotu la hatene hadomi.`
+},
+{
+  id: 20,
+  category: "Ofertorio",
+  title: "SIMUNETIKBA",
+  content: `1. Ami nia paun, Na’i, simu ba.
+Ami nia tua, Na’i, simu bal.
+
+Hasa’e ba Ita iha altar.
+Simu ba, simu netik ba, Na’i:
+Simu ba, simu netik ba, nudar santu sakrifisiu. (2x)
+
+2. Ami nia knaar... ami nia kole...
+3. Ami nia moras... ami nia terus...
+4. Ami nia ksolok... ami nia susar...
+5. Ami nia moris... ami nia mate...`
+},
+{
+  id: 21,
+  category: "Ofertorio",
+  title: "SIMU, NA'I, PAUN NO TUA SANTU",
+  content: `Simu, Na’i, paun no tua santu nudar sakrifisiu
+Kristu laran luak. (2x)
+
+1. Simu ba, ha’u Na’i, ha’u nia presente
+paun no tua santu iha ha’u nia fatin.
+
+2. Simu ba, ha’u Na’i, ha’u nia ksolok, susar,
+ha’u moris no mate, ha’u to ba Ita.
+
+3. Ha’u fo ba Na’i ha’u nia kosar ben,
+iha ha’u nia fatin, nune’e ba nafatin.`
+},
+{
+  id: 22,
+  category: "Ofertorio",
+  title: "SIMU BA, HA'U NA'I",
+  content: `1. Simu ba, ha’u Na’i,
+paun no tua nebe ami hasa’e ba Ita Boot. (2x)
+
+Nakfilak tiha ba Kristu nia Isin no Ran
+nebe mate iha krus iha Golgotha. (2x)
+
+2. Simu ba, ha’u Na’i,
+sakrifisiu nebe ami hasa’e ba Ita Boot.
+
+3. Na’i, laran luak,
+tau matan ba terus nebe ami hato’o.`
+},
+{
+  id: 23,
+  category: "Ofertorio",
+  title: "SA LOS MAK BELE HASA’E",
+  content: `1. Sa los mak bele hasa’e ba Ita Boot, ami nia Maromak?
+Sa mak bele hasa’e?
+Ita be laran luak ba ami maksala,
+ami nia Maromak, ba ami maksala.
+
+Kristu, buat be ami iha, Kristu, lori mai Ita.
+Hodi ksolok boot, ami mai hasa’e,
+ami nia Maromak, ami mai hasa’e.
+
+2. Simu ami nia serbisu, terus buka aihan,
+ami nia Maromak, terus buka aihan.
+Ami nia loron balun be hanesan mamuk,
+ami nia... be hanesan mamuk.
+
+3. Paun nebe ami hasa’e mai hosi terus,
+ami nia... mai hosi terus.
+Tua ne’e ami kahur, ami nia kosar ben,
+ami nia... ami nia kosar ben.
+
+4. Ami nia kiak tomak hasa’e ba Ita,
+ami nia... hasa’e ba Ita.
+Maski uitoan karik ho fuan ami hasa’e,
+ami nia... ho fuan ami hasa’e.`
+},
+{
+  id: 24,
+  category: "Ofertorio",
+  title: "NA'I, SIMU BA, PAUN NO TUA NE’E",
+  content: `Na’i, simu ba, paun no tua ne’e;
+aihan santu nebe ami hato’o. (2x)
+
+1. Na’i, ami hasa’e aihan sira ne’e atu hahi Ita naran.
+2. Tua uvas ne’e nakfilak ba Kristu nia Ran
+nakfakar iha krus.`
+},
+{
+  id: 25,
+  category: "Ofertorio",
+  title: "NA'I, AMI MESAK LABARIK",
+  content: `1. Na’i, ami mesak labarik,
+buat la barak ami atu fo;
+maibe buat nebe ami iha,
+ami hakarak fo ba Ita Boot.
+
+Buat nebe ami iha ami nia fuan;
+kiik oan teb-tebes maibe hatene hadomi,
+ami nia fuan, Na’i, bele simu ba.`
+},
+{
+  id: 26,
+  category: "Ofertorio",
+  title: "NA'I, AMI MAI HASOURU",
+  content: `1. Na’i, ami mai hasouru;
+ho neen tomak ami harohan.
+Hodi ami laran hotu maski buat diak laek.
+
+Rahun wain ba Ita domin nebe,
+Na’i, haraik mai ami.
+Nudar ami moris hun:
+Ita Oan, Kristu Jesus.
+
+2. Ami hasa’e buat be ami iha:
+ami isin, ami klamar.
+Nudar domin nebe tada iha Na’i,
+ami Maromak.
+
+3. Tulun ami, Na’i Maromak;
+ami tomak Ita fihir.
+Perdua sola hotu,
+hadook hosi susar tomak.`
+},
+{
+  id: 27,
+  category: "Ofertorio",
+  title: "NA'I, AMI MAI HASA'E",
+  content: `Na’i, ami mai hasa’e, knananuk ida ne’e. (2x)
+
+1. Paun no tua omi nia kolen
+ami hasa’e iha Missa ne’e
+atu hahi no agradesse Na’i Maromak,
+ami Aman doben.
+
+2. Ami ksolok no ami hakarak,
+ami susar no ami laran
+tau hamutuk ho buat karan
+atu hahi Na’i nia naran.
+
+3. Kmanek wain ba Aman Maromak,
+ba Kristu ami Maksoin,
+ba Espiritu, ami Na’i,
+oras ne’e ba nafatin.`
+},
+{
+  id: 28,
+  category: "Ofertorio",
+  title: "MAROMAK AMI NA'I, AMI AMAN DOBEN",
+  content: `Maromak, ami Na’i, ami Aman doben.
+
+1. Loron toun ida ne’e ho haksolok no hananu;
+loron toun ida ne’e Ita Boot hiit
+Ami mai ne’e.
+
+2. Kalan loron buka ksolok,
+kalan loron buka diak;
+hamutuk nudar maun alin
+buka Ita Boot, ami nia Maromak.
+
+3. Ami hasa’e nia ba ami Maromak
+ami susar, ami nia diak,
+ami terus, ami moras,
+ami nia moris ami nia mate.`
+}
 ];
 
 // --- DATA: ROZARIU ---
