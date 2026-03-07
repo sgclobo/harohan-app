@@ -15,6 +15,11 @@ import {
   ClipboardList,
 } from "lucide-react";
 
+// --- IMAGE IMPORTS (from src/assets/) ---
+import imgTersu from "./assets/tersu.jpg";
+import imgScj from "./assets/scj.jpeg";
+import imgVm from "./assets/vm.jpeg";
+
 // --- DATA: ORASAUN (REZA) ---
 const ORASAUN_DATA = [
   {
@@ -550,11 +555,10 @@ const TersoView = ({ onBack, fontSize }) => (
     <div className="rounded-2xl p-5 text-center shadow-sm border border-pink-100" style={{ backgroundColor: "#f5dadc" }}>
       <h2 className="text-2xl font-black text-red-700 mb-3">Terço da Misericórdia</h2>
       <img
-        src="/src/assets/tersu.jpg"
+        src={imgTersu}
         alt="Terço da Misericórdia"
         className="mx-auto rounded-xl shadow-sm mb-1"
         style={{ maxWidth: "260px", width: "100%" }}
-        onError={(e) => { e.target.style.display = "none"; }}
       />
     </div>
 
@@ -567,15 +571,18 @@ const TersoView = ({ onBack, fontSize }) => (
 
         <div className="px-5 py-4 space-y-4">
           {/* Optional section image */}
-          {section.image && (
-            <img
-              src={`/src/assets/${section.image}`}
-              alt={section.title}
-              className="rounded-xl shadow-sm"
-              style={{ maxWidth: "260px", width: "100%" }}
-              onError={(e) => { e.target.style.display = "none"; }}
-            />
-          )}
+          {section.image && (() => {
+            const imgMap = { "tersu.jpg": imgTersu, "scj.jpeg": imgScj, "vm.jpeg": imgVm };
+            const src = imgMap[section.image];
+            return src ? (
+              <img
+                src={src}
+                alt={section.title}
+                className="rounded-xl shadow-sm"
+                style={{ maxWidth: "260px", width: "100%" }}
+              />
+            ) : null;
+          })()}
 
           {/* Subsections */}
           {section.sections.map((sub, i) => (
