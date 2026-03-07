@@ -23,6 +23,7 @@ import imgHbn from "./assets/hbn.webp";
 import imgMisal from "./assets/misal1.webp";
 import imgRozariu from "./assets/rozariu.png";
 import imgKnananuk from "./assets/knananuk.png";
+import imgReza from "./assets/reza.png";
 import imgHauSae from "./assets/hau-sae.png";
 import imgPvHalibur from "./assets/pv-halibur.png";
 import imgOhinMai from "./assets/ohin-mai.png";
@@ -268,6 +269,195 @@ ba nafatin, rohan-laek.`,
 ba Na'i Maromak boot.
 Ho laran tomak ita hananu,
 glória ba Aman lalehan.`,
+  },
+  {
+    id: 9,
+    category: "Entrada",
+    title: "HA'U NA'I, ITA BOLU, HA'U BA",
+    content: `**HA'U NA'I, ITA BOLU, HA'U BA**
+_Ha'u Na'i, Ita bolu, ha'u ba._
+_Ha'u Na'i, It'nia dalan ha'u sei tuir._
+_Ha'u Na'i, Ita bolu, ha'u ba._
+_Ha'u Na'i, It'nia dalan ha'u sei tuir._
+
+1. Ha'U nia mods tomak
+   sei hananu knananuk hahi nian
+   ho haksolok hatudu nafatin Ita nia ilas, Na'i.
+2. Iha mundu ne'e,
+   ha'u sei moris ho ha'u maluk;
+   la'o nafatin hodi fiar metin, fo liman ba malu.
+3. Ha'u haksolok tebes
+   basa Ita iha ha'u laran,
+   ha'u sei buka lori Ita ba ha'u maluk sira.`,
+  },
+  {
+    id: 10,
+    category: "Entrada",
+    title: "HA'U HAKSOLOK BAINHIRA EMA DEHAN",
+    content: `**HA'U HAKSOLOK BAINHIRA EMA DEHAN**
+_Ha'u haksolok bainhira ema dehan:_
+_la'o ba Na'i Maromak nia kadunan._
+
+1. Ksolok boot bainhira ema dehan:
+   la'o ba Na'i Maromak nia kadunan.
+   To'o tiha o nia odamatan,
+   ksolok tebes, Jerusalem.
+2. Nudar sidade harii met-metin;
+   Jerusalem la nakdoko.
+   Ba to'o nia, ema sa'e wain-wain,
+   atu hahi Maromak naran.
+3. Iha neba Na'i Maromak tesi lia
+   iha David nia kadunan laran;
+   husu hakmatek to ba Jerusalem,
+   hakmatek ba nia uma laran.
+4. Tamba ha'u nia maun alin, ha'u nia belun,
+   husu hakmatek;
+   Na'i to ba o;
+   tamba Na'i ita Maromak iha uma laran.
+5. Gloria ba Na'i Maromak bele tomak.
+   Gloria mos ba Oan Maksoin.
+   Gloria ba Espiritu horik iha ita klamar,
+   tinan ba tinan. Amen.`,
+  },
+  {
+    id: 11,
+    category: "Entrada",
+    title: "HANA'I, HAHI MAROMAK",
+    content: `**HANA'I, HAHI MAROMAK**
+_Hana'i, hahi Maromak._
+
+1. Mai, ita hana'i, hahi ita Maksoin.
+   Hasa'e ba Na'i Maromak ita an tomak
+2. Mai, ita hananu, hananu ho ksolok
+   Na'i Maromak boot liu hotu, Nia ita Na'i.
+3. Na'i tutor lia halo rai no lalehan
+   tuku tur, ita hana'i ba Na'i Maromak.
+4. Ita rai no povu, Na'i Maromak, nia soin;
+   laran metin ba Na'i Maksoin, Nia ita Aman.`,
+  },
+  {
+    id: 12,
+    category: "Entrada",
+    title: "HAMUTUK HO MUNDU TOMAK",
+    content: `**HAMUTUK HO MUNDU TOMAK**
+_Hamutuk ho mundu tomak ita hahi ba ita Na'i._
+_Aleluia, ita haklaken justisa, paz no hadomi._
+
+1. Ba lalehan, ba loron, ba buat hotu, ba manu,
+   ba mota, ha'u Na'i; ba malirin, ba anin,
+   ba be tasi nian ba moris nebe ita hadomi.
+2. Ba paz, ksolok, hadomi,
+   ba aihan, justisa, ha'u Na'i;
+   ba foinsa'e, labarik, ema hot-hotu,
+   ba moris nebe ha'u hadomi.
+3. Ba Kreda, Maromak nia povu,
+   ba povu halibur iha ne'e;
+   tan ksolok Nia to mai ita,
+   tamba Missa Eukaristia ne'e.`,
+  },
+  {
+    id: 13,
+    category: "Entrada",
+    title: "HAKSOLOK LORON OHIN",
+    content: `**HAKSOLOK LORON OHIN**
+
+1. Haksolok loron ohin ba los Na'i Maromak.
+   Haksolok loron ohin.
+2. Haksolok loron ohin, belun sira hananu.
+   Haksolok loron ohin.
+3. Haksolok ba ita tomak, loron diak haksolok.
+   Haksolok ba ita tomak.
+4. Maromak sei hamutuk, hamutuk ho ita.
+   Maromak sei hamutuk.`,
+  },
+  {
+    id: 14,
+    category: "Entrada",
+    title: "HAHI NA'I (Haec Dies)",
+    content: `**HAHI NA'I (Haec Dies)**
+
+1. Hana'i, hahi Na'i bele hotu.
+   Mai, ita haksolok, hahi Na'i. Aleluia, aleluia.
+   Hana'i, hahi Na'i bele hotu. Aleluia.
+   Mai, ita haksolok, hahi Na'i. Aleluia, aleluia, aleluia.`,
+  },
+  {
+    id: 15,
+    category: "Entrada",
+    title: "HAHI ITA NA'I",
+    content: `**HAHI ITA NA'I**
+_Haksolok no hananu ba, maun alin sira._
+_Mai, ita hotu hahi Na'i._
+
+1. Na'i, Aman Maromak.
+2. Na'i, Liurai lalehan.
+3. Na'i, Aman laran luak.
+
+_Gloria, gloria ami hasa'e ba ita._
+1. Aman, bele halo hotu.
+**Haksolok...**
+2. Ita naran boot tebes.
+3. Hadomi ema hot-hotu.
+
+**_Ami hana'i, hahi Ita Boot,_**
+**_kmanek wain, Jesus Kristu_**
+**_ho mos Espiritu Santu,_**
+**_mak ukun tinan ba tinan._**
+**_Amen, amen, amen, amen, amen._**`,
+  },
+  {
+    id: 16,
+    category: "Entrada",
+    title: "FOTI NEON BA MAROMAK",
+    content: `**FOTI NEON BA MAROMAK**
+_Foti neon ba Maromak, hananu ba Maromak,_
+_tan Maromak naran boot Hu hotu-hotu. (2x)_
+
+1. Maromak boot liu ita hamutuk
+   hodi haksolok ita tinan ba tinan.
+2. Kristu mak dalan los no Maksoin;
+   ita hodi neon harohan ba Maromak.
+3. Na'i hatodan an iha lalehan laran,
+   ami hahi no hana'i Ita Boot.`,
+  },
+  {
+    id: 17,
+    category: "Entrada",
+    title: "FO KSOLOK MAI HA'U",
+    content: `**FO KSOLOK MAI HA'U**
+
+1. Fo ksolok, Na'i, mai ha'u; fo mai ksolok.
+   Fo ksolok, Na'i, mai ha'u ohin.
+   Fo ksolok, Na'i, mai ha'u; fo mai ksolok.
+   Halo ha'u haksolok ho Ita.
+
+_Kanta hosana, kanta hosana;_
+_kanta hosana ba ha'u Na'i Jesus._
+_Kanta hosana, kanta hosana;_
+_kanta hosana ba ha'u Na'i._
+
+2. Fo dame...
+   Halo ha'u hakmafek ho Ita.
+3. Fo domin...
+   Halo ha'u hadomi Ita.`,
+  },
+  {
+    id: 18,
+    category: "Entrada",
+    title: "DIAK TEBES, KSOLOK TEBES",
+    content: `**DIAK TEBES, KSOLOK TEBES**
+_Diak tebes, ksolok tebes_
+_moris hamutuk ita nia vokasaun;_
+_buka moris ho hadomi_
+_ba Maromak nia reinu. (2x)_
+
+1. Iha ne'e ita halibur atu hatudu ba ita Na'i.
+   Ksolok domin hodi hakarak serbi Nia.
+2. Hadulas mesa ida ho hadulas krus ida,
+   ho Kreda hamutuk Kristu, Ita nia naroman.
+3. Ita moris, tau neon metin ba Kristu, ita Liurai,
+   ita klamar la deskansa tamba vokasaun boot
+   tebes duni.`,
   },
 ];
 
@@ -986,6 +1176,16 @@ export default function App() {
         {/* VIEW: REZA (ORASAUN) */}
         {view === "prayers" && (
           <div className="space-y-3 animate-in slide-in-from-right-4 duration-300">
+            {/* Landing banner */}
+            <div className="rounded-2xl overflow-hidden shadow-md border border-pink-100 mb-1" style={{ backgroundColor: "#f5dadc" }}>
+              <div className="flex justify-center pt-4 px-4">
+                <img src={imgReza} alt="Reza" className="rounded-xl shadow-sm" style={{ maxWidth: "260px", width: "100%" }} />
+              </div>
+              <div className="text-center px-5 py-4">
+                <p className="text-base italic text-gray-700 font-serif leading-snug">"Deus tem sede de que nós tenhamos sede d'Ele."</p>
+                <p className="text-xs font-bold text-gray-500 mt-1 uppercase tracking-widest">— Santo Agostinho</p>
+              </div>
+            </div>
             {ORASAUN_DATA.map((p) => (
               <Card
                 key={p.id}
