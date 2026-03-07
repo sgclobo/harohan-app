@@ -3142,7 +3142,152 @@ tinan ba tinan nafatin. Amen.`
     "category": "Komunhao",
     "title": "Ó JESUS, QUE ESTAIS A MEU LADO",
     "content": `Ó JESUS, QUE ESTAIS A MEU LADO\n\n1. Ó Jesus, que estais sempre a meu lado\najudai-me a levar minha cruz.\nDesviai-me de todo o pecado\npara que vos sirva, Ó Jesus.\nVamos todos com santa alegria\nreceber a Jesus com amor,\nsempre mais que adoremos a Jesus\nmais e digno do nosso amor. (2x)\n\n2. Qual veado que corre sedento\nde águas cristalinas ao frescor,\nassim eu corro a ti desfalecido\ncom teu pronto apaga o meu ardor.\n\n3. E com fé e também com amor\nvamos todos buscar,\no alento, o forgo e o valor\npara os combates que vamos travar\n\n4. São combates que só de temer\nos combates das nossas paixões;\ne Jesus é que há-de vencer,\ne com Ele seremos livres.`
+  },
+    {
+    "id": 1,
+    "category": "Asaun de Grasas",
+    "title": "HADOMI NA'I",
+    "content": `HADOMI NA'I\n\n1. Ha'u klamar haksolok ho hananu, hananu, (3x)\ntamba Na'i hadomi ha'u. (2x)\nHadomi ho Na'i, Na'i, Na'i, fotu sa'e, sa'e, sa'e.\nIta neon tomak laran ba Maromak. (2x)\nIta tomak hana'i no hahi. (3x)\n\n2. Tamba Na'i mak horik ho ita. (2x)\n\n3. Mundu tomak hahi ita Boot, ita Boot. (3x)\nTamba ita ami nia Maksoin. (2x)`
+  },
+  {
+    "id": 2,
+    "category": "Asaun de Grasas",
+    "title": "HANANU HO HA'U, EMA RAIKLARAN",
+    "content": `HANANU HO HA'U, EMA RAIKLARAN\nHananu ho ha'u, ema raiklaran ho anju lalehan.\nGloria ba Na'i, aleluia; gloria ba Na'i, aleluia. (2x)\n\n1. Ema raiklaran, hana'i ita Na'i,\nanju ho santu, hananu ita domin.\n\n2. Kiik ho boot, hana'i ita Na'i,\nkiak ho riku.\n\n3. Fulan ho loron, hana'i ita Na'i,\nfitun lalehan, hananu Nia domin.\n\n4. Tasi ho foho, hana'i ita Na'i;\ntasi ho mota hananu Nia domin.\n\n5. Udan ho anin hananu Nia Na'i;\nbe ho be-matan hananu Nia domin.`
+  },
+  {
+    "id": 3,
+    "category": "Asaun de Grasas",
+    "title": "IMI KETA TAUK",
+    "content": `IMI KETA TAUK\n\n1. Imi keta tauk, Ha'u horik ho imi;\nbuka halo diak, tuir ukun domin.\nLa'o buka ksolok, matak malirin\nho soin lalehan laek.\nHat manan los sa? Hai, manan los sa sa?\nBuka mundu nia ksolok, sei la manan buat ida.\n\n2. Ai funan foin buras, sei nomlaek ikun,\nmundu raiklaran sei mosu naben,\nmaibe Maromak domin,\nsei roman beibeik, leno ami fuan;\nbuka moris lalehan.`
+  },
+  {
+    "id": 4,
+    "category": "Asaun de Grasas",
+    "title": "FIAR JESUS",
+    "content": `FIAR JESUS\n\n1. Ami fiar Jesus, ami Na'i, ami hein Jesus, ami Na'i.\nAmi hadomi Jesus, ami Na'i.\nNa'i Jesus, rona ami (2x)\n\n2. Ami buka Jesus ami Na'i, ami harohan Jesus, ami Na'i.\nAmi hananu Jesus, ami Na'i.\nNa'i Jesus, rona ami (2x)\n\n3. Ita ho ami Jesus; ita ho ami, iha ksolok terus Jesus, ita ho ami\nita ho ami ba nafatin (2x)\nIta ho terus, Jesus, ita ho ami.`
+  },
+  {
+    "id": 5,
+    "category": "Asaun de Grasas",
+    "title": "AMI AGRADese, NA'I",
+    "content": `AMI AGRADese, NA'I\nAmi agradesse, Na'i, ami agradesse.\n\n1. Ami agradesse, Na'i, tan ita kmanek wain Kreda.\n\n2. Ami agradesse, Na'i, tan ami ohin Kreda.\n\n3. ..tan fitun no fulan ..ba loron ohin nian.\n\n4. ..ba ami nia emar ..tan ami nia fiar.\n\n5. ..tan ami nia Maromak ..oras ne'e, nafatin.`
+  },
+  {
+    "id": 6,
+    "category": "Asaun de Grasas",
+    "title": "HAHI, HANA'I ITA NIA AMAN",
+    "content": `HAHI, HANA'I ITA NIA AMAN\n\n1. Hahi hana'i ita nia Aman,\nnaroman leno ita nia dalan.\nAleluia, aleluia mak Maromak domin\nKristu Jesus loron toin sa'e.\nAleluia, aleluia.\n\n2. Moris hamutuk hodi kaer liman,\nkaer ita knaar nudar sarani...\nSarani hatene hadomi malu,\nhakarak deit tuir lialos...\n\n3. Lori Maromak hodi haksolok\nhosi lalehan leno hodi dalan...\nHana'i Maromak, hahi nafatin\niha nia Kreda fiar sarani...`
+  },
+  {
+    "id": 7,
+    "category": "Asaun de Grasas",
+    "title": "FO MAI ITA LALEHAN",
+    "content": `FO MAI ITA LALEHAN\n\n1. Ha'u la hatene los oin sa atu agradesse ha'u Na'i,\nfo mai ha'u buat mesak diak,\nksolok wain iha buat ha'u nia fuan.\nFo mai ita lalehan atu hare, fo mai ita ibun atu hananu,\nfo mai ita mundu atu hadomi, ksolok wain iha ha'u nia fuan\nfo loron ida ita mundu Nia sei hadomi, ksolok iha Nia uma hau nia fuan\n\n2. Nia domin fo mai ita hodi tun hosi lalehan\natu hela hamutuk ita hodi ita tomak\n\n3. Loron ida ita ho Nia sei soi ita tomak.\numa, Nia uma lalehan nabilan nian,\nhamutuk iha Nia uma,\nksolok wain iha ha'u nia fuan.`
+  },
+  {
+    "id": 8,
+    "category": "Asaun de Grasas",
+    "title": "BA ITA BOOT HASA'E LARAN METIN",
+    "content": `BA ITA BOOT HASA'E LARAN METIN\nBa ita Boot hasa'e laran metin. It'ha'u Maromak;\nHa'u nia moris tomak iha'u ita liman.\n\n1. Na'i, iha ita Boot ha'u Na'i;\nha'u nia laran la taridu subar an;\n\n2. Tan ita Boot nia naran\nIta dada ha'u tuir dalan moris.\n\n3. Ba ita liman ha'u klamar hasa'e;\nIta Boot sei mai soi ha'u.\n\n4. Keta neon diak boot iha Na'i,\nha'u klamar mos haksolok iha Maromak.`
+  },
+  {
+    "id": 9,
+    "category": "Asaun de Grasas",
+    "title": "ALELUIA, OBRIGADU",
+    "content": `ALELUIA, OBRIGADU\nAleluia, aleluia, aleluia, obrigadu ba Jesus rohan laek.\n\n1. Obrigadu ba povu Israel, tan, tan Nia domin domin rohan laek.\nDehan Amolulik sei haklaken tan Nia domin rohan laek.\n\n2. Nia liman los halo diak, tan Na'i Jesus mak soi ha'u.\nTo'o sei moris, sei la mate, atu haklaken Nia domin.\n\n3. Loron ne'e Na'i nia loron, ita haksolok ho Nia.\nIta Na'i manan funu, ita haklaken makaas.\nIta hotu be Nia fihir, ita sei moris ho Nia domin.`
+  },
+  {
+    "id": 10,
+    "category": "Asaun de Grasas",
+    "title": "KANTA ALLELUIA!",
+    "content": `KANTA ALLELUIA!\nKanta aleluia, aleluia! Ita hamutuk haksolok aleluia\nKanta aleluia, aleluia!\nIta hananu ho ksolok ba Na'i Jesus!\n\n1. Bainhira mai hamutuk, nudar nia povu hamutuk\nita hasolok ho hananu; hananu ita nia domin,\nhananu tan Nia paz, ksolok nebe hetan.\n\n2. Lian ida deit, hahi no haksolok;\nLian ida no haksolok;\nKristu mak hadia nebe it'o\nIta moris ida, hamutuk ito Jesus\nhaksolok ita moris ba nafatin\n\n3. Hosi fatin ne'e, ita hetan ksolok\nba mundu tomak ita sai\nIta lori domin, nebe hamutuk\nAtu mundu mos bele hatene.`
+  },
+  {
+    "id": 11,
+    "category": "Asaun de Grasas",
+    "title": "FO OBRIGADU BA ITA NA'I",
+    "content": `FO OBRIGADU BA ITA NA'I\nFo obrigadu ba ita Na'i (2x)\nto obrigadu tamba Nia hadomi. (2x)\n\n1. Iha dader manu hananu Na'i. (2x)\nfo obrigadu ba ita Na'i.\n\n2. Oh, ha'u nia belun basa la hananu,\nto obrigadu ba ita nia Na'i. (2x)\n\n3. Kiik eh boot, riku eh kiak. (2x)\n\n4. Hahi ba Kristu ita nia Maksoin. (2x)\n\n5. Fo obrigadu ba ita Na'i,\nEukaristia, Nia domin fo mai ita. (2x)\n\n6. Hananu hotu hodi haksolok,\nto obrigadu ba ita nia Na'i. (2x)`
+  },
+  {
+    "id": 12,
+    "category": "Asaun de Grasas",
+    "title": "AGRADESE NA'I MAROMAK",
+    "content": `AGRADESE NA'I MAROMAK\nAgradese Na'i Maromak, agradese.\nMaluk, ei, mai agradese. (2x)\n\n1. Dader san deit manu oan nia Na'i. (2x)\nfo agradese ita Na'i Maromak.\n\n2. Beh, ema sira, tansa la mai,\nfo agradese Maromak, ita Na'i. (2x)\n\n3. Kiik oan no boot, riku no kiak.\nhana'i, hahi Kristu, ita Maksoin. (2x)\n\n4. Hot-hotu mai,\nfo agradese Maromak, ita Na'i. (2x)`
+  },
+  {
+    "id": 13,
+    "category": "Asaun de Grasas",
+    "title": "NÃO FIQUEIS TRISTES",
+    "content": `NÃO FIQUEIS TRISTES\nNão fiqueis tristes Eu vou partir,\nEu vou partir mas voltarei. (2x)\n\n1. Vou preparar-vos um lugar,\nnão fiqueis tristes, tende fé.\n\n2. Vou enviar-vos um Espírito\nQue vos dará toda a verdade.\n\n3. Anunciarei-vos uma nova luz\nQue todo o mundo salvará.`
+  },
+  {
+    "id": 14,
+    "category": "Asaun de Grasas",
+    "title": "NA'I, AMI NIA MAROMAK",
+    "content": `NA'I, AMI NIA MAROMAK\nNa'i, ami nia Maromak, ami agradesse ba Ita\nbe ukun tinan ba tinan.\n\n1. Tan It'fo fiar mai ami.\n\n2. Tan It'fo moris.\n\n3. Tan It'fo aihan mai ami.`
+  },
+  {
+    "id": 15,
+    "category": "Asaun de Grasas",
+    "title": "NA'I, RONA AMI TANIS",
+    "content": `NA'I, RONA AMI TANIS\n\n1. Na'i, rona ami tanis, ami laran susar tebes;\nNo haraik ksolok mai ami, ami sira hela ne'e.\n\nOh Na'i rona ami tanis. (2x)\n\n2. Simu ita atari sira ba ita Boot nia mahan,\nHamutuk ho Jesus lan no santu sira hotu.`
+  },
+  {
+    "id": 16,
+    "category": "Asaun de Grasas",
+    "title": "ITA MAK NA'I NO HA'U BELUN",
+    "content": `ITA MAK NA'I NO HA'U BELUN\n\n1. Obrigadu, Na'i, tamba ita mak Aman laran diak.\nHa'u hanoin ita nia domin,\nha'u hanoin iha ha'u neon (iha ha'u laran)\nRona ha'u Han, ita mak Na'i no ha'u belun.\nSimu ha'u lian, ita mak Na'i no ha'u belun.\nRona ha'u Han, ita mak Na'i no ha'u belun.\n\n2. Obrigadu, Na'i, tamba ita la'o hamutuk ho ha'u.\nIta kaer ha'u liman, (to'o rohan)\nIta hare ha'u nia dalan.`
+  },
+  {
+    "id": 17,
+    "category": "Asaun de Grasas",
+    "title": "TAMBA MORIS FO MAI AMI, ALELUIA",
+    "content": `TAMBA MORIS FO MAI AMI, ALELUIA\n\n1. Tamba moris fo mai ami, aleluia.\nObrigadu, Na'i Jesus, aleluia.\nObrigadu, tamba ksolok, tamba domin, aleluia.\n\n2. It'nia mate soi ami, aleluia...\nIt'nia domin halibur ami...`
+  },
+  {
+    "id": 18,
+    "category": "Asaun de Grasas",
+    "title": "VIDA NE'E KNANANUK DOMIN NIAN",
+    "content": `VIDA NE'E KNANANUK DOMIN NIAN\nVida ne'e knananuk domin nian,\n\n1. Tan ne'e ami fo obrigadu, Na'i.\nBa aifuan nafatin raiklaran,....\nobrigadu Aman doben.\n\n2. Ba manu hananu iha ailaran,...\n\n3. Ba loron lakan iha raiklaran,...\n\n4. Ba anin nebe suli ba tasi ho tohu tutun,\n\n5. Ba malirin iha tohu aas tutun,...\n\n6. Ba tasi nebe hadulas raiklaran,\nBa Aman Maromak nia domin,...`
+  },
+  {
+    "id": 19,
+    "category": "Asaun de Grasas",
+    "title": "OBRIGADU, NA'I JESUS",
+    "content": `OBRIGADU, NA'I JESUS\nObrigadu, obrigadu, obrigadu, obrigadu,\nobrigadu, Na'i Jesus.\n\n1. Obrigadu ba moris foun ami simu hosi altar,\nFoti matan ba ita krus, ami la'o ba oin nafatin.\n\n2. Mundu ne'e iha funu, ita ema mate wain.\nHaraik simu paz ba ami, halo ami povu hamutuk.\n\n3. Ami tamba kbit terus nobun nebe liu mosu (iha) ami leet\n\n4. Hodi mandamentu foun ami hetan lialos;\nIta povu sei hamutuk atu manan liberdade.`
+  },
+  {
+    "id": 20,
+    "category": "Asaun de Grasas",
+    "title": "KRISTU HARAIK FO LIBERDADE",
+    "content": `KRISTU HARAIK FO LIBERDADE\nKristu haraik fo liberdade, Kristu haraik fo salvacao\nKristu haraik laran metin, Kristu lialos nia domin.\n\n1. Na'i Maromak haraik paz no lialos, ha'u hetan diak.\nNia hasan ema hotu ba krus, ha'u diak.\nFo mai ha'u, Na'i, ita ha: rona ha'u Na'i ha'u orasau\n\n2. Ha'u perda ha'u nia maluk,\nNa'i Jesus perda ha'u.\nNa'i hadomi moris tuir dalan los, ha'u hetan Nia.\n\n3. Ha'u tuir dalan, dalan ksolok,\ndalan los, tuir dalan los.\nHa'u hadomi ema fuik, ema leet ha'u Na'i ninin.`
+  },
+  {
+    "id": 21,
+    "category": "Asaun de Grasas",
+    "title": "ITA HOTU AGRADESE",
+    "content": `ITA HOTU AGRADESE\nIta hotu agradesse tamba buat kmanek oi-oin hosi Na'i.\nIta hotu agradesse tamba Na'i laran diak tebes.\n\n1. Ami agradesse tan fulan fitun kalan nian.\nAmi agradesse tan toos natar ami nian.\nAmi agradesse tan domin rohan laek.\nObrigadu Na'i tan ita kmanek wain.\n\n2. Ami agradesse tan tasi foho rai ne'e nian.\nAmi agradesse tan udan anin lor-loron.\nAmi agradesse tan ami emar.\nObrigadu Na'i tan ita kmanek wain.\n\n3. Ami agradesse tan ita ami Na'i wain.\nAmi agradesse tan fiar nebe ami iha.\nAmi agradesse tan ita tahan ita Kreda.\nObrigadu Na'i tan ita kmanek wain.`
+  },
+  {
+    "id": 22,
+    "category": "Asaun de Grasas",
+    "title": "ALELUIA, DEMOS GRAÇAS AO SENHOR",
+    "content": `ALELUIA, DEMOS GRAÇAS AO SENHOR\nAleluia, aleluia, aleluia, demos graças ao Senhor.\n\n1. Demos graças ao Senhor, pois Seu amor é sem fim.\nDiga o povo de Israel que Seu amor é sem fim.\n\n2. Sua destra fez prodígios, pois o Senhor me salvou.\nViverei, não morrerei, p'ra Seu amor proclamar.\n\n3. Eis o dia do Senhor, alegres nele exultaremos.\nA vitória do nosso Deus, em alta voz proclamemos.\n\n4. Todos nós, os Seus eleitos, em Seu amor viveremos.\nDemos graças ao Senhor, pois Seu amor é sem fim.\nCantem todos os cristãos que Seu amor é sem fim.\nCante toda criatura que Seu amor é sem fim.`
+  },
+  {
+    "id": 23,
+    "category": "Asaun de Grasas",
+    "title": "MORIS FOUN",
+    "content": `MORIS FOUN\n\n1. Moris foun, moris foun nebe ohin ha'u simu moris\nha'u sei rai didiak.\nBa obrigadu, obrigadu iha ha'u ha'u nia laran nakali,\nHo ha'u haksolok, ho ha'u maluk sira. (2x)\n\nNo ha'u fiar, no ha'u fiar iha Na'i Jesus,\nHa'u ho moris nafatin nia kbit ha'u lori nia domin\nBa ha'u maluk sira. (2x)\n\n2. Obrigadu obrigadu ba Na'i ha'u Maromak, obrigadu\ntan ha'u nia laran luak, ho haksolok basa Na'i Jesus\nmai horik ha'u laran.\n\n3. Timor oan, Timor oan, ha'u alin, ha'u maun,\nhadomi tuir ba malu;\nhalo tuir, halo tuir Jesus,\nNa'i Maromak ninia ukunfuan.\nIta ba nia domin ba dook o laran nakali,\no nia tuir Jesus hirus.\nBuka tuir Jesus nia hanorin:\nHadomi, fo dame ba ha'u maluk sira. (2x)`
+  },
+  {
+    "id": 24,
+    "category": "Asaun de Grasas",
+    "title": "RONA, HA'U NA'I, HA'U NIA HAROHAN",
+    "content": `RONA, HA'U NA'I, HA'U NIA HAROHAN\nRona, ha'u Na'i, ha'u nia harohan\nHo laran kmaan hasa'e agradese.\nBa ita, Na'i, ha'u nia Maromak,\nhamos no bali ha'u klamar.\n\n1. Hosi halak sira ba loron-loron nian,\nbuat ida deit mak dom\nhadomi ha'u maluk sira boot:\n\n2. Buat sa mak ha'u halo, moris iha mundu ne'e,\nhosi halak aat sira ba hadook ha'u anhosii Na'i.\n\n3. Ha'u haksumik ha'u nia lia hahi ita Boot\nBa ita Na'i, ha'u Maromak.\n\n4. Kristu, O nia Isin no Ran nebe O fo mai ha'u\nSai aihan moris kmanek wain\nNudar ha'u nia bukae.`
   }
+  
 
 
 ];
@@ -3459,7 +3604,7 @@ const KNANANUK_CATEGORIES = [
   "Credo",
   "Santu",
   "Komunhao",
-  "Aksaun de Grasas",
+  "Asaun de Grasas",
 ];
 
 // --- COMPONENTS ---
