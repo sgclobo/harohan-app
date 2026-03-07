@@ -1093,6 +1093,731 @@ _Na'i Liurai ami nian, Ita nia ukun rohan laek._
 2. Ami hakat ba Ita uma atu hananu no harohan;
    ami hahi no agradese ita nia kmanek wain.`,
 },
+{
+  id: 2,
+  category: "Responsorial",
+  title: "HANANU BA NA'I KNANANUK FOUN IDA",
+  content: `**HANANU BA NA'I KNANANUK FOUN IDA**
+_Hananu ba Na'i knananuk foun ida,_
+_Hananu ba Na'i, iha mundu raiklaran._
+
+1. Hananu ba Na'i knananuk foun ida,
+   ba buat furak nebe Nia halo.
+2. Na'i hatudu nia diak;
+   ba rai sira hatudu nia justisa.
+3. Rai klaran tomak hare ona,
+   ita Maromak nia diak.`,
+},
+
+{
+  id: 3,
+  category: "Responsorial",
+  title: "HALIBUR AMI, NA'I",
+  content: `**HALIBUR AMI, NA'I**
+_Halibur ami, Na'i; halibur ami ho tali be sei la kotu._
+_Halibur ami, Na'i; halibur ami ho tali domin nian._
+
+1. Iha Na'i ida deit; domin nia Maromak.
+   Iha mos Liurai ida; Na'i nia povu nian.
+
+2. Moris atu sai oan; Na'i Maromak ninian
+   sai maun alin ba malu; forma familia ida.`,
+},
+
+{
+  id: 4,
+  category: "Responsorial",
+  title: "HAKSOL0K BA, BASA IMI NARAN",
+  content: `**HAKSOL0K BA, BASA IMI NARAN**
+_Haksolok ba, basa imi nia naran
+hakerek ona iha lalehan._
+
+1. Rahun diak ba imi be kiak,
+   basa Maromak nia reinu imi nian.
+
+2. Rahun diak ba imi be hamlaha,
+   basa imi sei hetan aihan wain.
+
+3. Rahun diak ba imi be ohin loron tanis,
+   basa imi sei hamnasa.
+
+4. Rahun diak ba imi nebe terus tan Maromak naran,
+   basa reinu lalehan imi nian.
+
+5. Rahun diak ba imi be laran mos,
+   basa imi sei hare Maromak.
+
+6. Rahun diak ba sira be hakmatek,
+   basa sei hanaran sira Maromak oan.`,
+},
+
+{
+  id: 5,
+  category: "Responsorial",
+  title: "HAHI, HANA'I JESUS",
+  content: `**HAHI, HANA'I JESUS**
+_Hahi, hana'i Jesus, ema rai tomak, Nia naran._
+
+1. Maromak hanoin ita, tulun ita.
+   Leno mai ita Nia tutor oin naroman.
+
+2. Iha ema sei hatene Maromak dalan,
+   iha ema leet ema sei hetan Nia tulun.
+
+3. Rai hotu sei hetan ksolok
+   tan Na'i Maromak tesi lia la sola.`,
+},
+
+{
+  id: 6,
+  category: "Responsorial",
+  title: "HADOMI, FO DAME",
+  content: `**HADOMI, FO DAME**
+_Hadomi, fo dame, perdaun, tulun._
+_Hadomi, perdaun._
+
+1. Jesus dehan iha nia Evanjelho:
+   ema sei hirus malu, sei hatan iha tribunal.
+
+2. Jesus hanorin, dehan nune'e:
+   ema sei bolu nia maluk bulak, sei dadur iha ahi.
+
+3. Jesus dehan hodi hanorin:
+   a perdua o nia maluk hitu nulu data hitu.
+
+4. Jesus to hanorin dehan:
+   imi perdua maluk sira nia sola, Maromak perdua imi.`,
+},
+
+{
+  id: 7,
+  category: "Responsorial",
+  title: "EMA HOTU HATENE",
+  content: `**EMA HOTU HATENE**
+_Ema hotu hatene: Maromak diak tebes._
+
+1. Hana'i nafatin ha'u Na'i,
+   ha'u ibun hahi Nia kalan loron.
+   Maromak ha'u nia kbiit,
+   kiak sira haksolok rona Nia.
+
+2. Ita hotu haklaken Na'i nia beran,
+   hamutuk hawelok Nia naran.
+   Ha'u buka, Maromak rona ha'u;
+   sadia ha'u hosi susar laran.
+
+3. Hahi Maromak, imi sei haksolok.
+   Imi neon sei la susar.
+   Kiak ida ba hatan, nia hetan tulun;
+   hetan tulun ba nia susar.`,
+},
+
+{
+  id: 8,
+  category: "Responsorial",
+  title: "DIAK, HA'U SEI FILA FALI",
+  content: `**DIAK, HA'U SEI FILA FALI**
+_Diak, ha'u sei fila fali ba hasouru ha'u Aman._
+
+1. Ba Ita, ha'u Na'i, hasa'e ha'u klamar
+   ha'u tau neon ba Ita, ha'u nia Maksoin.
+
+2. Na'i, hasai ha'u hosi susar laran;
+   ha'u nia funu maluk keta manan ha'u.
+
+3. Na'i, hanorin Ita nia hakarak
+   Ita Boot nia dalan hatudu mai ha'u ba.`,
+},
+
+{
+  id: 9,
+  category: "Responsorial",
+  title: "ATAN SIRA, HAHI BA",
+  content: `**ATAN SIRA, HAHI BA**
+_Atan sira, hahi ba; Hahi ba Maromak naran;_
+_diak oin sa Na'i Maromak nia naran._
+
+1. Ohin loron ba nafatin
+   _Diak oin sa Na'i Maromak naran._
+
+2. Na'i boot tebes, boot liu hotu.
+
+3. Ninia ukun aas liu hotu.
+
+4. Se mak sukat Na'i Maromak.`,
+},
+
+{
+  id: 10,
+  category: "Responsorial",
+  title: "AMI SEI HELA NONOK",
+  content: `**AMI SEI HELA NONOK**
+_Ami sei hela nonok, sei se tilun ba
+Maromak nia liafuan tun mai to'o ami._
+
+1. Na'i Maromak, Liurai lalehan ho rai.
+   Na'i Maromak mak iha kbiit.
+
+2. Na'i Maromak hodi kbiit
+   halo ona lalehan ho raiklaran.
+
+3. Na'i Maromak iha hori uluk;
+   Maromak rohan laek, sei hela metin nafatin.
+
+4. Mota, anin, tasi, foho lori Nia lia
+   Maromak nia lia namkari ba fatin hot-hotu.`,
+},
+
+{
+  id: 11,
+  category: "Responsorial",
+  title: "AMI HAHI ITA BOOT NIA JUSTISA",
+  content: `**AMI HAHI ITA BOOT NIA JUSTISA**
+_Ami ha hi Ita Boot nia justisa,_
+_ami haklaken Ita Boot laran luak, Kristu, Na'i Liurai!_
+
+1. Rai hotu iha Maromak futar liman,
+   foho aas tomak Maromak nia soi.
+
+2. Rai, tasi hotu Maromak ninian,
+   tan sira Maromak nia liman fatin.
+
+3. Hahi, hana'i ba Na'i Maromak,
+   tan Nia Ita Maksoin.`,
+},
+{
+  id: 12,
+  category: "Responsorial",
+  title: "LARAN BA ITA, AMI NA'I",
+  content: `**LARAN BA ITA, AMI NA'I**
+_Laran ba Ita, ami Na'i; ami laran diak nian._
+_Laran ba Ita, ami Na'i; hananu Ita diak._
+
+1. Ita naran ami hananu, tan Ita domin boot tebes.
+   Ha'u hakilar, Ita rona; to mai tebes kbiit ha'u klamar.
+
+2. Liurai hotu hahi Ita, bainhira rona Ita lia.
+   La'o hananu Na'i Maromak dalan,
+   Na'i Maromak diak boot tebes.
+
+3. Maski la'o ho fuan taridu,
+   ha'u fiar metin iha Ita nia tulun.
+   Ema kiak no ema kiik Ita hadomi.
+   Na'i Maromak boot oin sa.
+
+4. Fo liman atu soi ata oan.
+   Kalan loron ha'u sader ba Ita Boot.
+   Ita hadomi tinan bainloron.
+   La husik buat Ita hakiak.`,
+},
+
+{
+  id: 13,
+  category: "Responsorial",
+  title: "LABARIK BARAK MAI BESIK JESUS",
+  content: `**LABARIK BARAK MAI BESIK JESUS**
+
+1. Labarik barak mai besik Jesus,
+   Nia bensa diak sira hakarak husu;
+   Nia eskolante sira hare labarik barak;
+   "Ba tiha dook hotu; Jesus lakohi imi."
+
+_Maibe Jesus hirus sira, "Husik labarik sira mai.
+Ha'u nia reinu kikoan sira nian,
+ho mos ba ema nebe hanesan sira". (2x)_`,
+},
+
+{
+  id: 14,
+  category: "Responsorial",
+  title: "KOALIA BA, NA'I",
+  content: `**KOALIA BA, NA'I**
+
+1. Hatudu mai, Na'i, Ita dalan be Ita hakarak ha'u tuir.
+   Hatudu, Na'i, Ita dalan; ha'u hakarak rona Ita lian.
+
+_Koalia ba, Na'i; Ita atan se tilun. (4x)_
+
+2. Na'i, loke ami nia tilun tan kleur ona mak la rona.
+   Rona deit mak mundu nia lia; la rona Ita nia lian.
+
+3. Mundu ne'e iha ema barak
+   mak seidauk hatene Ita Boot.
+   Ohin Ita sei tenik nafatin:
+   "Imi sai ba, sasin Ha'u nian."
+
+4. Loke ba ami nia fuan be Ita halo atu hadomi.
+   Dala ruma taka metin netik; la husik Ita atu tama.`,
+},
+
+{
+  id: 15,
+  category: "Responsorial",
+  title: "IHA FOHO SANTU",
+  content: `**IHA FOHO SANTU**
+_Iha foho santu Na'i ninian ha'u rona lia ida bolu ha'u._
+
+1. Na'i, Ita oan mak ne'e; ha'u rona Ita Boot bolu.
+   Ha'u saran an ba Ita, Na'i; hodi la'o tuir Ita Boot.
+
+2. Na'i, ha'u ata folin laek haksolok rona Ita bolu;
+   halo ha'u sai roman ba ema tomak iha rai.
+
+3. Na'i, ha'u maksoin, haraik matan mai ha'u,
+   basa Ita rasik fihar ha'u, ho ksolok hatan (ba) Ita Boot
+   ha'u saran an tomak to'o mate.`,
+},
+
+{
+  id: 16,
+  category: "Responsorial",
+  title: "HA'U SEI HAKLAKEN",
+  content: `**HA'U SEI HAKLAKEN**
+_Ha'u sei haklaken ba ema tomak:
+Maromak Ha mesak diak._
+
+1. Hodi laran ha'u hadomi Ita Boot nia ukunfuan.
+   Hodi hakarak tuir kalan loron.
+
+2. Ha'u sei hili dalan los iha ha'u mods,
+   atu la ses hosi Ita Boot nia ukun.
+
+3. Ita Boot deit mak bele to mai ha'u
+   tan susar mak ha'u hetan iha rai nia laran.
+
+4. Maromak nia lia ami matadalan;
+   no roman leno ami dalan.
+
+5. Ema nia lia anin hodi bele,
+   Maromak nia lia hela nafatin.
+
+6. Diak ba ema sira iha raiklaran
+   rona tuir Maromak nia lia.`,
+},
+
+{
+  id: 17,
+  category: "Responsorial",
+  title: "HA'U SEI FILA FALI BA",
+  content: `**HA'U SEI FILA FALI BA**
+_Ha'u sei fila fali ba,
+ba Maromak ha'u Aman, ha'u Na'i._
+
+1. Na'i Maromak, se tilun mai ha'u atan.
+   Hatan ha'u tan susar no kiak.
+
+2. Tulun ha'u, Maromak, tan Ita ha'u belun;
+   sadia atan ha'u laran metin ba Ita.
+
+3. Na'i Maromak, hanoin ha'u, rona ha'u.
+   Tan ha'u bolu Ita Boot loron tomak.
+
+4. Fo ha'u klamar ksolok lalehan;
+   tan ha'u klamar ha'u to ba Ita.
+
+5. Ita laran luak no diak tebes;
+   diak ba sira be harohan.`,
+},
+
+{
+  id: 18,
+  category: "Responsorial",
+  title: "HA'U SEI DEHAN",
+  content: `**HA'U SEI DEHAN**
+
+1. Ha'u sei dehan: Se o fiar Na'i Maromak,
+   o hare Nia gloria. (2x)
+
+_O hare Maromak nia gloria. (4x)_
+
+2. Ha'u sei dehan: se o hatene Na'i Maromak.
+3. Ha'u sei dehan: se o terus tan Maromak.
+4. Ha'u sei dehan: se o perdua tan Maromak.`,
+},
+
+{
+  id: 19,
+  category: "Responsorial",
+  title: "HA'U MAK NE'E, NA'I",
+  content: `**HA'U MAK NE'E, NA'I**
+
+1. Ha'u mak ukun tasi, lalehan,
+   rona Ha'u povu nia hakilar,
+   moris iha nakukun no sala:
+   Ha'u sei soi sira.
+   Ha'u mak halo fitun iha kalan;
+
+   Ha'u sei halo nakukun roman;
+   se los lori roman ba sira?
+   Ha'u sei haruka se?
+
+_Ha'u mak ne'e, Na'i! (2x)
+Ha'u rona Ita bolu ha'u iha kalan.
+Ha'u sei ba, Na'i. Tulun ha'u ba,
+ha'u sei hein Ita povu ho domin._
+
+2. Ha'u mak ukun kalohan no udan.
+   Ha'u tahan ha'u povu susar;
+   Ha'u tanis tan hadomi sira.
+   sira hadook-an hosi Ha'u.
+   Ha'u sei hamamar sira fuan;
+   to fuan hatene hadomi;
+   Ha'u sei hato'o ha'u lia ba sira.
+   Ha'u sei haruka se?
+
+3. Ha'u mak ukun anin no roman.
+   Ha'u hare ema kiak no kiik.
+   Ha'u sei halo testa ba sira;
+   Ha'u sei soi sira.`,
+},
+
+{
+  id: 20,
+  category: "Responsorial",
+  title: "HA'U LA'O NAFATIN",
+  content: `**HA'U LA'O NAFATIN**
+_Ha'u la'o nafatin Na'i Maromak tutor oin. (2x)_
+
+1. Ha'u hadomi Maromak tan rona ha'u lia no ha'u bolu,
+   tan hakruuk mai ha'u nia tilun
+   iha loron nebe ha'u bolu.
+
+2. Dadur metin ha'u mate nia laran,
+   ha'u susar laran taridu.
+   Ha'u temi Maromak nia naran,
+   Jesus mai tulun ha'u ata.
+
+3. Na'i Jesus laran diak no mos, ita Na'i laran luak.
+   Na'i Maromak, ema kiik ha'u kole
+   no ha'u susar Nia to tulun.`,
+},
+
+{
+  id: 21,
+  category: "Responsorial",
+  title: "HA'U KLAMAR HA'U FO BA ITA",
+  content: `**HA'U KLAMAR HA'U FO BA ITA**
+_Ha'u klamar ha'u fo ba Ita;
+Ita Boot Maromak ha'u fiar._
+
+1. Hatudu Ita Boot dalan mai ha'u ata,
+   hanorin mai ha'u Ita nia dalan.
+
+2. Hanorin ha'u la'o ita lialos;
+   Ita ha'u nia Na'i, ha'u nia Maksoin.
+
+3. Maromak, ha'u hein Ita boot loron tomak;
+   tan Ita Boot nia laran luak.`,
+},
+{
+  id: 22,
+  category: "Responsorial",
+  title: "EU QUERO VIVER",
+  content: `**EU QUERO VIVER**
+_Eu quero viver na Tua alegria,
+contigo serei feliz cada dia;
+eu quero seguir-Te, Senhor, meu bem,
+contigo irei mais além._
+
+Irei mas além, se Tu vais comigo,
+serei para todos o melhor amigo.
+Irei mas além caminhando em frente,
+serei dedicado para toda a gente.
+Irei mas além, o Senhor meu Deus
+depois desta vida a glória dos céus.`,
+},
+
+{
+  id: 23,
+  category: "Responsorial",
+  title: "BENDITO SEJA JESUS CRISTO",
+  content: `**BENDITO SEJA JESUS CRISTO**
+_Bendito seja Jesus Cristo
+p'ra sempre, p'ra sempre, p'ra sempre, p'ra sempre!
+Bendito seja Jesus Cristo._
+
+_p'ra sempre, p'ra sempre, p'ra sempre, p'ra sempre!_
+
+1. Gloria à Jesus Cristo, o Filho de Deus,
+   gloria à Jesus Cristo, nosso Salvador.
+   Gloria à Jesus Cristo, Cordeiro de Deus.
+   Gloria à Jesus Cristo, O que nos amou.`,
+},
+
+{
+  id: 24,
+  category: "Responsorial",
+  title: "BEM-AVENTURADOS PARA SEMPRE",
+  content: `**BEM-AVENTURADOS PARA SEMPRE**
+
+1. Bem-aventurados são os pobres;
+   bem-aventurado a quem chorou.
+   Bem-aventurado a quem constroe,
+   e faz permanecer, a paz amanhecer.
+   Bem-aventurado!
+   O pobre porque um dia ainda reinará.
+   Quem chora porque um dia se consolará.
+   Quem vive pela paz porque ela vai chegar
+   bem-aventurados para sempre.
+
+2. Bem-aventurado a quem procure
+   o reino da justiça e do amor.
+   Quem conhece a força do perdão
+   e sabe conservar sem mancha o coração.
+   Bem-aventurado!
+   O justo porque um dia ainda governará,
+   o homem que perdoa porque vencerá.
+   O puro por ser filho mais chegado ao Pai.
+   Bem-aventurados para sempre!
+
+3. Bem-aventurado a quem padece
+   por causa da justiça e do perdão.
+   Bem-aventurado a quem sofreu
+   por causa do seu Deus, por causa dos irmãos.
+   Bem-aventurado!
+   Feliz a todo aquele que se faz irmão,
+   que faz da sua vida uma libertação,
+   que também se inseriu sem compactuar.
+   Bem-aventurados para sempre!`,
+},
+
+{
+  id: 25,
+  category: "Responsorial",
+  title: "UDANBETUN",
+  content: `**UDANBETUN**
+_Udan be tun hosi lalehan mai
+sai habokon no haburas rai;
+nune'e mos Na'i nia futar lia
+sei halo tuir knaar Maksoin ba ema tomak._
+
+1. Nu'u fini be monu ba rai moris buras to'o to folin,
+   nune'e mos Na'i tutor liafuan
+   sei to folin iha ema moris.
+
+2. Fini ne'e Na'i nia futar lia, Kristu mak kuda iha fuan;
+   ida nebe rona ho laran
+   sei hetan moris rohan laek.
+
+_Ami harohan ba Ita, O Na'i, rona ami nia hamulak!_`,
+},
+
+{
+  id: 26,
+  category: "Responsorial",
+  title: "SIM, NA'I",
+  content: `**SIM, NA'I**
+
+1. Ha'u rona Ita bolu, "Mai tuir Ha'u,
+   sai ha'u nia liman iha mundu ne'e,
+   serbisu Ha'u nia toos, hare Ha'u nia bibi sira,
+   saran o nia an ba nafatin."
+
+_Sim, Na'i, (2x) ha'u sei ba.
+Sim, Na'i, (2x) ha'u sei tuir._
+
+2. Ita nia naha sei la todan,
+   Ita Mak dalan maski kalan boot.
+   ha'u sei kaer ha'u krus atu serbi no tuir Ita,
+   ha'u fuan haksolok iha buat hotu ha'u halo.
+
+_Sim, Na'i, (2x) ha'u It'Boot nian.
+Sim, Na'i (2x) ba nafatin._
+
+3. Buat hotu Ita husu ha'u sei halo tuir
+   sei haruka ha'u, ha'u sei ba tan Ita,
+   ha'u nia susar hotu simu ho hakmatek
+   iha Ita hakarak mak ha'u paz.
+
+_Sim, Na'i, (2x) ha'u mak ne'e.
+Sim, Na'i, (2x) to'o rohan._`,
+},
+
+{
+  id: 27,
+  category: "Responsorial",
+  title: "SE O RONA",
+  content: `**SE O RONA**
+
+1. Se o rona anin nia lia bolu nafatin o;
+   se o rona tempu nia lia haruka o atu hein;
+   O rasik sei decide.
+
+_Na'i bolu ema wain; (2x)
+barak tempu la iha. (2x)_`,
+},
+
+{
+  id: 28,
+  category: "Responsorial",
+  title: "RAHUN KMANEK",
+  content: `**RAHUN KMANEK**
+_Rahun kmanek ba ida nebe rona Na'i nia futar lia._
+
+1. Na'i tutor lia nudar matadalan,
+   lori ha'u ba Aman lalehan.`,
+},
+
+{
+  id: 29,
+  category: "Responsorial",
+  title: "NA'I JESUS HATETEN",
+  content: `**NA'I JESUS HATETEN**
+_Na'i Jesus hateten: Ukunfuan ha'u nian.
+Imi sei hadomi malu tuir Ha'u hadomi imi._
+
+1. Hadomi los nian maka ne'e;
+   to an ba mate tan belun sira.
+   imi tuir ha'u haruka,
+   imi sei sai ha'u belun los.
+
+2. Imi sei rona halo tuir:
+   hadomi ema sira nebe
+   halo aat ba imi
+   husu tulun ba sira.
+
+3. Imi mak halo tuir ne'e.
+   Imi nia Aman mak Na'i Maromak.
+   Aman diak no doben,
+   horik lalehan aas nian ba.`,
+},
+
+{
+  id: 30,
+  category: "Responsorial",
+  title: "NA'I JESUS, AMI HANA'I",
+  content: `**NA'I JESUS, AMI HANA'I**
+
+1. Na'i Jesus, ami hana'i, hanoin ami.
+   Ami isin ami klamar,
+   Ami Timor oan kiak,
+   Fo ba Ita, ami Na'i.
+
+2. Maun Jesus, Maromak Oan,
+   Tulun ami, atan kiak.
+   Ami husu, ami reza,
+   Halo funu hotu ona.
+
+3. Maun Jesus no belun boot,
+   Timor oan tanis mate,
+   Rona ami tulun ami,
+   Fakar ran terus todan.`,
+},
+
+{
+  id: 31,
+  category: "Responsorial",
+  title: "NA'I, HA'U SEI BA HO ITA",
+  content: `**NA'I, HA'U SEI BA HO ITA**
+_Na'i, Ita Boot mak bolu ha'u.
+Na'i, Ita Boot konvida ha'u.
+"Tuir Ha'u mai! Tuir Ha'u mai!"
+Ha'u Na'i, ha'u sei ba ho Ita._
+
+1. Ha'u sei husik ha'u nia dai iha tasi ibun.
+   Ha'u sei kaer ha'u knaar ho Ita, ha'u Na'i.
+
+   Sei hadid fatin ba Ita nia dalan;
+   ha'u sei kuda Ita liafuan iha ha'u nia sorin:
+   Nia sei moris duni, nia sei buras duni.
+
+2. Ha'u sei husik ha'u nia soin no rai;
+   ha'u sei fo ha'u nia tempu no serbisu ba ema.
+   Nune'e, sei hatene katak Ita Boot iha.
+   Ho ha'u nia kbiit ha'u sei loke ha'u nia laran,
+   ba Ita Boot nia domin, ba Ita Boot nia dame.`,
+},
+
+{
+  id: 32,
+  category: "Responsorial",
+  title: "NA'I, HA'U MAK NE'E",
+  content: `**NA'I, HA'U MAK NE'E**
+
+1. Na'i, ha'u mak ne'e, rona Ita lia.
+   Ha'u hakarak saran an ba Ita, o Na'i.
+   Iha mundu ne'e hamutuk ho maus,
+   ha'u husik buat hotu atu tuir deit Ita.
+
+2. Na'i, ha'u Maksoin; haraik matan mai ha'u;
+   basa Ita Boot rasik fihar ha'u ata.
+   Ha'u haksolok tan Ita bolu,
+   halo ha'u sai roman ba ema hot-hotu.
+   O Na'i, ha'u moris ba Ita.
+   Ha'u saran an tomak, ohin to'o mate.`,
+},
+
+{
+  id: 33,
+  category: "Responsorial",
+  title: "MAROMAK LIMAN LOS",
+  content: `**MAROMAK LIMAN LOS**
+_Maromak liman los hatudu Nia kbiit.
+Maromak liman los foti ha'u.
+Ha'u sei la mate, moris beibeik.
+Hahi, ha na'i Na'i Maromak._
+
+1. Hananu hahi Na'i, tan Nia diak.
+   Ninia domin boot tebes, rohan laek.`,
+},
+
+{
+  id: 34,
+  category: "Responsorial",
+  title: "MAI, KOKO BA",
+  content: `**MAI, KOKO BA**
+_Mai, koko ba hodi hare Na'i laran diak oin sa. (2x)_
+
+1. Hahi Maromak loron kalan;
+   ha'u ibun hahi nafatin Nia.
+   Maromak ha'u nia gloria,
+   ema kiik sira rona Nia ho ksolok.
+
+2. Na'i nia santu sira hana'i Maromak ba.
+   Buat ida la kuran ba sira be hadomi Nia.
+   Ema riku sira sei sasi kiak.
+   Buat ida la kuran ba sira buka Maromak.
+
+3. Ha'u oan sira besik mai hodi rona ha'u;
+   ha'u hanorin imi hamtauk Maromak.
+   Imi se mak hakarak moris?
+   Se mak hakarak hatene?
+
+4. Hare o nanal keta sala,
+   hare o ibun keta dehan lia bosok.
+
+_Halo buat diak, soe buat aat;
+buka nafatin dame to'o hetan._`,
+},
+
+{
+  id: 35,
+  category: "Responsorial",
+  title: "LARAN METIN BA NA'I MAROMAK",
+  content: `**LARAN METIN BA NA'I MAROMAK**
+_Laran metin ba Na'i Maromak, ha'u moris Ita lia.
+Ita lia mai nafatin, ho nia ha'u titu deit._
+
+1. Ba sira klamar mos ksolok tebes,
+   sira be tuir Maromak ukunfuan;
+   ba sira be tuir Nia ukun ksolok boot,
+   buka Nia ho laran diak.
+
+2. Ha'u klamar latan ba rai rahun,
+   ho Ita tutor lia ha'u moris fali;
+   ha'u klamar laran susar tebes,
+   to ksolok ha'u ho Ita liafuan.
+
+3. Ha'u hili dalan los no diak nian.
+   Tuir uluk Ita ukun no hakarak.
+   Sei tuir nafatin dalan Na'i Maromak
+   bainhira ha'u iis seidauk kotu.
+
+4. Ha'u haksolok tebes iha susar laran,
+   tan Ita lia to moris hias ha'u fuan;
+   maski kalan ha'u hanoin Ita naran,
+   buka tuir nafatin Ita nia hakarak.`,
+}
 ];
 
 // --- DATA: ROZARIU ---
