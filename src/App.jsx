@@ -2523,7 +2523,381 @@ buka Ita Boot, ami nia Maromak.
 ami susar, ami nia diak,
 ami terus, ami moras,
 ami nia moris ami nia mate.`
-}
+},
+{
+  id: 1,
+  category: "Santu",
+  title: "MAROMAK NIA BIBI OAN NO. 1",
+  content: `1. Maromak nia bibi oan, (2x) Kristu, ami Na’i.
+Maromak nia bibi oan, nebe kasu mundu nia sala,
+hanoin ami.
+
+2. Maromak nia bibi oan, (2x) Kristu, ami Na’i.
+Maromak nia bibi oan, nebe kasu mundu nia sala,
+haraik dame mai ami.`
+},
+{
+  id: 2,
+  category: "Santu",
+  title: "MAROMAK NIA BIBI OAN NO. 2",
+  content: `Maromak nia bibi oan, kasu mundu nia sala,
+hanoin ami, hanoin ami. (2x)
+
+Maromak nia bibi oan, kasu mundu nia sala,
+haraik dame mai ami.`
+},
+{
+  id: 3,
+  category: "Santu",
+  title: "MAROMAK NIA BIBI OAN NO. 3",
+  content: `Maromak nia Bibi Oan, be kasu mundu nia sala,
+hanoin ami. (2x)
+
+Maromak nia Bibi Oan, be kasu mundu nia sala,
+haraik dame mai ami.`
+},
+{
+  id: 1,
+  category: "Komunhao",
+  title: "FURAK OIN SA MORIS IHA DOMIN",
+  content: `Oin sa ita domin to ksolok mai ami
+hodi moris hamutuk nudar maun alin.
+
+1. Furak oin sa ita moris iha ksolok laran;
+nudar maun alin iha neon ida deit.
+
+2. Furak oin sa ita moris tuir ukun domin;
+nune’e ita moris tuir Kristu hakarak.
+
+3. Furak oin sa ita halo buat nebe morin;
+nune’e ita halo tuir ukun domin.
+
+4. Furak oin sa ita halo buat nebe kmanek;
+nune’e ita halo tuir ukun domin.
+
+5. Furak oin sa ita halo buat nebe midar;
+nune’e ita halo tuir ukun domin.
+
+6. Furak oin sa ita halo buat nebe justo;
+nune’e ita halo tuir ukun domin.`
+},
+{
+  id: 2,
+  category: "Komunhao",
+  title: "FURAK OIN SA",
+  content: `1. Furak oin sa, maun alin sira;
+moris ho ksolok no moris hakmatek. (2x)
+Nune’e ita sasin tuir lolós Kristu nia hanorin. (2x)
+
+2. Furak oin sa, maun alin sira;
+ita moris tuir Na’i hakarak. (2x)
+Nune’e ita hatudu katak ita Maromak nia oan. (2x)
+
+3. Hadomi malu tuir Kristu haruka
+Ne’e mak ukun Na’i fo ba ita. (2x)
+Moris tuir ukun ne’e ita haksolok no moris hakmatek. (2x)`
+},
+{
+  id: 3,
+  category: "Komunhao",
+  title: "EUKARISTIA SAKRAMENTU BOOT TEBES",
+  content: `Eukaristia sakramentu boot tebes
+Na’i Jesus nia tutor isin lolos;
+aihan moris ba Nia ema sira
+be hakat ba tuir dalan lalehan.
+
+Anju sira hotu no mos santu tomak
+halibur an, hana’i, hahi Jesus;
+Na’i Jesus hiit An mai lor-loron,
+haraik aihan tutor Isin no Ran.`
+},
+{
+  id: 4,
+  category: "Komunhao",
+  title: "EMA JUDEU HOBUR TUIR NA'I JESUS",
+  content: `1. Ema Judeu hobur tuir Na’i Jesus:
+tan sira han ikan ho paun.
+Ikan ho paun halo sira sei bosu
+to’o foti Jesus ba liurai.
+
+Ami ba los nebe? Ita deit haraik
+mai ami kiak moris rohan laek. (2x)
+
+2. To’o tali oras hanorin komunha.
+Sub-subar tiha husik Jesus.
+Sira murmura tan sira la fiar
+Na’i Jesus to Nia Isin sira han.`
+},
+{
+  id: 5,
+  category: "Komunhao",
+  title: "EH KRISTU MAK TENE ITA",
+  content: `Eh Kristu mak tene ita, ita hakbesik Na’i nia mesa:
+atu ba komunga nia Isin, Sakramentu domin.
+
+1. Maromak nia han mak tun hosi lalehan
+atu halo raiklaran moris.
+
+2. Se hakbesik Ha’u sei la hamlaha tan;
+se fiar Ha’u sei la hamrook tan.
+
+3. Ema la moris deit hodi aihan;
+maibe hodi mos Maromak nia liafuan.
+
+4. Simu no hola ba, ne’e Ha’u nia Isin;
+simu no hemu ba, ne’e Ha’u nia Ran.
+
+5. Se hola Ha’u Isin no hemu Ha’u Ran,
+nia sei moris ba nafatin.
+
+6. Ita hotu hamutuk isin ida deit,
+Ita bele hola han mesa ida deit.`
+},
+{
+  id: 6,
+  category: "Komunhao",
+  title: "KARIDADE VIRTUDE IDA",
+  content: `Karidade virtude ida Na’i Maromak hadomi liu.
+Nia la hirus, laran maus; karidade mak hadomi.
+
+1. Bele hatene lia oi-oin maibe la iha karidade
+halo nudar sinu ida, lian lerek, la ba lalehan.
+
+2. Bele hatene siik lolos ema hot-hotu nia destinu;
+halo nudar folin laek se la iha karidade.`
+},
+{
+  id: 7,
+  category: "Komunhao",
+  title: "BA FATIN DOMIN, MORIS HO DAME",
+  content: `Ba fatin domin, moris no dame, Maromak horik ba.
+
+1. Kristu nia domin halibur ita ne’e
+ita sei haksolok ho laran kmanek
+sei hamutuk ho laran diak ita Maromak
+no sei hadomi malu ho neon kmook.
+
+2. Hamutuk nune’e hodi hare diak malu
+ita labele haketak malu hodi hirus;
+keta haklelek malu no rai kuna,
+Na’i Jesus Kristu horik ho ita.
+
+3. Ami sei hamutuk ho santu sira,
+hare Ita oin ho Kristu Maromak;
+ami rahun sei dadi boot no diak,
+tinan ba tinan nafatin. Amen.`
+},
+{
+  id: 1,
+  category: "Komunhao",
+  title: "FURAK OIN SA MORIS IHA DOMIN",
+  content: `Oin sa ita domin to ksolok mai ami
+hodi moris hamutuk nudar maun alin.
+
+1. Furak oin sa ita moris iha ksolok laran;
+nudar maun alin iha neon ida deit.
+
+2. Furak oin sa ita moris tuir ukun domin;
+nune’e ita moris tuir Kristu hakarak.
+
+3. Furak oin sa ita halo buat nebe morin;
+nune’e ita halo tuir ukun domin.
+
+4. Furak oin sa ita halo buat nebe kmanek;
+nune’e ita halo tuir ukun domin.
+
+5. Furak oin sa ita halo buat nebe midar;
+nune’e ita halo tuir ukun domin.
+
+6. Furak oin sa ita halo buat nebe justo;
+nune’e ita halo tuir ukun domin.`
+},
+{
+  id: 2,
+  category: "Komunhao",
+  title: "FURAK OIN SA",
+  content: `1. Furak oin sa, maun alin sira;
+moris ho ksolok no moris hakmatek. (2x)
+Nune’e ita sasin tuir lolós Kristu nia hanorin. (2x)
+
+2. Furak oin sa, maun alin sira;
+ita moris tuir Na’i hakarak. (2x)
+Nune’e ita hatudu katak ita Maromak nia oan. (2x)
+
+3. Hadomi malu tuir Kristu haruka
+Ne’e mak ukun Na’i fo ba ita. (2x)
+Moris tuir ukun ne’e ita haksolok no moris hakmatek. (2x)`
+},
+{
+  id: 3,
+  category: "Komunhao",
+  title: "EUKARISTIA SAKRAMENTU BOOT TEBES",
+  content: `Eukaristia sakramentu boot tebes
+Na’i Jesus nia tutor isin lolos;
+aihan moris ba Nia ema sira
+be hakat ba tuir dalan lalehan.
+
+Anju sira hotu no mos santu tomak
+halibur an, hana’i, hahi Jesus;
+Na’i Jesus hiit An mai lor-loron,
+haraik aihan tutor Isin no Ran.`
+},
+{
+  id: 4,
+  category: "Komunhao",
+  title: "EMA JUDEU HOBUR TUIR NA'I JESUS",
+  content: `1. Ema Judeu hobur tuir Na’i Jesus:
+tan sira han ikan ho paun.
+Ikan ho paun halo sira sei bosu
+to’o foti Jesus ba liurai.
+
+Ami ba los nebe? Ita deit haraik
+mai ami kiak moris rohan laek. (2x)
+
+2. To’o tali oras hanorin komunha.
+Sub-subar tiha husik Jesus.
+Sira murmura tan sira la fiar
+Na’i Jesus to Nia Isin sira han.`
+},
+{
+  id: 5,
+  category: "Komunhao",
+  title: "EH KRISTU MAK TENE ITA",
+  content: `Eh Kristu mak tene ita, ita hakbesik Na’i nia mesa:
+atu ba komunga nia Isin, Sakramentu domin.
+
+1. Maromak nia han mak tun hosi lalehan
+atu halo raiklaran moris.
+
+2. Se hakbesik Ha’u sei la hamlaha tan;
+se fiar Ha’u sei la hamrook tan.
+
+3. Ema la moris deit hodi aihan;
+maibe hodi mos Maromak nia liafuan.
+
+4. Simu no hola ba, ne’e Ha’u nia Isin;
+simu no hemu ba, ne’e Ha’u nia Ran.
+
+5. Se hola Ha’u Isin no hemu Ha’u Ran,
+nia sei moris ba nafatin.
+
+6. Ita hotu hamutuk isin ida deit,
+Ita bele hola han mesa ida deit.`
+},
+{
+  id: 6,
+  category: "Komunhao",
+  title: "KARIDADE VIRTUDE IDA",
+  content: `Karidade virtude ida Na’i Maromak hadomi liu.
+Nia la hirus, laran maus; karidade mak hadomi.
+
+1. Bele hatene lia oi-oin maibe la iha karidade
+halo nudar sinu ida, lian lerek, la ba lalehan.
+
+2. Bele hatene siik lolos ema hot-hotu nia destinu;
+halo nudar folin laek se la iha karidade.`
+},
+{
+  id: 7,
+  category: "Komunhao",
+  title: "BA FATIN DOMIN, MORIS HO DAME",
+  content: `Ba fatin domin, moris no dame, Maromak horik ba.
+
+1. Kristu nia domin halibur ita ne’e
+ita sei haksolok ho laran kmanek
+sei hamutuk ho laran diak ita Maromak
+no sei hadomi malu ho neon kmook.
+
+2. Hamutuk nune’e hodi hare diak malu
+ita labele haketak malu hodi hirus;
+keta haklelek malu no rai kuna,
+Na’i Jesus Kristu horik ho ita.
+
+3. Ami sei hamutuk ho santu sira,
+hare Ita oin ho Kristu Maromak;
+ami rahun sei dadi boot no diak,
+tinan ba tinan nafatin. Amen.`
+},
+
+  {
+    "id": 8,
+    "category": "Komunhao",
+    "title": "HA'U SEI HAHI",
+    "content": `HA'U SEI HAHI\nHa'u sei hahi (6x) ha'u nia Maromak.\n\n1. Ba Aman Maromak nia domin, ha'u sei hananu (2x)\n2. Ba Espiritu hela ho ita, ha'u sei hananu (2x)\n3. Mundu hananu tomak sei bok ba lalehan Jesus moris hias (2x)\nbasa Jesus moris hias. (3x)`
+  },
+  {
+    "id": 9,
+    "category": "Komunhao",
+    "title": "HA'U SEI DEHAN",
+    "content": `HA'U SEI DEHAN: "Se o fiar na'i Maromak..."\n\n1. Ha'u sei dehan: "Se o Na'i Maromak..." (2x)\nO hare nia gloria. nia gloria. (4x)\n2. Ha'u sei dehan: "Se o hatene Na'i Maromak..."\n3. Ha'u sei dehan: "Se o terus tan Maromak..."\n4. Ha'u sei dehan: "Se o perda tan tan Maromak..."`
+  },
+  {
+    "id": 10,
+    "category": "Komunhao",
+    "title": "HANANU BA ITA NA'I",
+    "content": `HANANU BA ITA NA'I\n\n1. Hananu ba ita Na'i, halo buat oi-oin.\nHalo Na'i'i klaran mai, Jesus ita nia Makssoin klaran mai.\n2. Na'i, hatudu ba dalan diak mai ami atan sira;\nmoris-railek tomak hare nakukun atu hodi diak naroman.\n3. Na'i Jesus, ita Makssoin, hodi mai hosi lalehan;\n4. Alin-maun ksolok boot taka mutu mai hadahur;\nno hawelok Na'i Maromak oras ne'e no ba nafatin.`
+  },
+  {
+    "id": 11,
+    "category": "Komunhao",
+    "title": "HA'U NE'E PAUN MORIS",
+    "content": `HA'U NE'E PAUN MORIS\nHa'u ne'e paun moris tun hosi lalehan (2x)\n\n1. Se mak han Ha'u nia, nia sei la hamlaook;\nse fiar Ha'u hamprook.\n2. Ita hotu be halibur iha ne'e, halo isin ida deit\nita hotu han paun ida, no hemu hosi kalis ida.\n3. Maromak nia paun tun hosi lalehan\natu moris ba mundu tomak.\n4. Ema ida bele bele to'o Ha'u, karik Ha'u Aman lo to;\n5. Nia sei katak moris hias iha loron ikus.\nHa'u katak lolos ba ha:\nse mak fiar Ha'u sei hetan moris rohan laek.`
+  },
+  {
+    "id": 12,
+    "category": "Komunhao",
+    "title": "HADOMI HO HAH ALOK",
+    "content": `HADOMI HO HAH ALOK\nNudar loron haroman rai, ita domin fo ksolok;\nnudar tasi hadulas rai, ita domin fo ksolok;\nnudar udan habokon rai, ita domin fo ksolok;\nnudar mota buka buat, ita manek fo ksolok!\n\n1. Hadomi buka hari buat be ema horan diak.\n2. Hadomi la halo aat hadomi la rai hirus.\nHAdomi la bobAr lia, hadomi ho laran mos.`
+  },
+  {
+    "id": 13,
+    "category": "Komunhao",
+    "title": "FURAK OIN SA MORIS IHA DOMIN",
+    "content": `FURAK OIN SA MORIS IHA DOMIN\nOin hodi sa ita domin hamutuk ksolok maun ami\nmori hodi hamutuk nudar maun alin.\n\n1. Furak oin so ita moris iha ksolok laran;\n2. nudar oin alin iha neon ida deit\nnune'e ita moris tuir uku n hakarak domin;\n3. Furak oin sa ita halo buat bebe morin;\n4. nune'e ita halo tuir uku n domin\nnune'e ita halo tuir uku n hakarak;\n5. Furak oin sa ita halo buat bebe kmane;\nnune'e ita halo tuir uku n domin.\n6. Furak oin sa ita halo buat bebe justo;\ntuir nune'e ita halo tuir uku n Kristu domin.`
+  },
+  {
+    "id": 14,
+    "category": "Komunhao",
+    "title": "HA'U FO MANDAMENTU FOUN",
+    "content": `HA'U FO MANDAMENTU FOUN\nHa'u fo ba imi mandamentu foun: hadomi imi.\n\n1. Mundu sei hadomi sei hatene katak imi Ha'u belun eh lae.\n2. Imi sei hadomi malu; nudar katak imi Ha'u imi.\n3. Ami hatene katak ami sei hadomi maun alin sira;\n4. Ami hadomi nafatin, karik mate teni.\n5. Ita'e'e ita sei malu karik, Maromakolok tebes duni.\n6. Tamba domin, ita ho Na'i Jesus isin ida deit,\n7. hodi bele han hamutuk iha Nia meja.\n8. La iha ema ida hatu raiklaran iha Nia.\nbele haketak ita hosi Maromak nia domin.\n9. Nia ita nia vida, ita la tauk buat ida.`
+  },
+  {
+    "id": 15,
+    "category": "Komunhao",
+    "title": "HADOMI HA'U LA SOI",
+    "content": `HADOMI HA'U LA SOI\nHadomi ha'u la soi; Maromak, ha'u la soi (2x)\n\n1. Se hadomi ho laran luak mos, se hadomi hanesan malu Ha'u.\n2. Hadomi la hatene hirus, hadomi la halo aat;\nhadomi la hatene karak, hadomi koalia los.\n3. Hadomi ho liafuan lia, hadomi ho lari dade;\nhadomi ho bobar lia, hadomi ho lialos.\n\n4. Hadomi terus buat hotu, hadomi ema hotu fiar,\nhadomi ba buat hotu, hadomi ba beibeik.\n5. Ita, ita esperansa sei hotu iha lalehan;\nesperansa Ita; hadomi sei la hotu, hela-hela ba nafatin.`
+  },
+  {
+    "id": 16,
+    "category": "Komunhao",
+    "title": "HA'U LARAN METIN MAROMAK",
+    "content": `HA'U LARAN METIN MAROMAK\nHa'u laran metin Maromak; ha'u laran metin\nMaromak\n\nNia leno dalan mai ha'u; la'o hamutuk ha'u nafatin.\n\n1. Maski nakukun, la'o kalan nia laran,\nmaski ha'u tauk, la'o ba oin nafatin.\n2. Maski rai fila, ha'u lakon ha'u nia dalan;\nmaski la hetan ksolok ba ha'u fuan.\n3. Maski taridu ha'u fuan no no ha'u laran;\nmaski la hetan ksolok ba ha'u fuan.\n4. Maski ha'u susar, monu oin nakukun;\nmaski ha'u kosar, liman ain kole.\n5. Maski ha'u dalan lakon ha'u, maski la hare Maromak futar oin.`
+  },
+  {
+    "id": 17,
+    "category": "Komunhao",
+    "title": "HA'U MESAK PAUN MORIS",
+    "content": `HA'U MESAK PAUN MORIS\nHa'u mesak Paun moris, se komunha la mate tan;\nHa'u iha raiklaran nia roman, se tuir Ha'u, nia sei moris.\n\n1. Ita be Paun komunha mesak ida, ita hotu han hamutuk isin ida deit\nhosi kaleidos.\n2. "Ema ida la mai to'o Ha'u se Ha'u Aman la fo;\nHa'u sei halo nia kakak moris hias iha loron ikus."\n3. Tebetebes Ha'u katak ba imi; loron ikus Ha'u nafatin moris.\n4. se fiar ne'e Paun sei moris hosi lalehan.\nIda ne'e Paun tun hosi lalehan.\nSe hola Nia sei la mate.\n5. Se hola Paun ne'e, sei moris ba nafatin.\n6. Se hola Ha'u isin no hemu Ha'u ran,\nnia hela ho Ha'u, Ha'u hela ho nia.`
+  },
+  {
+    "id": 18,
+    "category": "Komunhao",
+    "title": "HAMLAHA, HAMROOK",
+    "content": `HAMLAHA, HAMROOK\nHam laha, hamrook, ami liman, ain kole\nou ba hasouru Ita Boot.\nIta Boot nudar Isin mak fo nia kbit mai ami\n\n1. Hot-hotu simu aihan diak ne'e,\nita tomak halibur isin lon lon ida deit\nsura hamutuk sura hamutuk\nhodi Maromak nia hadomi.\n2. Kalan loron ha'u hanoin Maromak.\nKalan loron hare Maromak\nbainhira ha'u ba hasouru Nia,\nbainhira ha'u ba hare Nia?\n\n3. Liu hosi rai fuik ema hananu, deit\nliu hosi nakukun ema tanis.\nSira buka Ita Boot nia naroman,\nsira hakarak Ita Boot nia hadomi.`
+  },
+  {
+    "id": 19,
+    "category": "Komunhao",
+    "title": "HELA HO AMI, JESUS, LORON NE'E",
+    "content": `HELA HO AMI, JESUS, LORON NE'E\n\n1. Hela ho ami, Jesus, loron ne'e;\nhela ho ami hodi ho ami hodi\nhela ho ami, haraik naroman no paz\nsei la'o toi mai.\nHela ho ami, haraik naroman\nrai kalan sei la to'o mai\niha dalan mundu ne'e nian.\nJésus, loron kalan,\n2. hela ho ami, Jesus diak, iha susar,\nhela ho ami iha diak,\n3. Hela ho ami iha rai ne'e sei diak, iha i susar,\nhela ho ho ami iha funu ne'e nia laran.`
+  },
+  {
+    "id": 20,
+    "category": "Komunhao",
+    "title": "HA'U TIMOR OAN",
+    "content": `HA'U TIMOR OAN\nMaromak oan.\n\n1. Ha'u Timor oan, ha'u klamar tanis.\nTerus no susar, ha'u Aman doben,\ntan Nia mesak ha'u rikusoi.\nHo Na'i Jesus, ho ita belun;\nita sei la'o hamutuk Nia.\nSei funu hasouru buat aat no sala.\nSei titu diak Maromak nian.\n2. Buka mateneke, ha'u no ksolok kna'ar\nhalo rai naruk, moris no ksolok.\nMaibe, ha'u ema keta haluha:\nha'u nia Maromak, ha'u Aman doben.\n3. Atu soi diak, hetan lalehan,\nha'u sei la'o hetan Maromak dalan,\nla'o tuir nafatin Maromak ukun;\n4. Tuir ukunfuan hadomi Maromak nian,\nNia ukunfuan hadomi nian nian,\nhadomi malu, fo tulun malu;\nla bele oho, fo terus ema;\ntan ita hotu rai ha'u lakon oan dalan.\n5. Ha'u lemo rai, ha'u lakon uma dalan;\nha'u la'o rai, ha'u la'o uma.\nHetan Maromak iha ha'u dalan,\nNia moris tulun ha'u, fo tulun ha'u.\nNia simu ha'u, fo tulun ha'u dalan rohan.\n6. Ha'u la'o to'o ona ha'u uma lalehan;\nHa'u to'o uma, uma lalehan.\nLa hanoin fan ha'u moris ikus;\ntan ha'u fiar Maromak, ha'u Na'i.`
+  }
+
 ];
 
 // --- DATA: ROZARIU ---
@@ -2837,7 +3211,6 @@ const KNANANUK_CATEGORIES = [
   "Ofertorio",
   "Credo",
   "Santu",
-  "Agnus Dei",
   "Komunhao",
   "Aksaun de Grasas",
 ];
