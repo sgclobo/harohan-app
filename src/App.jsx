@@ -189,28 +189,28 @@ const KNANANUK_DATA = [
   {
     id: 1,
     category: "Entrada",
-    title: "Anin Maurin",
+    title: "ANIN MALIRIN",
     content:
       "Anin malirin tasi fehan,\nlaloran tasi baku ba mai.\nRai badin lian mai\nfahe hakmatek matak malirin.\n\nKristu Maksoin, fatuk karan kmanek,\nHa'u laran metin ba Ita Boot\nIta mak dalan los; Iori ha'u to'o lalehan.",
   },
   {
     id: 2,
     category: "Entrada",
-    title: "Bele Tama ba Lalehan",
+    title: "BELE TAMA BA LALEHAN",
     content:
       "Bele tama ba lalehan, (2x)\nse halo an kiik oan, (2x)\nbasa Jesus dehan, (2x)\n“Hato'o mai Ha’u (2x)\nkiik oan sira ne'e.” (2x)",
   },
   {
     id: 3,
     category: "Entrada",
-    title: "Ema Rai Hotu",
+    title: "EMA RAI HOTU",
     content:
       "Ema rai hotu, ema lubun boot, ema buka diak;\nNa’i nia ema, hahi o nia Maksoin.\n\nAmi hananu Kristu, Na'i Maromak nia Oan.\nAmi hahi Na'i Maromak boot tebes nia tutor Lia.",
   },
  {
   id: 4,
   category: "Entrada",
-  title: "Diak Tebes Ba Jesus",
+  title: "DIAK TEBES BA JESUS",
   content: `Diak tebes ba Jesus, Na'i Maromak.
 Ita hananu ba Aman Maromak. (2x)
 
@@ -226,7 +226,7 @@ Imi buka hadomi Na'i Maksoin. (2x)
   {
     id: 5,
     category: "Responsorial",
-    title: "Ami Hahi Itaboot nia Justisa",
+    title: "AMI HAHI ITA BOOT NIA JUSTISA",
     content: `Ami hahi Ita Boot nia justisa,
 Ami haklaken Ita Boot laran luak, Kristu, Na'i Liurai!
 
@@ -253,7 +253,7 @@ Na'i Maromak, ha'u nia ksolok.`,
   {
     id: 7,
     category: "Entrada",
-    title: "Povu halibur hamutuk",
+    title: "POVU HALIBUR HAMUTUK",
     image: "pv-halibur.png",
     content: `Povu halibur hamutuk,
 hamriik iha Na'i nia oin.
@@ -263,7 +263,7 @@ ba nafatin, rohan-laek.`,
   {
     id: 8,
     category: "Entrada",
-    title: "OHIN MAI ITA HAHI",
+    title: "OHIN MAI ITA HAHII",
     image: "ohin-mai.png",
     content: `Ohin mai ita hahi,
 ba Na'i Maromak boot.
