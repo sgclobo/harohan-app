@@ -1818,6 +1818,202 @@ Ita lia mai nafatin, ho nia ha'u titu deit._
    maski kalan ha'u hanoin Ita naran,
    buka tuir nafatin Ita nia hakarak.`,
 }
+{
+  id: 1,
+  category: "Aleluia",
+  title: "NA'I JESUS, HORIK HO AMI",
+  content: `Na'i Jesus horik ho ami, aleluia,
+atu leno ami dalan, aleluia.
+
+1. Nia hanorin deit lialos, aleluia.
+   Mai haroman ami neon, aleluia.
+
+2. Hananu no simu ba, aleluia.
+   Ita Na'i nia tutor lia, aleluia.
+
+3. Tan Nia domin ita moris, aleluia,
+   loron loron ba nafatin, aleluia.
+
+4. Jesus doben, moris Nain, aleluia,
+   fo domin mai atan ami, aleluia.`
+},
+
+{
+  id: 2,
+  category: "Aleluia",
+  title: "MORIS SUSAR EH DIAK, ALELUIA",
+  content: `1. Moris susar eh diak, aleluia,
+tuir Jesus ukunfuan, aleluia;
+metin ba Na'i Jesus, aleluia.
+
+Aleluia, aleluia, aleluia.
+
+2. Liman ba liman to, aleluia,
+tulun malu beibeik, aleluia,
+midar deit, buka diak, aleluia.
+
+3. La temi kulit eh rai, aleluia,
+Maromak ida deit, aleluia,
+ita tomak Nia soi, aleluia.`
+},
+
+{
+  id: 3,
+  category: "Aleluia",
+  title: "KRISTU NIA ROMAN",
+  content: `Kristu nia roman nabilan iha mundu tomak.
+Aleluia, aleluia.
+
+1. Hananu ba knananuk foun ida,
+hananu ba Na'i, mundu tomak.
+Hananu ba Na'i, hawelek nia naran.
+
+2. Hana'i Maromak tan Nia diak,
+tan Nia laran luak ba ema hotu,
+tan Nia soi ema tomak.
+
+3. Na'i nia liman halo buat kmanek,
+Na'i nia liman kmanek tebes,
+kmanek oi-oin mosu ita oin.
+
+4. Sei la mate, maibe sei moris
+atu haklaken Na'i nia hahalok
+tan Nia laran luak ba nafatin.
+
+5. Fatuk ida be ema hewai
+nakfilak ba fatuk inan;
+buat ne'e hotu mai hosi Maromak.`
+},
+
+{
+  id: 4,
+  category: "Aleluia",
+  title: "ITA FUTAR LIA DOMIN",
+  content: `1. Ha'u mai atu se tilun, rona
+Ita nia futar lia, Ita nia futar lia domin. (2x)
+
+2. Ha'u hakarak se tilun, rona.
+
+3. Ha'u hakarak hatene didiak.
+
+4. Raiklaran sei ba moris hotu.`
+},
+
+{
+  id: 5,
+  category: "Aleluia",
+  title: "HANA'I BA ITA, KRISTU",
+  content: `Hana'i ba Ita, Kristu, Maromak nia futar lia.
+
+1. Kristu haraik An to'o mate,
+hodi mate iha krus.
+Tamba ne'e Maromak foti Nia
+hodi to ba Nia naran ida boot liu hotu.`
+},
+
+{
+  id: 6,
+  category: "Aleluia",
+  title: "DALAN DIAK NO MAKSOIN",
+  content: `Dalan diak no Maksoin mak Jesus, aleluia.
+
+1. Na'i Maromak ha'u naroman no Maksoin.
+Ha'u tauk tali se?
+Na'i Maromak sei tahan ha'u moris.
+Ha'u tauk tali se?
+
+2. Buat ida deit husu ba Maromak,
+ha'u husu beibeik ho laran:
+atu horik Maromak nia kadunan
+lor-loron iha ha'u nia moris tomak.
+
+3. Na'i Maromak rona ha'u lian;
+hanoin ha'u atan.
+Ha'u harohan ho ha'u laran,
+ha'u nia oin buka Ita Boot.`
+},
+
+{
+  id: 7,
+  category: "Aleluia",
+  title: "BA NA'I MAROMAK HAN ANU AMEN ALELUIA",
+  content: `Ba Na'i Maromak hananu,
+"Amen, Aleluia." (2x)
+
+1. Ema tomak hahi Ita Boot naran,
+Maromak nia naran.
+Tan Ita hadomi, la hein seluk,
+hadomi los Nia duni.`
+},
+
+{
+  id: 8,
+  category: "Aleluia",
+  title: "ALELUIA, KRISTU, ITA NIA MORIS",
+  content: `Aleluia (3x)
+
+1. Kristu, ita nia moris,
+ita nia dalan los, lialos.
+
+2. Kristu Jesus, Na'i Maromak.
+Nia deit mak to liberdade.
+
+3. Kristu, Nia to an ba mate;
+mate tan ita ema.`
+},
+
+{
+  id: 9,
+  category: "Aleluia",
+  title: "ALELUIA, KRISTU ITA DALAN",
+  content: `Aleluia (3x)
+
+1. Kristu ita dalan,
+Kristu rasik dehan: Nia ita dalan.
+
+2. Kristu ita moris,
+Kristu rasik dehan: Nia ita moris.
+
+3. Kristu ita lialos,
+Kristu rasik dehan: Kristu ita lialos.`
+},
+
+{
+  id: 10,
+  category: "Aleluia",
+  title: "ALELUIA, NA'I JESUS, ITA LIURAI",
+  content: `Aleluia, aleluia,
+Na'i Jesus, ita Liurai. (2x)
+
+1. Hahi Maromak ho hananu foun ida
+tan Nia halo buat diak.
+Ho liman los Nia manan,
+manan funu: Nia liman santu.
+
+2. Na'i Maromak to tada ksolok lalehan;
+Nia to sai ba rai hotu Nia lialos.
+Nia laran luak diak, diak nafatin:
+to tulun ba ema Israel.`
+},
+
+{
+  id: 11,
+  category: "Aleluia",
+  title: "ALELUIA, AGRADESSE",
+  content: `Aleluia, aleluia,
+agradece ba Maromak!
+Aleluia, aleluia,
+ita ha hi Nia naran.
+
+1. Haksolok ba! Kristu moris hias;
+lori mai ita moris rohan laek.
+
+2. Haklaken ba! Kristu moris hias;
+Nia mak dalan, lialos ba nafatin.
+
+3. Hato'o ba mundu raiklaran:
+ita Liurai mak Jesus Kristu!`
+}
 ];
 
 // --- DATA: ROZARIU ---
