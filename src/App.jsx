@@ -1817,9 +1817,9 @@ Ita lia mai nafatin, ho nia ha'u titu deit._
    tan Ita lia to moris hias ha'u fuan;
    maski kalan ha'u hanoin Ita naran,
    buka tuir nafatin Ita nia hakarak.`,
-}
+},
 {
-  id: 1,
+  id: 36,
   category: "Aleluia",
   title: "NA'I JESUS, HORIK HO AMI",
   content: `Na'i Jesus horik ho ami, aleluia,
@@ -1839,7 +1839,7 @@ atu leno ami dalan, aleluia.
 },
 
 {
-  id: 2,
+  id: 37,
   category: "Aleluia",
   title: "MORIS SUSAR EH DIAK, ALELUIA",
   content: `1. Moris susar eh diak, aleluia,
@@ -1858,7 +1858,7 @@ ita tomak Nia soi, aleluia.`
 },
 
 {
-  id: 3,
+  id: 38,
   category: "Aleluia",
   title: "KRISTU NIA ROMAN",
   content: `Kristu nia roman nabilan iha mundu tomak.
@@ -1886,7 +1886,7 @@ buat ne'e hotu mai hosi Maromak.`
 },
 
 {
-  id: 4,
+  id: 39,
   category: "Aleluia",
   title: "ITA FUTAR LIA DOMIN",
   content: `1. Ha'u mai atu se tilun, rona
@@ -1900,7 +1900,7 @@ Ita nia futar lia, Ita nia futar lia domin. (2x)
 },
 
 {
-  id: 5,
+  id: 40,
   category: "Aleluia",
   title: "HANA'I BA ITA, KRISTU",
   content: `Hana'i ba Ita, Kristu, Maromak nia futar lia.
@@ -1912,7 +1912,7 @@ hodi to ba Nia naran ida boot liu hotu.`
 },
 
 {
-  id: 6,
+  id: 41,
   category: "Aleluia",
   title: "DALAN DIAK NO MAKSOIN",
   content: `Dalan diak no Maksoin mak Jesus, aleluia.
@@ -1934,7 +1934,7 @@ ha'u nia oin buka Ita Boot.`
 },
 
 {
-  id: 7,
+  id: 42,
   category: "Aleluia",
   title: "BA NA'I MAROMAK HAN ANU AMEN ALELUIA",
   content: `Ba Na'i Maromak hananu,
@@ -1947,7 +1947,7 @@ hadomi los Nia duni.`
 },
 
 {
-  id: 8,
+  id: 43,
   category: "Aleluia",
   title: "ALELUIA, KRISTU, ITA NIA MORIS",
   content: `Aleluia (3x)
@@ -1963,7 +1963,7 @@ mate tan ita ema.`
 },
 
 {
-  id: 9,
+  id: 44,
   category: "Aleluia",
   title: "ALELUIA, KRISTU ITA DALAN",
   content: `Aleluia (3x)
@@ -1979,7 +1979,7 @@ Kristu rasik dehan: Kristu ita lialos.`
 },
 
 {
-  id: 10,
+  id: 45,
   category: "Aleluia",
   title: "ALELUIA, NA'I JESUS, ITA LIURAI",
   content: `Aleluia, aleluia,
@@ -1997,7 +1997,7 @@ to tulun ba ema Israel.`
 },
 
 {
-  id: 11,
+  id: 46,
   category: "Aleluia",
   title: "ALELUIA, AGRADESSE",
   content: `Aleluia, aleluia,
