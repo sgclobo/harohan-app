@@ -3424,8 +3424,542 @@ tinan ba tinan nafatin. Amen.`
     "category": "Final",
     "title": "KRISTU, O HA'U NIA DALAN",
     "content": `KRISTU, O HA'U NIA DALAN\nKristu, O ha'u nia dalan; Kristu be naroman ha'u fuan.\nO mods hori iha O hateten, O "Barak la kohi tuir,\nbarak ba nakukun To'o ikus sala barak."\n\n1. Se Kristu husu ba ha'u: "Mundu ne'e oin sa los?"\nHa'u hatan ba ha'u Maun: "Buat barak mak la los."\n\n2. Buat barak la'o la los, tamba ha'u, tamba mak ita;\ntamba barak.\n\n3. Tamba ha'u, tamba ita, ema mundu rai klaran terus\ntamba ha'u, tamba ita, ita hotu nia hahalok.`
-  } 
+  },
+  {
+    id: 1,
+    category: "Latin",
+    title: "KYRIE",
+    content: `(Grego)
+Kyrie, eleison
+Christe, eleison
+Kyrie, eleison`
+  },
+  {
+    id: 2,
+    category: "Latin",
+    title: "GLORIA",
+    content: `Gloria in excelsis Deo
+et in terra pax hominibus bonae voluntatis.
+Laudamus te,
+benedicimus te,
+adoramus te,
+glorificamus te,
+gratias agimus tibi,
+propter magnam gloriam tuam,
+Domine Deus, Rex caelestis,
+Deus Pater omnipotens.
+Domine Fili unigenite Jesu Christe,
+Domine Deus, Agnus Dei, Filius Patris,
+qui tollis peccata mundi, miserere nobis.
+Qui tollis peccata mundi,
+suscipe deprecationem nostram.
+Qui sedes ad dexteram Patris,
+miserere nobis.
+Quoniam tu solus sanctus,
+tu solus Dominus,
+tu solus altissimus, Jesus Christe,
+cum sancto Spiritu, in gloria Dei Patris.
+Amen.`
+  },
+  {
+    id: 3,
+    category: "Latin",
+    title: "CREDO NICENO",
+    content: `Credo in unum Deum
+Patrem omnipotentem,
+Factorem caeli et terrae,
+visibilium omnium et invisibilium
+Et in unum Dominum, Iesum Christum,
+Filium Dei unigenitum
+Et ex Patre natum, ante omnia saecula
+Deum de Deo, lumen de lumine,
+Deum verum de Deo vero
+Genitum, non Factum, consubstantialem Patri:
+Per quem omnia facta sunt
+Qui propter nos homines,
+Et propter nostram salutem,
+Descendit de caelis
 
+Et incarnatus est de Spiritu Sancto,
+Ex Maria Virgine: et homo factus est
+Crucifixus etiam pro nobis:
+
+Sub Pontio Pilato,
+Passus et sepultus est
+Et resurrexit tertia die,
+Secundum Scripturas
+Et ascendit in caelum:
+Sedet ad dexteram Patris
+Et iterum venturus est cum gloria,
+Iudicare vivos et mortuos:
+Cuius regni non erit finis
+Et in Spiritum Sanctum,
+Dominum et vivificantem:
+Qui ex Patre Filioque procedit
+Qui cum Patre et Filio,
+Simul adoratur, et conglorificatur:
+Qui locutus est per Prophetas
+Et unam, sanctam, catholicam,
+Et apostolicam Ecclesiam
+Confiteor unum baptisma,
+In remissionem peccatorum
+Et exspecto resurrectionem mortuorum
+Et vitam venturi saeculi
+Amen.`
+  },
+  {
+    id: 4,
+    category: "Latin",
+    title: "SANCTUS",
+    content: `(Latim)
+Sanctus, Sanctus, Sanctus
+Dominus, Deus Sabaoth
+Pleni sunt caeli et terra gloria tua
+Hosanna in excelsis
+Benedictus qui venit in nomine Domini
+Hosanna in excelsis`
+  },
+  {
+    id: 5,
+    category: "Latin",
+    title: "AGNUS DEI",
+    content: `Agnus Dei
+Qui tollis peccata mundi
+miserere nobis
+Agnus Dei
+Qui tollis peccata mundi
+miserere nobis
+Agnus Dei
+Qui tollis peccata mundi
+Dona nobis pacem`
+  },
+  {
+    id: 1,
+    category: "Adventu",
+    title: "ALELUIA, VIRJEM MARIA SEI KOUS",
+    content: `Aleluia, aleluia, aleluia, aleluia, Virjem Maria sei kous
+no hahoris Oan Mane ida.
+Sei hanaran Emmanuel, katak,
+Maromak hamutuk ho ita.`
+  },
+  {
+    id: 2,
+    category: "Adventu",
+    title: "ITA HANANU HAKSOLOK",
+    content: `1. Na’i Jesus, ami ba hakbesik Ita,
+   Atu husu paz, paz be Ita haraik;
+   Atu husu domin, moris ho perdaun
+   Be lori ami ba salvasaun
+Ita hananu haksolok, harohan,
+Maranatha, no moris neon metin,
+Aleluia, hakilar ba mundu: Kristu sei mai. (2x)
+2. Na'i Jesus, ami ba hakbesik Ita,
+   Ita mak moris, Maromak, dalan los;
+   Ita mak ksolok, kbiit no lialos.
+   Ita hametin ami nia ksolok.
+3. Na’i Jesus, ami ba hakbesik Ita,
+   Ita ami nia kmanek,
+   kbiit no aten b'rani;
+   Ita mak belun los ba natatin.
+   Ita hametin ami an tomak.`
+  },
+  {
+    id: 3,
+    category: "Adventu",
+    title: "MAI, MAI, NA’I JESUS",
+    content: `Mai, mai, Na'i Jesus: mai Na’i, ami hein Ita.
+Mai, mai, Na’i Jesus: la lais, hiit an mai.
+1. Rai ne'e mate malirin;
+   Ami klamar lakon nia manas.
+   Maun alin la hadomi;
+   Rai ne'e la iha domin.
+2. Mundu ne'e iha nakukun;
+   Kuran dame, kuran naroman.
+   Ema tomak buka tau neon,
+   Buka fiar Ita Boot.
+
+3. Mundu ne'e kuran moris;
+   Rai ne'e kuran naroman
+   Mundu ne'e kuran lalehan;
+   Ema tomak buka Ita Boot.`
+  },
+  {
+    id: 4,
+    category: "Adventu",
+    title: "RAI HOTU TERUS TEB-TEBES",
+    content: `1. Rai hotu terus teb-tebes. Mai, mai, sadia ami.
+   Ba Na’i Maromak hakilar: Mai, mai, sadia ami.
+Rona, Maromak, ema hakilar, tanis.
+Rona, Kristu, mai, mai, sadia ami.
+2. Rai tomak iha susar laran...
+   Dader, kalan ema tanis...
+3. Ran fakar, ema kanek, mate...
+   Rai funu seidauk hotu deit...
+4. Halai lemo tetuk, foho...
+   Hahan kuran, ema mutuk...
+5. La sura mate, taluk kiak...
+   Hakoi, dadur, baku, oho...`
+  },
+  {
+    id: 5,
+    category: "Adventu",
+    title: "QUANDO VIRA",
+    content: `1. Quando vira, Senhor, o dia
+   en que aparece o Salvador
+   e soe brado de alegria
+   nasceu do mundo o Redentor?
+O ceus que ird se faga em salvagao e em graga.
+2. Filha dos reis, O Virgem pura
+   mostra-te sai da escuridao;
+   em Ti com seres criatura
+   um Deus quer ter sua mansdo.
+
+3. Tristes mortais de Addo nascido
+   d'arvore ma, ramo infeliz:
+   eis quantos bens sdo prometidos
+   por Deus que nunca se desdiz.`
+  }, 
+  {
+    id: 1,
+    category: "Quaresma",
+    title: "HANAI', HAHI BA ITA BOOT",
+    content: `Hana'i, hahi ba Ita Boot, Jesus Kristu, ami Na'i.
+1. Ema atu moris la kuran mesak paun
+   Nia mos kuran Liafuan hosi Maromak
+2. Laran moras ba imi nia sala;
+   Maromak nia reinu besik hela.
+3. Nia lakohi ema aat atu mate;
+   Hakarak nia sai diak no moris.`
+  },
+  {
+    id: 2,
+    category: "Quaresma",
+    title: "HANOIN, SADIA",
+    content: `Hanoin, sadia, ha'u Aman Maromak,
+Perdua ha'u nia sala
+1. Na'i, foti ha'u lia ba Ita ho neon ho laran;
+   Na'i, rona ha'u lia, haraik tulun mai ha'u.
+2. Ho laran luak, Na'i, se tilun mai ha'u ata;
+   ha'u lia husu tulun, rona ha'u nia orasaun.
+   Hanoin karik sala, Na'i, se mak bele soi an.
+   Maibe iha Na'i ami hetan perdua,
+   ami hamulak ho laran.
+4. Ha'u klamar hein Maromak bele hot-hotu.
+   Ha'u klamar fiar Nia tutor lia ho laran metin.
+5. Ha'u klamar buka hein Maromak
+   diak liu ema hein rai hun mutin.
+6. Hanesan ema hein loron atu sa'e
+   nune'e ita hein ita Na'i tan Nia laran luak.`
+  },
+  {
+    id: 3,
+    category: "Quaresma",
+    title: "HA’U AMAN, BA ITA LIMAN",
+    content: `Ha'u Aman, ba Ita liman, ha'u klamar hasa'e.
+1. Na'i tahan ha'u; ha'u sei la kole leet.
+   Na'i laran luak, sadia ha'u.
+   Ba Ita liman ha'u klamar hasa'e.
+   Na'i, ha'u nia Maromak, sadia ha'u.
+2. Ema aat sira hamoe ha'u, maluk sira hewai ha'u;
+   ha'u belun sira to todan. Ema ida la besik ha'u,
+   haluha ha'u nudar matebian ida.
+   Hewai ha'u nudar buat aat ida.
+3. Na'i, ha'u neon metin ba Ita,
+   Ita ha'u nia Maromak.
+   Ba ita liman ha'u moris hasa'e,
+   sadia ha'u husi ema aat liman.
+4. Ita tutor oin nabilan mai ha'u
+   hodi mate iha krus.
+   Tan ita laran luak sadia ha'u;
+   laran metin haksolok, imi be fiar Maromak`
+  },
+  {
+    id: 4,
+    category: "Quaresma",
+    title: "HA’U FILA FILA BA HO MAROMAK",
+    content: `1. Ha'u fila fila ba ho Maromak,
+   ha'u fila fila ba tau hela.
+   Ha'u domin wain atu fo;
+   ha'u fila fila ba ha'u Maromak.
+Reinu lalehan fo'o ona, reinu be fo perdaun;
+halo penentensia, nakfila fuan ba.
+2. Ha'u fila fila ba atu moris,
+   ha'u fila fila ba atu hela;
+   la ho Nia moris katak mate,
+   ha'u fila fila ba atu moris.
+3. Ha'u fila fila atu mai,
+   ha'u fila fila ba atu hadomi,
+   ha'u domin wain atu fo,
+   ha'u fila fila ba atu hela.`
+  },
+  {
+    id: 5,
+    category: "Quaresma",
+    title: "HA’U KLAMAR TAU NEON BA HA’U NA’I 331",
+    content: `Ha'u klamar tau neon ba ha'u Na'i;
+Maromak mak ha'u nia laran metin
+1. Na'i, foti ha'u lia ba ita ho neon ho laran;
+   Na'i, rona ha'u lian,
+   Haraik tulun mai ha'u; rona ha'u susar.
+2. Ita hanoin karik ami sala, Na'i, se mak bele soi an?
+   Mai be iha Na'i ami hetan perdua,
+   Tan nee ami hamulak ho laran.
+3. Ha'u klama, ha'u hein Maromak.
+   Ha'u fiar nia liafuan;
+   Ha'u klamar buka Maromak
+   diak liu ema hein rai hun mutin.
+4. Hanesan ema hein loron atu sae
+   Nune'e Israel hein nia Na'i.
+   Tan Na'i laran luak;
+   Haraik maksoin wain tebes`
+  },
+  {
+    id: 6,
+    category: "Quaresma",
+    title: "HA’U NIA HENA SIRA FAHE BA MALU",
+    content: `Ha'u nia hena sira fahe ba malu:
+Ha'u nia tunika sira dada sorti.
+1. Ha'u Na'i, Ha'u Na'i, hare mai ha'u;
+   tan sa husik ha'u mesak?
+   Hosi dook ha'u harohan hodi terus;
+   Na'i, ha'u hakilar iha loron Ita la rona;
+   iha kalan Ita la lidu ha'u.
+2. Sira hakilar, Ita boot soi sira;
+   iha Ita sira hein, la hein leet deit.
+   Ami Aman, sira fiar Ita boot;
+   fiarkatak Ita boot sei soi sira.
+3. Haraik tutor tilun hodi rona ha'u;
+   ha'u hasae lia ba Ita boot
+   maibe ha'u ular ida, laos ema;
+   sira hamoe hodi hasara ha'u.`
+  },
+  {
+    id: 7,
+    category: "Quaresma",
+    title: "HEBREUS OAN SIRA",
+    content: `Hebreus oan sira lori oliveira sanak
+La'o tuir hamutuk Na'i:
+haklalak hodi dehan: Hosana aas ba!
+1. Raiklaran no buat tomak Maromak nian,
+   Mundu no buat moris hotu, Maromak, Nia soi.
+2. Maromak hatur rai iha tasi foho;
+   Hametin rai iha be leten.
+3. Ema se bele sa'e iha Maromak nia foho;
+   Ema se bele horik iha Nia kadunan santu.
+4. Ema nebe liman mos, fuan mos.
+   La temi leet Maromak naran, la jura falsu.
+   Ema ne'e Maromak fo bensa;
+   Na'i Maksoin fo kolen.
+5. Ema sira ne'e mak buka Maromak;
+   Sira buka Jacob nia Maromak futar oin.
+6. Lake odamatan, foti aas odamatan tuan;
+   Liurai boot atu tama.
+8. Se los mak liurai boot; Ida be makaas iha funu.`
+  },
+  {
+    id: 8,
+    category: "Quaresma",
+    title: "HEBREUS OAN SIRA HANAHE",
+    content: `Hebreus oan sira hanahe sira hena iha rai
+No haklaken, hananu: Hosana David nia Oan!
+Diak tebes Ida be mai hodi Na'i nia naran.
+1. Povu tomak hawelok Nia, basa liman
+   Haklaken ba Maromak hodi knananuk ksolok nian.
+   Tan Nia as no Boot liu hot-hotu Liurai rai klaran tomak.
+2. Tan povu hotu iha nia ukun;
+   Halo reinu hotu kiik liu ita.
+   Nia mak haraik rahun kmanek ba ita Tuir kmanek
+   Jacob, nia doben.
+3. Maromak sa'e daudaun hodi hawelok no ksolok.
+   Na'i sa'e daudaun hodi knananuk. Hananu ba ita
+   Maromak, hananu! Hananu ba ita Liurai, hananu!
+4. Maromak Liurai mundu tomak nian
+   Tan ne'e hananu knananuk ida ba Na'i
+   Maromak Liurai nasaun tomak;
+   Maromak tur iha fatin aas no lulik
+5. Liurai sira povu nian, halibur an
+   Povu Maromak Abrado nian, halibur an!
+   Buat tomak iha rai ne'e Nia ukun,
+   Nia ne'e aas teb-tebes.
+6. Gloria ba Aman no Oan No ba Espiritu Santu.
+   Nudar hori uluk, oras ne'e, Tinan ba tinan. Amen.`
+  },
+  {
+    id: 9,
+    category: "Quaresma",
+    title: "HOSANA, KRISTU MANAN",
+    content: `Hosana, Kristu manan; Iha krus, Kristu sei soi ita. (2x)
+1. Maun alin, hamutuk hadomi; hananu ba ita Na'i.
+   Knananuk atu hahi, Jesus Kristu manan.
+2. Hamutuk hadomi malu, hadomi Na'i Maromak.
+   Ho Kristu to'o Trindade, ho Kristu to'o lalehan.
+3. Hananu, buat moris tomak, knananuk ba Kriador.
+   Hosana iha leten aas, hosana ba Kristu Na'i.
+4. Hakarak mate iha krus, tan krus halo ita moris.
+   Jesus iha ita leet halo Nia Kreda hamutuk.`
+  },
+  {
+    id: 10,
+    category: "Quaresma",
+    title: "IHA ITA KRUS, NA'I, AMI HANA I '",
+    content: `Iha Ita krus, Na'i, ami hana'i, hahi,
+Hawelok hodi knananuk. Ita soi ami liu hosi krus;
+Tamba Maromak domin rohan laek,
+Nune'e moris tama iha mundu.
+
+1. Na'i, sadia ami tan Ita laran luak,
+   Haraik tulun mai ami no perdua ami salan.
+2. Atu ema tomak hatene It'dalan
+   Sira bele hetan salvasaun
+3. Ema tomak haksolok hananu
+   Hahi no nanai Ita naran.
+4. Ita ukun povu ho domin
+   Nudar bibi atan diak ba nia bibi.
+5. Buat tomak haklaken
+   Maromak nia hahalok
+   Hosi beiala to'o bei oan sira.`
+  },
+  {
+    id: 11,
+    category: "Quaresma",
+    title: "IHA ITA LIMAN, HA U AMAN",
+    content: `Iha Ita liman, ha'u Aman, Ha'u saran ha'u nia espiritu.
+1. Na'i, hadook ha'u hosi susar tomak
+   Tan Ita mak ha'u nia tulun.
+2. Ba Ita liman ha'u klamar hasa'e,
+   Na'i, ha'u nia Maromak, sadia ha'u!
+3. Ema aat sira hamoe ha'u, maluk sira hewai ha'u.
+4. Ema ida la besik ha'u, hewai ha'u nudar buat aat ida.
+5. Ba Ita liman ha'u moris hasa'e; sadia ha'u hosi ema aat.
+6. Ita tutor oin nabilan mai ha'u, tan Ita laran luak.
+7. Laran metin, haksolok, imi be fiar Maromak.`
+  },
+  {
+    id: 12,
+    category: "Quaresma",
+    title: "ITA HAROHAN BA ITA NA'I",
+    content: `Ita harohan ba ita Na'i laran luak:
+Na'i, sadia ami; Na'i, sadia ami.
+1. Na'i laran sadia no hadomi; Na'i, perdua.
+2. Na'i laran sadia no hadomi; Na'i, rona ami.
+3. Tamba sala no hahalok aat tomak,
+4. Ba funu maluk nia babeur,
+5. Ba rai hirus no laran aat ba malu,
+6. Ba hahalok foer tomak,
+7. Ba moras, hamlaha no ba funu,
+8. Ba susar tomak hot-hotu,
+9. Hosi kastigu infernu nian,
+10. Tan Ita nia Misteriu halo an ba Mane,
+11. Tan Ita nia terus no mate iha krus,
+12. Tan Ita nia mods hias hosi mate`
+  },
+  {
+    id: 13,
+    category: "Quaresma",
+    title: "ITA NIA MAKSOIN MAI HOSI KRUS",
+    content: `Ita nia Maksoin mai hosi krus.
+Jesus, ita Na'i, nia krus.
+1. Na'i hanoin ita, haraik bensa mai ita;
+   Nia futar oin nabilan mai ita, sadia ita.
+2. Atu iha rai tomak ema hatene Nia dalan;
+   Iha nasaun hotu ema hatene nia Maromak.
+3. Maromak, ema hotu hahi Ita Boot;
+   Ema tomak haklaken Ita gloria.`
+  },
+  {
+    id: 14,
+    category: "Quaresma",
+    title: "JERUSALEM",
+    content: `Jerusalem, Jerusalem, host dalan boot,
+Jerusalem Kristu sai, lori krus. (2x)
+1. Na'i Jesus, ami ema sala nain lakohi lori krus.
+   Na'i Jesus, ami ema sala nain hakribi Ita Boot.
+Ema se hakarak tuir Ha'u, sei hewai an,
+Kaer nia krus, la'o tuir Ha'u.
+2. Na'i Jesus, ami ema foti an hewai ema kiik.
+   Na'i Jesus, ami buka deit riku, lakohi Ita Boot.
+3. Na'i Jesus, iha mundo raiklaran bosok, funu, nook.
+   Na'i Jesus, ema hotu hakribi krus, hewai ukunfuan.`
+  },
+  {
+    id: 15,
+    category: "Quaresma",
+    title: "NA'I JESUS, AMI HAHI",
+    content: `Na'i Jesus, ami hahi. (2x)
+1. Kristu halo tuir Aman to'o mate hodi mate iha krus.
+2. Tan ne'e Maromak hahi Nia,
+   fo naran ida boot liu naran hot-hotu.`
+  },
+  {
+    id: 16,
+    category: "Quaresma",
+    title: "NA'I JESUS, AMI MAKSOIN",
+    content: `Na'i Jesus, ami Maksoin, iha Ita ami nia salvasaun.
+La'o lemo rai, la'o dalan, buka Ita Boot.
+1. Ami halibur iha Ita meja atu hamanas ami an tomak.
+   Hodi Ita tutor Isin, Ita ran, sei soi ami.
+2. Ami sei hetan tali Ita iha Ita knaar santu;
+   Sei hemu Ita tutor Ran, fiar sei soi ami.
+3. Ami Ita povu santu be la'o hamutuk;
+   Ita sei tama ami laran, Ita domin sei dada ami.
+4. Ita ami dalan, Ita ami esperansa;
+   Moris no lialos, nafatin ba nafatin. (Amen, aleluia)`
+  },
+  {
+    id: 17,
+    category: "Quaresma",
+    title: "PERDUA, NA'I, PERDUA",
+    content: `Perdua, Na'i, perdua. Ami fiar Ita Boot.
+1. Na'i, sadia ami tan Ita laran luak
+   Tan Ita laran luak, kasu ami sala.
+2. Hamos ha'u nia hahalok aat, kasu ha'u nia sola hotu.
+3. Ha'u fihir ba ha'u sola; Ha'u sala hetan nafatin iha ha'u oin.
+4. Na'i, ha'u sala hasouru Ita. Ha'u halo sala iha Ita oin.
+5. Maromak, haraik neon foun mai ha'u; Halo ha'u klamar nabilan.
+6. Keta soe ha'u hosi ita tutor oin; Keta hadook ha'u hosi Ita neon.`
+  },
+  {
+    id: 18,
+    category: "Quaresma",
+    title: "PERDUA, NA'I JESUS",
+    content: `Perdua, Na'i Jesus, perdua It'nia povu.
+Ita mak soi ami ho It'Boot nia tutor ran santu.
+1. Na'i, ha'u foti ha'u lia ba ita ho neon ho laran.
+   Na'i, rona ha'u lia, haraik tulun mai mai ha'u.`
+  },
+  {
+    id: 19,
+    category: "Quaresma",
+    title: "POVU DOBEN",
+    content: `Povu doben, Ha'u halo sa?
+Halo sa aat ba o? Dehan took ba!
+1. Tinan hat nulu Ha'u tulun imi; fo han imi hodi monan;
+   Lori imi to'o rai diak; Maibe imi hedi Ha'u ba krus.
+   Buat diak sa Ha'u la halo ba imi?
+   Ha'u hadomi, Ha'u hare diak tebes
+   Maibe imi to naan moruk, Tua sin mai Ha'u,
+   Sona Ha'u sorin ho diman kroat.
+3. Tan imi Ha'u to todan ba povu Egiptu,
+   Atu hasai imi hosi sira liman maibe imi laran aat,
+   Fo Ha'u ba terus, fo ba mate.
+4. Ha'u la'o uluk leno dalan hanesan kalohan nabilan,
+   Atu leno dalan naroman ba imi, maibe imi tutu, lori Ha'u ba Pilatus.
+   Iha raifuik maran tinan hatnulu nia laran Ha'u fo han imi ho Mana,
+   maibe imi, Ha'u belkun, Tuku, basa, fo terus Ha'u.
+   Tinan hirak iha raifuik maran Hosi fatuk Ha'u halo be suli,
+   maibe imi, Ha'u doben, fo hemu Ha'u ho tua sin no naan moruk.`
+  },
+  {
+    id: 20,
+    category: "Quaresma",
+    title: "SADIA AMI, NA'I, AMI NIA MAKSOIN",
+    content: `Sadia ami, Na'i, ami nia Maksoin.
+1. Kristu halo an ba Mane, moris nudar ema.
+2. Kristu iha moris tomak hadomi tebes ema.
+3. Kristu saran an atu soi ema.
+4. Kristu lori krus ba to'o foho Kalvario.
+5. Kristu, mate tiha, moris hias fali.`
+  }
 
 ];
 
@@ -3741,6 +4275,11 @@ const KNANANUK_CATEGORIES = [
   "Komunhao",
   "Asaun de Grasas",
   "Final",
+  "Latin",
+  "Adventu",
+  "Quaresma",
+  "Paskua",
+
 ];
 
 // --- COMPONENTS ---
