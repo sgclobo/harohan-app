@@ -3286,8 +3286,145 @@ tinan ba tinan nafatin. Amen.`
     "category": "Asaun de Grasas",
     "title": "RONA, HA'U NA'I, HA'U NIA HAROHAN",
     "content": `RONA, HA'U NA'I, HA'U NIA HAROHAN\nRona, ha'u Na'i, ha'u nia harohan\nHo laran kmaan hasa'e agradese.\nBa ita, Na'i, ha'u nia Maromak,\nhamos no bali ha'u klamar.\n\n1. Hosi halak sira ba loron-loron nian,\nbuat ida deit mak dom\nhadomi ha'u maluk sira boot:\n\n2. Buat sa mak ha'u halo, moris iha mundu ne'e,\nhosi halak aat sira ba hadook ha'u anhosii Na'i.\n\n3. Ha'u haksumik ha'u nia lia hahi ita Boot\nBa ita Na'i, ha'u Maromak.\n\n4. Kristu, O nia Isin no Ran nebe O fo mai ha'u\nSai aihan moris kmanek wain\nNudar ha'u nia bukae.`
-  }
-  
+  },
+    {
+    "id": 1,
+    "category": "Final",
+    "title": "ITA BOLU, HA'U SEI BA",
+    "content": `ITA BOLU, HA'U SEI BA\n\n1. Ita bolu, ha'u sei ba; fo ba mundu domin no paz\nHa'u sei fo ha'u nia fuan ba ha'u maun alin kiak hu.\nTan ne'e ha'u sei haksolok maski ema hewai ha'u. (2x)`
+  },
+  {
+    "id": 2,
+    "category": "Final",
+    "title": "AMI HAKLAKEN ITA REINU, NA'I",
+    "content": `AMI HAKLAKEN ITA REINU, NA'I\nAmi haklaken ita reinu, Na'i, ita reinu, Na'i ita reinu.\n\n1. Reinu paz no justisa, reinu moris no lialos.\n\n2. Reinu domin no tulun, reinu be iha ami laran.\n\n3. Reinu be terus makaas, be laos rai ne'e nian.`
+  },
+  {
+    "id": 3,
+    "category": "Final",
+    "title": "HA'U RASIK HILI IMI",
+    "content": `HA'U RASIK HILI IMI\nHa'u rasik hili imi atu imi bele ba\nhaklaken Evanjeliu iha mundu raiklaran!\n\n1. Ba tafoli Ha'u liafuan Ho Ha'u naran.\nhalibur\n\n2. Ha'u horik (ho) imi ba nafatin;\nlori paz no domin ba povu raiklaran.`
+  },
+  {
+    "id": 4,
+    "category": "Final",
+    "title": "AMI HANANU, NA'I, MAI AMI",
+    "content": `AMI HANANU, NA'I, MAI AMI\n\n1. Ami hananu, Na'i, mai ami.\nAmi harohan, Na'i, mai ami.\nIha orasau, Na'i, mai ami.\nNa'i hit An mai. (2x)\n\n2. Ba ema diak... Halo alin maun... Haraik paz...\n\n3. Lubun sarani... Mai ami leet... Halo hamutuk...\n\n4. Iha paz... Iha funu... Oin oin oin...`
+  },
+  {
+    "id": 5,
+    "category": "Final",
+    "title": "ITA MAI HOSI LALEHAN",
+    "content": `ITA MAI HOSI LALEHAN\n\n1. Ita mai hosi lalehan, ita dehan, hotu dehan:\nJesus mak ita nia dalan, lori ita fila lalehan.\nQ hatene ona, ita hatene tiha ana:\nJesus mak ita nia dalan, lori ita fila lalehan. (2x)\n\n2. Jesus mak bele hasai ita hosi aat ba diak laran,\n\n3. Aman mesak ema ida, ema ida Aman Maromak.\nIta maun alin deit hosi uluk, hosi uluk kedas.`
+  },
+  {
+    "id": 6,
+    "category": "Final",
+    "title": "HA'U HAKARAK DUNI TUIR NA'I JESUS",
+    "content": `HA'U HAKARAK DUNI TUIR NA'I JESUS\n\n1. Ha'u hakarak duni tuir Na'i Jesus,\nha'u nia fuan metin ba Nia.\nBuat hotu-hotu husik ba kotuk,\ntuir Na'i Jesus mak ha'u hakarak.\n\n2. Jesus naroman leno ha'u nia dalan,\nmoris nafatin tuir Nia hanorin;\nbuat ida deit mak ha'u hakarak:\nmoris nafatin.\n\n3. Ha'u nia ksolok mak Na'i Jesus.\nNia futar lia bolu tuir ha'u nafatin.\nHusik buat hotu, hela hamutuk ho ha'u nafatin mai,`
+  },
+  {
+    "id": 7,
+    "category": "Final",
+    "title": "IMI BA MUNDU TOMAK, NA'I?",
+    "content": `IMI BA MUNDU TOMAK, NA'I?\nImi ba mundu tomak, ba haklaken Ha'u liafuan.\nImi ba mundu tomak, lori Ha'u nia domin ba.\n\n1. Tansa haruka ha'u, Na'i? ha'u nia ibun foer;\n\n2. Tansa haruka ha'u, Na'i, ha'u sei labarik ida;\ntansa haruka ne'e, Na'i.\n\n3. Ha'u mak ne'e, Na'i, atu tuir ita hakarak;\nha'u mak ne'e, Na'i.\n\n4. Ha'u sei ba, Na'i, tan ita la'o ho ha'u;\nha'u sei ba, Na'i.`
+  },
+  {
+    "id": 8,
+    "category": "Final",
+    "title": "HARAIK LARAN MAI HA'U",
+    "content": `HARAIK LARAN MAI HA'U\nHaraik laran mai ha'u, boot atu hadomi.\nHaraik laran mai ha'u, b'rani atu hafunu.\n\n1. Ema foun hatama moris foun,\nsira hodi hanorin lia Kristu.\nEma foun nebe hakarak moris\nla tauk atu kaer dalan naruk.\n\n2. Ema foun hafunu hodi hein\nsira kaer dalan atu buka lialos.\nema foun lakohi hela iha sola,\n\n3. Ema foun hadomi laran-hotu,\nlakohi fihir rai hodi hot-kit kulit,\nema foun hamutuk ho ema kiak,\natu fo ba malu ho hahan.`
+  },
+  {
+    "id": 9,
+    "category": "Final",
+    "title": "BA MESAK NIA, OLARE",
+    "content": `BA MESAK NIA, OLARE\n\n1. Kristu, ita nia belun, no matadalan;\nSoi ita ita hosi susar, haraik naroman.\nBa mesak Nia, olare, ha'u hana'i; belun.\n\n2. saran ha'u moris, olare, to'o mate nia belun;\nKristu, ita mestre, ita nia belun;\nknananuk ida ne'e nia mai hanorin.\n\n3. Monu ba susar laran ha'u ba nafatin,\ntamba ha'u buka Kristu ho laran metin.\n\n4. Mane no feto oan sira hare didiak\ntuir san hare iha rai mak moris lerek.\n\n5. Imi hare iha rai moris la ho Maromak, moris hun laek.`
+  },
+  {
+    "id": 10,
+    "category": "Final",
+    "title": "FOINSA'E TIMOR OAN SIRA",
+    "content": `FOINSA'E TIMOR OAN SIRA\nFoinsa'e Timor oan sira, neon ho laran ida\nmetinik hamrik no tahan atu sasin it'nia fiar.\nHari ksolok no Na'i nia Kreda ho rai Timor nia emar\nhafoun kmaan hafoun.\n\n1. Kristu: ita Boot mak ami roman;\nIta ami nia kbit no ami nia Maksoin!\n\n2. Hametin: ami hotu fiar atu hafoun rai ami.\nKristu: ita nia\nho ami nia neon badinas ho ami nia ran manas;\nhametin ho haburas Kreda rai Timor.`
+  },
+  {
+    "id": 11,
+    "category": "Final",
+    "title": "BA KAER HA'U KNAAR",
+    "content": `BA KAER HA'U KNAAR\nBa kaer Ha'u knaar iha mundu tomak;\nHa'u sei hamutuk ho Ha'u to'o rohan.\nOras to'o, Jesus bolu ha'u. Jesus, ha'u mak ne'e!\n\n1. Na'i Jesus bolu ha'u atu serbisu,\nnatar boot atu serbisu ha'u: Jesus, ha'u mak ne'e.\n\n2. Saran vida ba Na'i kmanek tebes,\nha'u mak ne'e.\nNa'i hanorin, Nia mak halo.\nSaran vida ba Na'i tamba domin,\nha'u oras to'o ona.\n\n3. O maun alin nebe husu tulun, keta taka a nia fuan;\no maun alin sei terus a nia sorin,\ntaka a nia sorin, to kedas a nia tulun.\n\n4. Hahalok diak sei halo iha rai ne'e,\nJesus fo kolen iha lalehan;\nNia sei kolen iha rai ne'e kedas,\nsei selu iha lalehan.`
+  },
+  {
+    "id": 12,
+    "category": "Final",
+    "title": "EVANJELIU DEHAN KATAK",
+    "content": `EVANJELIU DEHAN KATAK\n\n1. Evanjeliu dehan katak ita hotu sai maun alin,\ndehan katak tenke fahe tempu, tenke sai amigus;\ndehan katak tenke konfia malu, haksolok (2x) hamutuk\nno iha susar laran tenke buka Kristu. (2x)\n\nEvanjeliu halo tomak hananu obrigadu nafatin. (2x)\n\n2. Evanjeliu dehan katak tenke buka hari dame.\nEvanjeliu dehan katak domin tenke to de grasa.\nno ha'u nia moris ema kiak sei Kristu nia laran (2x)\n\n3. Evanjeliu dehan katak lalehan mai ona ba labarik sira,\ndehan katak tenke to obrigadu ba Maromak Aman\nno iha moris tomak hananu nafatin. (2x)\n\n4. Evanjeliu dehan katak tenke la'o moris hamutuk;\nto esperansa ba ema be tanis, la hare futuru;\ntenke to liberdade ba dadur; tenke moris hias\nJesus moris hias ona, Nia horik ho ita! (4x)`
+  },
+  {
+    "id": 13,
+    "category": "Final",
+    "title": "GRANDE AMOR",
+    "content": `GRANDE AMOR\nGrande, grande amor que por nós tem o Senhor.\nGrande, grande amor de Jesus sobre a Cruz.\nGrande como oceano, fundo como o mar,\nalto, alto como o azul do Céu: assim é o meu amor.`
+  },
+  {
+    "id": 14,
+    "category": "Final",
+    "title": "SAKRIFISIU BOOT LIU HOTU",
+    "content": `SAKRIFISIU BOOT LIU HOTU\nMissa Eukaristia. (2x)\n\n1. Sakrifisiu boot liu hotu: Missa ita, ita atu halo tuir. (2x)\nIta Kristu mak halo, husik mai ita, ita nia liafuan tuir. (2x)\nMaluk sira, it'namkari ona; lori Maromak ba ita uma;\nHela hamutuk ho ita. (2x)\n\n2. Ita nia Missa hotu ona, fila ba uma ho ksolok. (2x)\nIta tatoli ba ema hotu-hotu Kristu nia liafuan. (2x)`
+  },
+  {
+    "id": 15,
+    "category": "Final",
+    "title": "VOS SEREIS MEUS AMIGOS",
+    "content": `VOS SEREIS MEUS AMIGOS\nVos sereis meus amigos se fizerdes o que vos mando.\nVos sereis meus amigos.\n\n1. Dou-vos um mandamento novo\nque vos ameis uns aos outros como Eu vos amei.\n\n2. Nisto conhecerão que sois meus discípulos\nse vos amardes uns aos outros.\n\n3. Felizes os que levam vida sem mancha,\nque andam na lei do Senhor.\n\n4. Felizes os que guardam seus preceitos,\ne o buscam de todo o coração.`
+  },
+  {
+    "id": 16,
+    "category": "Final",
+    "title": "E PELO MUNDO VOU",
+    "content": `E PELO MUNDO VOU\n\n1. Quero ouvir Teu apelo, Senhor,\nao Teu convite de amor responder\ne na alegria Te quero servir\ne anunciar o Teu reino de amor.\nE pelo mundo vou cantando o Teu amor,\npois disponível estou para servir-Te, Senhor. (2x)\n\n2. Dia a dia Tua graça me das\nnela se apoia o meu caminhar.\nSe estás no meu lado, Senhor,\no que então poderei eu temer?`
+  },
+  {
+    "id": 17,
+    "category": "Final",
+    "title": "IT'NIA REINU, NA'I, MAK JUSTISA",
+    "content": `IT'NIA REINU, NA'I, MAK JUSTISA\nIt'nia reinu, Na'i mak justisa\nIt'nia reinu, Na'i mak lialos.\nIt'nia reinu, Na'i mak salvas,\nIt'nia reinu, Na'i mak salvacao.\n\n1. It'nia reinu manan iha krus.\nIt'nia reinu halibur it'nia terus povu.\nIt'nia reinu mak paz no hadomi.\n\n2. Ema hotu nebe ho aten b'rani nebe\nsei buka harii it'nia reinu ho terus:\nsei hare, hodi harii iha paz no hadomi.`
+  },
+  {
+    "id": 18,
+    "category": "Final",
+    "title": "MALUK TIMOR OAN",
+    "content": `MALUK TIMOR OAN\n\n1. Maluk Timor oan hotu, it'namkari ona;\nneon ksolok klamar mos, hahi Na'i Maromak.\nTatoli ba rai hotu katak ba ema tomak,\nMaromak nia futar lia, Maromak nia hadomi.\n\n2. Hadomi ema hotu, halo diak ba ema tomak.\nMaromak nia tutor lia, Maromak nia hadomi.`
+  },
+  {
+    "id": 19,
+    "category": "Final",
+    "title": "RAI SIRATASI BALUN",
+    "content": `RAI SIRATASI BALUN\n\n1. Rai sira tasi balun, imi rona Ha'u ba!\nPovu sira hosi dook, se tilun ba ha'u lian.\nNa'i bob, ba haklaken Nia liafuan ba mundu.\n\n2. Tuir deit ita hakarak fo'er no ha'u nanal la surik los,\nmaibe Na'i horik (ho) ha'u, hamahan ho nia liman.\nNia halo ha'u nanal sai nudar surik kroat.\nNia temi ha'u naran. Haruka ha'u, Na'i.`
+  },
+  {
+    "id": 20,
+    "category": "Final",
+    "title": "VAI TRABALHAR",
+    "content": `VAI TRABALHAR\nVai trabalhar pelo mundo fora!\nEu estarei até ao fim contigo,\nesta na hora, o Senhor me chamou:\nSenhor, aqui estou!\n\n1. O Senhor me chamou a trabalhar,\na messe é grande a ceifar,\na ceifar, o Senhor me chamou:\nSenhor, aqui estou!\n\n2. Todo o bem que na terra alguém fizer,\nJesus no céu vai a premier\ncem por um, ja na terra Ele vai dar,\nno céu vai premier.\n\n3. Teu irmão a tua porta vem bater\nnão vais fechar teu coração;\nteu irmão vai logo socorrer.`
+  },
+  {
+    "id": 21,
+    "category": "Final",
+    "title": "KRISTU, NA'I LIURAI",
+    "content": `KRISTU, NA'I LIURAI\n\n1. Kristu, Na'i Liurai (3x)\nKristu, Na'i Liurai\n\n2. Ita ami nia Maun (3x) ita ami nia Maun (3x)\nKristu, Kristu, Kristu, ami nia Maun\n\n3. Fo mai ami ita nia kbit Kristu (4x)\nFo mai ami ita nia domin Kristu (6x)\nFo mai ami ita nia kbit Kristu\n\n4. Atu ami bele hamutuk Kristu (4x)\nAtu ami sai belun maun alin Kristu (6x)\nAtu ami hamutuk\n\n5. O mai, Na'i Jesus, mai\nMai, Na'i Jesus,\nO mai, Na'i, atu soi ami\nMai, Na'i Jesus (2x)\nO mai, Na'i Jesus\nMai, Na'i Jesus, mai, mai, mai,`
+  },
+  {
+    "id": 22,
+    "category": "Final",
+    "title": "MAIS OUTRO DIA FINDOU",
+    "content": `MAIS OUTRO DIA FINDOU\n\n1. Mais outro dia findou,\neu venho te-ver para conversar.\nMais outra noite chegou,\neu venho agradecer antes de repousar.\nAndei um dia inteiro procurando o meu irmão;\neu quis ser instrumento do Teu amor, do Teu perdão.\n\n2. Muito obrigado, Senhor, pelo amor que eu ensinei,\npelo amor que eu recebi, muito obrigado, Senhor,\npelo amor que eu soube, por sorrisos que sorri.\n\n3. Sou peregrino do amor\nvenho agradecer no dia que vivi\nhouve tristezas, Senhor, mas eu não quis sofrer,\npois caminhei em Ti.`
+  },
+  {
+    "id": 23,
+    "category": "Final",
+    "title": "KRISTU, O HA'U NIA DALAN",
+    "content": `KRISTU, O HA'U NIA DALAN\nKristu, O ha'u nia dalan; Kristu be naroman ha'u fuan.\nO mods hori iha O hateten, O "Barak la kohi tuir,\nbarak ba nakukun To'o ikus sala barak."\n\n1. Se Kristu husu ba ha'u: "Mundu ne'e oin sa los?"\nHa'u hatan ba ha'u Maun: "Buat barak mak la los."\n\n2. Buat barak la'o la los, tamba ha'u, tamba mak ita;\ntamba barak.\n\n3. Tamba ha'u, tamba ita, ema mundu rai klaran terus\ntamba ha'u, tamba ita, ita hotu nia hahalok.`
+  } 
 
 
 ];
@@ -3597,14 +3734,13 @@ _Para que sejamos dignos das promessas de CRISTO._`,
 
 const KNANANUK_CATEGORIES = [
   "Entrada",
-  "Gloria",
   "Responsorial",
   "Aleluia",
   "Ofertorio",
-  "Credo",
   "Santu",
   "Komunhao",
   "Asaun de Grasas",
+  "Final",
 ];
 
 // --- COMPONENTS ---
