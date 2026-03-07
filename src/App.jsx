@@ -2896,7 +2896,254 @@ tinan ba tinan nafatin. Amen.`
     "category": "Komunhao",
     "title": "HA'U TIMOR OAN",
     "content": `HA'U TIMOR OAN\nMaromak oan.\n\n1. Ha'u Timor oan, ha'u klamar tanis.\nTerus no susar, ha'u Aman doben,\ntan Nia mesak ha'u rikusoi.\nHo Na'i Jesus, ho ita belun;\nita sei la'o hamutuk Nia.\nSei funu hasouru buat aat no sala.\nSei titu diak Maromak nian.\n2. Buka mateneke, ha'u no ksolok kna'ar\nhalo rai naruk, moris no ksolok.\nMaibe, ha'u ema keta haluha:\nha'u nia Maromak, ha'u Aman doben.\n3. Atu soi diak, hetan lalehan,\nha'u sei la'o hetan Maromak dalan,\nla'o tuir nafatin Maromak ukun;\n4. Tuir ukunfuan hadomi Maromak nian,\nNia ukunfuan hadomi nian nian,\nhadomi malu, fo tulun malu;\nla bele oho, fo terus ema;\ntan ita hotu rai ha'u lakon oan dalan.\n5. Ha'u lemo rai, ha'u lakon uma dalan;\nha'u la'o rai, ha'u la'o uma.\nHetan Maromak iha ha'u dalan,\nNia moris tulun ha'u, fo tulun ha'u.\nNia simu ha'u, fo tulun ha'u dalan rohan.\n6. Ha'u la'o to'o ona ha'u uma lalehan;\nHa'u to'o uma, uma lalehan.\nLa hanoin fan ha'u moris ikus;\ntan ha'u fiar Maromak, ha'u Na'i.`
+  },
+    {
+    "id": 21,
+    "category": "Komunhao",
+    "title": "HELA HO AMI, JESUS, TUR HO AMI",
+    "content": `HELA HO AMI, JESUS, TUR HO AMI\nHela ho ami, Jesus, tur ho ami. (2x)\n\n1. Iha ita Emaus\nIta rai ita Emaus domin fahe ita paun tomak\nIta fahe iha loron.\n2. Ami sei hadomi malu tuir ita nia hatudu.\nNa'i Maromak tau hadomi iha ami laran.`
+  },
+  {
+    "id": 22,
+    "category": "Komunhao",
+    "title": "JESUS, AMI NIA MORIS",
+    "content": `JESUS, AMI NIA MORIS\n\n1. Kristu dehan: "Ha'u aihun diak."\nHa'u Aman doben, Ha'u Aman toos nain.\nAi sanak la fuan, Nia sei tesi, soe, soe ba dook.\nAi sanak to fuan bar, Nia sei hamos\natu nia fuan tebar.\nJesus, ami nia moris; Jesus, ami nia Maromak.\n\n2. Kristu dehan: "Ha'u aihun toos diak Nain."\nImi la'o ho Jesus, ami nia sei halo, halo diak oi-oin.\nLa'o hamutuk Nia mak sei hetan dalan,\ndalan Maromak.\n\n3. Ha'u maluk doben buka ho Nia.\nLa'o maluk hela Nia.\nKeta husik Maromak, ita ho moris abut; abut namlele,\nDook hosi Jesus, ita lakon, lakon reinu lalehan.`
+  },
+  {
+    "id": 23,
+    "category": "Komunhao",
+    "title": "JESUS, DALAN DIAK, HALOS NO AMI MORIS",
+    "content": `JESUS, DALAN DIAK, Halos no ami moris:\nPaun ksolok nian, tun hosi lalehan\n\n1. Ami ema la'o rai, la'o hakat ba lalehan;\nami\n2. Jesus, ami nia dalan; dada ami ba Maromak,\nSe sala la'o tuir Jesus, moris; se sala bele hetan nakukun,\nema\n3. Hosi nakukun laran, no hosi sala laran;\nsei buka deit lialos, no lialos mak Na'i Jesus.\n4. Jesus, lialos no moris, no dalan Na'i Maromak;\nema tuir dalan ne'e sei hetan Na'i Maromak.`
+  },
+  {
+    "id": 24,
+    "category": "Komunhao",
+    "title": "ITA SEI HADOMI MALU",
+    "content": `ITA SEI HADOMI MALU\nIta sei hadomi malu ho laran mos\nIta sei hadomi hela nafatin ita leet\nMaromak ita\n\n1. Ita Na'i Jesus Kristu hadomi, halibur ita.\n2. Ita nobun hamutuk, hamtauk, hadomi Maromak.\n3. Kristu, to laran; ho neon ida deit.\n4. Keta buka fahe malu;\n5. Ho laran hakarak hare ha'u nia Na'i Maromak.\n6. Haksolok hadomi oras ne'e ba nafatin. Amen.`
+  },
+  {
+    "id": 25,
+    "category": "Komunhao",
+    "title": "JESUS DOBEN",
+    "content": `JESUS DOBEN\nJesus, ha'u nia Na'i.\n\n1. La'o doben mutuk ho Nia la susar.\nLa'o hamutuk ho be matak malirin haro ha'u klamar.\n2. Fo neon diak haksolok hatudu klamar. Dalan los.\nTan Nia nararan boot, nararan metantu,\nla'o ho Nia foho leet, rai met-metin,\n3. Maski la'o foho metin, la tauk buat aat ida\nIt Boot la'o hamutuk ho ha'u;\nho It grása no tulun nafatin.\n4. It hadia mai ha'u aihan furak\niha ema laran aat sira oin,\nba ha'u ulun It kose mina morin\nNo ha'u kalis nakonu, naksalin.\n\n5. Laran diak no grása tuir ha'u,\nkala loron ha'u moris nia laran.\nHa'u tur fatin mak ita kadunan\nloron-loron bainhira ha'u sei moris.`
+  },
+  {
+    "id": 26,
+    "category": "Komunhao",
+    "title": "ITA NIA MORIS",
+    "content": `ITA NIA MORIS\n\n1. Ita nia moris nudar tali ida\nnebe tutan lalehan ho rai ne'e.\nIta nebe tutan metin nobun ho rai hamaluk,\nita tali k hun kledik hun mak Kristu.\n\nMai, ita hotu hakbesik altar, simu Kristu isin\nnudar aihan ba ita klamar, maski data wain la soi.\n\n2. Ita nia moris nudar we, suli ba rai.\nIta kuru mos fahe ho hadomi,\nita domin los suli hosi Kristu.\n\n3. Ita nia moris nudar deruk ida\nnebe ho midar ba tempu\nita ku'u took fahe ba malu ho lolos.\ntuir domin los, domin Kristu nian`
+  },
+  {
+    "id": 27,
+    "category": "Komunhao",
+    "title": "HIIT AN MAI, NA'I JESUS",
+    "content": `HIIT AN MAI, NA'I JESUS\n\n1. Nudar rusa buka os be, ami buka ita Boot,\ntan rusa wain hamrook los, ita ami nia bematan.\nHiit an mai, Na'i Jesus, amen aleluia. (2x)\n\n2. Ami la'o ba ita altar atu simu ita ho haksolok.\nAmi sa'e la'o ita Boot.\n\n3. Sira be hare ha'u terus, dehan: "Maromak iha nebe?"\nNa'i iha ita leet, ita ho hadomi tan Maromak sei soi ita.\n\n4. Bele terus karik ba, ha'u hanoin Na'i Maromak.`
+  },
+  {
+    "id": 28,
+    "category": "Komunhao",
+    "title": "ITA UKUN MORIS",
+    "content": `ITA UKUN MORIS\nIt'ukun mos, It'ukun los duni;\nIt'ukun los, It'ukun diak tebes;\nIt'ukun tulun, It'ukun hadomi.\nMai Na'i Maromak tulun, mai, ukun ami rai. (2x)\n\n1. Maromak sira, leno liurai sira;\ntulun sira atu ukun diak kmanek ita ema,\natuk ukun diak ata oan sira;\natuk ukun diak ita ema,\nukun ami hodi lialos loron matan,\n\n2. Hosi foho tun tun mai lialos matan,\nhosi leten tun tun mai lialos.\nTau matan ba ata oan sira oan,\ntulun netik netik ema kiak oan sira,\nsadia netik netik ema kiak oan sira,\nharaik todan ba ema laran aat.\n\n3. Maromak, ami neon nakukun,\nami buka ukun ninin,\nbuka deit riku soi no moris;\n\nla tauk sala, lakon diak lalehan\nhodi bosok, naok, fakar ran;\nhodi sola hasouru ita Boot.\n\n4. Ami sola Na'i no Liurai ita Boot Maromak;\nto naroman, leno ami laran laran\natu buka liliu diak lalehan,\nloron kalan. Hanoin ami, ukun ami rai,\nhalo funu hotu lalais.`
+  },
+  {
+    "id": 29,
+    "category": "Komunhao",
+    "title": "ITA HADOMI MALU KARIK",
+    "content": `ITA HADOMI MALU KARIK\nIta hadomi malu tebes karik, Kristu iha ita leet.\n\n1. Kristo nia domin hananu halibur ema tomak,\nhaksolok ho ita atu moris tuir Nia domin ne'e,\n"Hadomi malu nudar Ha'u hadomi imi."\n\n2. Ita hotu halibur, halo isin ida no fuan ida,\nita hadook buat hotu ho halak atak domin;\nfunun, nune ne Kristu bele hela iha ita leet.\n\n3. Mai, to perda ba malu\nnudar Na'i halo perdu ita sola,\nnune'e ita halo tuir Kristu nia hakarak,\nat ita bele hetan moris rohan laek. Amen.`
+  },
+  {
+    "id": 30,
+    "category": "Komunhao",
+    "title": "JESUS FO NARAMAN",
+    "content": `JESUS FO NARAMAN\nnakukun; leno ami dalan.\nJesus fo naroman terus, ha'u laran susar, leno ami dalan.\n\n1. Ha'u fuan terus, dook, dook ita Boot;\nha'u horik dook Boot, dook.\n\n2. La hetan ksolok bainhira mesak,\ndook Na'i Maromak, Maromak dalan.\n\n3. Ha'u kalan ne'e la'o tuir lalehan,\nMaromak dalan lalehan, dalan.\n\n4. Hatudu dalan, ha'u Aman doben,\nha'u loron oin nakukun, la'o sola dalan.\n\n5. Loron foun sei mai, naroman sei mai,\nMaromak tulun tulun, tulun.\n\n6. Ita fiar metin, ita laran metin;\nnian\nhamutuk ksolok, ksolok nafatin.`
+  },
+    {
+    "id": 31,
+    "category": "Komunhao",
+    "title": "MAI, UKUN HA'U NIA FUAN",
+    "content": `MAI, UKUN HA'U NIA FUAN\nMai, Na'i Jesus, hiit an laiais.\nMai ha'u laran.\nMai, ukun ha'u fuan ho ita domin.\n\n1. Ita ukun fo moris ba mundu raiklaran\n2. Ita ukun fo ksolok ba ema hotu-hot.\n3. Ita ukun fo tulun ba ema laran kmaus`
+  },
+  {
+    "id": 32,
+    "category": "Komunhao",
+    "title": "MAI, NA'I JESUS, TAMA HA'U LARAN",
+    "content": `MAI, NA'I JESUS, TAMA HA'U LARAN\nMai, Na'i Jesus, tama ha'u laran;\nMai, hela ho ha'u nafatin;\nMai, soi ha'u isin no klamar.\n\n1. Mai hela ho ha'u nafatin no tulun no kbit mai ha'u.\n2. Leno isin neon fo ha'u laran tuir lialos ita hanorin.\n3. Ha'u laran metin ba Ita; hasai ha'u hosi buat aat.\n4. Mai, hela metin ho ha'u tinan ba tinan nafatin.`
+  },
+  {
+    "id": 33,
+    "category": "Komunhao",
+    "title": "MAI HOTU, MAUN ALIN",
+    "content": `MAI HOTU, MAUN ALIN\nMai hotu, maun alin, it'Aman mak bolu;\nmai hotu Na'i santu meja; iha fatin mos ba ita.\n\n1. Ba aihan furak Na'i bolu gracia oan oan sira nian.\n2. Paun mak Kristu no tua Ran ninin.\nHo ksolok ita hakbesik ba Na'i nia meja.\n3. Hadulas isin mak domin sei sai boot.\n4. Aihan ksolok habosu ita hotu;\nNia ita kbit iha ita moris tomak.`
+  },
+  {
+    "id": 34,
+    "category": "Komunhao",
+    "title": "MAI, NA'I JESUS",
+    "content": `MAI, NA'I JESUS\nMai, Na'i Jesus; mai ha'u nia Na'i; mai, Na'i Jesus, mai.\nMai, ukun nafatin ha'u nia fuan; mai, Na'i Jesus, mai.\n\n1. Ho ha'u nia liman hakarak fo, mai, Na'i Jesus, mai.\n2. Ba ha'u nia maun alin ha'u sei fo tulun...\nHo ha'u nia ibun hakarak hananu...\n3. Domin ho ksolok iha ha'u nia fuan...\nHasa'e harohan ba ha'u nia Na'i...`
+  },
+  {
+    "id": 35,
+    "category": "Komunhao",
+    "title": "JESUS RASIK DEHAN",
+    "content": `JESUS RASIK DEHAN\nJesus rasik dehan: "Ha'u aihan lalehan."\nse'o mai Ha'u, se la'o to'o mai'u sei la hamlaha.\n\n1. Se han aihan Ha'u sei, se hemu tua ne'e\nsei moris ba bei-beik, sei hetan diak.\n\n2. Aihan ida ne'e hosi lalehan mai;\nse hola, han nia sei la hetan mate.\n3. Aihan Ha'u to Ha'u aihan\nharaik to'o ba imi, to mans ba imi.`
+  },
+  {
+    "id": 36,
+    "category": "Komunhao",
+    "title": "KRISTU, AMI ITA NIA KREDA",
+    "content": `KRISTU, AMI ITA NIA KREDA\nKristu, ami it'nia Kreda; fatuk moris uma nain nian.\n\n1. Ema be la'o dau-daun ba Aman Maromak nia uma\nNeon ida deit, laran tuir dalan tiar nian,\nho Kristu ami belun, ho Kristo ami Na'i.\n\n2. Ami ita emar, Na'i, ami ita emar.\nHo ita Boot roman, no ita nia kbit,\ntan ami knaar iha kaer hodi to sasin ami nia tiar.\n\n3. Kristu terus ho susar oi-oin.\nPovu be terus ho susar povu\niha sira isin no sira nia klamar.\nMaibe sira laran metin iha Kristu Maksoin,\nho laran ksolok hariu mundu foun.`
+  },
+  {
+    "id": 37,
+    "category": "Komunhao",
+    "title": "JESUS HA'U NIA PASTOR",
+    "content": `JESUS HA'U NIA PASTOR\nJesus ha'u nia Pastor, buat ida ha'u la kuran\ntamba fiar ita Boot.\n\n1. Bematam ha'u mos to'o diak, haksolok fuan ha'u nia fuan.\n2. Sei lori liu hosi inur, rai sei nakukun;\nmaibe ha'u nia Maromak sei leno ha'u nia ain fatin.\n\n3. Bele iha mate laran sei hein ita Boot;\nha'u sei la tauk destinu, ha'u fiar ita Boot.\n\n4. Hadia hela mai, Paun hadia moris nian;\nhadia mos kalis ida ho tua moris nian.`
+  },
+  {
+    "id": 38,
+    "category": "Komunhao",
+    "title": "MAI, JESUS, AMI NA'I",
+    "content": `MAI, JESUS, AMI NA'I\nMai, Jesus, ami Na'i, hela ho ami; leno ami dalan.\n\n1. Ha'u mak mundu nia naroman.\nSe mak tuir Ha'u sei hetan naroman.\n\n2. Se hakbesik Ha'u sei la hamlaha tan ona.\n3. Se han aihan moris tun hosi lalehan nafatin.\n\n4. Ha'u mak dalan los, lialos no moris foun.\nHa'u deit mak sei lori imi ba Aman Maromak.\n\n5. Ha'u mak bibi atan diak.\nHa'u hatene Ha'u nia bibi oan no fo vida ba sira.\n\n6. Ha'u mak Liurai lialos nian.\n7. Ida nebe iha lialos rona Ha'u aisanak lia.\nHa'u mak aihun, imi ha'u mak aifuan barak.\nSe mak ho Ha'u sei fo aifuan barak.`
+  },
+  {
+    "id": 39,
+    "category": "Komunhao",
+    "title": "LA'O MESAK TUIR RAI FU'IK",
+    "content": `LA'O MESAK TUIR RAI FU'IK\n\n1. La'o mesak tuir rai fuik,\nbuka ha'u maun, ha'u maun Jesus.\nNakukun laran belun, fuan namlele.\nBuka ha'u belun, ha'u Na'i Maksoin.\nData wain ema barak la hadomi,\nterus todan mesak.\nMaibe Jesus rasik mak dehan: (2x)\n"Se todan, Ha'u sei kasu naha." (2x)\n\n2. Tahu laran holo riba,\nha'u isin dodok, ha'u klamar foer;\nfoti matan ba lalehan,\nbolu ha'u Na'i, ha'u tanis sola.`
+  },
+  {
+    "id": 40,
+    "category": "Komunhao",
+    "title": "JESUS, ITA FIHIR HA'U MATAN",
+    "content": `JESUS, ITA FIHIR HA'U MATAN\n\n1. Na'i, ita ema Maksoin, ho lia midar, ho lia mamar;\nIt buka ema, se mak matan hakarak.\nJesus, ita fihir ha'u bolu ha'u naran;\nho hamnasa, ita bolu ha'u husik hela tasi ibun,\nho it Boot.\n\n2. It Na'i, ita bolu ha'u tasi naran, ita la'o, ami hakarak tuir,\nIta Boot dehan: "Imi tuir Ha'u mai!"\n\n3. Na'i, ita bolu ha'u ata. Ita dehan: "La bele lori bukae,\nla bele lori bukae eh kohe."\n\n4. Na'i, ita dehan bukae ata: "Faan buat hotu,\nto ba ema kiak, o sei hetan premiu lalehan."\n\n5. Na'i, ita bolu lais; "Husik rai, riku no soi;\nhare ba\n\n6. Na'i, ita bolu hamaus: "Se hakarak, tuir Ha'u mai,\nHa'u toos boot, ema la iha."`
+  },
+  {
+    "id": 41,
+    "category": "Komunhao",
+    "title": "NE'E KALIS SANTA",
+    "content": `NE'E KALIS SANTA\nNe'e Kalis santa Aihan Kristu nia Ran\n\n1. Sei agradesse ha'u Na'i oin sa tan diak hotu Nia to.\nSei tone kalis maksoin hodi harohan Na'i nia naran.\n\n2. Kmanek ba Na'i tutor matan,\nNia belun sira nia tan\nha'u ita atan, ita atan teto nia oan.\nIta hasai ha'u hosi susar laran.`
+  },
+  {
+    "id": 42,
+    "category": "Komunhao",
+    "title": "MAROMAK IHA HA'U LARAN",
+    "content": `MAROMAK IHA HA'U LARAN\nMaromak iha ha'u laran, (2x)\nMaromak iha ha'u la'o neon (2x) ita Boot.\n\n1. Ema barak ha'u la'o neon ita Boot,\nla buka dalan seluk dook ita Boot,\nhodi hamamuk sira laran,\nikus fall laran mukit.\nMaibe fall ita sei nafatin\nbesik sira loron.\n\n2. Ha'u sira mukit loron hare\nema barak mukit la tuir,\nIha tinan rihun resin\nLaran metin deit ba rai laran haluha.\n\n3. Rai ne'e ita Boot sei oin seluk\nkarik ema tomak sarani tomak.\nLaran metin ba ita Boot.\nLaran metin ba ita Boot.\nMaibe barak sei lahaluha\ntan ne'e susar beibeik.`
+  },
+  {
+    "id": 43,
+    "category": "Komunhao",
+    "title": "SE KOMUNGA HA'U ISIN",
+    "content": `SE KOMUNGA HA'U ISIN\nSe komunha Ha'u isin no hemu Ha'u Ran\nsei moris ba nafatin\n\nJesus dehan: "Ha'u paun moris tun hosi lalehan;\natu halo raiklaran moris."\n\n1. Ha'u Isin aihan tebes ida,\nHa'u Ran tua tebes isin.\n\n2. Se komunha Ha'u Isin no hemu Ha'u Ran\nhela ho Ha'u, Ha'u horik ho nia.\n\n3. Imi bei bei han mana iha raifuk no no mate tiha.\nSe han paun Ha'u sei, Nia sei la mate.\n\nSe han paun Ha'u sei, moris to Aman moris Ha'u Nain,\nse komunha Ha'u isin moris no ba Espiritu Ha'u.\n\n4. Gloria ba Aman, ba Oan no ba Espiritu Santu,\nnudar hori uluk, oras ne'e no ba nafatin.`
+  },
+  {
+    "id": 44,
+    "category": "Komunhao",
+    "title": "NA'I JESUS HATUDU DALAN LOS",
+    "content": `NA'I JESUS HATUDU DALAN LOS\n\n1. Na'i Jesus hatudu dalan los, dalan los.\nNa'i Jesus hanorin lialos Kristu.\nLialos, dalan han moris Jesus Kristu.\nMai, ba lalehan dalan han Na'i Jesus. (2x)\n\n2. Ema diak ita sei fo han, sei fo han;\nketa karak, buka fo hatais.\n\n3. Ema moras ita ba hare, ba hare;\nema mate ita ba hakoi, tribunal;\nketa tauk tahan ema kiik.\n\n4. Lia ruma ita selu aat, selu aat;\nhan, hemu hodi kosar ben.`
+  },
+  {
+    "id": 45,
+    "category": "Komunhao",
+    "title": "NA'I MAROMAK HAKBESIK",
+    "content": `NA'I MAROMAK HAKBESIK\nNa'i Maromak hakbesik iha ba hanoin; Na'i.\n\n1. Diak iha buat hotu Nia halo,\nNia sira ba sira be harohan.\n\n2. Nia besik ba sira be harohan tebes,\nbesik ba harohan sira.\n\n3. Nia hakarak diak ba ema hotu,\nrona ema sira tanis no soi sira.\n\n4. Ba ema hadomi laran aat, Nia fo todan;\nmaibe ema laran aat, Nia fo todan.\n\n5. Ha'u nia klamar haksolok;\nha'u nia ibun hananu, hahi Maromak.\n\n6. Buat moris tomak, hahi Maromak naran,\ntinan ba tinan, nafatin. Amen.`
+  },
+  {
+    "id": 46,
+    "category": "Komunhao",
+    "title": "MAROMAK NIA VONTADE",
+    "content": `MAROMAK NIA VONTADE\nMaromak nia vontade kmanek boot,\nha'u sei tuir nafatin Nia ukun.\n\n1. Diak ba ema be la hetan sala;\nsira la'o tuir Maromak nia ukun.\n\n2. Diak ba ema be tuir Maromak nia ukun;\nsira buka Nia ho laran tomak.\n\n3. Ita haraik ita ukunfuan atu ami halo tuir lolos.\n\n4. Halo ha'u moris metin beibeik\nhodi halo tuir ita ukunfuan.\n\n5. Ha'u sei la hetan neon susar,\ntan ha'u tuir ita ukunfuan.`
+  },
+  {
+    "id": 47,
+    "category": "Komunhao",
+    "title": "NE'E ITA DALAN",
+    "content": `NE'E ITA DALAN\nNe'e ita dalan, ne'e ita dalan,\nNe'e ita dalan ba salvacao. (2x)\nJesus,\n\n1. Hadomi sarani hanesan loron Na'i Jesus,\nnudar susar eh ksolok ita sei hamutuk,\nhadomi atu malu hanesan Na'i Jesus. (2x)\n\n2. Atu imi nia vida oras ne'e\nvida ne'e nia vida ho Maromak\nHadomi malu diak tebetebes,\nsei hetan maun Jesus iha imi leet\n\n3. Hakruuk ba sira be monu ona\ntuir Na'i Jesus to liman ho perda;\n\nHadomi sira be iha sola\nsei hetan maun Jesus iha imi leet\n\n4. Jesus hanorin ita loron krus,\nsarani tenke\nSe imi loron nia ho ksolok boot krus\nimi hetan duni paz ho salvacao.`
+  },
+  {
+    "id": 48,
+    "category": "Komunhao",
+    "title": "NA'I JESUS NIA UKUN HANORIN",
+    "content": `NA'I JESUS NIA UKUN HANORIN\n\n1. Na'i Jesus nia ukun hanorin;\nNia hanorin; to dame ba malu ida ne'e,\nmoris nia sei hetan ksolok ba bei-beik.\n\n2. Ita hotu mak moris iha rai;\nita Na'i Jesus nia ukunfuan;\nita la rai nia, sei hetan fakara ran,\nita la hetan dame, hadomi malu.\n\n3. Ita hotu tuir dalan sarani;\nsei hatudu Jesus ukunfuan;\nita moris la tuir ukunfuan ida ne'e,\nita la, fakara ran no mate.\n\n4. Rai Timor mak terus no nofunu.\nNa'i Jesus hatudu to dalan;\n\nNa'i oin nusa mak funu bele hotu laiais,\nTimor oan atu hadomi malu.\n\n5. Na'i Jesus fo ida deit,\natu natan rai nia funu;\nsei hadomi nudar Nia hadomi ema,\noin nune'e rai nia didiak.\n\n6. Rai Timor atu hetan damen,\nTimor oan atu moris diak ba malu;\nse hakribi tiha moris aat no sala,\nbuka haktulun, dame, hadomi malu.`
+  },
+  {
+    "id": 49,
+    "category": "Komunhao",
+    "title": "NE'E HA'U NIA ISIN",
+    "content": `NE'E HA'U NIA ISIN\n"Ne'e Ha'u nia isin, simu hola ba.\nNe'e Ha'u nia ran maksoin, simu ba hemu ba.\nTambaa Ha'u moris Nain, hadomi Nain."\nNa'i, halo ami moris tuir ho domin.\n\n1. Gloria ba Aman hakia ita. Gloria ba Oan Maksoin.\nGloria ba Espiritu moris Nain; fo mai ita Ninia domin.\n\nHamutuk iha domin nia laran ida ho paun rasik ida.\n\n2. Ema hotu mesak ita nia maun alin. Hadomi.\nNusik Na'i Eukaristia ita, ema bele han ita.\nNinia isin no Nia ran haraik ita hetan kbit.\nIta sei paun no tua mak tuir ba domin.\n\n3. Hodi paun no tua nakfilak ba Na'i nia Isin.\nHanesan Maromak oan, ema hadulas altar,\nhot-hotu besik Na'i soi soi ita.\n\n4. Badai ai Kristu mai Nia ita rasik kaer serbisu malu.\nEma hotu kaer serbisu atu halo hanesan Kristu.\nFoin libur ema, halo povu ida.`
+  },
+  {
+    "id": 50,
+    "category": "Komunhao",
+    "title": "NA'I MAK DOMIN",
+    "content": `NA'I MAK DOMIN\n\n1. Maromak mak ita hotu nia Aman;\nmaun alin, ita hadomi deit mak Nia.\nMoris deit ita ita hadomi Aman deit,\nliu loron, liu riku tomak.\n\nLos, tamba Na'i, Na'i mak domin.\nNa'i mak domin, ita nia moris.\nNa'i mak domin.\n\n2. Maromak hadomi ita ida-idak.\nNune'e, ita sei moris ba domin ne'e\ndomin boot\nIha Nia, tamba Nia, Na'i, mak domin.\n\n3. Maun alin, hela hamutuk, fiar deit ita Na'i.\nHela isin domin, moris iha domin.\nMoris ba loron, liu loron, liu riku tomak,\nliu buat hotu, loron.\nLos, tamba Na'i, Na'i mak domin.\n\nNa'i mak domin, ita nia moris.\nNa'i mak domin. Nia Halos.\nNa'i mak domin, ita moris karik domin ida ne'e\nbuat ida sei sei sai ho Aman Maromak.`
+  },
+  {
+    "id": 51,
+    "category": "Komunhao",
+    "title": "MORIS KOLOK IHA DOMIN LARAN",
+    "content": `MORIS KOLOK IHA DOMIN LARAN\nMoris ksolok iha domin laran;\nNa'i Kristu nia horik iha ita leet\n\n1. Tan Kristu ne'e domin libur ita hotu hananu;\nita haksolok tan hananu;\nhadomi malu tuir Nia hanorin;\nnune'e, it hadomi tebes Na'i Maromak.\n\n2. Mai, soe hamutuk moris iha neon ho laran ida deit,\nhodi buat nebe halo ita haketak malu.\nKeta halo aat, fo terus no oho malu\nta Kristu, ita nia Maksoin, horik ho ita.\n\n3. Moris iha dame no domin nia laran\ntakat ita hatene perda katak\nLialos ne'e Kristu hanorin malu\natu ita moris iha ksolok ba nafatin.`
+  },
+  {
+    "id": 52,
+    "category": "Komunhao",
+    "title": "QUE BOM É O PÃO",
+    "content": `QUE BOM É O PÃO\nQue bom é o pão que Tu nos das,\noferta do Teu amor, Senhor.\nQue bom é o pão que Tu nos das,\no pão saboroso que és Tu.\n\n1. Cada vez que repartirdes este pão,\nFazei-o em memória da minha morte.\n2. Lembrai-vos em memória da minha morte Mim ate Eu vir,\nDe novo juntar-Me convosco.\n3. O meu Corpo é o alimento que vos dou.\nComei, saciai a vossa fome.`
+  },
+  {
+    "id": 53,
+    "category": "Komunhao",
+    "title": "VEM, IRMÃO",
+    "content": `VEM, IRMÃO\nVem, irmão, vem para a mesa;\nvem, irmão e meu amigo.\nDou-te a força e o amor,\nEu vou para a vida sempre contigo.\n\n1. Vive na esperança, irmão, e encontrarás o Senhor.\n2. Fala com Ele na fé, e terás o seu amor.\nVamos, irmão, comungar! Cristo amou todos nós,\nconosco vem ao altar.\n3. Na mesa Cristo se dá, em verdadeira comida,\nquanta coragem teremos se o levarmos para a vida.\n4. Na mesa Cristo se dá, nova aliança de amor.\nEle quer ser nosso irmão, na alegria e na dor.`
+  },
+  {
+    "id": 54,
+    "category": "Komunhao",
+    "title": "CORAÇÃO SANTO, TU REINARÁS",
+    "content": `CORAÇÃO SANTO, TU REINARÁS\nCoração santo, Tu reinarás.\nTu nosso encanto sempre serás rei.\n\n1. Como soldado vela a seu rei,\nassim meu sangue por Ti darei.\n2. Se o mundo iníquo me combater,\nsempre a Teu lado hei-de vencer.\n\n3. Jesus soberano, deixa-me ser\nTeu guarda d'honra até morrer.`
+  },
+  {
+    "id": 55,
+    "category": "Komunhao",
+    "title": "POR UM PEDAÇO DE PÃO",
+    "content": `POR UM PEDAÇO DE PÃO\nPor um pedaço de pão, por um pouco de vinho,\neu já vi mais de um irmão se desviar no caminho.\nPor um pedaço de pão e por um pouco de vinho,\n\neu também vi muita gente encontrar novamente\no caminho de Céu.\nEu também vi muita gente voltar novamente\nao convívio de Deus. (4x)\nPor um pedaço de pão. (4x)`
+  },
+  {
+    "id": 56,
+    "category": "Komunhao",
+    "title": "CORAÇÃO SACERDOTAL DE JESUS",
+    "content": `CORAÇÃO SACERDOTAL DE JESUS\nCoração sacerdotal de Jesus, multiplicai os sacerdotes.\nCoração sacerdotal de Jesus, santificai os sacerdotes.\nCoração sacerdotal de Jesus,\natual, actual pelos sacerdotes.\nNossa Senhora do Rosário de Fátima, Rainha do clero,\nrogai pelo Santo Padre, pelo nosso prelado,\npor todo o clero e pelos nossos seminários.`
+  },
+  {
+    "id": 57,
+    "category": "Komunhao",
+    "title": "BAINHIRA NA'I",
+    "content": `BAINHIRA NA'I\n\n1. Ha'u hamlaha, o to aihan mai Ha'u.\nBainhira Na'i, ha'u la dauk hetan ita Boot?\nHa'u malirin, o fo hatais mai Ha'u.\nMaibe ha'u Na'i, ha'u la dauk hetan ita Boot.\nBa maun alin terus o sei loran metin\nho o nia domin sei fo ksolok ba sira.\n\n2. Ha'u kuran Na'i, humu o be mai Ha'u.\nBainhira Na'i, ha'u la dauk hetan ita Boot?\nHa'u hetan susar, o fo tulun mai Ha'u.\nMaibe ha'u Na'i ha'u la dauk hetan ita Boot.\n\n3. Ha'u la'o dalan, o fo uma ba Ha'u.\nBainhira Na'i, ha'u la dauk hetan ita Boot?\nHa'u iha dadur, o ba visita Ha'u.\nHa'u hatene ona. Ita hamutuk ami.`
+  },
+  {
+    "id": 58,
+    "category": "Komunhao",
+    "title": "UMA ESPIGA",
+    "content": `UMA ESPIGA\nUma espiga dourada pelo sol,\ncacho de uvas que um homem cortou\nse convertem para nós em pão e vinho de amor;\nno Corpo e Sangue do Senhor.\n\n1. Comungamos trigo na mesma semeadura,\nsomos moinho, a vida nos tritura com dor,\nDeus nos faz Eucaristia no amor.\n\n2. Como grãos que fazem um só pão,\ncomo notas do mesmo cantor,\ncomo gotas de água que se fundem no mar,\nos cristãos um só corpo de Deus formar.\n\n3. Sentar-se à mesa do Senhor,\ncomo filhos, Seu pão comungar,\nnesta mesma esperança caminhando irão\ne na vida como irmãos se hão-de amar.`
+  },
+  {
+    "id": 59,
+    "category": "Komunhao",
+    "title": "SENHOR, NÓS TEMOS FOME",
+    "content": `SENHOR, NÓS TEMOS FOME\nSenhor, nós temos fome, Senhor, nós temos sede;\nnão a fome de pão, não a sede de água!\nSão razdes de viver o que nos falta. (2x)\n\n1. De um extremo mar ao outro, Senhor,\na Vossa palavra, mas não a encontramos.\n2. Ninguém fala de Ti, ninguém nos pode ensinar,\nqueremos profetas que apontem caminhos para nós guiar.\n3. Enquanto muitos se arrastam na fome e no sofrimento\nhá outros que vivem no seu bem estar,\ncomo donos do mundo, servir.\n4. O que nos falta é servir,\nnem só de pão vive o homem,\nmas vive também de toda a palavra\nque vem de Deus.`
+  },
+  {
+    "id": 60,
+    "category": "Komunhao",
+    "title": "COMUNHÃO E UNIÃO",
+    "content": `COMUNHÃO E UNIÃO\nComunhão é união e união com Deus;\ncomunhão é união e verdade,\nnossas almas unidas se fundem\ne as mãos se estreitam em paz.\n\no Senhor quando em fim voltarei. (2x)\n\n1. Na mesa com Cristo me sentirei\ne outro Cristo com Ele vou ser\ncom meu irmão eu meu alegre no dia\ne na noite com Ele sofrerei. (2x)\n\n2. Minha alma unida a Deus todo est,\nquero ser testemunha e verdade\npara todos os homens dispersos,\no Senhor quando em fim voltarei. (2x)\n\n3. Nenhum homem se afaste da tua forte voz\nse convidas a humanidade\ntodos podem amar-Te também, Senhor\nquando enfim para todos virá. (2x)`
+  },
+  {
+    "id": 61,
+    "category": "Komunhao",
+    "title": "Ó JESUS, QUE ESTAIS A MEU LADO",
+    "content": `Ó JESUS, QUE ESTAIS A MEU LADO\n\n1. Ó Jesus, que estais sempre a meu lado\najudai-me a levar minha cruz.\nDesviai-me de todo o pecado\npara que vos sirva, Ó Jesus.\nVamos todos com santa alegria\nreceber a Jesus com amor,\nsempre mais que adoremos a Jesus\nmais e digno do nosso amor. (2x)\n\n2. Qual veado que corre sedento\nde águas cristalinas ao frescor,\nassim eu corro a ti desfalecido\ncom teu pronto apaga o meu ardor.\n\n3. E com fé e também com amor\nvamos todos buscar,\no alento, o forgo e o valor\npara os combates que vamos travar\n\n4. São combates que só de temer\nos combates das nossas paixões;\ne Jesus é que há-de vencer,\ne com Ele seremos livres.`
   }
+
 
 ];
 
