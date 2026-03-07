@@ -229,6 +229,232 @@ ROSARIUM VIRGINIS MARIAE DO SUMO PONTÍFICE JOÃO PAULO II, no. 38`,
   },
 ];
 
+// --- DATA: TERÇO DA MISERICÓRDIA ---
+const TERSO_DATA = [
+  {
+    id: "koronka",
+    title: "Koronka Jesus Laran Luak",
+    image: "tersu.jpg",
+    sections: [
+      {
+        heading: "Oração Hahu Nian (15.00)",
+        content: `O Jesus, Ita be mate tiha, maibe ué matan moris nian
+suli nafatin baklamar sira, no ita laran luak nakloke ba mundu tomak.
+
+Ó ué matan moris nian, Ita nia laran luak nebé rohan laek,
+suli nafatin bamundo tomak no namamuk-An mai ami.`,
+      },
+      {
+        badge: "Ran no ué nebé naroman hosi Jesus Futar Fuan Santo,",
+        content: `_Ran no ué nebé naroman hosi Jesus Futar Fuan Santo,
+nu'udar ué matan rohan laek mai mai'mi,
+ha'u fiar iha Ita Boot_ (3x).`,
+      },
+      {
+        content: `**Ami Aman**, be iha lalehan, halo ami hahí hana'i Ita naran,
+halo Ita nia reino to'o mai ami,
+Ita nia hakarak halo tuir ba,
+iha rai nu'udar iha lalehan;
+
+**Ohin** ne'e haraik ai-han lor-loron nian mai ami,
+haraik perdaun mai ami sala,
+nu'udar ami perdua ema halo aat ami,
+labele husik ami monu ba tentação,
+maibe hasai ami hosi aat.
+Amen.`,
+      },
+      {
+        content: `**Ave Maria**, grasa barak liu iha Ita boot,
+Maromak ho Ita Boot,
+Ita boot di'ak liu feto hotu-hotu,
+Ita Boot nia Oan Jesus di'ak liu.
+
+**Santa Maria**, Maromak nia Inan,
+harohan mai ami ema maksalak sira,
+horas ne'e no horas ne'bé ami ata mate.
+Amen.`,
+      },
+    ],
+  },
+  {
+    id: "credo",
+    title: "Credo",
+    sections: [
+      {
+        content: `**HA'U FIAR NA'I MAROMAK**,
+Aman kbiit tomak na'in mahalo lalehan no rai;
+no **Jesus Cristo**, nia Oan Mane Mesak ita Na'in;
+_be ko'us ona hodi Espírito Santo nia kbiit_;
+moris hosi Virgem Maria;
+terus iha Poncio Pilatus nia ukun, hedi iha Cruz,
+mate no hakoi tiha; tuan ba mate sira hela fatin;
+liu loron tolu moris hias; hi'it-An ba lalehan;
+he'in-An iha Aman Maromak
+kbiit-tomak Na'in nia sorin kuana,
+hosi nebe sei hi'it-An mai,
+atu tesilia ba ema moris no ba ema mate.
+
+**Ha'u Fiar Espírito Santo**,
+Santa Kreda Católica; Santo sira tulun malu; salan sira kasu ona,
+moris hi'as isin nian no moris rohan laek. Amen.`,
+      },
+      {
+        badge: "Nas contas grandes:",
+        content: `Aman hun no rohan laek,
+ha'u hasa'e ba Ita Boot,
+Ita Oan Doben ami Na'i Jesus Kristu Nia Isin,
+Ran, Klamar no Divindade
+Hodi kasu ami salan
+no mundo tomak nia salan hotu.`,
+      },
+      {
+        badge: "Nas contas pequenas, em vez das Ave Marias, dizemos:",
+        content: `Tanba Jesus nia Terus, todan liu
+sadi'a ami no mundo tomak Na'i. (10x)`,
+      },
+      {
+        badge: "No fim dizemos três vezes:",
+        content: `Maromak Santo, Maromak Kbiit ua'in,
+Maromak moris tinan ba tinan nafatin,
+sadi'a ami no mundo tomak.`,
+      },
+    ],
+  },
+  {
+    id: "finais",
+    title: "Orações Finais",
+    sections: [
+      {
+        heading: "Oração atu Taka Nian:",
+        content: `Aman hun no rohan laek,
+Ita Boot nia laran luak rohan laek,
+no riko soin domin Itanian nebe la iha kotu,
+hateke mai ami ho laran luak
+no hakbiit liu tan Ita laran luak iha ami laran,
+atu iha tempo susar
+ami labele lakon esperanca ou laran dodok,
+maibe ho fiar metin ami entrega ami-an tomak
+tuir Ita Boot nia hakarak nebe Santo,
+Na'in ba domin no laran luak nian.`,
+      },
+      {
+        heading: "Oração ba Saúde:",
+        content: `Jesus, Ita Boot nia ran nebe mos no kmo'ok,
+naksulin mai ha'u isin nebe moras;
+Ita Boot nia isin nebe mos no kmanek,
+bele fo hikas ksolok mai ha'u isin nebe kbiit laek;
+Ita Boot nia moris nebe furak no kbiit maka'as
+bele suli nafatin mai, tuir los Ita nia hakarak mai ha'u ata.`,
+      },
+    ],
+  },
+  {
+    id: "santa-faustina",
+    title: "Oração Husu Tulun hosi Santa Faustina",
+    sections: [
+      {
+        content: `O Jesus,
+Ita be halo Santa Faustina
+hadomi momos Ita Laran Luak nebe rohan laek,
+no hosi nia, hodi tuir los Ita nia hakarak nebe santo,
+bele haraik mai ha'u ata.
+
+Na'i, ha'u ema maksalak,
+nebe la soi atu simu Ita Boot nia laran luak,
+maibe haré ba sacrificio no laran sadi'a hosi Santa Faustina,
+simu ba ami nia harohan da'et hosi nia,
+no ho laran tomak ami hato'o ba Ita Boot.`,
+      },
+      {
+        content: `**Ami Aman**, be iha lalehan, halo ami hahí hana'i Ita naran,
+halo Ita nia reino to'o mai ami,
+Ita nia hakarak halo tuir ba,
+iha rai nu'udar iha lalehan;
+
+**Ohin** ne'e haraik ai-han lor-loron nian mai ami,
+haraik perdaun mai ami sala,
+nu'udar perdua ema halo aat ami,
+labele husik ami monu ba tentação,
+maibe hasai ami hosi aat.
+Amen.
+
+**Ave Maria**, grasa barak liu iha Ita boot,
+Maromak ho Ita Boot,
+Ita boot di'ak liu feto hotu,
+Ita Boot nia Oan Jesus di'ak liu.
+
+**Santa Maria**, Maromak nia Inan,
+harohan mai ami ema maksalak sira,
+horas ne'e no horas ne'bé ami ata mate.
+Amen.
+
+**Gloria ba Padre**, ba Fillu no ba Espítu Santu,
+nudar hori uluk, oras ne'e, tinan ba tinan nafatin.
+**Amen.**`,
+      },
+      {
+        content: `**Sagrado Coração de Jesus**, _nos temos confiança em Vós_
+**Sagrada Coração de Maria**, _sede minha salvação_
+
+**São João Paulo II**, Harohan mai ami
+**Santa Faustina**, Harohan mai ami
+**Santo no Santa sira hotu iha lalehan**, Harohan mai ami.
+
+**Jesus Divina Misericordia**, eu confio em vós
+
+Dai-lhes Senhor o eterno Descanso
+_Entre os resplendores da luz perpétua_
+
+Descansem em Paz
+_Amen_`,
+      },
+    ],
+  },
+  {
+    id: "alma-cristo",
+    title: "Alma de Cristo",
+    image: "scj.jpeg",
+    sections: [
+      {
+        content: `Alma de Cristo, santificai-me.
+Corpo de Cristo, salvai-me.
+Sangue de Cristo, inebriai-me.
+Água do lado de Cristo, lavai-me.
+Paixão de Cristo, confortai-me.
+Ó bom Jesus, ouvi-me.
+Dentro de Vossas chagas, escondei-me.
+Não permitais que me separe de Vós.
+Do espírito maligno, defendei-me.
+Na hora da minha morte, chamai-me.
+E mandai-me ir para Vós,
+para que Vos louve com os vossos Santos,
+por todos os séculos dos séculos.
+**Amém.**`,
+      },
+    ],
+  },
+  {
+    id: "salve-rainha",
+    title: "Salve Rainha",
+    image: "vm.jpeg",
+    sections: [
+      {
+        content: `Salve Rainha, Mãe de misericórdia, vida,
+doçura e esperança nossa, salve!
+A vós bradamos os degredados filhos de Eva.
+A vós suspiramos, gemendo e chorando neste vale de lágrimas.
+Eia, pois, advogada nossa,
+esses vossos olhos misericordiosos a nós volvei,
+e depois deste desterro, mostrai-nos JESUS,
+bendito fruto do Vosso ventre.
+Ó clemente, ó piedosa, ó doce sempre Virgem Maria.
+**Rogai por nós, Santa Mãe de DEUS.**
+_Para que sejamos dignos das promessas de CRISTO._`,
+      },
+    ],
+  },
+];
+
 const KNANANUK_CATEGORIES = [
   "Entrada",
   "Gloria",
@@ -291,7 +517,6 @@ const RichLine = ({ text }) => {
     last = match.index + raw.length;
   }
   if (last < text.length) parts.push({ type: "plain", text: text.slice(last) });
-
   return (
     <span>
       {parts.map((p, i) =>
@@ -317,6 +542,65 @@ const RichText = ({ content, fontSize }) => {
     </div>
   );
 };
+
+// Terço da Misericórdia full page view
+const TersoView = ({ onBack, fontSize }) => (
+  <div className="animate-in fade-in duration-500 pb-20 space-y-5">
+    {/* Header card */}
+    <div className="rounded-2xl p-5 text-center shadow-sm border border-pink-100" style={{ backgroundColor: "#f5dadc" }}>
+      <h2 className="text-2xl font-black text-red-700 mb-3">Terço da Misericórdia</h2>
+      <img
+        src="/src/assets/tersu.jpg"
+        alt="Terço da Misericórdia"
+        className="mx-auto rounded-xl shadow-sm mb-1"
+        style={{ maxWidth: "260px", width: "100%" }}
+        onError={(e) => { e.target.style.display = "none"; }}
+      />
+    </div>
+
+    {TERSO_DATA.map((section) => (
+      <div key={section.id} className="rounded-2xl shadow-sm border border-pink-100 overflow-hidden" style={{ backgroundColor: "#f5dadc" }}>
+        {/* Section title */}
+        <div className="px-5 pt-4 pb-2 border-b border-pink-200">
+          <h3 className="font-black text-lg text-gray-800">{section.title}</h3>
+        </div>
+
+        <div className="px-5 py-4 space-y-4">
+          {/* Optional section image */}
+          {section.image && (
+            <img
+              src={`/src/assets/${section.image}`}
+              alt={section.title}
+              className="rounded-xl shadow-sm"
+              style={{ maxWidth: "260px", width: "100%" }}
+              onError={(e) => { e.target.style.display = "none"; }}
+            />
+          )}
+
+          {/* Subsections */}
+          {section.sections.map((sub, i) => (
+            <div key={i}>
+              {/* Badge label (italic instruction) */}
+              {sub.badge && (
+                <p className="text-xs text-blue-700 border border-blue-300 rounded-full px-3 py-1 inline-block mb-2 italic">
+                  {sub.badge}
+                </p>
+              )}
+              {/* Heading label */}
+              {sub.heading && (
+                <p className="font-bold text-gray-700 mb-1">{sub.heading}</p>
+              )}
+              <RichText content={sub.content} fontSize={fontSize} />
+              {i < section.sections.length - 1 && (
+                <div className="border-t border-pink-200 mt-4" />
+              )}
+            </div>
+          ))}
+        </div>
+      </div>
+    ))}
+  </div>
+);
 
 // Ti paulo ni content view
 const ContentDisplay = ({ item, fontSize }) => {
@@ -389,6 +673,8 @@ export default function App() {
   const goBack = () => {
     if (view === "content" && selectedItem?.origin) {
       setView(selectedItem.origin);
+    } else if (view === "terso") {
+      setView("rosary");
     } else {
       setView("home");
     }
@@ -409,11 +695,10 @@ export default function App() {
 
       <Header
         title={
-          view === "home"
-            ? "Harohan"
-            : view === "misa"
-              ? "Misal Romano"
-              : view.toUpperCase()
+          view === "home" ? "Harohan"
+          : view === "misa" ? "Misal Romano"
+          : view === "terso" ? "Terço da Misericórdia"
+          : view.toUpperCase()
         }
         showBack={view !== "home"}
         onBack={goBack}
@@ -665,7 +950,32 @@ export default function App() {
                 <ChevronRight className="w-5 h-5 text-gray-400 group-hover:text-indigo-500 ml-2 shrink-0" />
               </Card>
             ))}
+
+            {/* Terço da Misericórdia button */}
+            <div className="pt-2">
+              <button
+                onClick={() => setView("terso")}
+                className="w-full flex items-center justify-between px-5 py-4 rounded-2xl shadow-sm border border-red-200 active:scale-[0.98] transition-all hover:border-red-400"
+                style={{ backgroundColor: "#fce4e4" }}
+              >
+                <div className="flex items-center gap-3">
+                  <div className="p-2 bg-red-100 rounded-xl">
+                    <Cross className="w-5 h-5 text-red-600" />
+                  </div>
+                  <div className="text-left">
+                    <p className="font-bold text-red-800">Terço da Misericórdia</p>
+                    <p className="text-xs text-red-500 italic">Jesus Divina Misericórdia</p>
+                  </div>
+                </div>
+                <ChevronRight className="w-5 h-5 text-red-400" />
+              </button>
+            </div>
           </div>
+        )}
+
+        {/* VIEW: TERÇO DA MISERICÓRDIA */}
+        {view === "terso" && (
+          <TersoView fontSize={fontSize} />
         )}
 
         {/* VIEW: CONTENT DISPLAY */}
