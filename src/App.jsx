@@ -21,6 +21,12 @@ import imgScj from "./assets/scj.jpeg";
 import imgVm from "./assets/vm.jpeg";
 import imgHbn from "./assets/hbn.webp";
 import imgMisal from "./assets/misal1.webp";
+import imgRozariu from "./assets/rozariu.png";
+import imgKnananuk from "./assets/knananuk.png";
+import imgHauSae from "./assets/hau-sae.png";
+import imgPvHalibur from "./assets/pv-halibur.png";
+import imgOhinMai from "./assets/ohin-mai.png";
+import imgGloria from "./assets/gloria.png";
 
 // --- DATA: ORASAUN (REZA) ---
 const ORASAUN_DATA = [
@@ -232,6 +238,36 @@ Ntan sira Maromak nia liman fatin.
 3. Hahi, hana'i ba Na'i Maromak,
 
 4. Hamos tan Nia Ita Maksoin.`,
+  },
+  {
+    id: 6,
+    category: "Entrada",
+    title: "HAU SAE BA MAROMAK NIA UMA",
+    image: "hau-sae.png",
+    content: `Ha'u sa'e ba Maromak nia uma,
+ho laran kontente no ksolok.
+Ha'u mai buka Ita Boot nia oin,
+Na'i Maromak, ha'u nia ksolok.`,
+  },
+  {
+    id: 7,
+    category: "Entrada",
+    title: "Povu halibur hamutuk",
+    image: "pv-halibur.png",
+    content: `Povu halibur hamutuk,
+hamriik iha Na'i nia oin.
+Hahi, hawelok ba Maromak,
+ba nafatin, rohan-laek.`,
+  },
+  {
+    id: 8,
+    category: "Entrada",
+    title: "OHIN MAI ITA HAHI",
+    image: "ohin-mai.png",
+    content: `Ohin mai ita hahi,
+ba Na'i Maromak boot.
+Ho laran tomak ita hananu,
+glória ba Aman lalehan.`,
   },
 ];
 
@@ -717,12 +753,14 @@ const TersoView = ({ onBack, fontSize }) => (
             const imgMap = { "tersu.jpg": imgTersu, "scj.jpeg": imgScj, "vm.jpeg": imgVm };
             const src = imgMap[section.image];
             return src ? (
-              <img
-                src={src}
-                alt={section.title}
-                className="rounded-xl shadow-sm"
-                style={{ maxWidth: "260px", width: "100%" }}
-              />
+              <div className="flex justify-center">
+                <img
+                  src={src}
+                  alt={section.title}
+                  className="rounded-xl shadow-sm"
+                  style={{ maxWidth: "260px", width: "100%" }}
+                />
+              </div>
             ) : null;
           })()}
 
@@ -771,6 +809,12 @@ const ContentDisplay = ({ item, fontSize }) => {
     setTimeout(() => setCopied(false), 2000);
   };
 
+  const imgMap = {
+    "hau-sae.png": imgHauSae,
+    "pv-halibur.png": imgPvHalibur,
+    "ohin-mai.png": imgOhinMai,
+  };
+
   return (
     <div className="animate-in fade-in slide-in-from-bottom-4 duration-500 pb-20">
       <div className="flex justify-between items-start mb-6">
@@ -801,6 +845,11 @@ const ContentDisplay = ({ item, fontSize }) => {
         </button>
       </div>
       <RichText content={item.content} fontSize={fontSize} />
+      {item.image && imgMap[item.image] && (
+        <div className="flex justify-center mt-6">
+          <img src={imgMap[item.image]} alt={item.title} className="rounded-xl shadow-md" style={{ maxWidth: "280px", width: "100%" }} />
+        </div>
+      )}
     </div>
   );
 };
@@ -958,6 +1007,16 @@ export default function App() {
         {/* VIEW: KNANANUK */}
         {view === "songs" && (
           <div className="space-y-3 animate-in slide-in-from-right-4 duration-300">
+            {/* Landing banner */}
+            <div className="rounded-2xl overflow-hidden shadow-md border border-blue-100 mb-1" style={{ backgroundColor: "#f5dadc" }}>
+              <div className="flex justify-center pt-4 px-4">
+                <img src={imgKnananuk} alt="Knananuk" className="rounded-xl shadow-sm" style={{ maxWidth: "260px", width: "100%" }} />
+              </div>
+              <div className="text-center px-5 py-4">
+                <p className="text-base italic text-gray-700 font-serif leading-snug">"Ema nebe hananu, reza data rua"</p>
+                <p className="text-xs font-bold text-gray-500 mt-1 uppercase tracking-widest">Santo Agostinho</p>
+              </div>
+            </div>
             {/* Search bar */}
             <div className="relative">
               <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 w-5 h-5" />
@@ -1033,6 +1092,12 @@ export default function App() {
                       {/* Songs list - shown when open */}
                       {isOpen && songsInCategory.length > 0 && (
                         <div className="border-t border-gray-100">
+                          {/* Gloria category gets a header image */}
+                          {category === "Gloria" && (
+                            <div className="flex justify-center py-3 px-4">
+                              <img src={imgGloria} alt="Gloria" className="rounded-xl shadow-sm" style={{ maxWidth: "240px", width: "100%" }} />
+                            </div>
+                          )}
                           {songsInCategory.map((song, index) => (
                             <div
                               key={song.id}
@@ -1072,7 +1137,10 @@ export default function App() {
         {view === "rosary" && (
           <div className="space-y-3 animate-in slide-in-from-right-4 duration-300">
             <div className="text-center mb-2 p-4 rounded-2xl border border-indigo-100" style={{ backgroundColor: "#f5dadc" }}>
-              <h2 className="text-indigo-800 font-black text-xl">ITA NAIN FETO NIA ROSARIO</h2>
+              <h2 className="text-indigo-800 font-black text-xl mb-3">ITA NAIN FETO NIA ROSARIO</h2>
+              <div className="flex justify-center">
+                <img src={imgRozariu} alt="Rozariu" className="rounded-xl shadow-md" style={{ maxWidth: "260px", width: "100%" }} />
+              </div>
             </div>
             {ROZARIU_DATA.map((mystery) => (
               <Card
