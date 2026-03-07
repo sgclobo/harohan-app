@@ -667,6 +667,432 @@ _Nia ha'u Maromak no Halos._
 3. nudar hori uluk oras ne'e tinan ba tinan nafatin.
    Amen.`,
 }, 
+{
+  id: 29,
+  category: "Entrada",
+  title: "NA'I, KOALIA, BOLU RAI HOTU",
+  content: `**NA'I, KOALIA, BOLU RAI HOTU**
+_Na'i, koalia, bolu rai hotu_
+
+1. Na'i, bolu ema hotu: lorosa'e, loromonu.
+2. Hosi Sião, foho furak; Nia nabilan.
+3. Ita Maromak mai; Nia sei koalia.
+4. Halibur iha Ha'u oin, Ha'u emar sira.
+5. Rona mai, Ha'u povu! Ha'u mak koalia.
+6. Hasai sakrifisiu hahi ba Na'i Maromak.`,
+},
+
+{
+  id: 30,
+  category: "Entrada",
+  title: "NA'I JESUS, ITA AMI NIA KSOLOK",
+  content: `**NA'I JESUS, ITA AMI NIA KSOLOK**
+
+1. Na'i Jesus, Ita ami nia ksolok. (2x)
+   Na'i Jesus, Ita mak halibur ami. (2x)
+   Na'i Jesus, Ita mak halibur ami
+   _Iha Ita nia domin._
+
+2. Na'i Jesus, Ita ami nia dalan. (2x)
+   Ema tomak kuran Ita Boot. (2x)
+   Ema tomak kuran Ita Boot...
+
+3. Ita Boot hatene ami nia sola. (2x)
+   Maibe Ita foti ami neon. (2x)
+   Ita la'o hamutuk ho ami...
+
+4. Ohin, loron Na'i ninian. (2x)
+   Ami simu Ita Boot nia lia. (2x)
+   Ita la'o hamutuk ho ami...`,
+},
+
+{
+  id: 31,
+  category: "Entrada",
+  title: "NA'I IDA DEIT",
+  content: `**NA'I IDA DEIT**
+_Na'i ida deit, fiar ida deit, baptismo ida deit._
+_Aman Maromak ida deit!_
+
+1. Buka hametin unidade iha Na'i nia Espiritu
+   hamutuk iha dame,
+   _Ita hananu hodi haklaken._
+
+2. Ita hotu isin lolon ida deit iha Na'i Jesus.
+
+3. Ita hotu esperansa ida deit iha Na'i Jesus.`,
+},
+
+{
+  id: 32,
+  category: "Entrada",
+  title: "MAROMAK MAK BOLU",
+  content: `**MAROMAK MAK BOLU**
+_Maromak, Ita mak bolu no ami la'o to'o mai;_
+_Ita nia liafuan haksolok ami laran. (2x)_
+
+1. Ami la'o ba It'nia mesa, ami la'o ba It'nia altar,
+   hodi simu It'nia lia; ami ba ho hananu.
+
+2. Ami hakarak moris ho ita, lor-loron ba nafatin.
+   Fo mai ami It'nia domin, fo ksolok mai ami.
+
+3. Ita fo, fahe ba malu fo be moris ita laran,
+   be It'nia tronu nabilan hato'o ami lia.`,
+},
+
+{
+  id: 33,
+  category: "Entrada",
+  title: "MAROMAK LORON NE'E",
+  content: `**MAROMAK LORON NE'E**
+_Maromak loron ne'e, loron baibain, Jesus. (2x)_
+
+1. Lalehan, loron, fulan no fitun,
+   to'o foho no tetuk tun tasi nia mai.
+   Ema, balada, aifunan, aifuan,
+   osan mean no mutin Ita ninian.
+
+2. Dader, loron sa'e, kaer ha'u knaar
+   no buka matenek, hanoin ha'u Na'i.
+   Kosar no kole, ha'u matan ba leten,
+   ha'u fuan ba aas, ha'u Na'i to tulun.
+
+3. Riku, kiak, matenek eh beik,
+   ema diak eh aat, ha'u alin no maun.
+   Ha'u fuan no laran, tulun, hadomi
+   to liman ba malu, tan sira Jesus.`,
+},
+
+{
+  id: 34,
+  category: "Entrada",
+  title: "MAI LA'O HO HA'U BA MAROMAK UMA",
+  content: `**MAI LA'O HO HA'U BA MAROMAK UMA**
+
+1. Mai, la'o ho ha'u ba Maromak uma. (3x)
+   _Iha neba haksolok, ksolok, ksolok._
+
+2. Lalehanla dook ba Maromak uma. (3x)
+
+3. Jesus mak dalan ba Maromak uma. (3x)
+
+4. Jesus mak naroman iha Maromak uma. (3x)
+
+5. Jesus mak domin iha Maromak uma. (3x)
+
+6. Jesus mak damen iha Maromak uma. (3x)
+
+7. Ita hahi Nia iha Maromak uma. (3x)`,
+},
+
+{
+  id: 35,
+  category: "Entrada",
+  title: "MAI HOTU HAKBESIK MAROMAK",
+  content: `**MAI HOTU HAKBESIK MAROMAK**
+_Mai hotu, hakbesik Maromak: haksolok no hananu!_
+
+1. Rai tomak hawelok Maromak, serbi ita Na'i haksolok.
+   Mai nia tutor oin, hananu ksolok nian.
+
+2. Sei hatene katak Maromak ida deit.
+   Ita, Nia mak halo, ita ninian.
+   Ita nia povu bibi luhan Na'i nian.
+
+3. Mai, tama nia odamatan hodi hananu.
+   Hana'i, hahi Na'i Maromak,
+   agradese, hawelok nia naran.
+
+4. Tamba Na'i Maromak diak liu hotu;
+   Nia domin ba bei-beik, Nia lialos ba nafatin.
+
+5. Hasa'e ba Maromak Padre bele hot-hotu;
+   Maromak Filho, Jesus Kristu, ita Na'i;
+   ba Espiritu Santu. Amen.`,
+},
+
+{
+  id: 36,
+  category: "Entrada",
+  title: "LORON KSOLOK BOOT",
+  content: `**LORON KSOLOK BOOT**
+
+1. Loron ida ne'e mak loron domin nian
+   hamutuk halibur ho ksolok
+   atu haklaken Na'i nia Naran.
+   Loron ida ne'e mak loron domin nian
+   _Aleluia, aleluia. Ami haklaken ho ksolok boot
+   tan Na'i nia hahalok tomak. Aleluia, aleluia._
+
+2. Loron ida ne'e mak Na'i to perdua.
+   Hamutuk halibur ho ksolok
+   atu haklaken Na'i nia Naran.
+   Loron ida ne'e mak Na'i to perdua.`,
+},
+
+{
+  id: 37,
+  category: "Entrada",
+  title: "LORON IDA NE'E",
+  content: `**LORON IDA NE'E**
+_Loron ida ne'e mak Maromak fo tulun._
+_Ita hetan diak no haksolok._
+_Fo laran ba Maromak tan Nia,_
+_tan Nia diak, diak ba oin nafatin
+aleluia, aleluia._
+
+1. Israel nia ema, dehan ba,
+   "Ninia diak, diak ba oin nafatin."
+   Araao uma maka dehan ba,
+   "Ninia diak, diak ba oin nafatin."
+   Dehan ba Na'i Maromak nia uma,
+   "Ninia diak, diak ba oin nafatin."
+
+2. Iha ema diak sira knua,
+   ho hananu ksolok manan nian,
+   ita Na'i liman los halo diak,
+   foti Ita liman los, Maromak.
+   Maromak liman los todan tebes;
+   liurai liman, liman Na'i Maromak.`,
+},
+
+{
+  id: 38,
+  category: "Entrada",
+  title: "LORON FOUN SA'E ONA",
+  content: `**LORON FOUN SA'E ONA**
+_Loron foun sa'e ona, loron foun sa'e one,_
+_aifunan naklelar._
+_Loron foun sa'e ona, loron foun sa'e ona,_
+_ha'u hetan ha'u nia Maromak._
+
+1. Dolan tomak mundu ne'e nian dada ita ba lalehan.
+   Jesus Kristu mak dalan, lori ita ba lalehan.
+
+2. Ita ema nia vida laos deit iha terusu,
+   alin maun ita hetan, halo ita hadomi malu.
+
+3. Dalan nobun iha raiklaran halo ita la para,
+   tamba buat nobun sei liu, domin deit hasa'e ba Ita.`,
+},
+{
+  id: 39,
+  category: "Entrada",
+  title: "JUNTOS COMO IRMÃOS",
+  content: `**JUNTOS COMO IRMÃOS**
+_Juntos como irmãos, membros duma igreja._
+_Vamos caminhando ao encontro do Senhor._
+
+1. No longo caminhar pelo deserto, pela dor
+   não podemos avançar sem ajuda do Senhor.
+2. Unidos a rezar, unidos na mesma canção,
+   vivemos a nossa fé com a ajuda do Senhor.
+3. Unidos a cantar vamos dizer a toda a gente
+   que vale a pena viver na esperança e no amor.
+4. Nos vamos trabalhar na construção dum mundo novo
+   onde reinará o amor, onde reinará a paz.`,
+},
+
+{
+  id: 40,
+  category: "Entrada",
+  title: "JUNTOS CANTANDO A ALEGRIA",
+  content: `**JUNTOS CANTANDO A ALEGRIA**
+_Juntos cantando a alegria_
+_de estarmos unidos na fé e no amor._
+_Juntos sentindo em nossas vidas_
+_a alegre presença do Senhor._
+
+1. Somos a Igreja peregrina que Ele fundou,
+   somos um povo que caminha sem parar.
+   Entre cansaços e esperanças, para Deus,
+   nosso amigo, Jesus, nos levará.
+
+2. Há uma fé que alumia o nosso andar,
+   uma esperança que nos leva a confiar.
+   Mesmo que nos assustem as trevas de morte,
+   nosso amigo, Jesus, nos guiará.
+
+3. É o Senhor que nos assiste o caminhar;
+   com amizade nos vai acompanhar.
+   Se mil perigos nos espreitam sem cessar,
+   nosso amigo, Jesus, nos salvará.`,
+},
+
+{
+  id: 41,
+  category: "Entrada",
+  title: "RAIKLARAN, HANANU",
+  content: `**RAIKLARAN, HANANU**
+_Bidu, ho ksolok, hananu hahi Na'i!_
+_Bidu, ho ksolok, hawelok Nia naran;_
+_raiklaran tomak haktuir Na'i nia beran_
+_hodi lia dadolin!_
+_Rai ulun, rai ikun, tuku tur,_
+_hahi Na'i nia kmanek mesak oi-oin!_
+_Bidu ho tebe, hananu hahi Na'i!_
+_Bidu, ho ksolok, hawelok nia naran!_
+
+1. Povu tomak, hananu;
+   povu tomak hana'i Trindade.
+   Hahi ho ksolok, hawelok kmanek hotu
+   nebe hatudu Na'i nia beran boot.
+
+2. Povu tomak haksolok;
+   povu hotu tuku tur hana'i
+   Na'i nia beran ho buat kmanek hotu
+   nebe haklaken Na'i nia domin lolos.
+
+3. Rai klaran, hananu;
+   povu hosi rai ulun rai ikun,
+   halo rai klaran hawelok hahi Na'i
+   nebe hakiak rai klaran ho Nia domin.`,
+},
+
+{
+  id: 42,
+  category: "Entrada",
+  title: "RAHUN DIAK BA IDA BE MAI",
+  content: `**RAHUN DIAK BA IDA BE MAI**
+_Rahun diak ba ida be mai hodi Na'i nia naran._
+
+1. Povu raiklaran hakseek,
+   hana'i Maromak ho knananuk ksolok.
+
+2. Tan Na'i boot liu hotu,
+   kbiit makaas,
+   Nia raiklaran tomak nia Liurai.
+
+3. Tan povu hotu iha Nia ukun,
+   halo reinu hotu kiik liu Nia.
+
+4. Haraik rahun kmanek mai ita,
+   tuir Jacob nia domin.
+
+5. Hawelok, haksolok ba Maromak,
+   hakseek hananu ba Na'i.
+
+6. Hananu knananuk ba Maromak, hananu;
+   hananu knananuk ba ita nia Liurai hananu.
+
+7. Maromak mundu tomak nia Liurai,
+   hananu knananuk mesak kmanek.
+
+8. Maromak ukun povu raiklaran,
+   Maromak hein An iha fatin santu.`,
+},
+
+{
+  id: 43,
+  category: "Entrada",
+  title: "OHIN MAROMAK NIA LORON BOOT",
+  content: `**OHIN MAROMAK NIA LORON BOOT**
+
+1. Ohin Maromak nia loron boot,
+   ho Nia ita mai haksolok,
+   hodi hana'i, hahi Nia.
+   Ohin Maromak nia loron boot.
+
+   Aleluia, aleluia,
+   ita sei hatudu katak sa,
+   ninia hahalok foun tomak.
+   Aleluia, aleluia.
+
+2. Ohin Maromak hatudu nia domin...
+
+3. Ohin Maromak hatudu perdaun..`,
+},
+
+{
+  id: 44,
+  category: "Entrada",
+  title: "OHIN LORON, LORON HANA'I NA'I JESUS",
+  content: `**OHIN LORON, LORON HANA'I NA'I JESUS**
+_Ohin loron, loron hana'i Na'i Jesus, aleluia, aleluia._
+
+1. Husik buat hotu, mai uma Kreda,
+   hana'i, hahi Na'i Maromak.
+   Hasa'e ba Nia klamar no isin,
+   terus eh ksolok; diak eh aat.
+
+2. Loron Domingo loron harohan,
+   rona Maromak lialos.
+   Komunga, simu aihan lalehan,
+   kbiit makaas, tulun diak nian.`,
+},
+
+{
+  id: 45,
+  category: "Entrada",
+  title: "OHIN ITA MAI HAHI",
+  content: `**OHIN ITA MAI HAHI**
+_Ohin ita mai hahi ita nia Maksoin bele tomak,_
+_hahi, hawelok ita Nain nebe halo ita moris._
+_Mai hotu, hahi ita Aman, domin los nia hun_
+_nebe halibur ita hadulas altar._
+
+1. Ha'u buka ita, ha'u tuir ita,
+   ha'u hein ita, ha'u hadomi ita.
+
+2. Ha'u fiar metin, ha'u laran metin,
+   ha'u kaer metin ita ukunfuan.`,
+},
+
+{
+  id: 46,
+  category: "Entrada",
+  title: "OHIN DADER",
+  content: `**OHIN DADER**
+
+1. Ohin dader, data ida tan
+   ha'u mai harohan no husu ita roman,
+   tamba ha'u la bele la'o tan ba oin,
+   hakarak rona Ita lia nebe dehan:
+   Aman hadomi, Nia bolu ha'u,
+   Atu to ksolok ha'u.
+
+   _Ha'u ba la'o ha'u dalan, ha'u ba_
+   _Tamba Na'i mak domin, tamba Na'i bolu ha'u,_
+   _Tamba Na'i mak domin._
+
+2. Ohin ne'e karik dala ida tan,
+   ha'u ba tanis, hamnasa, hanoin
+   base la hatene loron aban nian.
+   Buat ha'u hatene mak ida ne'e los:
+   katak ha'u Aman bolu ha'u nafatin
+   atu to ksolok ha'u.`,
+},
+
+{
+  id: 47,
+  category: "Entrada",
+  title: "NA'I, MAI UMA NE'E",
+  content: `**NA'I, MAI UMA NE'E**
+_Na'i, mai uma ne'e. Ohin It'bolu ami._
+_Ami mai halibur nudar Ita oan._
+
+1. Mai hosi fatin barak, halibur iha ne'e.
+   Ema lubun boot nebe tuir Ita lia.
+
+2. Hosi fatin dook tebes, hakbesik ba altar ne'e.
+   Simu moris foun hamutuk ho Ita Boot.`,
+},
+
+{
+  id: 48,
+  category: "Entrada",
+  title: "NA'I LIURAI RAI HOTU NIAN",
+  content: `**NA'I LIURAI RAI HOTU NIAN**
+_Na'i liurai rai hotu nian, ami hana'i Ita Boot_
+_Na'i Liurai ami nian, Ita nia ukun rohan laek._
+
+1. Na'i Maromak laran luak. Nia soi ita tan nia domin,
+   no to mai ita moris rohan laek.
+
+2. Ami hakat ba Ita uma atu hananu no harohan;
+   ami hahi no agradese ita nia kmanek wain.`,
+},
 ];
 
 // --- DATA: ROZARIU ---
