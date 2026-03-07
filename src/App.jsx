@@ -19,6 +19,8 @@ import {
 import imgTersu from "./assets/tersu.jpg";
 import imgScj from "./assets/scj.jpeg";
 import imgVm from "./assets/vm.jpeg";
+import imgHbn from "./assets/hbn.webp";
+import imgMisal from "./assets/misal1.webp";
 
 // --- DATA: ORASAUN (REZA) ---
 const ORASAUN_DATA = [
@@ -76,26 +78,102 @@ maun alin sira nudar ha’u an rasik tanba Ita Boot.`,
 ];
 
 // --- DATA: MISSA (MISA) ---
+// Each section has paragraphs with type: "sp" (speaker), "text", "subheading"
 const MISA_SECTIONS = [
   {
     id: "iniciais",
     title: "Ritos Iniciais",
-    content: `S: Hodi Padre,...\nP: Amen.\n\nS: Na’i Jesus Cristo nia graça, Aman Maromak nia domin, hamutuk iha Espírito Santo, horik ho imi.\nP: Rahun-di’ak ba Maromak be halibur ita, iha Cristo nia domin.\n\nS: Maun-alin no feton sira: atu hala’o loloos mistério santo sira, hanoin lai katak ita ema maksalak. Confessa ita salan.\n\nHa’u confessa ba Maromak, Kbiit-tomak Na’in, No ba imi, maun-alin no feton sira, katak ha’u sala fil-fila, hodi hanoin no hateten, hodi hahalok no la hala’o ha’u knaar, ha’u sala, ha’u sala tebes duni. Tan ne’e, ha’u husu ba Santa Maria, Virgem nafatin, ba Anjo no Santo sira hotu, no mos ba imi, maun-alin no feton sira, atu harohan ba Maromak, ita Na’in, mai ha’u.\n\nS: Maromak kbiit-tomak Na’in sadi’a ita ba, perdua ita salan, lori ita ba moris rohan-laek.\nP: Amen.\n\nV: Na’i Sadi’a ami\nR: Na’i sadi’a ami\nV: Cristo sadi’a ami\nR: Cristo sadi’a ami\n\nGlória ba Maromak iha leten aas liu,\nPaz iha rai-klaran, ba ema sira be laran-di’ak.\nNa’i Maromak, Liurai lalehan, Aman Maromak kbiit-tomak Na’in: ami hawelok Ita, ami hahí Ita, ami adora Ita, ami haliban Ita, tan Ita-nia glória boot tebes...`,
+    paragraphs: [
+      { type: "sp", s: "S", italic: true, text: "Hodi Padre,..." },
+      { type: "sp", s: "P", text: "Amen." },
+      { type: "sp", s: "S", italic: true, text: "Na'i Jesus Cristo nia graça, Aman Maromak nia domin, hamutuk iha Espírito Santo, horik ho imi." },
+      { type: "sp", s: "P", text: "Rahun-di'ak ba Maromak be halibur ita, iha Cristo nia domin." },
+      { type: "sp", s: "S", italic: true, text: "Maun-alin no feton sira: atu hala'o loloos mistério santo sira, hanoin lai katak ita ema maksalak." },
+      { type: "sp", s: "S", italic: true, text: "Confessa ita salan." },
+      { type: "text", text: "Ha'u confessa ba Maromak, Kbiit-tomak Na'in,\nNo ba imi, maun-alin no feton sira, katak ha'u sala fil-fila, hodi hanoin no hateten, hodi hahalok no la hala'o ha'u knaar, ha'u sala, ha'u sala tebes duni.\nTan ne'e, ha'u husu ba Santa Maria, Virgem nafatin, ba Anjo no Santo sira hotu, no mos ba imi, maun-alin no feton sira, atu harohan ba Maromak, ita Na'in, mai ha'u." },
+      { type: "sp", s: "S", text: "Maromak kbiit-tomak Na'in sadi'a ita ba, perdua ita salan, lori ita ba moris rohan-laek." },
+      { type: "sp", s: "P", text: "Amen." },
+      { type: "sp", s: "V", italic: true, text: "Na'i Sadi'a ami", inlineR: "Na'i sadi'a ami" },
+      { type: "sp", s: "V", italic: true, text: "Cristo sadi'a ami", inlineR: "Cristo sadi'a ami" },
+      { type: "sp", s: "V", italic: true, text: "Na'i sadi'a ami", inlineR: "Na'i sadi'a ami" },
+      { type: "subheading", text: "Glória" },
+      { type: "text", italic: true, text: "Glória ba Maromak iha leten aas liu,\nPaz iha rai-klaran, ba ema sira be laran-di'ak.\nNa'i Maromak, Liurai lalehan, Aman Maromak kbiit-tomak Na'in: ami hawelok Ita, ami hahí Ita, ami adora Ita, ami haliban Ita, tan Ita-nia glória boot tebes.\nNa'i Jesus Cristo, Oan-mane Mesak, Na'i Maromak, Bibi-oan Maromak, Aman Maromak nia Oan: Ita be kasu mundu salan, sadi'a ami. Ita be kasu mundu salan, simu ami nia harohan. Ita be hatodan-An iha Aman nia sorin kwana, sadi'a ami.\nTan Ita mesak de'it Santo; Ita mesak de'it Na'i; Ita mesak de'it, Aas liu nobun, Jesus Cristo, hamutuk ho Espírito Santo: iha Aman Maromak nia glória. Amen." },
+      { type: "sp", s: "S", italic: true, text: "Mai ita harohan..., Hodi ami Na'i Jesus Cristo, ita Oan, be Maromak ho ita, hamutuk iha Espírito Santo." },
+      { type: "sp", s: "P", text: "Amen." },
+    ],
   },
   {
     id: "liturjia",
     title: "Liturgia da Palavra",
-    content: `L: Na’i nia futar Lia.\nP: Agradece ba Maromak.\n\nS: Na’i horik ho imi.\nP: Horik mos ho ita.\n\nS: Na’i Jesus Cristo nia Evangelho, tuir São N.\nP: Na’i Glória ba Ita.\n\nS: Lia maksoin.\nP: Cristo, ami hahí Ita.`,
+    paragraphs: [
+      { type: "sp", s: "L", text: "Na'i nia futar Lia." },
+      { type: "sp", s: "P", text: "Agradece ba Maromak." },
+      { type: "sp", s: "S", text: "Na'i horik ho imi." },
+      { type: "sp", s: "P", text: "Horik mos ho ita." },
+      { type: "sp", s: "S", text: "Na'i Jesus Cristo nia Evangelho, tuir São N." },
+      { type: "sp", s: "P", text: "Na'i Glória ba Ita." },
+      { type: "sp", s: "S", text: "Lia maksoin." },
+      { type: "sp", s: "P", text: "Cristo, ami hahí Ita." },
+    ],
   },
   {
     id: "profissao",
     title: "Profissão de Fé",
-    content: `Ha’u fiar Maromak mesak ida de’it, Aman Kbiit-tomak Na’in, Mahalo lalehan no rai, buat hotu be bele haré no labele haré.\n\nHa’u fiar Na’i ida de’it, Jesus Cristo, Maromak Oan-mane Mesak, moris nanis hosi Aman molok tempo hahú. Maromak hosi Maromak, Naroman hosi Naroman. Maromak loos, hosi Maromak loloos; Aman hako’us, la halo Nia, nia-An ida de’it ho Aman. Buat hotu halo ona hodi Nia.\n\nTan ita ema, atu soi ita, Nia tun ona hosi Lalehan. Hodi Espírito Santo, Nia hola isin iha Virgem Maria nia knotak, halo nia-An ba ema. Tan mos ba ita, ema hedi Nia ba cruz, iha Pôncio Pilatos nia ukun; terus, mate tiha, ema hakoi Nia...`,
+    paragraphs: [
+      { type: "text", italic: true, text: "Ha'u fiar Maromak mesak ida de'it,\nAman Kbiit-tomak Na'in, Mahalo lalehan no rai, buat hotu be bele haré no labele haré.\nHa'u fiar Na'i ida de'it, Jesus Cristo, Maromak Oan-mane Mesak, moris nanis hosi Aman molok tempo hahú. Maromak hosi Maromak, Naroman hosi Naroman. Maromak loos, hosi Maromak loloos; Aman hako'us, la halo Nia, nia-An ida de'it ho Aman. Buat hotu halo ona hodi Nia.\nTan ita ema, atu soi ita, Nia tun ona hosi Lalehan. Hodi Espírito Santo, Nia hola isin iha Virgem Maria nia knotak, halo nia-An ba ema. Tan mos ba ita, ema hedi Nia ba cruz, iha Pôncio Pilatos nia ukun; terus, mate tiha, ema hakoi Nia.\nLiu loron tolu, tuir Escritura, Nia hahú moris-hi'as; hi'it-An ba Lalehan, he'in-An iha Aman nia sorin kwana. Nia sei mai fali ho glória, atu tesilia ba ema moris no ba ema mate; nia ukun sei rohan-laek.\nHa'u fiar Espírito Santo, Na'i be haraik moris, mai hosi Aman no Oan; ema haNa'i, haliban hamutuk ho Aman no Oan: Nia ha'e lia tun liu hosi Profeta sira.\nHa'u fiar Kreda ida-mesak, santa, católica, apostólica. Ha'u haklaken batismo ida de'it atu kasu salan. Ha'u hein moris-hi'as mate siran, no moris ida be sei mai. Amen." },
+      { type: "subheading", text: "Símbolo dos Apóstolos", note: "Tempo Quaresma e Tempo da Pascoa", color: "red" },
+      { type: "text", italic: true, text: "Ha'u fiar Maromak\nAman Kbiit-tomak Na'in, Mahalo lalehan no rai; no Jesus Cristo, nia Oan-mane Mesak, ita Na'in, be ko'us ona hodi Espírito Santo nia kbiit; moris hosi Virgem Maria; terus iha Pôncio Pilatos nia ukun, hedi iha cruz, mate no hakoi tiha; tun ba mate sira hela fatin; liu loron tolu moris-hi'as; hi'it-An ba Lalehan; he'in-An iha Aman Maromak Kbiit-tomak Na'in nia sorin kwana, hosi nebé sei hi'it-An mai atu tesilia ba ema moris no ba ema mate.\nHa'u fiar Espírito Santo; santa Kreda Católica; Santo sira tulun malu; salan sira kasu ona; moris-hi'as isin nian no moris rohan-laek. Amen." },
+    ],
+  },
+  {
+    id: "eucaristia",
+    title: "Liturgia Eucarística",
+    paragraphs: [
+      { type: "sp", s: "S", text: "Maun-alin no feton sira, harohan ba atu Aman Maromak Kbiit-tomak Na'in bele simu karan-mutun ha'un no imi nian." },
+      { type: "sp", s: "P", text: "Na'i simu netik karan-mutun ne'e hosi o liman atu hahí no hawelok nia naran, ba ita nia di'ak no ba santa Kreda hotu nian." },
+    ],
+  },
+  {
+    id: "oracaoeucaristica",
+    title: "Oração Eucarística",
+    paragraphs: [
+      { type: "sp", s: "S", text: "Maromak horik ho imi." },
+      { type: "sp", s: "P", text: "Horik mos ho ita." },
+      { type: "sp", s: "S", text: "Hasa'e imi neon ba Maromak." },
+      { type: "sp", s: "P", text: "Ami hasa'e ona ba Maromak." },
+      { type: "sp", s: "S", text: "Mai ita agradece Na'i ita nia Maromak." },
+      { type: "sp", s: "P", text: "Ne'e ita nia knaar, ita maksoin." },
+      { type: "text", bold: true, text: "Santo, Santo, Santo Na'i Maromak kbiit-tomak Na'in.\nLalehan no rai haklaken ita glória.\nHosana leten aas ba.\nDiak tebes Ida be mai hodi Na'i nia naran.\nHosana leten aas ba." },
+      { type: "sp", s: "S", text: "Mistério fiar nian." },
+      { type: "sp", s: "P", text: "Na'i, ami fo hatene ita nia mate, ami haklaken ita nia moris-hi'as. Na'i Jesus, hi'it-An mai!" },
+    ],
   },
   {
     id: "comunhao",
     title: "Ritos da Comunhão",
-    content: `S: Tuir Maksoi hanorin, ita barani harohan:\n\nAmi Aman, be iha lalehan, halo ami hahí-hana’i Ita naran, halo Ita nia reino to’o mai ami; Ita nia hakaran halo tuir ba iha rai nu’udar iha lalehan. Ohin ne’e haraik aihan lor-loron nian mai ami; haraik perdão mai ami salan, nu’udar ami perdua ema halo aat ami; labele husik ami monu ba tentação; maibé hasai ami hosi aat.\n\nS: Na’i nia damen horik nafatin ho imi.\nP: Cristo-Nia domin halo ita hamutuk ona.\n\nBibi-oan Maromak nian be kasu mundo salan, sadi’a ami.\nBibi-oan Maromak nian be kasu mundo salan, haraik damen mai ami.`,
+    paragraphs: [
+      { type: "sp", s: "S", text: "Tuir Maksoi hanorin, ita barani harohan:" },
+      { type: "text", text: "Ami Aman, be iha lalehan,\nhalo ami hahí-hana'i Ita naran,\nhalo Ita nia reino to'o mai ami;\nIta nia hakaran halo tuir ba iha rai nu'udar iha lalehan.\nOhin ne'e haraik aihan lor-loron nian mai ami;\nharaik perdão mai ami salan, nu'udar ami perdua ema halo aat ami;\nlabele husik ami monu ba tentação;\nmaibé hasai ami hosi aat." },
+      { type: "sp", s: "S", text: "Na'i, hasai ami hosi aat tomak..." },
+      { type: "sp", s: "P", text: "Ita mak Liurai, Ita mak ukun ho kbiit-liurai ba nafatin." },
+      { type: "sp", s: "S", text: "Ita be Maromak ho Aman hamutuk iha Espírito Santo." },
+      { type: "sp", s: "P", text: "Amen." },
+      { type: "sp", s: "S", text: "Na'i nia damen horik nafatin ho imi." },
+      { type: "sp", s: "P", text: "Cristo-Nia domin halo ita hamutuk ona." },
+      { type: "text", text: "Bibi-oan Maromak nian be kasu mundo salan, sadi'a ami.\nBibi-oan Maromak nian be kasu mundo salan, sadi'a ami.\nBibi-oan Maromak nian be kasu mundo salan, haraik damen mai ami." },
+      { type: "sp", s: "S", text: "Rahun-di'ak ba sira be tene ona ba Han-kalan Na'i nian. Ne'e ha'e Bibi-oan Maromak, be kasu mundo salan." },
+      { type: "sp", s: "P", text: "Na'i, ha'u la so'i Ita-Boot hi'it-An mai ha'u horik-fatin maibé, Ita-Boot dehan de'it liafuan ida, ha'u sei hetan maksoin." },
+    ],
+  },
+  {
+    id: "conclusao",
+    title: "Ritos de Conclusão",
+    paragraphs: [
+      { type: "sp", s: "S", text: "Maromak horik ho imi." },
+      { type: "sp", s: "P", text: "Nia horik ho ami." },
+      { type: "sp", s: "S", text: "Missa hotu ona ba ho Maromak." },
+      { type: "sp", s: "P", text: "Kmanek wa'in ba Maromak." },
+    ],
   },
 ];
 
@@ -548,6 +626,70 @@ const RichText = ({ content, fontSize }) => {
   );
 };
 
+// Renders a single paragraph from MISA_SECTIONS paragraphs array
+const MisaParagraph = ({ para, fontSize }) => {
+  const fs = { fontSize: `${fontSize}px` };
+  if (para.type === "subheading") {
+    return (
+      <p className="font-bold mt-3 mb-1" style={{ color: para.color === "red" ? "#b91c1c" : "#374151", ...fs }}>
+        {para.text}{para.note && <span className="font-normal text-xs ml-2 opacity-70">({para.note})</span>}
+      </p>
+    );
+  }
+  if (para.type === "sp") {
+    return (
+      <p className="leading-relaxed" style={fs}>
+        <strong>{para.s}:</strong>{" "}
+        {para.italic ? <em>{para.text}</em> : para.text}
+        {para.inlineR && <><strong className="ml-3">R:</strong> {para.inlineR}</>}
+      </p>
+    );
+  }
+  // type === "text"
+  const lines = para.text.split("\\n");
+  return (
+    <p className="leading-relaxed" style={fs}>
+      {lines.map((line, i) => (
+        <span key={i}>
+          {para.italic ? <em>{line}</em> : para.bold ? <strong>{line}</strong> : line}
+          {i < lines.length - 1 && <br />}
+        </span>
+      ))}
+    </p>
+  );
+};
+
+// Full MISA scrollable view — all sections on one page with sticky section anchors
+const MisaView = ({ fontSize }) => (
+  <div className="animate-in fade-in duration-500 pb-20 space-y-5">
+    {/* Header banner */}
+    <div
+      className="rounded-2xl overflow-hidden shadow-md border border-white/40 relative"
+      style={{ minHeight: "160px", backgroundImage: `url(${imgMisal})`, backgroundSize: "cover", backgroundPosition: "center" }}
+    >
+      <div className="absolute inset-0" style={{ background: "linear-gradient(to bottom, rgba(255,255,255,0.1), rgba(26,26,46,0.7))" }} />
+      <div className="relative z-10 p-5 flex flex-col justify-end h-full" style={{ minHeight: "160px" }}>
+        <h2 className="text-white font-black text-2xl drop-shadow">ORDINÁRIO DA MISSA</h2>
+        <p className="text-white/80 text-xs font-semibold mt-1 drop-shadow">Texto Oficial Tetum · Para o Povo</p>
+        <p className="text-white/60 text-xs drop-shadow">Conferência Episcopal Timorense · Comissão Nacional Liturgia</p>
+      </div>
+    </div>
+
+    {MISA_SECTIONS.map((section) => (
+      <div key={section.id} id={section.id} className="rounded-2xl shadow-sm border border-pink-100 overflow-hidden" style={{ backgroundColor: "#f5dadc" }}>
+        <div className="px-5 pt-4 pb-2 border-b border-pink-200">
+          <h3 className="font-black text-lg text-center text-gray-800">{section.title}</h3>
+        </div>
+        <div className="px-5 py-4 space-y-2">
+          {section.paragraphs.map((para, i) => (
+            <MisaParagraph key={i} para={para} fontSize={fontSize} />
+          ))}
+        </div>
+      </div>
+    ))}
+  </div>
+);
+
 // Terço da Misericórdia full page view
 const TersoView = ({ onBack, fontSize }) => (
   <div className="animate-in fade-in duration-500 pb-20 space-y-5">
@@ -715,21 +857,33 @@ export default function App() {
         {/* VIEW: HOME (OIN) */}
         {view === "home" && (
           <div className="space-y-6 animate-in fade-in duration-700">
-            {/* Hero card matching index.html style */}
-            <div className="rounded-[2rem] p-8 text-center shadow-xl relative overflow-hidden border border-white/60" style={{ background: "linear-gradient(135deg, #E887B7 0%, #f9d976 40%, #ffffff 70%, #7ed8f6 100%)" }}>
-              <h1 className="text-3xl font-black mb-1 tracking-tight" style={{ color: "#7a003a" }}>
-                Harohan ba Na'i
-              </h1>
-              <p className="text-base font-semibold mb-4 opacity-80" style={{ color: "#3a006a" }}>
-                "Na'i Maromak mak ha'u nia ksolok."
-              </p>
-              <button
-                onClick={() => setView("misa")}
-                className="px-6 py-2.5 rounded-full text-sm font-bold shadow-md active:scale-95 transition-all border border-white/80"
-                style={{ background: "rgba(255,255,255,0.75)", color: "#7a003a" }}
-              >
-                Ba Misal Romano
-              </button>
+            {/* Hero card with hbn.webp as background */}
+            <div
+              className="rounded-[2rem] text-center shadow-xl relative overflow-hidden border border-white/40"
+              style={{
+                minHeight: "220px",
+                backgroundImage: `url(${imgHbn})`,
+                backgroundSize: "cover",
+                backgroundPosition: "center",
+              }}
+            >
+              {/* Overlay for readability */}
+              <div className="absolute inset-0 rounded-[2rem]" style={{ background: "linear-gradient(135deg, rgba(232,135,183,0.7) 0%, rgba(249,217,118,0.5) 50%, rgba(126,216,246,0.5) 100%)" }} />
+              <div className="relative z-10 p-8">
+                <h1 className="text-3xl font-black mb-1 tracking-tight drop-shadow" style={{ color: "#fff" }}>
+                  Harohan ba Na'i
+                </h1>
+                <p className="text-base font-semibold mb-4 drop-shadow" style={{ color: "#fff" }}>
+                  "Na'i Maromak mak ha'u nia ksolok."
+                </p>
+                <button
+                  onClick={() => setView("misa")}
+                  className="px-6 py-2.5 rounded-full text-sm font-bold shadow-md active:scale-95 transition-all border border-white/80"
+                  style={{ background: "rgba(255,255,255,0.80)", color: "#7a003a" }}
+                >
+                  Ba Misal Romano
+                </button>
+              </div>
             </div>
 
             <div className="grid grid-cols-2 gap-4">
@@ -778,31 +932,7 @@ export default function App() {
         )}
 
         {/* VIEW: MISA (MISAL ROMANO) */}
-        {view === "misa" && (
-          <div className="space-y-4 animate-in slide-in-from-right-4 duration-300">
-            <div className="text-center mb-6 p-4 rounded-2xl border border-red-100" style={{ backgroundColor: "#f5dadc" }}>
-              <h2 className="text-red-700 font-black text-xl">
-                ORDINÁRIO DA MISSA
-              </h2>
-              <p className="text-red-500 text-xs font-bold uppercase mt-1">
-                Texto Oficial Tetum - Para o Povo
-              </p>
-              <p className="text-red-400 text-xs mt-1">
-                Conferência Episcopal Timorense · Comissão Nacional Liturgia
-              </p>
-            </div>
-            {MISA_SECTIONS.map((s) => (
-              <Card
-                key={s.id}
-                onClick={() => navigateToContent(s, "misa")}
-                className="flex items-center justify-between group"
-              >
-                <span className="font-bold text-gray-700">{s.title}</span>
-                <ChevronRight className="w-5 h-5 text-gray-300 group-hover:text-pink-500" />
-              </Card>
-            ))}
-          </div>
-        )}
+        {view === "misa" && <MisaView fontSize={fontSize} />}
 
         {/* VIEW: REZA (ORASAUN) */}
         {view === "prayers" && (
