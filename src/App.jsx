@@ -459,6 +459,214 @@ _ba Maromak nia reinu. (2x)_
    ita klamar la deskansa tamba vokasaun boot
    tebes duni.`,
   },
+ {
+  id: 19,
+  category: "Entrada",
+  title: "LORON FESTA",
+  content: `**LORON FESTA**
+_Loron testa, loron testa, loron testa hadomi._
+_Loron testa, loron testa, loron testa iha fuan._
+
+1. Kreda nakloke atu ita halibur.
+   Sarani mai hotu ho ksolok iha fuan.
+   _Ne'e mak loron haksolok nian; Na'i haraik mai ita._
+
+2. Hot-hotu hamutuk hadulas altar,
+   nudar familia Maromak ninian.
+
+3. Hot-hotu fuan ida met-metin ba malu.
+   Maun alin ida-ida fo ksolok, hadomi.`,
+},
+{
+  id: 20,
+  category: "Entrada",
+  title: "LA'O DAUDAUN BESIK BA NA'I NIA ALTAR",
+  content: `**LA'O DAUDAUN BESIK BA NA'I NIA ALTAR**
+_La'o daudaun besik ba Na'i nia altar_
+_ami atu hafoun Na'i nia domin._
+_Aleluia, aleluia!_
+
+1. Haraik Ita lialos no ita roman
+   atu leno netik ami dalan ba Maromak.
+
+2. Na'i Maromak ha'u nia ksolok;
+   ha'u sei hahi Nia beibeik loron kalan.
+
+3. Gloria ba Aman no ba Oan,
+   no ba Espiritu Santu.
+
+4. Nudar hori uluk, oras ne'e,
+   tinan ba tinan, nafatin. Amen.`,
+},
+{
+  id: 21,
+  category: "Entrada",
+  title: "LALEHAN RAI FOUN",
+  content: `**LALEHAN RAI FOUN**
+_Lalehan rai foun Na'i sei to mai._
+_justisa nakonu iha mundu be sei mai._
+
+1. Ita, Maromak nia Oan, mak haraik liberdade.
+   Ita Boot tesi lia, sei tuir karidade.
+
+2. Mate ita sei manan ho Kristu, ita sei manan.
+   Ho gloria Maromak nian, sei moris ba bei-beik.
+
+3. Na'i, Ita reinu mak tebes ho domin no lialos,
+   ho dame no justisa, ho gloria no santidade.`,
+},
+{
+  id: 22,
+  category: "Entrada",
+  title: "KSOLOK BOOT BAINHIRA EMA DEHAN",
+  content: `**KSOLOK BOOT BAINHIRA EMA DEHAN**
+_Ksolok boot bainhira ema dehan:_
+_"La'o ba Na'i Maromak nia kadunan._
+_To'o ti'o nia odamatan_
+_ksolok tebes, Jerusalem!"_
+
+1. Jerusalem, hariji met-metin
+   nudarsidade la nakdoko.
+   Ba neba sa'e ema barak,
+   Na'i Maromak nia ema.
+
+2. Hahi Na'i Maromak naran,
+   halo tuir lisan Israel nian.
+   Maromak lia los no boot tebes
+   iha Israel nia kadunan.
+
+3. Husu hakmatek ba Jerusalem;
+   moris hakmatek ho belun sira.
+   Kota laran, laran hakmatek;
+   kadunan laran, laran metin.
+
+4. Tamba ha'u maun, ha'u alin sira,
+   ha'u dehan ba o diak nafatin.
+   Tamba Na'i Maromak nia kadunan
+   o sei hetan diak tebes.`,
+},
+{
+  id: 23,
+  category: "Entrada",
+  title: "ITA POVU HALIBUR HAMUTUK",
+  content: `**ITA POVU HALIBUR HAMUTUK**
+_Aleluia (4x)_
+
+1. Ita povu halibur hamutuk, Na'i.
+   Ita povu halibur hamutuk
+   atu hahi Ita naran santu,
+   no moris ha dame.
+
+2. Ita povu halibur hamutuk, Na'i.
+   Ita povu halibur hamutuk
+   atu rona Ita lia,
+   no hanoin Ita dame.
+
+3. Mundu mos sei hatene
+   ami mesak maun alin,
+   ami mesak maun alin
+   nudar Ita Boot.`,
+},
+{
+  id: 24,
+  category: "Entrada",
+  title: "ITA HOTU MAROMAK NIA POVU",
+  content: `**ITA HOTU MAROMAK NIA POVU**
+_Ita hotu Maromak nia povu,_
+_ita mai hamutuk tan nia naran._
+
+1. Povu halibur tan duni Nia lia,
+   povu hamutuk ho Kristu Jesus.
+
+2. Povu ne'e moris iha baptismu nia be,
+   povu ne'e simu Espiritu Santu.
+
+3. Povu ne'e han Jesus nia futar Isin,
+   povu ne'e hemu Jesus nia futar Ran.
+
+4. Povu ne'e metin iha fiar, iha domin,
+   povu ne'e hein iha Kristu Jesus.
+
+5. Povu ne'e hana'i Maromak, ita Na'i;
+   povu ne'e hahi ita Na'i Jesus Kristu.`,
+},
+{
+  id: 25,
+  category: "Entrada",
+  title: "IHA FOHO TUTUN BA",
+  content: `**IHA FOHO TUTUN BA**
+_Iha foho tutun ba anin hu ba mai_
+_ha'u an tur mesak hodi hanoin_
+_oin sa ita domin horik ho ha'u,_
+_halo ha'u neon metin ba ita._
+
+1. Fuan hananu, Na'i, lia menas ida terik,
+   katak Ita Boot domin lolos moris nian.
+   Fuan hananu, Na'i, lia menas ida terik,
+   katak Ita Boot domin rohan laek.
+
+2. Ha'u haksolok, Na'i, ho lia dadoli hahi
+   Ita nia beran; ha'u temi loron kalan.
+   Ha'u haksolok, Na'i, ho lia dadoli hahi
+   Ita nia beran; kmanek ba nafatin.`,
+},
+{
+  id: 26,
+  category: "Entrada",
+  title: "HO KSOLOK BOOT TEBES, ALELUIA",
+  content: `**HO KSOLOK BOOT TEBES, ALELUIA**
+_Ho ksolok boot tebes, aleluia;_
+_ha'u hakbesik ba Na'i Maromak nia altar._
+
+1. Tan ne'e ha'u hamriik, aleluia;
+   iha ita oin, Jerusalem.
+
+2. Jerusalem, sidade boot no furak,
+   sidade hari met-metin, aleluia;
+   povu sira hakat ba ita.
+
+3. O nia kota laran be hakmatek,
+   o nia uma laran diak nakonu, aleluia,
+   tan ita Na'i Maromak.`,
+},
+{
+  id: 27,
+  category: "Entrada",
+  title: "HODI DALAN ESPERANSA",
+  content: `**HODI DALAN ESPERANSA**
+_Hodi dalan esperansa, hamutuk domin_
+_ita ba hasouru ita Na'i._
+
+1. Iha dalan ema nian Kristu kuda fini,
+   liafuan rohan laek atu fo moris ba ema.
+
+2. Iha dalan ba Emaus, Kristu mosu ema leet;
+   ksolok tebes ba ita, Nia nafatin ho ita.
+
+3. Molok rai nakukun ita han Paun ne'e
+   nudar moris ho Kristu, kesi ita ho Nia.
+
+4. Na'i Jesus hela ho ita nudar ita lialos,
+   atu ita bele halo mundu sai foun tali.
+
+5. Na'i hela ho ita, sai Aihan ita vida
+   nakfilak Nia isin nudar Aihan ba ita.`,
+},
+{
+  id: 28,
+  category: "Entrada",
+  title: "HA'U SEI BA HO KSOLOK",
+  content: `**HA'U SEI BA HO KSOLOK**
+_Ha'u sei ba ho ksolok hasouru Na'i;_
+_Nia ha'u Maromak no Halos._
+
+1. Na'i boot tebes sadia ita; haraik perdia ba ita sala.
+
+2. Gloria ba Padre, ba Filho, ba Espiritu Santu
+
+3. nudar hori uluk oras ne'e tinan ba tinan nafatin.
+   Amen.`,
+}, 
 ];
 
 // --- DATA: ROZARIU ---
