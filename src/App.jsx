@@ -23,7 +23,7 @@ import imgHbn from "./assets/hbn.webp";
 import imgMisal from "./assets/misal1.webp";
 import imgRozariu from "./assets/rozariu.png";
 import imgKnananuk from "./assets/knananuk.png";
-import imgKnananuk from "./assets/paskua.png";
+import imgPaskua from "./assets/paskua.png";
 import imgReza from "./assets/reza.png";
 import imgHauSae from "./assets/hau-sae.png";
 import imgPvHalibur from "./assets/pv-halibur.png";
@@ -2526,7 +2526,7 @@ ami terus, ami moras,
 ami nia moris ami nia mate.`
 },
 {
-  id: 1,
+  id: 122,
   category: "Santu",
   title: "MAROMAK NIA BIBI OAN NO. 1",
   content: `1. Maromak nia bibi oan, (2x) Kristu, ami Na’i.
@@ -2538,7 +2538,7 @@ Maromak nia bibi oan, nebe kasu mundu nia sala,
 haraik dame mai ami.`
 },
 {
-  id: 2,
+  id: 123,
   category: "Santu",
   title: "MAROMAK NIA BIBI OAN NO. 2",
   content: `Maromak nia bibi oan, kasu mundu nia sala,
@@ -2548,7 +2548,7 @@ Maromak nia bibi oan, kasu mundu nia sala,
 haraik dame mai ami.`
 },
 {
-  id: 3,
+  id: 124,
   category: "Santu",
   title: "MAROMAK NIA BIBI OAN NO. 3",
   content: `Maromak nia Bibi Oan, be kasu mundu nia sala,
@@ -2558,7 +2558,7 @@ Maromak nia Bibi Oan, be kasu mundu nia sala,
 haraik dame mai ami.`
 },
 {
-  id: 1,
+  id: 125,
   category: "Komunhao",
   title: "FURAK OIN SA MORIS IHA DOMIN",
   content: `Oin sa ita domin to ksolok mai ami
@@ -2583,7 +2583,7 @@ nune’e ita halo tuir ukun domin.
 nune’e ita halo tuir ukun domin.`
 },
 {
-  id: 2,
+  id: 126,
   category: "Komunhao",
   title: "FURAK OIN SA",
   content: `1. Furak oin sa, maun alin sira;
@@ -2599,7 +2599,7 @@ Ne’e mak ukun Na’i fo ba ita. (2x)
 Moris tuir ukun ne’e ita haksolok no moris hakmatek. (2x)`
 },
 {
-  id: 3,
+  id: 127,
   category: "Komunhao",
   title: "EUKARISTIA SAKRAMENTU BOOT TEBES",
   content: `Eukaristia sakramentu boot tebes
@@ -2613,7 +2613,7 @@ Na’i Jesus hiit An mai lor-loron,
 haraik aihan tutor Isin no Ran.`
 },
 {
-  id: 4,
+  id: 128,
   category: "Komunhao",
   title: "EMA JUDEU HOBUR TUIR NA'I JESUS",
   content: `1. Ema Judeu hobur tuir Na’i Jesus:
@@ -2630,7 +2630,7 @@ Sira murmura tan sira la fiar
 Na’i Jesus to Nia Isin sira han.`
 },
 {
-  id: 5,
+  id: 129,
   category: "Komunhao",
   title: "EH KRISTU MAK TENE ITA",
   content: `Eh Kristu mak tene ita, ita hakbesik Na’i nia mesa:
@@ -2655,7 +2655,7 @@ nia sei moris ba nafatin.
 Ita bele hola han mesa ida deit.`
 },
 {
-  id: 6,
+  id: 130,
   category: "Komunhao",
   title: "KARIDADE VIRTUDE IDA",
   content: `Karidade virtude ida Na’i Maromak hadomi liu.
@@ -2668,7 +2668,7 @@ halo nudar sinu ida, lian lerek, la ba lalehan.
 halo nudar folin laek se la iha karidade.`
 },
 {
-  id: 7,
+  id: 131,
   category: "Komunhao",
   title: "BA FATIN DOMIN, MORIS HO DAME",
   content: `Ba fatin domin, moris no dame, Maromak horik ba.
@@ -2689,7 +2689,7 @@ ami rahun sei dadi boot no diak,
 tinan ba tinan nafatin. Amen.`
 },
 {
-  id: 1,
+  id: 132,
   category: "Komunhao",
   title: "FURAK OIN SA MORIS IHA DOMIN",
   content: `Oin sa ita domin to ksolok mai ami
@@ -2714,7 +2714,7 @@ nune’e ita halo tuir ukun domin.
 nune’e ita halo tuir ukun domin.`
 },
 {
-  id: 2,
+  id: 133,
   category: "Komunhao",
   title: "FURAK OIN SA",
   content: `1. Furak oin sa, maun alin sira;
@@ -2730,7 +2730,7 @@ Ne’e mak ukun Na’i fo ba ita. (2x)
 Moris tuir ukun ne’e ita haksolok no moris hakmatek. (2x)`
 },
 {
-  id: 3,
+  id: 134,
   category: "Komunhao",
   title: "EUKARISTIA SAKRAMENTU BOOT TEBES",
   content: `Eukaristia sakramentu boot tebes
@@ -2744,7 +2744,7 @@ Na’i Jesus hiit An mai lor-loron,
 haraik aihan tutor Isin no Ran.`
 },
 {
-  id: 4,
+  id: 135,
   category: "Komunhao",
   title: "EMA JUDEU HOBUR TUIR NA'I JESUS",
   content: `1. Ema Judeu hobur tuir Na’i Jesus:
@@ -2761,7 +2761,7 @@ Sira murmura tan sira la fiar
 Na’i Jesus to Nia Isin sira han.`
 },
 {
-  id: 5,
+  id: 136,
   category: "Komunhao",
   title: "EH KRISTU MAK TENE ITA",
   content: `Eh Kristu mak tene ita, ita hakbesik Na’i nia mesa:
@@ -2786,7 +2786,7 @@ nia sei moris ba nafatin.
 Ita bele hola han mesa ida deit.`
 },
 {
-  id: 6,
+  id: 137,
   category: "Komunhao",
   title: "KARIDADE VIRTUDE IDA",
   content: `Karidade virtude ida Na’i Maromak hadomi liu.
@@ -2799,7 +2799,7 @@ halo nudar sinu ida, lian lerek, la ba lalehan.
 halo nudar folin laek se la iha karidade.`
 },
 {
-  id: 7,
+  id: 138,
   category: "Komunhao",
   title: "BA FATIN DOMIN, MORIS HO DAME",
   content: `Ba fatin domin, moris no dame, Maromak horik ba.
@@ -3427,7 +3427,7 @@ tinan ba tinan nafatin. Amen.`
     "content": `KRISTU, O HA'U NIA DALAN\nKristu, O ha'u nia dalan; Kristu be naroman ha'u fuan.\nO mods hori iha O hateten, O "Barak la kohi tuir,\nbarak ba nakukun To'o ikus sala barak."\n\n1. Se Kristu husu ba ha'u: "Mundu ne'e oin sa los?"\nHa'u hatan ba ha'u Maun: "Buat barak mak la los."\n\n2. Buat barak la'o la los, tamba ha'u, tamba mak ita;\ntamba barak.\n\n3. Tamba ha'u, tamba ita, ema mundu rai klaran terus\ntamba ha'u, tamba ita, ita hotu nia hahalok.`
   },
   {
-    id: 1,
+    id: 139,
     category: "Latin",
     title: "KYRIE",
     content: `(Grego)
@@ -3436,7 +3436,7 @@ Christe, eleison
 Kyrie, eleison`
   },
   {
-    id: 2,
+    id: 140,
     category: "Latin",
     title: "GLORIA",
     content: `Gloria in excelsis Deo
@@ -3463,7 +3463,7 @@ cum sancto Spiritu, in gloria Dei Patris.
 Amen.`
   },
   {
-    id: 3,
+    id: 141,
     category: "Latin",
     title: "CREDO NICENO",
     content: `Credo in unum Deum
@@ -3509,7 +3509,7 @@ Et vitam venturi saeculi
 Amen.`
   },
   {
-    id: 4,
+    id: 142,
     category: "Latin",
     title: "SANCTUS",
     content: `(Latim)
@@ -3521,7 +3521,7 @@ Benedictus qui venit in nomine Domini
 Hosanna in excelsis`
   },
   {
-    id: 5,
+    id: 143,
     category: "Latin",
     title: "AGNUS DEI",
     content: `Agnus Dei
@@ -3535,7 +3535,7 @@ Qui tollis peccata mundi
 Dona nobis pacem`
   },
   {
-    id: 1,
+    id: 144,
     category: "Adventu",
     title: "ALELUIA, VIRJEM MARIA SEI KOUS",
     content: `Aleluia, aleluia, aleluia, aleluia, Virjem Maria sei kous
@@ -3544,7 +3544,7 @@ Sei hanaran Emmanuel, katak,
 Maromak hamutuk ho ita.`
   },
   {
-    id: 2,
+    id: 145,
     category: "Adventu",
     title: "ITA HANANU HAKSOLOK",
     content: `1. Na’i Jesus, ami ba hakbesik Ita,
@@ -3565,7 +3565,7 @@ Aleluia, hakilar ba mundu: Kristu sei mai. (2x)
    Ita hametin ami an tomak.`
   },
   {
-    id: 3,
+    id: 146,
     category: "Adventu",
     title: "MAI, MAI, NA’I JESUS",
     content: `Mai, mai, Na'i Jesus: mai Na’i, ami hein Ita.
@@ -3585,7 +3585,7 @@ Mai, mai, Na’i Jesus: la lais, hiit an mai.
    Ema tomak buka Ita Boot.`
   },
   {
-    id: 4,
+    id: 147,
     category: "Adventu",
     title: "RAI HOTU TERUS TEB-TEBES",
     content: `1. Rai hotu terus teb-tebes. Mai, mai, sadia ami.
@@ -3602,7 +3602,7 @@ Rona, Kristu, mai, mai, sadia ami.
    Hakoi, dadur, baku, oho...`
   },
   {
-    id: 5,
+    id: 148,
     category: "Adventu",
     title: "QUANDO VIRA",
     content: `1. Quando vira, Senhor, o dia
@@ -3621,7 +3621,7 @@ O ceus que ird se faga em salvagao e em graga.
    por Deus que nunca se desdiz.`
   }, 
   {
-    id: 1,
+    id: 149,
     category: "Quaresma",
     title: "HANAI', HAHI BA ITA BOOT",
     content: `Hana'i, hahi ba Ita Boot, Jesus Kristu, ami Na'i.
@@ -3633,7 +3633,7 @@ O ceus que ird se faga em salvagao e em graga.
    Hakarak nia sai diak no moris.`
   },
   {
-    id: 2,
+    id: 150,
     category: "Quaresma",
     title: "HANOIN, SADIA",
     content: `Hanoin, sadia, ha'u Aman Maromak,
@@ -3653,7 +3653,7 @@ Perdua ha'u nia sala
    nune'e ita hein ita Na'i tan Nia laran luak.`
   },
   {
-    id: 3,
+    id: 151,
     category: "Quaresma",
     title: "HA’U AMAN, BA ITA LIMAN",
     content: `Ha'u Aman, ba Ita liman, ha'u klamar hasa'e.
@@ -3675,7 +3675,7 @@ Perdua ha'u nia sala
    laran metin haksolok, imi be fiar Maromak`
   },
   {
-    id: 4,
+    id: 152,
     category: "Quaresma",
     title: "HA’U FILA FILA BA HO MAROMAK",
     content: `1. Ha'u fila fila ba ho Maromak,
@@ -3694,7 +3694,7 @@ halo penentensia, nakfila fuan ba.
    ha'u fila fila ba atu hela.`
   },
   {
-    id: 5,
+    id: 153,
     category: "Quaresma",
     title: "HA’U KLAMAR TAU NEON BA HA’U NA’I 331",
     content: `Ha'u klamar tau neon ba ha'u Na'i;
@@ -3715,7 +3715,7 @@ Maromak mak ha'u nia laran metin
    Haraik maksoin wain tebes`
   },
   {
-    id: 6,
+    id: 154,
     category: "Quaresma",
     title: "HA’U NIA HENA SIRA FAHE BA MALU",
     content: `Ha'u nia hena sira fahe ba malu:
@@ -3735,7 +3735,7 @@ Ha'u nia tunika sira dada sorti.
    sira hamoe hodi hasara ha'u.`
   },
   {
-    id: 7,
+    id: 155,
     category: "Quaresma",
     title: "HEBREUS OAN SIRA",
     content: `Hebreus oan sira lori oliveira sanak
@@ -3758,7 +3758,7 @@ haklalak hodi dehan: Hosana aas ba!
 8. Se los mak liurai boot; Ida be makaas iha funu.`
   },
   {
-    id: 8,
+    id: 156,
     category: "Quaresma",
     title: "HEBREUS OAN SIRA HANAHE",
     content: `Hebreus oan sira hanahe sira hena iha rai
@@ -3786,7 +3786,7 @@ Diak tebes Ida be mai hodi Na'i nia naran.
    Nudar hori uluk, oras ne'e, Tinan ba tinan. Amen.`
   },
   {
-    id: 9,
+    id: 157,
     category: "Quaresma",
     title: "HOSANA, KRISTU MANAN",
     content: `Hosana, Kristu manan; Iha krus, Kristu sei soi ita. (2x)
@@ -3800,7 +3800,7 @@ Diak tebes Ida be mai hodi Na'i nia naran.
    Jesus iha ita leet halo Nia Kreda hamutuk.`
   },
   {
-    id: 10,
+    id: 158,
     category: "Quaresma",
     title: "IHA ITA KRUS, NA'I, AMI HANA I '",
     content: `Iha Ita krus, Na'i, ami hana'i, hahi,
@@ -3821,7 +3821,7 @@ Nune'e moris tama iha mundu.
    Hosi beiala to'o bei oan sira.`
   },
   {
-    id: 11,
+    id: 159,
     category: "Quaresma",
     title: "IHA ITA LIMAN, HA U AMAN",
     content: `Iha Ita liman, ha'u Aman, Ha'u saran ha'u nia espiritu.
@@ -3836,7 +3836,7 @@ Nune'e moris tama iha mundu.
 7. Laran metin, haksolok, imi be fiar Maromak.`
   },
   {
-    id: 12,
+    id: 160,
     category: "Quaresma",
     title: "ITA HAROHAN BA ITA NA'I",
     content: `Ita harohan ba ita Na'i laran luak:
@@ -3855,7 +3855,7 @@ Na'i, sadia ami; Na'i, sadia ami.
 12. Tan Ita nia mods hias hosi mate`
   },
   {
-    id: 13,
+    id: 161,
     category: "Quaresma",
     title: "ITA NIA MAKSOIN MAI HOSI KRUS",
     content: `Ita nia Maksoin mai hosi krus.
@@ -3868,7 +3868,7 @@ Jesus, ita Na'i, nia krus.
    Ema tomak haklaken Ita gloria.`
   },
   {
-    id: 14,
+    id: 162,
     category: "Quaresma",
     title: "JERUSALEM",
     content: `Jerusalem, Jerusalem, host dalan boot,
@@ -3883,7 +3883,7 @@ Kaer nia krus, la'o tuir Ha'u.
    Na'i Jesus, ema hotu hakribi krus, hewai ukunfuan.`
   },
   {
-    id: 15,
+    id: 163,
     category: "Quaresma",
     title: "NA'I JESUS, AMI HAHI",
     content: `Na'i Jesus, ami hahi. (2x)
@@ -3892,7 +3892,7 @@ Kaer nia krus, la'o tuir Ha'u.
    fo naran ida boot liu naran hot-hotu.`
   },
   {
-    id: 16,
+    id: 164,
     category: "Quaresma",
     title: "NA'I JESUS, AMI MAKSOIN",
     content: `Na'i Jesus, ami Maksoin, iha Ita ami nia salvasaun.
@@ -3907,7 +3907,7 @@ La'o lemo rai, la'o dalan, buka Ita Boot.
    Moris no lialos, nafatin ba nafatin. (Amen, aleluia)`
   },
   {
-    id: 17,
+    id: 165,
     category: "Quaresma",
     title: "PERDUA, NA'I, PERDUA",
     content: `Perdua, Na'i, perdua. Ami fiar Ita Boot.
@@ -3920,7 +3920,7 @@ La'o lemo rai, la'o dalan, buka Ita Boot.
 6. Keta soe ha'u hosi ita tutor oin; Keta hadook ha'u hosi Ita neon.`
   },
   {
-    id: 18,
+    id: 166,
     category: "Quaresma",
     title: "PERDUA, NA'I JESUS",
     content: `Perdua, Na'i Jesus, perdua It'nia povu.
@@ -3929,7 +3929,7 @@ Ita mak soi ami ho It'Boot nia tutor ran santu.
    Na'i, rona ha'u lia, haraik tulun mai mai ha'u.`
   },
   {
-    id: 19,
+    id: 167,
     category: "Quaresma",
     title: "POVU DOBEN",
     content: `Povu doben, Ha'u halo sa?
@@ -3951,7 +3951,7 @@ Halo sa aat ba o? Dehan took ba!
    maibe imi, Ha'u doben, fo hemu Ha'u ho tua sin no naan moruk.`
   },
   {
-    id: 20,
+    id: 168,
     category: "Quaresma",
     title: "SADIA AMI, NA'I, AMI NIA MAKSOIN",
     content: `Sadia ami, Na'i, ami nia Maksoin.
@@ -3962,7 +3962,7 @@ Halo sa aat ba o? Dehan took ba!
 5. Kristu, mate tiha, moris hias fali.`
   },
   {
-    id: 1,
+    id: 169,
     category: "Paskua",
     title: "ALELUIA, MAUN ALIN SIRA",
     image: "paskua.png",
@@ -3972,7 +3972,7 @@ nebe hatene manan mate hodi sei
 furak liu tan hosi rate atu la mate teni.`
   },
    {
-    id: 2,
+    id: 170,
     category: "Paskua",
     title: "KRISTU MORIS HIAS FALI",
     content: `Kristu moris hias fali, aleluia, aleluia.
@@ -3984,7 +3984,7 @@ furak liu tan hosi rate atu la mate teni.`
    Ba povu tomak Nia hahalok kmanek`
   },
    {
-    id: 3,
+    id: 171,
     category: "Paskua",
     title: "KRISTU NIA ROMAN",
     content: `Kristu nia roman leno raiklaran tomak, aleluia, aleluia.
@@ -4002,7 +4002,7 @@ furak liu tan hosi rate atu la mate teni.`
    Iha Nia tutor oin rai tomak nakdedar.`
   },
   {
-    id: 4,
+    id: 172,
     category: "Paskua",
     title: "MORIS HIAS ONA, ALELUIA",
     content: `Moris hias ona, aleluia.
@@ -4017,7 +4017,7 @@ Kristu Jesus iha ita leet.
    tan ita Na'i Maromak.`
   },
   {
-    id: 5,
+    id: 173,
     category: "Paskua",
     title: "NA'I MANAN MATE",
     content: `Na'i manan mate: gloria, gloria ba Na'i!
@@ -4035,7 +4035,7 @@ Ita hotu mai, haksolok.
    Ksolok foun sei mosu mai, aleluia.`
   },
   {
-    id: 6,
+    id: 174,
     category: "Paskua",
     title: "NA'I MORIS HIAS, ALELUIA",
     content: `Na'i moris hias (3x) Aleluia (4x) Na'i moris hias.
@@ -4049,7 +4049,7 @@ Ita hotu mai, haksolok.
    tan soi ita hotu ho Kristu nia mate.`
   },
   {
-    id: 7,
+    id: 175,
     category: "Paskua",
     title: "SEI HANANU DAME, SEI HANANU",
     content: `1. Sei hananu dame, sei hananu.
@@ -4614,6 +4614,7 @@ const ContentDisplay = ({ item, fontSize }) => {
     "hau-sae.png": imgHauSae,
     "pv-halibur.png": imgPvHalibur,
     "ohin-mai.png": imgOhinMai,
+    "paskua.png": imgPaskua,
   };
 
   return (
