@@ -29,6 +29,7 @@ import imgHauSae from "./assets/hau-sae.png";
 import imgPvHalibur from "./assets/pv-halibur.png";
 import imgOhinMai from "./assets/ohin-mai.png";
 import imgGloria from "./assets/gloria.png";
+import imgEspirituSantu from "./assets/espiritu_santu.png";
 
 // --- DATA: ORASAUN (REZA) ---
 const ORASAUN_DATA = [
@@ -4065,8 +4066,34 @@ Ita hotu mai, haksolok.
    Ha'u nia liberdade, sei hananu.
    Ba ema rai tomak, sei hananu.
    Maromak ha'u Aman, sei hananu.`
+  },
+  {
+    id: "es1",
+    category: "Espiritu Santu",
+    title: "VENI CREATOR SPIRITUS",
+    content: `1. Veni Creator Spiritus mentes tuorum visita; imple superna gratia quae Tu creasti pectora. 2. Qui diceris Paraclitus, altissimi donum Dei;
+tons vivus, ignis, caritas et spiritalis unctio.
+3. Tu septiformis munere, digitus paternae dexterae; Tu rite promissum Paths, sermone ditans guttura. 4. Accende lumen sensibus, infunde amorem cordibus. infirma nostri corporis, virtute firmans perpeti. 5. Hostem repellas longius, pacemque dones protinus; Ductore sic Te praevio, vitemus omne noxium. 6. Per Te sciamus da Patrem, noscamus atque Filium, Teque utriusque Spiritum credamus omni tempore. 7. Deo Patri sit gloria et Filio, qui a mortuis
+surrexit, ac Paraclito in saeculorum saecula. Amen.`
+  },
+  {
+    id: "es2",
+    category: "Espiritu Santu",
+    title: "O ESPIRITO DO SENHOR",
+    content: `O Espirito do Senhor renova a face da terra. Aleluia, aleluia.
+1. Vinde Espirito Santo, vinde Amor ardente, acendei na terra Vossa luz fulgente. 2. Vinde, Pai dos pobres na dor e aflies, vinde encher de gozo nossos coraes. 3. Benfeitor supremo em todo o momenta habitando em nos, sois o nosso alento.
+4. Descanso na luta e na paz encanto, no color sois brisa, conforto no pronto. 5. Lavai nossas manchas, a aridez regai; sanai os infermos e a todos salvai. 6. Abrandai durezas para os caminhantes; animai os tristes, guiai os errantes.`
+  },
+  {
+    id: "es3",
+    category: "Espiritu Santu",
+    title: "HARUKA ITA BOOT NIA ESPIRITU",
+    content: `Haruka Ita Boot nia Espiritu halo foun hikas rai tomak.
+1. Ha'uklamarhawelokha'uNa'i.
+Na'i, ha'u nia Maromak, Ita Boot tebes. Boat hotu Ita Boot hakiak nakonu iha rai. 2. Ita Boot hasai karik Ita Boot nia Espiritu, sira mate, sira fila ba rai rahun; haruka Ita Boot nia Espiritu sira moris. Hafoun rai tomak nia ilas.
+3. Na'i nia gloria sei ba nafatin.
+Na'i haksolok ho buat hotu Nia halo. Na'i haksolok ho ha'u nia hananu. Ha'u nia ksolok iha ha'u Na'i.`
   }
-
 ];
 
 // --- DATA: ROZARIU ---
@@ -4385,7 +4412,8 @@ const KNANANUK_CATEGORIES = [
   "Adventu",
   "Quaresma",
   "Paskua",
-
+  "Espiritu Santu",
+  "Maria",
 ];
 
 // --- COMPONENTS ---
@@ -4906,10 +4934,15 @@ export default function App() {
                       {/* Songs list - shown when open */}
                       {isOpen && songsInCategory.length > 0 && (
                         <div className="border-t border-gray-100">
-                          {/* Gloria category gets a header image */}
+                          {/* Category Header Images */}
                           {category === "Gloria" && (
                             <div className="flex justify-center py-3 px-4">
                               <img src={imgGloria} alt="Gloria" className="rounded-xl shadow-sm" style={{ maxWidth: "240px", width: "100%" }} />
+                            </div>
+                          )}
+                          {category === "Espiritu Santu" && (
+                            <div className="flex justify-center py-3 px-4">
+                              <img src={imgEspirituSantu} alt="Espiritu Santu" className="rounded-xl shadow-sm" style={{ maxWidth: "240px", width: "100%" }} />
                             </div>
                           )}
                           {songsInCategory.map((song, index) => (
@@ -4917,8 +4950,8 @@ export default function App() {
                               key={song.id}
                               onClick={() => navigateToContent(song, "songs")}
                               className={`flex items-center justify-between px-4 py-3 cursor-pointer hover:bg-pink-50 transition-colors ${index !== songsInCategory.length - 1
-                                  ? "border-b border-gray-50"
-                                  : ""
+                                ? "border-b border-gray-50"
+                                : ""
                                 }`}
                             >
                               <h3 className="font-semibold text-gray-700 text-sm">
