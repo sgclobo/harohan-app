@@ -4711,6 +4711,7 @@ export default function App() {
   const filteredSongs = useMemo(() => {
     return KNANANUK_DATA.filter(
       (s) =>
+        s.id.toString().includes(searchTerm.trim()) ||
         s.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
         s.content.toLowerCase().includes(searchTerm.toLowerCase()),
     );
@@ -4885,7 +4886,7 @@ export default function App() {
                       <span className="text-[10px] font-black uppercase text-blue-500 bg-blue-50 px-2 py-0.5 rounded-full mb-1 inline-block">
                         {song.category}
                       </span>
-                      <h3 className="font-bold text-gray-800">{song.title}</h3>
+                      <h3 className="font-bold text-gray-800">{song.id}. {song.title}</h3>
                     </div>
                     <ChevronRight className="w-5 h-5 text-gray-200 group-hover:text-pink-400" />
                   </Card>
@@ -4955,7 +4956,7 @@ export default function App() {
                                 }`}
                             >
                               <h3 className="font-semibold text-gray-700 text-sm">
-                                {song.title}
+                                {song.id}. {song.title}
                               </h3>
                               <ChevronRight className="w-4 h-4 text-gray-300" />
                             </div>
