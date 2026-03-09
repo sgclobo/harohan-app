@@ -54,31 +54,31 @@ const ORASAUN_DATA = [
     title: "Aktu de Kontrisaun",
     content: `Ha’u nia Maromak, ha’u hanoin ho laran moras sala hot-hotu ha’u halo ona kontra Ita Boot diak liu, nebe halo diak deit mai ha’u. Ha’u hasa’e lialos ba Ita Boot, hodi Ita Boot nia grasa, lakohi sala tan. Ha’u husu barak Ita Boot perdua ha’u, tanba Ita Boot laran diak ho tanba ha’u nia Na’i Jesus Kristu terus to'o mate tanba ha’u.`,
   },
- {
+  {
     id: "anju-hein-ita",
     title: "Orasaun ba Anju hein Ita",
     content: `Na’i Maromak nia Anju Santu, hein didiak ha’u. Ukun ha’u nafatin, halo ha’u tuir diak deit tanba Na’i Maromak rasik mak entrega ha’u iha ita boot nia liman. 𝐀𝐦𝐞𝐧`,
   },
-  
- {
+
+  {
     id: "atu-de-fe",
     title: "AKTU DE FE, ESPERANSA NO KARIDADE",
     content: `Ha’u nia Maromak, ha’u fiar no hein metin Ita Boot, 
 ha’u hadomi Ita Boot liu sasan hot-hotu no hadomi 
 maun alin sira nudar ha’u an rasik tanba Ita Boot.`,
   },
-  
-{
+
+  {
     id: "santo-padre",
     title: "ORASAUN BA SANTU PADRE",
     content: `𝐈𝐭𝐚 𝐡𝐚𝐫𝐨𝐡𝐚𝐧 𝐛𝐚 𝐢𝐭𝐚 𝐧𝐢𝐚 𝐀𝐦𝐨 𝐏𝐚𝐩𝐚, 𝐒𝐚𝐧𝐭𝐮 𝐏𝐚𝐝𝐫𝐞 𝐋𝐞𝐚𝐨 𝐗𝐈𝐕\nNa’i haraik isin diak ba nia, hametin no tahan nia.\n𝐎𝐫𝐚𝐬𝐚𝐮𝐧Maromak sarani hotu nia Bibi atari no mata dalan; hateke ho laran diak ba ita atan, Amo Papa Bento XVI, nebe Ita Boot mak fihir nudar Ita Kreda nia Bibi atan. Haraik atu povu nebe nia ukun simu didiak nia liafuan no esemplu sira, atu nune'e, nia bele to'o moris rohan laek hamutuk ho bibi luhan tomak nebe Ita Boot hameno ba nia. Ami harohan ne'e hodi ami Na’i Jesus Kristu hamutuk ho Espiritu Santu. <b>Amen.</b>`,
   },
-{
+  {
     id: "vokasaun",
     title: "ORASAUN ATU HUSU VOKASAUN",
     content: `Jesus tutor Fuan iha Eukaristia, Nailulik boot rohan laek: tanba Ita Boot nia domin laran luak, ami husu atu tulun familia sai santu; nune'e, hanesan viveiro diak ida, bele naburas vokasaun barak ba Ita nia Kreda. Haraik mos nailulik barak mai ami, nailulik sira nakonu ho Ita Boot nia Espiritu, manas ho Ita Boot nia Karidade atu buka deit Ita Boot nia reinu iha rai ne'e no Ita Boot nia gloria iha Lalehan\n𝐎𝐡 𝐉𝐞𝐬𝐮𝐬, 𝐌𝐚𝐤𝐬𝐨𝐢𝐧 𝐦𝐮𝐧𝐝𝐮 𝐧𝐢𝐚𝐧.\nHaraik santidade ba ita nia nailulik sira.\n𝐎𝐡 𝐌𝐚𝐫𝐢𝐚, 𝐊𝐥𝐞𝐫𝐨 𝐧𝐢𝐚 𝐋𝐢𝐮𝐫𝐚𝐢 𝐅𝐞𝐭𝐨.\nHaraik nailulik barak no santu ba Ita nia Kreda.`,
   },
-{
+  {
     id: "salve-liurai-feto",
     title: "SALVE LIURAI FETO",
     content: `Salve Liurai Feto, Inan hanoin ami, ami nia rahun diak, ami nia esperansa, salve. Ami ata Eva nia oan des- terradu, hasa'e ami nia lia ba Ita Boot; hodi tanis ami husu deit Ita Boot tulun ami ata iha tanis fatin ne'e. Ne'e duni, ami nia Advogada, fila mai ami ata Ita Boot nia matan diak. Desterro ne'e hotu, hatudu mai ami ata Itaboot nia  Oan benti Jesus. Ou clemente, ou piedoza, ou doce virjen nafatin Maria.\n𝐌𝐚𝐫𝐨𝐦𝐚𝐤 𝐧𝐢𝐚 𝐈𝐧𝐚𝐧 𝐒𝐚𝐧𝐭𝐚 𝐡𝐚𝐫𝐨𝐡𝐚𝐧 𝐦𝐚𝐢 𝐚𝐦𝐢 𝐚𝐭𝐚.\nAmi atu bele hetan Jesus Kristu nia rahun diak.𝐀𝐦𝐞𝐧`,
@@ -208,11 +208,11 @@ const KNANANUK_DATA = [
     content:
       "Ema rai hotu, ema lubun boot, ema buka diak;\nNa’i nia ema, hahi o nia Maksoin.\n\nAmi hananu Kristu, Na'i Maromak nia Oan.\nAmi hahi Na'i Maromak boot tebes nia tutor Lia.",
   },
- {
-  id: 4,
-  category: "Entrada",
-  title: "DIAK TEBES BA JESUS",
-  content: `Diak tebes ba Jesus, Na'i Maromak.
+  {
+    id: 4,
+    category: "Entrada",
+    title: "DIAK TEBES BA JESUS",
+    content: `Diak tebes ba Jesus, Na'i Maromak.
 Ita hananu ba Aman Maromak. (2x)
 
 1. Hasa'e imi laran hodi basa imi nia liman,
@@ -223,7 +223,7 @@ Imi buka hadomi Na'i Maksoin. (2x)
 3. Taka metin imi nia matan, hodi hana'i Na'i Jesus...
 
 4. Hamos imi nia moris hodi fiar ba Jesus...`,
-},
+  },
   {
     id: 5,
     category: "Responsorial",
@@ -460,11 +460,11 @@ _ba Maromak nia reinu. (2x)_
    ita klamar la deskansa tamba vokasaun boot
    tebes duni.`,
   },
- {
-  id: 19,
-  category: "Entrada",
-  title: "LORON FESTA",
-  content: `**LORON FESTA**
+  {
+    id: 19,
+    category: "Entrada",
+    title: "LORON FESTA",
+    content: `**LORON FESTA**
 _Loron testa, loron testa, loron testa hadomi._
 _Loron testa, loron testa, loron testa iha fuan._
 
@@ -477,12 +477,12 @@ _Loron testa, loron testa, loron testa iha fuan._
 
 3. Hot-hotu fuan ida met-metin ba malu.
    Maun alin ida-ida fo ksolok, hadomi.`,
-},
-{
-  id: 20,
-  category: "Entrada",
-  title: "LA'O DAUDAUN BESIK BA NA'I NIA ALTAR",
-  content: `**LA'O DAUDAUN BESIK BA NA'I NIA ALTAR**
+  },
+  {
+    id: 20,
+    category: "Entrada",
+    title: "LA'O DAUDAUN BESIK BA NA'I NIA ALTAR",
+    content: `**LA'O DAUDAUN BESIK BA NA'I NIA ALTAR**
 _La'o daudaun besik ba Na'i nia altar_
 _ami atu hafoun Na'i nia domin._
 _Aleluia, aleluia!_
@@ -498,12 +498,12 @@ _Aleluia, aleluia!_
 
 4. Nudar hori uluk, oras ne'e,
    tinan ba tinan, nafatin. Amen.`,
-},
-{
-  id: 21,
-  category: "Entrada",
-  title: "LALEHAN RAI FOUN",
-  content: `**LALEHAN RAI FOUN**
+  },
+  {
+    id: 21,
+    category: "Entrada",
+    title: "LALEHAN RAI FOUN",
+    content: `**LALEHAN RAI FOUN**
 _Lalehan rai foun Na'i sei to mai._
 _justisa nakonu iha mundu be sei mai._
 
@@ -515,12 +515,12 @@ _justisa nakonu iha mundu be sei mai._
 
 3. Na'i, Ita reinu mak tebes ho domin no lialos,
    ho dame no justisa, ho gloria no santidade.`,
-},
-{
-  id: 22,
-  category: "Entrada",
-  title: "KSOLOK BOOT BAINHIRA EMA DEHAN",
-  content: `**KSOLOK BOOT BAINHIRA EMA DEHAN**
+  },
+  {
+    id: 22,
+    category: "Entrada",
+    title: "KSOLOK BOOT BAINHIRA EMA DEHAN",
+    content: `**KSOLOK BOOT BAINHIRA EMA DEHAN**
 _Ksolok boot bainhira ema dehan:_
 _"La'o ba Na'i Maromak nia kadunan._
 _To'o ti'o nia odamatan_
@@ -545,12 +545,12 @@ _ksolok tebes, Jerusalem!"_
    ha'u dehan ba o diak nafatin.
    Tamba Na'i Maromak nia kadunan
    o sei hetan diak tebes.`,
-},
-{
-  id: 23,
-  category: "Entrada",
-  title: "ITA POVU HALIBUR HAMUTUK",
-  content: `**ITA POVU HALIBUR HAMUTUK**
+  },
+  {
+    id: 23,
+    category: "Entrada",
+    title: "ITA POVU HALIBUR HAMUTUK",
+    content: `**ITA POVU HALIBUR HAMUTUK**
 _Aleluia (4x)_
 
 1. Ita povu halibur hamutuk, Na'i.
@@ -567,12 +567,12 @@ _Aleluia (4x)_
    ami mesak maun alin,
    ami mesak maun alin
    nudar Ita Boot.`,
-},
-{
-  id: 24,
-  category: "Entrada",
-  title: "ITA HOTU MAROMAK NIA POVU",
-  content: `**ITA HOTU MAROMAK NIA POVU**
+  },
+  {
+    id: 24,
+    category: "Entrada",
+    title: "ITA HOTU MAROMAK NIA POVU",
+    content: `**ITA HOTU MAROMAK NIA POVU**
 _Ita hotu Maromak nia povu,_
 _ita mai hamutuk tan nia naran._
 
@@ -590,12 +590,12 @@ _ita mai hamutuk tan nia naran._
 
 5. Povu ne'e hana'i Maromak, ita Na'i;
    povu ne'e hahi ita Na'i Jesus Kristu.`,
-},
-{
-  id: 25,
-  category: "Entrada",
-  title: "IHA FOHO TUTUN BA",
-  content: `**IHA FOHO TUTUN BA**
+  },
+  {
+    id: 25,
+    category: "Entrada",
+    title: "IHA FOHO TUTUN BA",
+    content: `**IHA FOHO TUTUN BA**
 _Iha foho tutun ba anin hu ba mai_
 _ha'u an tur mesak hodi hanoin_
 _oin sa ita domin horik ho ha'u,_
@@ -610,12 +610,12 @@ _halo ha'u neon metin ba ita._
    Ita nia beran; ha'u temi loron kalan.
    Ha'u haksolok, Na'i, ho lia dadoli hahi
    Ita nia beran; kmanek ba nafatin.`,
-},
-{
-  id: 26,
-  category: "Entrada",
-  title: "HO KSOLOK BOOT TEBES, ALELUIA",
-  content: `**HO KSOLOK BOOT TEBES, ALELUIA**
+  },
+  {
+    id: 26,
+    category: "Entrada",
+    title: "HO KSOLOK BOOT TEBES, ALELUIA",
+    content: `**HO KSOLOK BOOT TEBES, ALELUIA**
 _Ho ksolok boot tebes, aleluia;_
 _ha'u hakbesik ba Na'i Maromak nia altar._
 
@@ -629,12 +629,12 @@ _ha'u hakbesik ba Na'i Maromak nia altar._
 3. O nia kota laran be hakmatek,
    o nia uma laran diak nakonu, aleluia,
    tan ita Na'i Maromak.`,
-},
-{
-  id: 27,
-  category: "Entrada",
-  title: "HODI DALAN ESPERANSA",
-  content: `**HODI DALAN ESPERANSA**
+  },
+  {
+    id: 27,
+    category: "Entrada",
+    title: "HODI DALAN ESPERANSA",
+    content: `**HODI DALAN ESPERANSA**
 _Hodi dalan esperansa, hamutuk domin_
 _ita ba hasouru ita Na'i._
 
@@ -652,12 +652,12 @@ _ita ba hasouru ita Na'i._
 
 5. Na'i hela ho ita, sai Aihan ita vida
    nakfilak Nia isin nudar Aihan ba ita.`,
-},
-{
-  id: 28,
-  category: "Entrada",
-  title: "HA'U SEI BA HO KSOLOK",
-  content: `**HA'U SEI BA HO KSOLOK**
+  },
+  {
+    id: 28,
+    category: "Entrada",
+    title: "HA'U SEI BA HO KSOLOK",
+    content: `**HA'U SEI BA HO KSOLOK**
 _Ha'u sei ba ho ksolok hasouru Na'i;_
 _Nia ha'u Maromak no Halos._
 
@@ -667,12 +667,12 @@ _Nia ha'u Maromak no Halos._
 
 3. nudar hori uluk oras ne'e tinan ba tinan nafatin.
    Amen.`,
-}, 
-{
-  id: 29,
-  category: "Entrada",
-  title: "NA'I, KOALIA, BOLU RAI HOTU",
-  content: `**NA'I, KOALIA, BOLU RAI HOTU**
+  },
+  {
+    id: 29,
+    category: "Entrada",
+    title: "NA'I, KOALIA, BOLU RAI HOTU",
+    content: `**NA'I, KOALIA, BOLU RAI HOTU**
 _Na'i, koalia, bolu rai hotu_
 
 1. Na'i, bolu ema hotu: lorosa'e, loromonu.
@@ -681,13 +681,13 @@ _Na'i, koalia, bolu rai hotu_
 4. Halibur iha Ha'u oin, Ha'u emar sira.
 5. Rona mai, Ha'u povu! Ha'u mak koalia.
 6. Hasai sakrifisiu hahi ba Na'i Maromak.`,
-},
+  },
 
-{
-  id: 30,
-  category: "Entrada",
-  title: "NA'I JESUS, ITA AMI NIA KSOLOK",
-  content: `**NA'I JESUS, ITA AMI NIA KSOLOK**
+  {
+    id: 30,
+    category: "Entrada",
+    title: "NA'I JESUS, ITA AMI NIA KSOLOK",
+    content: `**NA'I JESUS, ITA AMI NIA KSOLOK**
 
 1. Na'i Jesus, Ita ami nia ksolok. (2x)
    Na'i Jesus, Ita mak halibur ami. (2x)
@@ -705,13 +705,13 @@ _Na'i, koalia, bolu rai hotu_
 4. Ohin, loron Na'i ninian. (2x)
    Ami simu Ita Boot nia lia. (2x)
    Ita la'o hamutuk ho ami...`,
-},
+  },
 
-{
-  id: 31,
-  category: "Entrada",
-  title: "NA'I IDA DEIT",
-  content: `**NA'I IDA DEIT**
+  {
+    id: 31,
+    category: "Entrada",
+    title: "NA'I IDA DEIT",
+    content: `**NA'I IDA DEIT**
 _Na'i ida deit, fiar ida deit, baptismo ida deit._
 _Aman Maromak ida deit!_
 
@@ -722,13 +722,13 @@ _Aman Maromak ida deit!_
 2. Ita hotu isin lolon ida deit iha Na'i Jesus.
 
 3. Ita hotu esperansa ida deit iha Na'i Jesus.`,
-},
+  },
 
-{
-  id: 32,
-  category: "Entrada",
-  title: "MAROMAK MAK BOLU",
-  content: `**MAROMAK MAK BOLU**
+  {
+    id: 32,
+    category: "Entrada",
+    title: "MAROMAK MAK BOLU",
+    content: `**MAROMAK MAK BOLU**
 _Maromak, Ita mak bolu no ami la'o to'o mai;_
 _Ita nia liafuan haksolok ami laran. (2x)_
 
@@ -740,13 +740,13 @@ _Ita nia liafuan haksolok ami laran. (2x)_
 
 3. Ita fo, fahe ba malu fo be moris ita laran,
    be It'nia tronu nabilan hato'o ami lia.`,
-},
+  },
 
-{
-  id: 33,
-  category: "Entrada",
-  title: "MAROMAK LORON NE'E",
-  content: `**MAROMAK LORON NE'E**
+  {
+    id: 33,
+    category: "Entrada",
+    title: "MAROMAK LORON NE'E",
+    content: `**MAROMAK LORON NE'E**
 _Maromak loron ne'e, loron baibain, Jesus. (2x)_
 
 1. Lalehan, loron, fulan no fitun,
@@ -763,13 +763,13 @@ _Maromak loron ne'e, loron baibain, Jesus. (2x)_
    ema diak eh aat, ha'u alin no maun.
    Ha'u fuan no laran, tulun, hadomi
    to liman ba malu, tan sira Jesus.`,
-},
+  },
 
-{
-  id: 34,
-  category: "Entrada",
-  title: "MAI LA'O HO HA'U BA MAROMAK UMA",
-  content: `**MAI LA'O HO HA'U BA MAROMAK UMA**
+  {
+    id: 34,
+    category: "Entrada",
+    title: "MAI LA'O HO HA'U BA MAROMAK UMA",
+    content: `**MAI LA'O HO HA'U BA MAROMAK UMA**
 
 1. Mai, la'o ho ha'u ba Maromak uma. (3x)
    _Iha neba haksolok, ksolok, ksolok._
@@ -785,13 +785,13 @@ _Maromak loron ne'e, loron baibain, Jesus. (2x)_
 6. Jesus mak damen iha Maromak uma. (3x)
 
 7. Ita hahi Nia iha Maromak uma. (3x)`,
-},
+  },
 
-{
-  id: 35,
-  category: "Entrada",
-  title: "MAI HOTU HAKBESIK MAROMAK",
-  content: `**MAI HOTU HAKBESIK MAROMAK**
+  {
+    id: 35,
+    category: "Entrada",
+    title: "MAI HOTU HAKBESIK MAROMAK",
+    content: `**MAI HOTU HAKBESIK MAROMAK**
 _Mai hotu, hakbesik Maromak: haksolok no hananu!_
 
 1. Rai tomak hawelok Maromak, serbi ita Na'i haksolok.
@@ -811,13 +811,13 @@ _Mai hotu, hakbesik Maromak: haksolok no hananu!_
 5. Hasa'e ba Maromak Padre bele hot-hotu;
    Maromak Filho, Jesus Kristu, ita Na'i;
    ba Espiritu Santu. Amen.`,
-},
+  },
 
-{
-  id: 36,
-  category: "Entrada",
-  title: "LORON KSOLOK BOOT",
-  content: `**LORON KSOLOK BOOT**
+  {
+    id: 36,
+    category: "Entrada",
+    title: "LORON KSOLOK BOOT",
+    content: `**LORON KSOLOK BOOT**
 
 1. Loron ida ne'e mak loron domin nian
    hamutuk halibur ho ksolok
@@ -830,13 +830,13 @@ _Mai hotu, hakbesik Maromak: haksolok no hananu!_
    Hamutuk halibur ho ksolok
    atu haklaken Na'i nia Naran.
    Loron ida ne'e mak Na'i to perdua.`,
-},
+  },
 
-{
-  id: 37,
-  category: "Entrada",
-  title: "LORON IDA NE'E",
-  content: `**LORON IDA NE'E**
+  {
+    id: 37,
+    category: "Entrada",
+    title: "LORON IDA NE'E",
+    content: `**LORON IDA NE'E**
 _Loron ida ne'e mak Maromak fo tulun._
 _Ita hetan diak no haksolok._
 _Fo laran ba Maromak tan Nia,_
@@ -856,13 +856,13 @@ aleluia, aleluia._
    foti Ita liman los, Maromak.
    Maromak liman los todan tebes;
    liurai liman, liman Na'i Maromak.`,
-},
+  },
 
-{
-  id: 38,
-  category: "Entrada",
-  title: "LORON FOUN SA'E ONA",
-  content: `**LORON FOUN SA'E ONA**
+  {
+    id: 38,
+    category: "Entrada",
+    title: "LORON FOUN SA'E ONA",
+    content: `**LORON FOUN SA'E ONA**
 _Loron foun sa'e ona, loron foun sa'e one,_
 _aifunan naklelar._
 _Loron foun sa'e ona, loron foun sa'e ona,_
@@ -876,12 +876,12 @@ _ha'u hetan ha'u nia Maromak._
 
 3. Dalan nobun iha raiklaran halo ita la para,
    tamba buat nobun sei liu, domin deit hasa'e ba Ita.`,
-},
-{
-  id: 39,
-  category: "Entrada",
-  title: "JUNTOS COMO IRMÃOS",
-  content: `**JUNTOS COMO IRMÃOS**
+  },
+  {
+    id: 39,
+    category: "Entrada",
+    title: "JUNTOS COMO IRMÃOS",
+    content: `**JUNTOS COMO IRMÃOS**
 _Juntos como irmãos, membros duma igreja._
 _Vamos caminhando ao encontro do Senhor._
 
@@ -893,13 +893,13 @@ _Vamos caminhando ao encontro do Senhor._
    que vale a pena viver na esperança e no amor.
 4. Nos vamos trabalhar na construção dum mundo novo
    onde reinará o amor, onde reinará a paz.`,
-},
+  },
 
-{
-  id: 40,
-  category: "Entrada",
-  title: "JUNTOS CANTANDO A ALEGRIA",
-  content: `**JUNTOS CANTANDO A ALEGRIA**
+  {
+    id: 40,
+    category: "Entrada",
+    title: "JUNTOS CANTANDO A ALEGRIA",
+    content: `**JUNTOS CANTANDO A ALEGRIA**
 _Juntos cantando a alegria_
 _de estarmos unidos na fé e no amor._
 _Juntos sentindo em nossas vidas_
@@ -919,13 +919,13 @@ _a alegre presença do Senhor._
    com amizade nos vai acompanhar.
    Se mil perigos nos espreitam sem cessar,
    nosso amigo, Jesus, nos salvará.`,
-},
+  },
 
-{
-  id: 41,
-  category: "Entrada",
-  title: "RAIKLARAN, HANANU",
-  content: `**RAIKLARAN, HANANU**
+  {
+    id: 41,
+    category: "Entrada",
+    title: "RAIKLARAN, HANANU",
+    content: `**RAIKLARAN, HANANU**
 _Bidu, ho ksolok, hananu hahi Na'i!_
 _Bidu, ho ksolok, hawelok Nia naran;_
 _raiklaran tomak haktuir Na'i nia beran_
@@ -949,13 +949,13 @@ _Bidu, ho ksolok, hawelok nia naran!_
    povu hosi rai ulun rai ikun,
    halo rai klaran hawelok hahi Na'i
    nebe hakiak rai klaran ho Nia domin.`,
-},
+  },
 
-{
-  id: 42,
-  category: "Entrada",
-  title: "RAHUN DIAK BA IDA BE MAI",
-  content: `**RAHUN DIAK BA IDA BE MAI**
+  {
+    id: 42,
+    category: "Entrada",
+    title: "RAHUN DIAK BA IDA BE MAI",
+    content: `**RAHUN DIAK BA IDA BE MAI**
 _Rahun diak ba ida be mai hodi Na'i nia naran._
 
 1. Povu raiklaran hakseek,
@@ -982,13 +982,13 @@ _Rahun diak ba ida be mai hodi Na'i nia naran._
 
 8. Maromak ukun povu raiklaran,
    Maromak hein An iha fatin santu.`,
-},
+  },
 
-{
-  id: 43,
-  category: "Entrada",
-  title: "OHIN MAROMAK NIA LORON BOOT",
-  content: `**OHIN MAROMAK NIA LORON BOOT**
+  {
+    id: 43,
+    category: "Entrada",
+    title: "OHIN MAROMAK NIA LORON BOOT",
+    content: `**OHIN MAROMAK NIA LORON BOOT**
 
 1. Ohin Maromak nia loron boot,
    ho Nia ita mai haksolok,
@@ -1003,13 +1003,13 @@ _Rahun diak ba ida be mai hodi Na'i nia naran._
 2. Ohin Maromak hatudu nia domin...
 
 3. Ohin Maromak hatudu perdaun..`,
-},
+  },
 
-{
-  id: 44,
-  category: "Entrada",
-  title: "OHIN LORON, LORON HANA'I NA'I JESUS",
-  content: `**OHIN LORON, LORON HANA'I NA'I JESUS**
+  {
+    id: 44,
+    category: "Entrada",
+    title: "OHIN LORON, LORON HANA'I NA'I JESUS",
+    content: `**OHIN LORON, LORON HANA'I NA'I JESUS**
 _Ohin loron, loron hana'i Na'i Jesus, aleluia, aleluia._
 
 1. Husik buat hotu, mai uma Kreda,
@@ -1021,13 +1021,13 @@ _Ohin loron, loron hana'i Na'i Jesus, aleluia, aleluia._
    rona Maromak lialos.
    Komunga, simu aihan lalehan,
    kbiit makaas, tulun diak nian.`,
-},
+  },
 
-{
-  id: 45,
-  category: "Entrada",
-  title: "OHIN ITA MAI HAHI",
-  content: `**OHIN ITA MAI HAHI**
+  {
+    id: 45,
+    category: "Entrada",
+    title: "OHIN ITA MAI HAHI",
+    content: `**OHIN ITA MAI HAHI**
 _Ohin ita mai hahi ita nia Maksoin bele tomak,_
 _hahi, hawelok ita Nain nebe halo ita moris._
 _Mai hotu, hahi ita Aman, domin los nia hun_
@@ -1038,13 +1038,13 @@ _nebe halibur ita hadulas altar._
 
 2. Ha'u fiar metin, ha'u laran metin,
    ha'u kaer metin ita ukunfuan.`,
-},
+  },
 
-{
-  id: 46,
-  category: "Entrada",
-  title: "OHIN DADER",
-  content: `**OHIN DADER**
+  {
+    id: 46,
+    category: "Entrada",
+    title: "OHIN DADER",
+    content: `**OHIN DADER**
 
 1. Ohin dader, data ida tan
    ha'u mai harohan no husu ita roman,
@@ -1063,13 +1063,13 @@ _nebe halibur ita hadulas altar._
    Buat ha'u hatene mak ida ne'e los:
    katak ha'u Aman bolu ha'u nafatin
    atu to ksolok ha'u.`,
-},
+  },
 
-{
-  id: 47,
-  category: "Entrada",
-  title: "NA'I, MAI UMA NE'E",
-  content: `**NA'I, MAI UMA NE'E**
+  {
+    id: 47,
+    category: "Entrada",
+    title: "NA'I, MAI UMA NE'E",
+    content: `**NA'I, MAI UMA NE'E**
 _Na'i, mai uma ne'e. Ohin It'bolu ami._
 _Ami mai halibur nudar Ita oan._
 
@@ -1078,13 +1078,13 @@ _Ami mai halibur nudar Ita oan._
 
 2. Hosi fatin dook tebes, hakbesik ba altar ne'e.
    Simu moris foun hamutuk ho Ita Boot.`,
-},
+  },
 
-{
-  id: 48,
-  category: "Entrada",
-  title: "NA'I LIURAI RAI HOTU NIAN",
-  content: `**NA'I LIURAI RAI HOTU NIAN**
+  {
+    id: 48,
+    category: "Entrada",
+    title: "NA'I LIURAI RAI HOTU NIAN",
+    content: `**NA'I LIURAI RAI HOTU NIAN**
 _Na'i liurai rai hotu nian, ami hana'i Ita Boot_
 _Na'i Liurai ami nian, Ita nia ukun rohan laek._
 
@@ -1093,12 +1093,12 @@ _Na'i Liurai ami nian, Ita nia ukun rohan laek._
 
 2. Ami hakat ba Ita uma atu hananu no harohan;
    ami hahi no agradese ita nia kmanek wain.`,
-},
-{
-  id: 49,
-  category: "Responsorial",
-  title: "HANANU BA NA'I KNANANUK FOUN IDA",
-  content: `**HANANU BA NA'I KNANANUK FOUN IDA**
+  },
+  {
+    id: 49,
+    category: "Responsorial",
+    title: "HANANU BA NA'I KNANANUK FOUN IDA",
+    content: `**HANANU BA NA'I KNANANUK FOUN IDA**
 _Hananu ba Na'i knananuk foun ida,_
 _Hananu ba Na'i, iha mundu raiklaran._
 
@@ -1108,13 +1108,13 @@ _Hananu ba Na'i, iha mundu raiklaran._
    ba rai sira hatudu nia justisa.
 3. Rai klaran tomak hare ona,
    ita Maromak nia diak.`,
-},
+  },
 
-{
-  id: 50,
-  category: "Responsorial",
-  title: "HALIBUR AMI, NA'I",
-  content: `**HALIBUR AMI, NA'I**
+  {
+    id: 50,
+    category: "Responsorial",
+    title: "HALIBUR AMI, NA'I",
+    content: `**HALIBUR AMI, NA'I**
 _Halibur ami, Na'i; halibur ami ho tali be sei la kotu._
 _Halibur ami, Na'i; halibur ami ho tali domin nian._
 
@@ -1123,13 +1123,13 @@ _Halibur ami, Na'i; halibur ami ho tali domin nian._
 
 2. Moris atu sai oan; Na'i Maromak ninian
    sai maun alin ba malu; forma familia ida.`,
-},
+  },
 
-{
-  id: 51,
-  category: "Responsorial",
-  title: "HAKSOL0K BA, BASA IMI NARAN",
-  content: `**HAKSOL0K BA, BASA IMI NARAN**
+  {
+    id: 51,
+    category: "Responsorial",
+    title: "HAKSOL0K BA, BASA IMI NARAN",
+    content: `**HAKSOL0K BA, BASA IMI NARAN**
 _Haksolok ba, basa imi nia naran
 hakerek ona iha lalehan._
 
@@ -1150,13 +1150,13 @@ hakerek ona iha lalehan._
 
 6. Rahun diak ba sira be hakmatek,
    basa sei hanaran sira Maromak oan.`,
-},
+  },
 
-{
-  id: 52,
-  category: "Responsorial",
-  title: "HAHI, HANA'I JESUS",
-  content: `**HAHI, HANA'I JESUS**
+  {
+    id: 52,
+    category: "Responsorial",
+    title: "HAHI, HANA'I JESUS",
+    content: `**HAHI, HANA'I JESUS**
 _Hahi, hana'i Jesus, ema rai tomak, Nia naran._
 
 1. Maromak hanoin ita, tulun ita.
@@ -1167,13 +1167,13 @@ _Hahi, hana'i Jesus, ema rai tomak, Nia naran._
 
 3. Rai hotu sei hetan ksolok
    tan Na'i Maromak tesi lia la sola.`,
-},
+  },
 
-{
-  id: 53,
-  category: "Responsorial",
-  title: "HADOMI, FO DAME",
-  content: `**HADOMI, FO DAME**
+  {
+    id: 53,
+    category: "Responsorial",
+    title: "HADOMI, FO DAME",
+    content: `**HADOMI, FO DAME**
 _Hadomi, fo dame, perdaun, tulun._
 _Hadomi, perdaun._
 
@@ -1188,13 +1188,13 @@ _Hadomi, perdaun._
 
 4. Jesus to hanorin dehan:
    imi perdua maluk sira nia sola, Maromak perdua imi.`,
-},
+  },
 
-{
-  id: 54,
-  category: "Responsorial",
-  title: "EMA HOTU HATENE",
-  content: `**EMA HOTU HATENE**
+  {
+    id: 54,
+    category: "Responsorial",
+    title: "EMA HOTU HATENE",
+    content: `**EMA HOTU HATENE**
 _Ema hotu hatene: Maromak diak tebes._
 
 1. Hana'i nafatin ha'u Na'i,
@@ -1211,13 +1211,13 @@ _Ema hotu hatene: Maromak diak tebes._
    Imi neon sei la susar.
    Kiak ida ba hatan, nia hetan tulun;
    hetan tulun ba nia susar.`,
-},
+  },
 
-{
-  id: 55,
-  category: "Responsorial",
-  title: "DIAK, HA'U SEI FILA FALI",
-  content: `**DIAK, HA'U SEI FILA FALI**
+  {
+    id: 55,
+    category: "Responsorial",
+    title: "DIAK, HA'U SEI FILA FALI",
+    content: `**DIAK, HA'U SEI FILA FALI**
 _Diak, ha'u sei fila fali ba hasouru ha'u Aman._
 
 1. Ba Ita, ha'u Na'i, hasa'e ha'u klamar
@@ -1228,13 +1228,13 @@ _Diak, ha'u sei fila fali ba hasouru ha'u Aman._
 
 3. Na'i, hanorin Ita nia hakarak
    Ita Boot nia dalan hatudu mai ha'u ba.`,
-},
+  },
 
-{
-  id: 56,
-  category: "Responsorial",
-  title: "ATAN SIRA, HAHI BA",
-  content: `**ATAN SIRA, HAHI BA**
+  {
+    id: 56,
+    category: "Responsorial",
+    title: "ATAN SIRA, HAHI BA",
+    content: `**ATAN SIRA, HAHI BA**
 _Atan sira, hahi ba; Hahi ba Maromak naran;_
 _diak oin sa Na'i Maromak nia naran._
 
@@ -1246,13 +1246,13 @@ _diak oin sa Na'i Maromak nia naran._
 3. Ninia ukun aas liu hotu.
 
 4. Se mak sukat Na'i Maromak.`,
-},
+  },
 
-{
-  id: 57,
-  category: "Responsorial",
-  title: "AMI SEI HELA NONOK",
-  content: `**AMI SEI HELA NONOK**
+  {
+    id: 57,
+    category: "Responsorial",
+    title: "AMI SEI HELA NONOK",
+    content: `**AMI SEI HELA NONOK**
 _Ami sei hela nonok, sei se tilun ba
 Maromak nia liafuan tun mai to'o ami._
 
@@ -1267,13 +1267,13 @@ Maromak nia liafuan tun mai to'o ami._
 
 4. Mota, anin, tasi, foho lori Nia lia
    Maromak nia lia namkari ba fatin hot-hotu.`,
-},
+  },
 
-{
-  id: 58,
-  category: "Responsorial",
-  title: "AMI HAHI ITA BOOT NIA JUSTISA",
-  content: `**AMI HAHI ITA BOOT NIA JUSTISA**
+  {
+    id: 58,
+    category: "Responsorial",
+    title: "AMI HAHI ITA BOOT NIA JUSTISA",
+    content: `**AMI HAHI ITA BOOT NIA JUSTISA**
 _Ami ha hi Ita Boot nia justisa,_
 _ami haklaken Ita Boot laran luak, Kristu, Na'i Liurai!_
 
@@ -1285,12 +1285,12 @@ _ami haklaken Ita Boot laran luak, Kristu, Na'i Liurai!_
 
 3. Hahi, hana'i ba Na'i Maromak,
    tan Nia Ita Maksoin.`,
-},
-{
-  id: 59,
-  category: "Responsorial",
-  title: "LARAN BA ITA, AMI NA'I",
-  content: `**LARAN BA ITA, AMI NA'I**
+  },
+  {
+    id: 59,
+    category: "Responsorial",
+    title: "LARAN BA ITA, AMI NA'I",
+    content: `**LARAN BA ITA, AMI NA'I**
 _Laran ba Ita, ami Na'i; ami laran diak nian._
 _Laran ba Ita, ami Na'i; hananu Ita diak._
 
@@ -1310,13 +1310,13 @@ _Laran ba Ita, ami Na'i; hananu Ita diak._
    Kalan loron ha'u sader ba Ita Boot.
    Ita hadomi tinan bainloron.
    La husik buat Ita hakiak.`,
-},
+  },
 
-{
-  id: 60,
-  category: "Responsorial",
-  title: "LABARIK BARAK MAI BESIK JESUS",
-  content: `**LABARIK BARAK MAI BESIK JESUS**
+  {
+    id: 60,
+    category: "Responsorial",
+    title: "LABARIK BARAK MAI BESIK JESUS",
+    content: `**LABARIK BARAK MAI BESIK JESUS**
 
 1. Labarik barak mai besik Jesus,
    Nia bensa diak sira hakarak husu;
@@ -1326,13 +1326,13 @@ _Laran ba Ita, ami Na'i; hananu Ita diak._
 _Maibe Jesus hirus sira, "Husik labarik sira mai.
 Ha'u nia reinu kikoan sira nian,
 ho mos ba ema nebe hanesan sira". (2x)_`,
-},
+  },
 
-{
-  id: 61,
-  category: "Responsorial",
-  title: "KOALIA BA, NA'I",
-  content: `**KOALIA BA, NA'I**
+  {
+    id: 61,
+    category: "Responsorial",
+    title: "KOALIA BA, NA'I",
+    content: `**KOALIA BA, NA'I**
 
 1. Hatudu mai, Na'i, Ita dalan be Ita hakarak ha'u tuir.
    Hatudu, Na'i, Ita dalan; ha'u hakarak rona Ita lian.
@@ -1349,13 +1349,13 @@ _Koalia ba, Na'i; Ita atan se tilun. (4x)_
 
 4. Loke ba ami nia fuan be Ita halo atu hadomi.
    Dala ruma taka metin netik; la husik Ita atu tama.`,
-},
+  },
 
-{
-  id: 62,
-  category: "Responsorial",
-  title: "IHA FOHO SANTU",
-  content: `**IHA FOHO SANTU**
+  {
+    id: 62,
+    category: "Responsorial",
+    title: "IHA FOHO SANTU",
+    content: `**IHA FOHO SANTU**
 _Iha foho santu Na'i ninian ha'u rona lia ida bolu ha'u._
 
 1. Na'i, Ita oan mak ne'e; ha'u rona Ita Boot bolu.
@@ -1367,13 +1367,13 @@ _Iha foho santu Na'i ninian ha'u rona lia ida bolu ha'u._
 3. Na'i, ha'u maksoin, haraik matan mai ha'u,
    basa Ita rasik fihar ha'u, ho ksolok hatan (ba) Ita Boot
    ha'u saran an tomak to'o mate.`,
-},
+  },
 
-{
-  id: 63,
-  category: "Responsorial",
-  title: "HA'U SEI HAKLAKEN",
-  content: `**HA'U SEI HAKLAKEN**
+  {
+    id: 63,
+    category: "Responsorial",
+    title: "HA'U SEI HAKLAKEN",
+    content: `**HA'U SEI HAKLAKEN**
 _Ha'u sei haklaken ba ema tomak:
 Maromak Ha mesak diak._
 
@@ -1394,13 +1394,13 @@ Maromak Ha mesak diak._
 
 6. Diak ba ema sira iha raiklaran
    rona tuir Maromak nia lia.`,
-},
+  },
 
-{
-  id: 64,
-  category: "Responsorial",
-  title: "HA'U SEI FILA FALI BA",
-  content: `**HA'U SEI FILA FALI BA**
+  {
+    id: 64,
+    category: "Responsorial",
+    title: "HA'U SEI FILA FALI BA",
+    content: `**HA'U SEI FILA FALI BA**
 _Ha'u sei fila fali ba,
 ba Maromak ha'u Aman, ha'u Na'i._
 
@@ -1418,13 +1418,13 @@ ba Maromak ha'u Aman, ha'u Na'i._
 
 5. Ita laran luak no diak tebes;
    diak ba sira be harohan.`,
-},
+  },
 
-{
-  id: 65,
-  category: "Responsorial",
-  title: "HA'U SEI DEHAN",
-  content: `**HA'U SEI DEHAN**
+  {
+    id: 65,
+    category: "Responsorial",
+    title: "HA'U SEI DEHAN",
+    content: `**HA'U SEI DEHAN**
 
 1. Ha'u sei dehan: Se o fiar Na'i Maromak,
    o hare Nia gloria. (2x)
@@ -1434,13 +1434,13 @@ _O hare Maromak nia gloria. (4x)_
 2. Ha'u sei dehan: se o hatene Na'i Maromak.
 3. Ha'u sei dehan: se o terus tan Maromak.
 4. Ha'u sei dehan: se o perdua tan Maromak.`,
-},
+  },
 
-{
-  id: 66,
-  category: "Responsorial",
-  title: "HA'U MAK NE'E, NA'I",
-  content: `**HA'U MAK NE'E, NA'I**
+  {
+    id: 66,
+    category: "Responsorial",
+    title: "HA'U MAK NE'E, NA'I",
+    content: `**HA'U MAK NE'E, NA'I**
 
 1. Ha'u mak ukun tasi, lalehan,
    rona Ha'u povu nia hakilar,
@@ -1470,13 +1470,13 @@ ha'u sei hein Ita povu ho domin._
    Ha'u hare ema kiak no kiik.
    Ha'u sei halo testa ba sira;
    Ha'u sei soi sira.`,
-},
+  },
 
-{
-  id: 67,
-  category: "Responsorial",
-  title: "HA'U LA'O NAFATIN",
-  content: `**HA'U LA'O NAFATIN**
+  {
+    id: 67,
+    category: "Responsorial",
+    title: "HA'U LA'O NAFATIN",
+    content: `**HA'U LA'O NAFATIN**
 _Ha'u la'o nafatin Na'i Maromak tutor oin. (2x)_
 
 1. Ha'u hadomi Maromak tan rona ha'u lia no ha'u bolu,
@@ -1491,13 +1491,13 @@ _Ha'u la'o nafatin Na'i Maromak tutor oin. (2x)_
 3. Na'i Jesus laran diak no mos, ita Na'i laran luak.
    Na'i Maromak, ema kiik ha'u kole
    no ha'u susar Nia to tulun.`,
-},
+  },
 
-{
-  id: 68,
-  category: "Responsorial",
-  title: "HA'U KLAMAR HA'U FO BA ITA",
-  content: `**HA'U KLAMAR HA'U FO BA ITA**
+  {
+    id: 68,
+    category: "Responsorial",
+    title: "HA'U KLAMAR HA'U FO BA ITA",
+    content: `**HA'U KLAMAR HA'U FO BA ITA**
 _Ha'u klamar ha'u fo ba Ita;
 Ita Boot Maromak ha'u fiar._
 
@@ -1509,12 +1509,12 @@ Ita Boot Maromak ha'u fiar._
 
 3. Maromak, ha'u hein Ita boot loron tomak;
    tan Ita Boot nia laran luak.`,
-},
-{
-  id: 69,
-  category: "Responsorial",
-  title: "EU QUERO VIVER",
-  content: `**EU QUERO VIVER**
+  },
+  {
+    id: 69,
+    category: "Responsorial",
+    title: "EU QUERO VIVER",
+    content: `**EU QUERO VIVER**
 _Eu quero viver na Tua alegria,
 contigo serei feliz cada dia;
 eu quero seguir-Te, Senhor, meu bem,
@@ -1526,13 +1526,13 @@ Irei mas além caminhando em frente,
 serei dedicado para toda a gente.
 Irei mas além, o Senhor meu Deus
 depois desta vida a glória dos céus.`,
-},
+  },
 
-{
-  id: 70,
-  category: "Responsorial",
-  title: "BENDITO SEJA JESUS CRISTO",
-  content: `**BENDITO SEJA JESUS CRISTO**
+  {
+    id: 70,
+    category: "Responsorial",
+    title: "BENDITO SEJA JESUS CRISTO",
+    content: `**BENDITO SEJA JESUS CRISTO**
 _Bendito seja Jesus Cristo
 p'ra sempre, p'ra sempre, p'ra sempre, p'ra sempre!
 Bendito seja Jesus Cristo._
@@ -1543,13 +1543,13 @@ _p'ra sempre, p'ra sempre, p'ra sempre, p'ra sempre!_
    gloria à Jesus Cristo, nosso Salvador.
    Gloria à Jesus Cristo, Cordeiro de Deus.
    Gloria à Jesus Cristo, O que nos amou.`,
-},
+  },
 
-{
-  id: 71,
-  category: "Responsorial",
-  title: "BEM-AVENTURADOS PARA SEMPRE",
-  content: `**BEM-AVENTURADOS PARA SEMPRE**
+  {
+    id: 71,
+    category: "Responsorial",
+    title: "BEM-AVENTURADOS PARA SEMPRE",
+    content: `**BEM-AVENTURADOS PARA SEMPRE**
 
 1. Bem-aventurados são os pobres;
    bem-aventurado a quem chorou.
@@ -1580,13 +1580,13 @@ _p'ra sempre, p'ra sempre, p'ra sempre, p'ra sempre!_
    que faz da sua vida uma libertação,
    que também se inseriu sem compactuar.
    Bem-aventurados para sempre!`,
-},
+  },
 
-{
-  id: 72,
-  category: "Responsorial",
-  title: "UDANBETUN",
-  content: `**UDANBETUN**
+  {
+    id: 72,
+    category: "Responsorial",
+    title: "UDANBETUN",
+    content: `**UDANBETUN**
 _Udan be tun hosi lalehan mai
 sai habokon no haburas rai;
 nune'e mos Na'i nia futar lia
@@ -1601,13 +1601,13 @@ sei halo tuir knaar Maksoin ba ema tomak._
    sei hetan moris rohan laek.
 
 _Ami harohan ba Ita, O Na'i, rona ami nia hamulak!_`,
-},
+  },
 
-{
-  id: 73,
-  category: "Responsorial",
-  title: "SIM, NA'I",
-  content: `**SIM, NA'I**
+  {
+    id: 73,
+    category: "Responsorial",
+    title: "SIM, NA'I",
+    content: `**SIM, NA'I**
 
 1. Ha'u rona Ita bolu, "Mai tuir Ha'u,
    sai ha'u nia liman iha mundu ne'e,
@@ -1632,13 +1632,13 @@ Sim, Na'i (2x) ba nafatin._
 
 _Sim, Na'i, (2x) ha'u mak ne'e.
 Sim, Na'i, (2x) to'o rohan._`,
-},
+  },
 
-{
-  id: 74,
-  category: "Responsorial",
-  title: "SE O RONA",
-  content: `**SE O RONA**
+  {
+    id: 74,
+    category: "Responsorial",
+    title: "SE O RONA",
+    content: `**SE O RONA**
 
 1. Se o rona anin nia lia bolu nafatin o;
    se o rona tempu nia lia haruka o atu hein;
@@ -1646,24 +1646,24 @@ Sim, Na'i, (2x) to'o rohan._`,
 
 _Na'i bolu ema wain; (2x)
 barak tempu la iha. (2x)_`,
-},
+  },
 
-{
-  id: 75,
-  category: "Responsorial",
-  title: "RAHUN KMANEK",
-  content: `**RAHUN KMANEK**
+  {
+    id: 75,
+    category: "Responsorial",
+    title: "RAHUN KMANEK",
+    content: `**RAHUN KMANEK**
 _Rahun kmanek ba ida nebe rona Na'i nia futar lia._
 
 1. Na'i tutor lia nudar matadalan,
    lori ha'u ba Aman lalehan.`,
-},
+  },
 
-{
-  id: 76,
-  category: "Responsorial",
-  title: "NA'I JESUS HATETEN",
-  content: `**NA'I JESUS HATETEN**
+  {
+    id: 76,
+    category: "Responsorial",
+    title: "NA'I JESUS HATETEN",
+    content: `**NA'I JESUS HATETEN**
 _Na'i Jesus hateten: Ukunfuan ha'u nian.
 Imi sei hadomi malu tuir Ha'u hadomi imi._
 
@@ -1681,13 +1681,13 @@ Imi sei hadomi malu tuir Ha'u hadomi imi._
    Imi nia Aman mak Na'i Maromak.
    Aman diak no doben,
    horik lalehan aas nian ba.`,
-},
+  },
 
-{
-  id: 77,
-  category: "Responsorial",
-  title: "NA'I JESUS, AMI HANA'I",
-  content: `**NA'I JESUS, AMI HANA'I**
+  {
+    id: 77,
+    category: "Responsorial",
+    title: "NA'I JESUS, AMI HANA'I",
+    content: `**NA'I JESUS, AMI HANA'I**
 
 1. Na'i Jesus, ami hana'i, hanoin ami.
    Ami isin ami klamar,
@@ -1703,13 +1703,13 @@ Imi sei hadomi malu tuir Ha'u hadomi imi._
    Timor oan tanis mate,
    Rona ami tulun ami,
    Fakar ran terus todan.`,
-},
+  },
 
-{
-  id: 78,
-  category: "Responsorial",
-  title: "NA'I, HA'U SEI BA HO ITA",
-  content: `**NA'I, HA'U SEI BA HO ITA**
+  {
+    id: 78,
+    category: "Responsorial",
+    title: "NA'I, HA'U SEI BA HO ITA",
+    content: `**NA'I, HA'U SEI BA HO ITA**
 _Na'i, Ita Boot mak bolu ha'u.
 Na'i, Ita Boot konvida ha'u.
 "Tuir Ha'u mai! Tuir Ha'u mai!"
@@ -1727,13 +1727,13 @@ Ha'u Na'i, ha'u sei ba ho Ita._
    Nune'e, sei hatene katak Ita Boot iha.
    Ho ha'u nia kbiit ha'u sei loke ha'u nia laran,
    ba Ita Boot nia domin, ba Ita Boot nia dame.`,
-},
+  },
 
-{
-  id: 79,
-  category: "Responsorial",
-  title: "NA'I, HA'U MAK NE'E",
-  content: `**NA'I, HA'U MAK NE'E**
+  {
+    id: 79,
+    category: "Responsorial",
+    title: "NA'I, HA'U MAK NE'E",
+    content: `**NA'I, HA'U MAK NE'E**
 
 1. Na'i, ha'u mak ne'e, rona Ita lia.
    Ha'u hakarak saran an ba Ita, o Na'i.
@@ -1746,13 +1746,13 @@ Ha'u Na'i, ha'u sei ba ho Ita._
    halo ha'u sai roman ba ema hot-hotu.
    O Na'i, ha'u moris ba Ita.
    Ha'u saran an tomak, ohin to'o mate.`,
-},
+  },
 
-{
-  id: 80,
-  category: "Responsorial",
-  title: "MAROMAK LIMAN LOS",
-  content: `**MAROMAK LIMAN LOS**
+  {
+    id: 80,
+    category: "Responsorial",
+    title: "MAROMAK LIMAN LOS",
+    content: `**MAROMAK LIMAN LOS**
 _Maromak liman los hatudu Nia kbiit.
 Maromak liman los foti ha'u.
 Ha'u sei la mate, moris beibeik.
@@ -1760,13 +1760,13 @@ Hahi, ha na'i Na'i Maromak._
 
 1. Hananu hahi Na'i, tan Nia diak.
    Ninia domin boot tebes, rohan laek.`,
-},
+  },
 
-{
-  id: 81,
-  category: "Responsorial",
-  title: "MAI, KOKO BA",
-  content: `**MAI, KOKO BA**
+  {
+    id: 81,
+    category: "Responsorial",
+    title: "MAI, KOKO BA",
+    content: `**MAI, KOKO BA**
 _Mai, koko ba hodi hare Na'i laran diak oin sa. (2x)_
 
 1. Hahi Maromak loron kalan;
@@ -1789,13 +1789,13 @@ _Mai, koko ba hodi hare Na'i laran diak oin sa. (2x)_
 
 _Halo buat diak, soe buat aat;
 buka nafatin dame to'o hetan._`,
-},
+  },
 
-{
-  id: 82,
-  category: "Responsorial",
-  title: "LARAN METIN BA NA'I MAROMAK",
-  content: `**LARAN METIN BA NA'I MAROMAK**
+  {
+    id: 82,
+    category: "Responsorial",
+    title: "LARAN METIN BA NA'I MAROMAK",
+    content: `**LARAN METIN BA NA'I MAROMAK**
 _Laran metin ba Na'i Maromak, ha'u moris Ita lia.
 Ita lia mai nafatin, ho nia ha'u titu deit._
 
@@ -1818,12 +1818,12 @@ Ita lia mai nafatin, ho nia ha'u titu deit._
    tan Ita lia to moris hias ha'u fuan;
    maski kalan ha'u hanoin Ita naran,
    buka tuir nafatin Ita nia hakarak.`,
-},
-{
-  id: 83,
-  category: "Aleluia",
-  title: "NA'I JESUS, HORIK HO AMI",
-  content: `Na'i Jesus horik ho ami, aleluia,
+  },
+  {
+    id: 83,
+    category: "Aleluia",
+    title: "NA'I JESUS, HORIK HO AMI",
+    content: `Na'i Jesus horik ho ami, aleluia,
 atu leno ami dalan, aleluia.
 
 1. Nia hanorin deit lialos, aleluia.
@@ -1837,13 +1837,13 @@ atu leno ami dalan, aleluia.
 
 4. Jesus doben, moris Nain, aleluia,
    fo domin mai atan ami, aleluia.`
-},
+  },
 
-{
-  id: 84,
-  category: "Aleluia",
-  title: "MORIS SUSAR EH DIAK, ALELUIA",
-  content: `1. Moris susar eh diak, aleluia,
+  {
+    id: 84,
+    category: "Aleluia",
+    title: "MORIS SUSAR EH DIAK, ALELUIA",
+    content: `1. Moris susar eh diak, aleluia,
 tuir Jesus ukunfuan, aleluia;
 metin ba Na'i Jesus, aleluia.
 
@@ -1856,13 +1856,13 @@ midar deit, buka diak, aleluia.
 3. La temi kulit eh rai, aleluia,
 Maromak ida deit, aleluia,
 ita tomak Nia soi, aleluia.`
-},
+  },
 
-{
-  id: 85,
-  category: "Aleluia",
-  title: "KRISTU NIA ROMAN",
-  content: `Kristu nia roman nabilan iha mundu tomak.
+  {
+    id: 85,
+    category: "Aleluia",
+    title: "KRISTU NIA ROMAN",
+    content: `Kristu nia roman nabilan iha mundu tomak.
 Aleluia, aleluia.
 
 1. Hananu ba knananuk foun ida,
@@ -1884,13 +1884,13 @@ tan Nia laran luak ba nafatin.
 5. Fatuk ida be ema hewai
 nakfilak ba fatuk inan;
 buat ne'e hotu mai hosi Maromak.`
-},
+  },
 
-{
-  id: 86,
-  category: "Aleluia",
-  title: "ITA FUTAR LIA DOMIN",
-  content: `1. Ha'u mai atu se tilun, rona
+  {
+    id: 86,
+    category: "Aleluia",
+    title: "ITA FUTAR LIA DOMIN",
+    content: `1. Ha'u mai atu se tilun, rona
 Ita nia futar lia, Ita nia futar lia domin. (2x)
 
 2. Ha'u hakarak se tilun, rona.
@@ -1898,25 +1898,25 @@ Ita nia futar lia, Ita nia futar lia domin. (2x)
 3. Ha'u hakarak hatene didiak.
 
 4. Raiklaran sei ba moris hotu.`
-},
+  },
 
-{
-  id: 87,
-  category: "Aleluia",
-  title: "HANA'I BA ITA, KRISTU",
-  content: `Hana'i ba Ita, Kristu, Maromak nia futar lia.
+  {
+    id: 87,
+    category: "Aleluia",
+    title: "HANA'I BA ITA, KRISTU",
+    content: `Hana'i ba Ita, Kristu, Maromak nia futar lia.
 
 1. Kristu haraik An to'o mate,
 hodi mate iha krus.
 Tamba ne'e Maromak foti Nia
 hodi to ba Nia naran ida boot liu hotu.`
-},
+  },
 
-{
-  id: 88,
-  category: "Aleluia",
-  title: "DALAN DIAK NO MAKSOIN",
-  content: `Dalan diak no Maksoin mak Jesus, aleluia.
+  {
+    id: 88,
+    category: "Aleluia",
+    title: "DALAN DIAK NO MAKSOIN",
+    content: `Dalan diak no Maksoin mak Jesus, aleluia.
 
 1. Na'i Maromak ha'u naroman no Maksoin.
 Ha'u tauk tali se?
@@ -1932,26 +1932,26 @@ lor-loron iha ha'u nia moris tomak.
 hanoin ha'u atan.
 Ha'u harohan ho ha'u laran,
 ha'u nia oin buka Ita Boot.`
-},
+  },
 
-{
-  id: 89,
-  category: "Aleluia",
-  title: "BA NA'I MAROMAK HAN ANU AMEN ALELUIA",
-  content: `Ba Na'i Maromak hananu,
+  {
+    id: 89,
+    category: "Aleluia",
+    title: "BA NA'I MAROMAK HAN ANU AMEN ALELUIA",
+    content: `Ba Na'i Maromak hananu,
 "Amen, Aleluia." (2x)
 
 1. Ema tomak hahi Ita Boot naran,
 Maromak nia naran.
 Tan Ita hadomi, la hein seluk,
 hadomi los Nia duni.`
-},
+  },
 
-{
-  id: 90,
-  category: "Aleluia",
-  title: "ALELUIA, KRISTU, ITA NIA MORIS",
-  content: `Aleluia (3x)
+  {
+    id: 90,
+    category: "Aleluia",
+    title: "ALELUIA, KRISTU, ITA NIA MORIS",
+    content: `Aleluia (3x)
 
 1. Kristu, ita nia moris,
 ita nia dalan los, lialos.
@@ -1961,13 +1961,13 @@ Nia deit mak to liberdade.
 
 3. Kristu, Nia to an ba mate;
 mate tan ita ema.`
-},
+  },
 
-{
-  id: 91,
-  category: "Aleluia",
-  title: "ALELUIA, KRISTU ITA DALAN",
-  content: `Aleluia (3x)
+  {
+    id: 91,
+    category: "Aleluia",
+    title: "ALELUIA, KRISTU ITA DALAN",
+    content: `Aleluia (3x)
 
 1. Kristu ita dalan,
 Kristu rasik dehan: Nia ita dalan.
@@ -1977,13 +1977,13 @@ Kristu rasik dehan: Nia ita moris.
 
 3. Kristu ita lialos,
 Kristu rasik dehan: Kristu ita lialos.`
-},
+  },
 
-{
-  id: 92,
-  category: "Aleluia",
-  title: "ALELUIA, NA'I JESUS, ITA LIURAI",
-  content: `Aleluia, aleluia,
+  {
+    id: 92,
+    category: "Aleluia",
+    title: "ALELUIA, NA'I JESUS, ITA LIURAI",
+    content: `Aleluia, aleluia,
 Na'i Jesus, ita Liurai. (2x)
 
 1. Hahi Maromak ho hananu foun ida
@@ -1995,13 +1995,13 @@ manan funu: Nia liman santu.
 Nia to sai ba rai hotu Nia lialos.
 Nia laran luak diak, diak nafatin:
 to tulun ba ema Israel.`
-},
+  },
 
-{
-  id: 93,
-  category: "Aleluia",
-  title: "ALELUIA, AGRADESSE",
-  content: `Aleluia, aleluia,
+  {
+    id: 93,
+    category: "Aleluia",
+    title: "ALELUIA, AGRADESSE",
+    content: `Aleluia, aleluia,
 agradece ba Maromak!
 Aleluia, aleluia,
 ita ha hi Nia naran.
@@ -2014,12 +2014,12 @@ Nia mak dalan, lialos ba nafatin.
 
 3. Hato'o ba mundu raiklaran:
 ita Liurai mak Jesus Kristu!`
-},
-{
-  id: 94,
-  category: "Ofertorio",
-  title: "MAI HOTU MAUN ALIN, HASA’E BA NA’I",
-  content: `Aleluia, aleluia, aleluia.
+  },
+  {
+    id: 94,
+    category: "Ofertorio",
+    title: "MAI HOTU MAUN ALIN, HASA’E BA NA’I",
+    content: `Aleluia, aleluia, aleluia.
 
 1. Mai hotu, maun alin, hasa'e ba Na’i
 ita moris tomak hodi hahi Nia
@@ -2036,21 +2036,21 @@ ho Kristu Jesus, ami nia maun boot, aleluia.
 4. Ami hotu nia susar, ami hotu nia knaar,
 ksolok hotu ho domin ami tomak ninian,
 hosi Kristu Jesus hasa’e ba Ita, aleluia.`
-},
-{
-  id: 95,
-  category: "Ofertorio",
-  title: "KRISTU, AMI MAKSOIN",
-  content: `Kristu, ami Maksoin, ami nia moris, ami nia dalan.
+  },
+  {
+    id: 95,
+    category: "Ofertorio",
+    title: "KRISTU, AMI MAKSOIN",
+    content: `Kristu, ami Maksoin, ami nia moris, ami nia dalan.
 Na’i, Aman lalehan, rona ami lia, simu ami kick.
 
 1. Ami nia isin, klamar simu hamutuk tua no paun. (2x)`
-},
-{
-  id: 96,
-  category: "Ofertorio",
-  title: "ITA BOOT SIMU BA",
-  content: `Ita Boot simu ba, ha'u kole loron kalan.
+  },
+  {
+    id: 96,
+    category: "Ofertorio",
+    title: "ITA BOOT SIMU BA",
+    content: `Ita Boot simu ba, ha'u kole loron kalan.
 Ha'u nia ksolok no teruss, susar no ha'u knaac
 ka'u soi karik be, Na’i, soi saran wain tan;
 maibe ha'u ema mukit.
@@ -2062,12 +2062,12 @@ ha'u ema mukit ida.
 
 2. Tau tan ba hostia ha'u saran moris tomak;
 nailulik iha altar hasa’e ba Maromak.`
-},
-{
-  id: 97,
-  category: "Ofertorio",
-  title: "IHA ITA MISSA",
-  content: `1. Ami bele hasa’e so ba Ita Boot?
+  },
+  {
+    id: 97,
+    category: "Ofertorio",
+    title: "IHA ITA MISSA",
+    content: `1. Ami bele hasa’e so ba Ita Boot?
 Buat tomak ami fo ba Ita, Na’i.
 
 Iha Ita Missa, ami nia Missa;
@@ -2078,24 +2078,24 @@ ami hasa’e ba ita hodi hetan kbiit.
 
 3. Simu ho laran luak ami nia moris,
 hodi haraik mai ami tulun Na’i nian.`
-},
-{
-  id: 98,
-  category: "Ofertorio",
-  title: "HASA’E BA NA’I, ITA AMAN",
-  content: `Hasa’e ba Na’i, ita Aman,
+  },
+  {
+    id: 98,
+    category: "Ofertorio",
+    title: "HASA’E BA NA’I, ITA AMAN",
+    content: `Hasa’e ba Na’i, ita Aman,
 paun no tua ita domin. (2x)
 
 1. Simu, Na’i, ami nia kolen.
 Simu, Na’i, ami nia lia
 hodi hanoin Ita Oan nia mate.
 Haraik mos moris hias.`
-},
-{
-  id: 99,
-  category: "Ofertorio",
-  title: "BA ITA ALTAR",
-  content: `1. Ba Ita altar ohin ami hasa’e,
+  },
+  {
+    id: 99,
+    category: "Ofertorio",
+    title: "BA ITA ALTAR",
+    content: `1. Ba Ita altar ohin ami hasa’e,
 hasa’e ami paun no buat tomak;
 paun be mai hosi ami nia kolen
 no tua be mai hosi rai.
@@ -2112,12 +2112,12 @@ atu simu Na’i Maksoin.
 Tan ita Maksoin moris ona,
 Na’i, mai simu ho laran luak,
 buat ami ksolok ba Ita.`
-},
-{
-  id: 100,
-  category: "Ofertorio",
-  title: "AMI NIA VIDA HASA’E BA ITA",
-  content: `Ami nia vida hasa’e ba Ita,
+  },
+  {
+    id: 100,
+    category: "Ofertorio",
+    title: "AMI NIA VIDA HASA’E BA ITA",
+    content: `Ami nia vida hasa’e ba Ita,
 ami nia domin Ita Boot nian.
 
 1. Maromak, liurai hotu nia Liurai.
@@ -2139,12 +2139,12 @@ Ha'u mak be turu kahur ho tua
 atu soi maun alin sira.
 Ha'u sei lori to'o ba Na’i sira
 be dook hosi Maromak.`
-},
-{
-  id: 101,
-  category: "Ofertorio",
-  title: "AMI MORIS, ISIN NO KLAMAR",
-  content: `Ami moris, isin no klamar hasa’e ba Ita, ami Na’i.
+  },
+  {
+    id: 101,
+    category: "Ofertorio",
+    title: "AMI MORIS, ISIN NO KLAMAR",
+    content: `Ami moris, isin no klamar hasa’e ba Ita, ami Na’i.
 
 1. Aihan moris, aihan lalehan, hakotu lia atu fo;
 tun mai tebes, tun rasik mai,
@@ -2153,12 +2153,12 @@ horik hamutuk ho atan sira.
 2. Kalis laran tua kahur be, fila ba Kristu tutor ran;
 hare ami kiak no hamrook,
 tan ami kuran diak lalehan.`
-},
-{
-  id: 102,
-  category: "Ofertorio",
-  title: "AMI KARAN FOLIN LAEK",
-  content: `Na’i, simu ba! (2x)
+  },
+  {
+    id: 102,
+    category: "Ofertorio",
+    title: "AMI KARAN FOLIN LAEK",
+    content: `Na’i, simu ba! (2x)
 
 1. Timor oan tuku fur, hana’i.
 Na’i, simu, simu ba.
@@ -2186,12 +2186,12 @@ Na’i, ...
 
 9. Ami kiak no susar fo tomak.
 Na’i, ...`
-},
-{
-  id: 103,
-  category: "Ofertorio",
-  title: "AMI HAKBESIK BA ALTAR",
-  content: `1. Ami hakbesik ba altar atu hasa'e buat karan
+  },
+  {
+    id: 103,
+    category: "Ofertorio",
+    title: "AMI HAKBESIK BA ALTAR",
+    content: `1. Ami hakbesik ba altar atu hasa'e buat karan
 Paun no tua nudar tada ami isin klamar tomak.
 
 Simu ba, Na’i, ami buat karan.
@@ -2202,12 +2202,12 @@ Ami nia ksolok no ami susar fo ba Ita.
 
 Buat hotu ami hasa’e ba Ita. (2x)
 Ami harohan Ita nia kbiit, Na’i. (2x)`
-},
-{
-  id: 104,
-  category: "Ofertorio",
-  title: "AMI HAKAT SA’E BA ALTAR",
-  content: `1. Ami hakat sa’e ba altar lori ami nia buat karan.
+  },
+  {
+    id: 104,
+    category: "Ofertorio",
+    title: "AMI HAKAT SA’E BA ALTAR",
+    content: `1. Ami hakat sa’e ba altar lori ami nia buat karan.
 Ami tan ne’e tuku tur hana’i ba ita Aman lalehan.
 
 Simu ba, Na’i; simu ba, Na’i
@@ -2215,12 +2215,12 @@ Ami karan folin laek ne’e. (2x)
 
 2. Maski ami karan la folin maibe ami hasa’e ho fuan.
 Maski ami ema sola nain la kuran domin ba ita.`
-},
-{
-  id: 105,
-  category: "Ofertorio",
-  title: "AMI FUAN HANANU",
-  content: `Ami fuan hananu hahi Ita, o Aman laran luak;
+  },
+  {
+    id: 105,
+    category: "Ofertorio",
+    title: "AMI FUAN HANANU",
+    content: `Ami fuan hananu hahi Ita, o Aman laran luak;
 halo Ita futar laran malirin fan karan ami hasa’e.
 Ami liman fane buat karan ne e
 hodi foti matan hateke ba Ita,
@@ -2231,12 +2231,12 @@ nebe Ita rasik haraik ba Ita nia Kreda.
 
 2. Keta hewai, a Na’i, karan folin laek ne’e,
 nudar tada isin klamar, ami domin ba Ita.`
-},
-{
-  id: 106,
-  category: "Ofertorio",
-  title: "AMI AMAN IHA LALEHAN",
-  content: `1. Ami Aman iha lalehan, buat hotu ami fo;
+  },
+  {
+    id: 106,
+    category: "Ofertorio",
+    title: "AMI AMAN IHA LALEHAN",
+    content: `1. Ami Aman iha lalehan, buat hotu ami fo;
 uitoan be ami halo, mas ami hakarak to.
 
 Fo bensa mai ami karan,
@@ -2257,20 +2257,20 @@ ho ema be moris diak.
 Fo bensa mai Ita Kreda,
 ho nia ami la'o ami dalan,
 kait liman no domin.`
-},
-{
-  id: 107,
-  category: "Ofertorio",
-  title: "AMAN MAROMAK, ATAN OAN AMI",
-  content: `Aman Maromak, ata oan ami hasa’e ba Ita, ami Na’i,
+  },
+  {
+    id: 107,
+    category: "Ofertorio",
+    title: "AMAN MAROMAK, ATAN OAN AMI",
+    content: `Aman Maromak, ata oan ami hasa’e ba Ita, ami Na’i,
 ami isin no klamar.
 Simu no hano’in paun trigu, tua ami hasa’e ba Ita.`
-},
-{
-  id: 108,
-  category: "Ofertorio",
-  title: "AMAN LALEHAN, SIMU AMI",
-  content: `Aman lalehan, simu ami;
+  },
+  {
+    id: 108,
+    category: "Ofertorio",
+    title: "AMAN LALEHAN, SIMU AMI",
+    content: `Aman lalehan, simu ami;
 ami isin, ami klamar hamutuk ho Jesus isin no Ran.
 
 1. Ami hakbesik ba altar,
@@ -2278,12 +2278,12 @@ hasa’e paun no tua ba Ita Boot.
 
 2. Aman doben, laran luak,
 Ita la hewai ami hasa’e.`
-},
-{
-  id: 109,
-  category: "Ofertorio",
-  title: "PAI NOSSO, QUE ESTAIS NO CÉU",
-  content: `1. Pai nosso que estais no céu, tudo nos queremos dar.
+  },
+  {
+    id: 109,
+    category: "Ofertorio",
+    title: "PAI NOSSO, QUE ESTAIS NO CÉU",
+    content: `1. Pai nosso que estais no céu, tudo nos queremos dar.
 O pouco que nos fizemos também vamos ofertar.
 
 Abençoai nossa oferta; olhai as crianças do mundo
@@ -2299,12 +2299,12 @@ Olhai, Senhor, nos Vos pedimos;
 a fome que existe no mundo e a pobreza dos sem pão.
 Olhai, Senhor, a Vossa Igreja;
 com ela nos caminhamos de mãos dadas por amor.`
-},
-{
-  id: 110,
-  category: "Ofertorio",
-  title: "OFERTAS SINGELAS",
-  content: `1. Ofertas singelas, pão e vinho sobre a mesa colocamos.
+  },
+  {
+    id: 110,
+    category: "Ofertorio",
+    title: "OFERTAS SINGELAS",
+    content: `1. Ofertas singelas, pão e vinho sobre a mesa colocamos.
 Sinal do trabalho que fizemos e aqui depositamos.
 
 É Teu também nosso coração;
@@ -2321,12 +2321,12 @@ e o progresso que fizemos.
 depois que a terra visitaste.
 Embora tivéssemos pecado
 foi bem mais o que pagaste.`
-},
-{
-  id: 111,
-  category: "Ofertorio",
-  title: "MINHA VIDA TEM SENTIDO",
-  content: `1. Minha vida tem sentido cada vez que eu venho aqui.
+  },
+  {
+    id: 111,
+    category: "Ofertorio",
+    title: "MINHA VIDA TEM SENTIDO",
+    content: `1. Minha vida tem sentido cada vez que eu venho aqui.
 E Te faço o meu pedido de não me esquecer de Ti.
 Meu amor é como este pão que era trigo,
 que alguém plantou depois colheu.
@@ -2344,12 +2344,12 @@ e deu mais vida e saciou o povo meu.
 
 Eu Te ofereço vinho e pão;
 eu Te ofereço meu amor.`
-},
-{
-  id: 112,
-  category: "Ofertorio",
-  title: "SUSAR EH DIAK AMI NIAN",
-  content: `Susar eh diak ami nian, simu ami isin, Na’i.
+  },
+  {
+    id: 112,
+    category: "Ofertorio",
+    title: "SUSAR EH DIAK AMI NIAN",
+    content: `Susar eh diak ami nian, simu ami isin, Na’i.
 Susar eh kiak ami nian, simu ami domin, Na’i. (2x)
 
 1. Ami lakon Ita dalan iha kalan, Na’i, ba loron ohin. (2x)
@@ -2360,12 +2360,12 @@ Ami la hatene tuir hodi hein Ita nia tulun.
 
 3. Nudar ema lakon aihan, Na’i, ba loron ohin. (2x)
 Ami nia moris tomak hotu la hatene hadomi.`
-},
-{
-  id: 113,
-  category: "Ofertorio",
-  title: "SIMUNETIKBA",
-  content: `1. Ami nia paun, Na’i, simu ba.
+  },
+  {
+    id: 113,
+    category: "Ofertorio",
+    title: "SIMUNETIKBA",
+    content: `1. Ami nia paun, Na’i, simu ba.
 Ami nia tua, Na’i, simu bal.
 
 Hasa’e ba Ita iha altar.
@@ -2376,12 +2376,12 @@ Simu ba, simu netik ba, nudar santu sakrifisiu. (2x)
 3. Ami nia moras... ami nia terus...
 4. Ami nia ksolok... ami nia susar...
 5. Ami nia moris... ami nia mate...`
-},
-{
-  id: 114,
-  category: "Ofertorio",
-  title: "SIMU, NA'I, PAUN NO TUA SANTU",
-  content: `Simu, Na’i, paun no tua santu nudar sakrifisiu
+  },
+  {
+    id: 114,
+    category: "Ofertorio",
+    title: "SIMU, NA'I, PAUN NO TUA SANTU",
+    content: `Simu, Na’i, paun no tua santu nudar sakrifisiu
 Kristu laran luak. (2x)
 
 1. Simu ba, ha’u Na’i, ha’u nia presente
@@ -2392,12 +2392,12 @@ ha’u moris no mate, ha’u to ba Ita.
 
 3. Ha’u fo ba Na’i ha’u nia kosar ben,
 iha ha’u nia fatin, nune’e ba nafatin.`
-},
-{
-  id: 115,
-  category: "Ofertorio",
-  title: "SIMU BA, HA'U NA'I",
-  content: `1. Simu ba, ha’u Na’i,
+  },
+  {
+    id: 115,
+    category: "Ofertorio",
+    title: "SIMU BA, HA'U NA'I",
+    content: `1. Simu ba, ha’u Na’i,
 paun no tua nebe ami hasa’e ba Ita Boot. (2x)
 
 Nakfilak tiha ba Kristu nia Isin no Ran
@@ -2408,12 +2408,12 @@ sakrifisiu nebe ami hasa’e ba Ita Boot.
 
 3. Na’i, laran luak,
 tau matan ba terus nebe ami hato’o.`
-},
-{
-  id: 116,
-  category: "Ofertorio",
-  title: "SA LOS MAK BELE HASA’E",
-  content: `1. Sa los mak bele hasa’e ba Ita Boot, ami nia Maromak?
+  },
+  {
+    id: 116,
+    category: "Ofertorio",
+    title: "SA LOS MAK BELE HASA’E",
+    content: `1. Sa los mak bele hasa’e ba Ita Boot, ami nia Maromak?
 Sa mak bele hasa’e?
 Ita be laran luak ba ami maksala,
 ami nia Maromak, ba ami maksala.
@@ -2436,23 +2436,23 @@ ami nia... ami nia kosar ben.
 ami nia... hasa’e ba Ita.
 Maski uitoan karik ho fuan ami hasa’e,
 ami nia... ho fuan ami hasa’e.`
-},
-{
-  id: 117,
-  category: "Ofertorio",
-  title: "NA'I, SIMU BA, PAUN NO TUA NE’E",
-  content: `Na’i, simu ba, paun no tua ne’e;
+  },
+  {
+    id: 117,
+    category: "Ofertorio",
+    title: "NA'I, SIMU BA, PAUN NO TUA NE’E",
+    content: `Na’i, simu ba, paun no tua ne’e;
 aihan santu nebe ami hato’o. (2x)
 
 1. Na’i, ami hasa’e aihan sira ne’e atu hahi Ita naran.
 2. Tua uvas ne’e nakfilak ba Kristu nia Ran
 nakfakar iha krus.`
-},
-{
-  id: 118,
-  category: "Ofertorio",
-  title: "NA'I, AMI MESAK LABARIK",
-  content: `1. Na’i, ami mesak labarik,
+  },
+  {
+    id: 118,
+    category: "Ofertorio",
+    title: "NA'I, AMI MESAK LABARIK",
+    content: `1. Na’i, ami mesak labarik,
 buat la barak ami atu fo;
 maibe buat nebe ami iha,
 ami hakarak fo ba Ita Boot.
@@ -2460,12 +2460,12 @@ ami hakarak fo ba Ita Boot.
 Buat nebe ami iha ami nia fuan;
 kiik oan teb-tebes maibe hatene hadomi,
 ami nia fuan, Na’i, bele simu ba.`
-},
-{
-  id: 119,
-  category: "Ofertorio",
-  title: "NA'I, AMI MAI HASOURU",
-  content: `1. Na’i, ami mai hasouru;
+  },
+  {
+    id: 119,
+    category: "Ofertorio",
+    title: "NA'I, AMI MAI HASOURU",
+    content: `1. Na’i, ami mai hasouru;
 ho neen tomak ami harohan.
 Hodi ami laran hotu maski buat diak laek.
 
@@ -2483,12 +2483,12 @@ ami Maromak.
 ami tomak Ita fihir.
 Perdua sola hotu,
 hadook hosi susar tomak.`
-},
-{
-  id: 120,
-  category: "Ofertorio",
-  title: "NA'I, AMI MAI HASA'E",
-  content: `Na’i, ami mai hasa’e, knananuk ida ne’e. (2x)
+  },
+  {
+    id: 120,
+    category: "Ofertorio",
+    title: "NA'I, AMI MAI HASA'E",
+    content: `Na’i, ami mai hasa’e, knananuk ida ne’e. (2x)
 
 1. Paun no tua omi nia kolen
 ami hasa’e iha Missa ne’e
@@ -2504,12 +2504,12 @@ atu hahi Na’i nia naran.
 ba Kristu ami Maksoin,
 ba Espiritu, ami Na’i,
 oras ne’e ba nafatin.`
-},
-{
-  id: 121,
-  category: "Ofertorio",
-  title: "MAROMAK AMI NA'I, AMI AMAN DOBEN",
-  content: `Maromak, ami Na’i, ami Aman doben.
+  },
+  {
+    id: 121,
+    category: "Ofertorio",
+    title: "MAROMAK AMI NA'I, AMI AMAN DOBEN",
+    content: `Maromak, ami Na’i, ami Aman doben.
 
 1. Loron toun ida ne’e ho haksolok no hananu;
 loron toun ida ne’e Ita Boot hiit
@@ -2524,44 +2524,44 @@ buka Ita Boot, ami nia Maromak.
 ami susar, ami nia diak,
 ami terus, ami moras,
 ami nia moris ami nia mate.`
-},
-{
-  id: 122,
-  category: "Santu",
-  title: "MAROMAK NIA BIBI OAN NO. 1",
-  content: `1. Maromak nia bibi oan, (2x) Kristu, ami Na’i.
+  },
+  {
+    id: 122,
+    category: "Santu",
+    title: "MAROMAK NIA BIBI OAN NO. 1",
+    content: `1. Maromak nia bibi oan, (2x) Kristu, ami Na’i.
 Maromak nia bibi oan, nebe kasu mundu nia sala,
 hanoin ami.
 
 2. Maromak nia bibi oan, (2x) Kristu, ami Na’i.
 Maromak nia bibi oan, nebe kasu mundu nia sala,
 haraik dame mai ami.`
-},
-{
-  id: 123,
-  category: "Santu",
-  title: "MAROMAK NIA BIBI OAN NO. 2",
-  content: `Maromak nia bibi oan, kasu mundu nia sala,
+  },
+  {
+    id: 123,
+    category: "Santu",
+    title: "MAROMAK NIA BIBI OAN NO. 2",
+    content: `Maromak nia bibi oan, kasu mundu nia sala,
 hanoin ami, hanoin ami. (2x)
 
 Maromak nia bibi oan, kasu mundu nia sala,
 haraik dame mai ami.`
-},
-{
-  id: 124,
-  category: "Santu",
-  title: "MAROMAK NIA BIBI OAN NO. 3",
-  content: `Maromak nia Bibi Oan, be kasu mundu nia sala,
+  },
+  {
+    id: 124,
+    category: "Santu",
+    title: "MAROMAK NIA BIBI OAN NO. 3",
+    content: `Maromak nia Bibi Oan, be kasu mundu nia sala,
 hanoin ami. (2x)
 
 Maromak nia Bibi Oan, be kasu mundu nia sala,
 haraik dame mai ami.`
-},
-{
-  id: 125,
-  category: "Komunhao",
-  title: "FURAK OIN SA MORIS IHA DOMIN",
-  content: `Oin sa ita domin to ksolok mai ami
+  },
+  {
+    id: 125,
+    category: "Komunhao",
+    title: "FURAK OIN SA MORIS IHA DOMIN",
+    content: `Oin sa ita domin to ksolok mai ami
 hodi moris hamutuk nudar maun alin.
 
 1. Furak oin sa ita moris iha ksolok laran;
@@ -2581,12 +2581,12 @@ nune’e ita halo tuir ukun domin.
 
 6. Furak oin sa ita halo buat nebe justo;
 nune’e ita halo tuir ukun domin.`
-},
-{
-  id: 126,
-  category: "Komunhao",
-  title: "FURAK OIN SA",
-  content: `1. Furak oin sa, maun alin sira;
+  },
+  {
+    id: 126,
+    category: "Komunhao",
+    title: "FURAK OIN SA",
+    content: `1. Furak oin sa, maun alin sira;
 moris ho ksolok no moris hakmatek. (2x)
 Nune’e ita sasin tuir lolós Kristu nia hanorin. (2x)
 
@@ -2597,12 +2597,12 @@ Nune’e ita hatudu katak ita Maromak nia oan. (2x)
 3. Hadomi malu tuir Kristu haruka
 Ne’e mak ukun Na’i fo ba ita. (2x)
 Moris tuir ukun ne’e ita haksolok no moris hakmatek. (2x)`
-},
-{
-  id: 127,
-  category: "Komunhao",
-  title: "EUKARISTIA SAKRAMENTU BOOT TEBES",
-  content: `Eukaristia sakramentu boot tebes
+  },
+  {
+    id: 127,
+    category: "Komunhao",
+    title: "EUKARISTIA SAKRAMENTU BOOT TEBES",
+    content: `Eukaristia sakramentu boot tebes
 Na’i Jesus nia tutor isin lolos;
 aihan moris ba Nia ema sira
 be hakat ba tuir dalan lalehan.
@@ -2611,12 +2611,12 @@ Anju sira hotu no mos santu tomak
 halibur an, hana’i, hahi Jesus;
 Na’i Jesus hiit An mai lor-loron,
 haraik aihan tutor Isin no Ran.`
-},
-{
-  id: 128,
-  category: "Komunhao",
-  title: "EMA JUDEU HOBUR TUIR NA'I JESUS",
-  content: `1. Ema Judeu hobur tuir Na’i Jesus:
+  },
+  {
+    id: 128,
+    category: "Komunhao",
+    title: "EMA JUDEU HOBUR TUIR NA'I JESUS",
+    content: `1. Ema Judeu hobur tuir Na’i Jesus:
 tan sira han ikan ho paun.
 Ikan ho paun halo sira sei bosu
 to’o foti Jesus ba liurai.
@@ -2628,12 +2628,12 @@ mai ami kiak moris rohan laek. (2x)
 Sub-subar tiha husik Jesus.
 Sira murmura tan sira la fiar
 Na’i Jesus to Nia Isin sira han.`
-},
-{
-  id: 129,
-  category: "Komunhao",
-  title: "EH KRISTU MAK TENE ITA",
-  content: `Eh Kristu mak tene ita, ita hakbesik Na’i nia mesa:
+  },
+  {
+    id: 129,
+    category: "Komunhao",
+    title: "EH KRISTU MAK TENE ITA",
+    content: `Eh Kristu mak tene ita, ita hakbesik Na’i nia mesa:
 atu ba komunga nia Isin, Sakramentu domin.
 
 1. Maromak nia han mak tun hosi lalehan
@@ -2653,12 +2653,12 @@ nia sei moris ba nafatin.
 
 6. Ita hotu hamutuk isin ida deit,
 Ita bele hola han mesa ida deit.`
-},
-{
-  id: 130,
-  category: "Komunhao",
-  title: "KARIDADE VIRTUDE IDA",
-  content: `Karidade virtude ida Na’i Maromak hadomi liu.
+  },
+  {
+    id: 130,
+    category: "Komunhao",
+    title: "KARIDADE VIRTUDE IDA",
+    content: `Karidade virtude ida Na’i Maromak hadomi liu.
 Nia la hirus, laran maus; karidade mak hadomi.
 
 1. Bele hatene lia oi-oin maibe la iha karidade
@@ -2666,12 +2666,12 @@ halo nudar sinu ida, lian lerek, la ba lalehan.
 
 2. Bele hatene siik lolos ema hot-hotu nia destinu;
 halo nudar folin laek se la iha karidade.`
-},
-{
-  id: 131,
-  category: "Komunhao",
-  title: "BA FATIN DOMIN, MORIS HO DAME",
-  content: `Ba fatin domin, moris no dame, Maromak horik ba.
+  },
+  {
+    id: 131,
+    category: "Komunhao",
+    title: "BA FATIN DOMIN, MORIS HO DAME",
+    content: `Ba fatin domin, moris no dame, Maromak horik ba.
 
 1. Kristu nia domin halibur ita ne’e
 ita sei haksolok ho laran kmanek
@@ -2687,12 +2687,12 @@ Na’i Jesus Kristu horik ho ita.
 hare Ita oin ho Kristu Maromak;
 ami rahun sei dadi boot no diak,
 tinan ba tinan nafatin. Amen.`
-},
-{
-  id: 132,
-  category: "Komunhao",
-  title: "FURAK OIN SA MORIS IHA DOMIN",
-  content: `Oin sa ita domin to ksolok mai ami
+  },
+  {
+    id: 132,
+    category: "Komunhao",
+    title: "FURAK OIN SA MORIS IHA DOMIN",
+    content: `Oin sa ita domin to ksolok mai ami
 hodi moris hamutuk nudar maun alin.
 
 1. Furak oin sa ita moris iha ksolok laran;
@@ -2712,12 +2712,12 @@ nune’e ita halo tuir ukun domin.
 
 6. Furak oin sa ita halo buat nebe justo;
 nune’e ita halo tuir ukun domin.`
-},
-{
-  id: 133,
-  category: "Komunhao",
-  title: "FURAK OIN SA",
-  content: `1. Furak oin sa, maun alin sira;
+  },
+  {
+    id: 133,
+    category: "Komunhao",
+    title: "FURAK OIN SA",
+    content: `1. Furak oin sa, maun alin sira;
 moris ho ksolok no moris hakmatek. (2x)
 Nune’e ita sasin tuir lolós Kristu nia hanorin. (2x)
 
@@ -2728,12 +2728,12 @@ Nune’e ita hatudu katak ita Maromak nia oan. (2x)
 3. Hadomi malu tuir Kristu haruka
 Ne’e mak ukun Na’i fo ba ita. (2x)
 Moris tuir ukun ne’e ita haksolok no moris hakmatek. (2x)`
-},
-{
-  id: 134,
-  category: "Komunhao",
-  title: "EUKARISTIA SAKRAMENTU BOOT TEBES",
-  content: `Eukaristia sakramentu boot tebes
+  },
+  {
+    id: 134,
+    category: "Komunhao",
+    title: "EUKARISTIA SAKRAMENTU BOOT TEBES",
+    content: `Eukaristia sakramentu boot tebes
 Na’i Jesus nia tutor isin lolos;
 aihan moris ba Nia ema sira
 be hakat ba tuir dalan lalehan.
@@ -2742,12 +2742,12 @@ Anju sira hotu no mos santu tomak
 halibur an, hana’i, hahi Jesus;
 Na’i Jesus hiit An mai lor-loron,
 haraik aihan tutor Isin no Ran.`
-},
-{
-  id: 135,
-  category: "Komunhao",
-  title: "EMA JUDEU HOBUR TUIR NA'I JESUS",
-  content: `1. Ema Judeu hobur tuir Na’i Jesus:
+  },
+  {
+    id: 135,
+    category: "Komunhao",
+    title: "EMA JUDEU HOBUR TUIR NA'I JESUS",
+    content: `1. Ema Judeu hobur tuir Na’i Jesus:
 tan sira han ikan ho paun.
 Ikan ho paun halo sira sei bosu
 to’o foti Jesus ba liurai.
@@ -2759,12 +2759,12 @@ mai ami kiak moris rohan laek. (2x)
 Sub-subar tiha husik Jesus.
 Sira murmura tan sira la fiar
 Na’i Jesus to Nia Isin sira han.`
-},
-{
-  id: 136,
-  category: "Komunhao",
-  title: "EH KRISTU MAK TENE ITA",
-  content: `Eh Kristu mak tene ita, ita hakbesik Na’i nia mesa:
+  },
+  {
+    id: 136,
+    category: "Komunhao",
+    title: "EH KRISTU MAK TENE ITA",
+    content: `Eh Kristu mak tene ita, ita hakbesik Na’i nia mesa:
 atu ba komunga nia Isin, Sakramentu domin.
 
 1. Maromak nia han mak tun hosi lalehan
@@ -2784,12 +2784,12 @@ nia sei moris ba nafatin.
 
 6. Ita hotu hamutuk isin ida deit,
 Ita bele hola han mesa ida deit.`
-},
-{
-  id: 137,
-  category: "Komunhao",
-  title: "KARIDADE VIRTUDE IDA",
-  content: `Karidade virtude ida Na’i Maromak hadomi liu.
+  },
+  {
+    id: 137,
+    category: "Komunhao",
+    title: "KARIDADE VIRTUDE IDA",
+    content: `Karidade virtude ida Na’i Maromak hadomi liu.
 Nia la hirus, laran maus; karidade mak hadomi.
 
 1. Bele hatene lia oi-oin maibe la iha karidade
@@ -2797,12 +2797,12 @@ halo nudar sinu ida, lian lerek, la ba lalehan.
 
 2. Bele hatene siik lolos ema hot-hotu nia destinu;
 halo nudar folin laek se la iha karidade.`
-},
-{
-  id: 138,
-  category: "Komunhao",
-  title: "BA FATIN DOMIN, MORIS HO DAME",
-  content: `Ba fatin domin, moris no dame, Maromak horik ba.
+  },
+  {
+    id: 138,
+    category: "Komunhao",
+    title: "BA FATIN DOMIN, MORIS HO DAME",
+    content: `Ba fatin domin, moris no dame, Maromak horik ba.
 
 1. Kristu nia domin halibur ita ne’e
 ita sei haksolok ho laran kmanek
@@ -2818,7 +2818,7 @@ Na’i Jesus Kristu horik ho ita.
 hare Ita oin ho Kristu Maromak;
 ami rahun sei dadi boot no diak,
 tinan ba tinan nafatin. Amen.`
-},
+  },
 
   {
     "id": 8,
@@ -2898,7 +2898,7 @@ tinan ba tinan nafatin. Amen.`
     "title": "HA'U TIMOR OAN",
     "content": `HA'U TIMOR OAN\nMaromak oan.\n\n1. Ha'u Timor oan, ha'u klamar tanis.\nTerus no susar, ha'u Aman doben,\ntan Nia mesak ha'u rikusoi.\nHo Na'i Jesus, ho ita belun;\nita sei la'o hamutuk Nia.\nSei funu hasouru buat aat no sala.\nSei titu diak Maromak nian.\n2. Buka mateneke, ha'u no ksolok kna'ar\nhalo rai naruk, moris no ksolok.\nMaibe, ha'u ema keta haluha:\nha'u nia Maromak, ha'u Aman doben.\n3. Atu soi diak, hetan lalehan,\nha'u sei la'o hetan Maromak dalan,\nla'o tuir nafatin Maromak ukun;\n4. Tuir ukunfuan hadomi Maromak nian,\nNia ukunfuan hadomi nian nian,\nhadomi malu, fo tulun malu;\nla bele oho, fo terus ema;\ntan ita hotu rai ha'u lakon oan dalan.\n5. Ha'u lemo rai, ha'u lakon uma dalan;\nha'u la'o rai, ha'u la'o uma.\nHetan Maromak iha ha'u dalan,\nNia moris tulun ha'u, fo tulun ha'u.\nNia simu ha'u, fo tulun ha'u dalan rohan.\n6. Ha'u la'o to'o ona ha'u uma lalehan;\nHa'u to'o uma, uma lalehan.\nLa hanoin fan ha'u moris ikus;\ntan ha'u fiar Maromak, ha'u Na'i.`
   },
-    {
+  {
     "id": 21,
     "category": "Komunhao",
     "title": "HELA HO AMI, JESUS, TUR HO AMI",
@@ -2958,7 +2958,7 @@ tinan ba tinan nafatin. Amen.`
     "title": "JESUS FO NARAMAN",
     "content": `JESUS FO NARAMAN\nnakukun; leno ami dalan.\nJesus fo naroman terus, ha'u laran susar, leno ami dalan.\n\n1. Ha'u fuan terus, dook, dook ita Boot;\nha'u horik dook Boot, dook.\n\n2. La hetan ksolok bainhira mesak,\ndook Na'i Maromak, Maromak dalan.\n\n3. Ha'u kalan ne'e la'o tuir lalehan,\nMaromak dalan lalehan, dalan.\n\n4. Hatudu dalan, ha'u Aman doben,\nha'u loron oin nakukun, la'o sola dalan.\n\n5. Loron foun sei mai, naroman sei mai,\nMaromak tulun tulun, tulun.\n\n6. Ita fiar metin, ita laran metin;\nnian\nhamutuk ksolok, ksolok nafatin.`
   },
-    {
+  {
     "id": 31,
     "category": "Komunhao",
     "title": "MAI, UKUN HA'U NIA FUAN",
@@ -3144,7 +3144,7 @@ tinan ba tinan nafatin. Amen.`
     "title": "Ó JESUS, QUE ESTAIS A MEU LADO",
     "content": `Ó JESUS, QUE ESTAIS A MEU LADO\n\n1. Ó Jesus, que estais sempre a meu lado\najudai-me a levar minha cruz.\nDesviai-me de todo o pecado\npara que vos sirva, Ó Jesus.\nVamos todos com santa alegria\nreceber a Jesus com amor,\nsempre mais que adoremos a Jesus\nmais e digno do nosso amor. (2x)\n\n2. Qual veado que corre sedento\nde águas cristalinas ao frescor,\nassim eu corro a ti desfalecido\ncom teu pronto apaga o meu ardor.\n\n3. E com fé e também com amor\nvamos todos buscar,\no alento, o forgo e o valor\npara os combates que vamos travar\n\n4. São combates que só de temer\nos combates das nossas paixões;\ne Jesus é que há-de vencer,\ne com Ele seremos livres.`
   },
-    {
+  {
     "id": 1,
     "category": "Asaun de Grasas",
     "title": "HADOMI NA'I",
@@ -3288,7 +3288,7 @@ tinan ba tinan nafatin. Amen.`
     "title": "RONA, HA'U NA'I, HA'U NIA HAROHAN",
     "content": `RONA, HA'U NA'I, HA'U NIA HAROHAN\nRona, ha'u Na'i, ha'u nia harohan\nHo laran kmaan hasa'e agradese.\nBa ita, Na'i, ha'u nia Maromak,\nhamos no bali ha'u klamar.\n\n1. Hosi halak sira ba loron-loron nian,\nbuat ida deit mak dom\nhadomi ha'u maluk sira boot:\n\n2. Buat sa mak ha'u halo, moris iha mundu ne'e,\nhosi halak aat sira ba hadook ha'u anhosii Na'i.\n\n3. Ha'u haksumik ha'u nia lia hahi ita Boot\nBa ita Na'i, ha'u Maromak.\n\n4. Kristu, O nia Isin no Ran nebe O fo mai ha'u\nSai aihan moris kmanek wain\nNudar ha'u nia bukae.`
   },
-    {
+  {
     "id": 1,
     "category": "Final",
     "title": "ITA BOLU, HA'U SEI BA",
@@ -3619,7 +3619,7 @@ O ceus que ird se faga em salvagao e em graga.
    d'arvore ma, ramo infeliz:
    eis quantos bens sdo prometidos
    por Deus que nunca se desdiz.`
-  }, 
+  },
   {
     id: 149,
     category: "Quaresma",
@@ -3971,7 +3971,7 @@ Ita hotu ba hananu ba Ita Na'i no Ita Maromak,
 nebe hatene manan mate hodi sei
 furak liu tan hosi rate atu la mate teni.`
   },
-   {
+  {
     id: 170,
     category: "Paskua",
     title: "KRISTU MORIS HIAS FALI",
@@ -3983,7 +3983,7 @@ furak liu tan hosi rate atu la mate teni.`
 3. Fo hatene Nia gloria ba gentiu sira
    Ba povu tomak Nia hahalok kmanek`
   },
-   {
+  {
     id: 171,
     category: "Paskua",
     title: "KRISTU NIA ROMAN",
@@ -4441,8 +4441,8 @@ const RichLine = ({ text }) => {
     <span>
       {parts.map((p, i) =>
         p.type === "bold" ? <strong key={i}>{p.text}</strong>
-        : p.type === "italic" ? <em key={i}>{p.text}</em>
-        : <span key={i}>{p.text}</span>
+          : p.type === "italic" ? <em key={i}>{p.text}</em>
+            : <span key={i}>{p.text}</span>
       )}
     </span>
   );
@@ -4695,10 +4695,13 @@ export default function App() {
 
       <Header
         title={
-          view === "home" ? "Harohan"
-          : view === "misa" ? "Misal Romano"
-          : view === "terso" ? "Terço da Misericórdia"
-          : view.toUpperCase()
+          view === "home" ? "HAROHAN BA NAI"
+            : view === "misa" ? "Misal Romano"
+              : view === "terso" ? "Terço da Misericórdia"
+                : view === "prayers" ? "ORASAUN"
+                  : view === "songs" ? "KNANANUK SIRA"
+                    : view === "rosary" ? "ROZARIU"
+                      : view.toUpperCase()
         }
         showBack={view !== "home"}
         onBack={goBack}
@@ -4756,7 +4759,7 @@ export default function App() {
                 <div className="p-3 bg-pink-100 rounded-2xl text-pink-600">
                   <Book className="w-8 h-8" />
                 </div>
-                <span className="font-bold text-gray-700">Reza</span>
+                <span className="font-bold text-gray-700">Orasaun</span>
               </Card>
               <Card
                 onClick={() => setView("songs")}
@@ -4791,7 +4794,7 @@ export default function App() {
             {/* Landing banner */}
             <div className="rounded-2xl overflow-hidden shadow-md border border-pink-100 mb-1" style={{ backgroundColor: "#f5dadc" }}>
               <div className="flex justify-center pt-4 px-4">
-                <img src={imgReza} alt="Reza" className="rounded-xl shadow-sm" style={{ maxWidth: "260px", width: "100%" }} />
+                <img src={imgReza} alt="Orasaun" className="rounded-xl shadow-sm" style={{ maxWidth: "260px", width: "100%" }} />
               </div>
               <div className="text-center px-5 py-4">
                 <p className="text-base italic text-gray-700 font-serif leading-snug">"Deus tem sede de que nós tenhamos sede d'Ele."</p>
@@ -4895,9 +4898,8 @@ export default function App() {
                           </span>
                         </div>
                         <ChevronRight
-                          className={`w-5 h-5 text-gray-400 transition-transform duration-300 ${
-                            isOpen ? "rotate-90" : ""
-                          }`}
+                          className={`w-5 h-5 text-gray-400 transition-transform duration-300 ${isOpen ? "rotate-90" : ""
+                            }`}
                         />
                       </button>
 
@@ -4914,11 +4916,10 @@ export default function App() {
                             <div
                               key={song.id}
                               onClick={() => navigateToContent(song, "songs")}
-                              className={`flex items-center justify-between px-4 py-3 cursor-pointer hover:bg-pink-50 transition-colors ${
-                                index !== songsInCategory.length - 1
+                              className={`flex items-center justify-between px-4 py-3 cursor-pointer hover:bg-pink-50 transition-colors ${index !== songsInCategory.length - 1
                                   ? "border-b border-gray-50"
                                   : ""
-                              }`}
+                                }`}
                             >
                               <h3 className="font-semibold text-gray-700 text-sm">
                                 {song.title}
@@ -5027,7 +5028,7 @@ export default function App() {
         {[
           { id: "home", label: "OIN", icon: Home },
           { id: "misa", label: "MISA", icon: ClipboardList },
-          { id: "prayers", label: "REZA", icon: Book },
+          { id: "prayers", label: "ORASAUN", icon: Book },
           { id: "songs", label: "KNANANUK", icon: Music },
           { id: "rosary", label: "ROZARIU", icon: Sun },
         ].map((tab) => (
