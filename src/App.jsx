@@ -4093,7 +4093,302 @@ surrexit, ac Paraclito in saeculorum saecula. Amen.`
 Na'i, ha'u nia Maromak, Ita Boot tebes. Boat hotu Ita Boot hakiak nakonu iha rai. 2. Ita Boot hasai karik Ita Boot nia Espiritu, sira mate, sira fila ba rai rahun; haruka Ita Boot nia Espiritu sira moris. Hafoun rai tomak nia ilas.
 3. Na'i nia gloria sei ba nafatin.
 Na'i haksolok ho buat hotu Nia halo. Na'i haksolok ho ha'u nia hananu. Ha'u nia ksolok iha ha'u Na'i.`
-  }
+  },
+
+  {
+    id: 179,
+    category: "Maria",
+    title: "ALELUIA, AVE MARIA",
+    content: "Aleluia, aleluia, aleluia.\nAve Maria, grasa barak liu,\nMaromak ho ita, ita boot diak liu\nfeto hotu-hotu."
+  },
+  {
+    id: 180,
+    category: "Maria",
+    title: "AVE MARIA, KREDA NIA INAN",
+    content: "Ave Maria, Kreda nia Inan,\nSanta Maria, Inan doben. (2x)\n\n1. It'Oan mak naroman, it'Oan mak lialos\n   Nia ami nia dalan,\n   lori ba lalehan.\n\n(Jesus mesak mak naroman,\ndalan, Halos, no moris hun!)\n\n2. Haraik fiar metin\n   ba ami nia juventude;\n   fo paz, neon metin,\n   dalan moris kmanek.\n\n3. Ita ba moris nudar maun alin;\n   ba mundu tomak ho ksolok\n   to liman ba malu."
+  },
+  {
+    id: 181,
+    category: "Maria",
+    title: "AVE, AVE MARIA",
+    content: "Ave, ave Maria. (3x)\n\n1. O Inan doben, laran luak, ohin ami mai halibur\n   iha Ita nia futar oin atu hamulak ba Ita.\n\n2. Ne'e mak ami nia hamulak: haraik dame mai ami;\n   haraik Ita oan sira bensaun ba nafatin.\n\n3. Tebes ami kiak rabat rai, la ho osan mutin mean\n   atu fo, hasa'e ba Ita; ami isin, klamar deit."
+  },
+  {
+    id: 182,
+    category: "Maria",
+    title: "AVE, LIURAI FETO",
+    content: "Liurai Feto! Ave, Ma-Maria!(2x)\n\n1. Grasa barak liu hotu, Maromak ho Ita Boot!\n   Kmanek liu feto hotu.\n   Ita Oan Jesus Kristu, Na'i Maromak, kmanek liu.\n   Ave, Maria!\n\n2. Inan doben, Maromak nia Inan; ami nia Inan.\n   Ami Timor oan kiak foti matan ba Ita.\n   Inan doben, laran luak! Ave, Maria."
+  },
+  {
+    id: 183,
+    category: "Maria",
+    title: "AVE MARIA, KMANEK WAIN BASUK",
+    content: "1. Santa Maria, Inan doben,\n   tulun, hadomi Timor oan sira.\n   Sira kiak, sira moras\n   hodi tanis, buka justisa.\n\nAve Maria, kmanek wain basuk;\nNa'i Jesus Inan doben: fo tulun ha'u.\n\n2. Virjem santa, Inan doben\n   tulun, hanorin rai Timor kiak.\n   Hahan la iha, aimoruk la to'o.\n   Moras barak, mate la sura.\n\n3. Inan diak, Inan santa!\n   Simu ho diak ami orasaun\n   maluk barak sei gentiu\n   la hatene Kristu Jesus.\n\n4. Inan diak, Inan santa,\n   santa liu hotu, Virjem Maria.\n   Ita nia povu terus oi-oin\n   tan nailulik fahe la to'o."
+  },
+  {
+    id: 184,
+    category: "Maria",
+    title: "HA'U HAKARAK HANANU",
+    content: "1. Ha'u hakarak hananu, ha'u hakarak hahi\n   ha'u nia Inan lalehan; bainhira neon raik,\n   subar iha Ita fuan, ha'u sei neon ksolok.\n\nHa'u hakarak hananu, ha'u hakarak hahi\nsei hamulak, hananu.\nHa'u hakarak hasa'e buat nebe furak las\niha ha'u nia fuan.(2x)\n\n2. Ita besik ba Na'i, Maromak kbiit Nain,\n   Inan, bele hot-hotu; ha'u mos Ita nia oan,\n   Ha'u mos Ita nia oan, tan ne'e, Ita hadomi.\n\n3. Nudar ponte en dalan, nudar ponte en daran;\n   Na'i Maromak tau Ita, halo ida lolos,\n   halo ida lolos Na'i Maromak ho ami."
+  },
+  {
+    id: 185,
+    category: "Maria",
+    title: "HA'U NIA KLAMAR HAKSOLOK",
+    content: "Ha'u nia klamar haksolok Maromak,\nna'u Maksoin. Aleluia!\n\n1. Ha'u klamar hahi nia Na'i,\n   Ha'u neon haksolok ba Maromak, ha'u Maksoin.\n\n2. Na'i hare ba ha'u atan feto haraik an\n   ha'u ba ne'e otas tomak sei fo rahun diak mai ha'u.\n\n3. Na'i bele hotu halo buat boot iha ha'u,\n   Nia naran santu.\n\n4. Nia laran luak hosi otas ba otas\n   ba ema hamutuk Nia.\n\n5. Nia hatudu nia kbiit\n   hodi halo naran ema loko an.\n\n6. Nia hatun na'i-ulun sira hosi sira tur fatin\n   hodi hanai tali atan sira.\n\n7. Nia haraik rikusoi ba mukit sira\n   duni sai ema riku ho liman mamuk.\n\n8. Nia ladu nia atan Israel\n   hodi hanoin nia ho laran luak.\n\n9. Nia hanoin lia hakotu ba bei ala sira\n   ba Abrado no nia oan sira ba nafatin.\n\n10. Gloria ba Padre, ba Filho no ba Espiritu Santu\n    nudar hori uluk, oras ne'e, nafatin. Amen."
+  },
+  {
+    id: 186,
+    category: "Maria",
+    title: "HAWELOK MARIA, JESUS NIA INAN",
+    content: "1. Hawelok nia nafatin bainhira laran haksolok,\n   bainhira neon terus. Ave Maria!\n   Hawelok nia nafatin tan aihan lor-loron nian;\n   tan nia domin midar. Ave Maria!\n\nHawelok Maria, Jesus nia Inan,\nIt'nia Liurai Feto, dalan ba lalehan\nHawelok Maria ho kanfkos furak;\nhalibur raiklaran, hananu ho ksolok.\n\n2. Hawelok nia nafatin, haklaken ninia naran,\n   Liurai Feto, esperansa. Ave Maria!\n   Hawelok nia nafatin\n   ha kalan no iha loron;\n   bainhira ha'u atu mate. Ave Maria!"
+  },
+  {
+    id: 187,
+    category: "Maria",
+    title: "HODI HAKSOLOK, AMI HADINAN",
+    content: "1. Hodi haksolok ami hadinan\n   ami Nain Feto, Santa Maria!\n\nOu bete doben Maria! Iha loron ohin ami halibur,\nou bete doben, Wain heleu rai Timor!\n\n2. Timor hakneak hodi hananu,\n   ba Inan doben Santa Maria.\n\n3. Ita hiit an mai, Santa Maria,\n   rona ami hareak no diak.\n\n4. Soe tutor matan mai ami terus,\n   ami maksalak susar boot tebes.\n\n5. Ami hananu, ami hamulak,\n   ami harohan ba Inan diak."
+  },
+  {
+    id: 188,
+    category: "Maria",
+    title: "IHA MUNDU RAI KLARAN",
+    content: "1. Iha mundu rai klaran buat oi-oin.\n   Balun riku no boot, balun terus kiak.\n\nMai, tulun ami, sala nain; Santa Maria, mai (2x)\n\n2. Maski Maromak oan hotu, ema la tulun malu;\n   balun ukun no kroat, balun terus aat.\n\n3. Kristu hanorin hadomi, ema buka deit odi;\n   boot buka maluk boot, atu bo terus kiik.\n\n4. Ibun bolu Maromak, liman oho, nook.\n   Matan ba lalehan, klamar dodok foer.\n\n5. Buka riku no boot, tauk halo sola;\n   haluha Na'i Maromak, sai nudar balada."
+  },
+  {
+    id: 189,
+    category: "Maria",
+    title: "INAN SANTA",
+    content: "Inan Santa, Maria, hela ho ami. Lori susar mai,\nharohan ba Inan, Santa Maria.\nTimor oan, ami harohan. (2x)\n\n1. Inan doben, Inan santa Maria;\n   Inan doben, Jesus nia Inan.\n   Nia Inan, ami nia doben;\n   to rahun wain mai ami. (2x)"
+  },
+  {
+    id: 190,
+    category: "Maria",
+    title: "MADONNA, HA'U NIA INAN",
+    content: "1. Iha rai Ida hakmatek nebe ita hotu hanoin;\n   rai ne'e diak liu maibe sei hela iha terus.\n   Ninia povu laran metin katak Ita tau matan,\n   la haluha It'nia oan nia moris.\n\nMadonna, ha'u nia Inan: tau matan ba It'nia oan.\nMadonna, la'o nafatin besik ha'u atu ba oin.\n\n2. Nia neunek sei husik ninia oan sira mesak,\n   tan nia domin boot tebes, mai ita ida-ida;\n   nia sei leno ita dalan se it'nos fo ba Nia\n   it'nia domin hodi banu nune'e."
+  },
+  {
+    id: 191,
+    category: "Maria",
+    title: "MARIA, ITA FIHIR HA'U MATAN",
+    content: "1. Bainhira ha'u moris mai,\n   otas nurak, buka Inan tulun,\n   ha'u foti ulun, hare ba leten.\n\nMaria, Ita fihir ha'u matan,\nho Ha midar, It' bolu ha'u naran.\nIha ne'e, ha'u neon diak hamnasa\ntan Ita Boot ha'u Inan doben Hu.\n\n2. Bainhira ha'u otas boot,\n   ha'u hanoin, ha'u hare ba fitun.\n   Ho fitun sira, hare if oin.\n\n3. Bainhira samea mosu\n   mai basbeur ha'u; ha'u loke ha'u ibun.\n   Ha'u feme, harohan: \"Inan, fo tulun.\"\n\n4. Bainhira kalan nakukun\n   mai hadulas, kalohan nakloke,\n   halo Ita naroman mai leno ha'u."
+  },
+  {
+    id: 192,
+    category: "Maria",
+    title: "MARIA, O BE LA'O HAMUTUK AMI",
+    content: "Maria, o be la'o hamutuk ho ha'u,\no mos hatene ha'u nia misaun.\nMaria, Inan, hanorin ha'u oin sa\nha'u bele moris nudar foinsa'e. (2x)\n\n1. Mai, bainhira ami la'o mesak;\n   mai, bainhira lakon kbiit;\n   bainhira esperansa la iha ona;\n   bainhira la hatene dalan los,\n   haksolok ami nia laran;\n   hametin ami nia domin los.\n\nTulun ami atu fiar katak\nami sempre bele hetan o.\n\n2. Mai, haraik o nia esperansa;\n   mai, hanorin oin sa\n   ami hotu bele moris hamutuk\n   hodi hetan perdaun no hetan paz.\n   Mai, tulun sarani sira;\n   mai, tulun ami foinsa'e;\n   tulun ami atu fiar katak\n   ami sempre bele hetan o."
+  },
+  {
+    id: 193,
+    category: "Maria",
+    title: "MARIA VIRJEM, MAROMAK INAN",
+    content: "1. Maria Virjem, Maromak Inan,\n   Maksoin nia Inan sola laek.\n   Lalehan odamatan murak.\n   Hanoin, tau matan, tulun!\n   Oan kiak Timor terus, tanis, funu.\n   Inan doben, Virjem Maria."
+  },
+  {
+    id: 194,
+    category: "Maria",
+    title: "NA'I FETO, AMI NIA INAN",
+    content: "1. Nain Feto, ami nia Inan;\n   lalehan, rai Liurai Feto.\n   Ba Ita ami hananu:\n\nHosana, hosana, Maria, Inan doben.\nHosana, hosana, Virjem Maria.\n\n2. Nain Feto, ami harohan;\n   ba Ita Boot ami reza.\n   Nain Feto, ami fiar metin:"
+  },
+  {
+    id: 195,
+    category: "Maria",
+    title: "NAIN FETO, MARIA",
+    content: "1. Nain Feto, Maria. Ami Inan, Maria,\n   tulun ami, Maria, ata oan Timor.\n   Maria, Maria, Maria, Inan lalehan.\n   Atan ami terus; maski sala nain\n   hanoin ami, tulun ami.\n   Haraik dame mai Timor."
+  },
+  {
+    id: 196,
+    category: "Maria",
+    title: "OBRIGADU, INAN",
+    content: "1. Ami to agradese tamba domin ita to:\n   to mai ami, Inan, ami nia ksolok.\n   Iha moris laran, Ita ami nia roman,\n   ami nia kbiit, esperansa no paz.\n\nInan doben, simu ami nia fuan,\nami hasa'e ba Jesus, ami Na'i;\nlori buat karan ba Nia,\nInan, ami diak tomak.\n\n2. Ami nia moris sei sai susar la diak\n   ita la iha karik, ami Mata-dalan.\n   Ita hatudu (mai) ami dalan badak ba Jesus,\n   lori to'o ba Nia ho Ita liman rasik.\n\n3. Iha loron ikus, 'ha Jesus nia tutor oin,\n   ami sei hateten: \"Obrigado, Inan!\n   Obrigadu, Inan. Obrigadu, Inan!\""
+  },
+  {
+    id: 197,
+    category: "Maria",
+    title: "OBRIGADU, INAN TERUS NAIN",
+    content: "Obrigadu, Inan terus nain,\ntamba 'mi ita terus iha krus hun.\n\n1. Tamba hasouru Ita Oan iha dalan Kalvariu;\n   ami agradese Ita.\n\n2. Tamba terus hamutuk ho Ita Oan\n   mate ihas krus; ami agradese Ita.\n\n3. Tamba Ita neon sala hare Ita Oan\n   simu terus oi-oin; ami agradese Ita.\n\n4. Tamba terus hare Ita Oan mate iha\n   krus mesa-mesak; ami agradese Ita.\n\n5. Tamba surik kroat soma borus Ita\n   Boot nia tutor fuan; ami agradese Ita.\n\n6. Tamba hakarak terus hamutuk ho\n   Ita Oan atu salva ema tomak, ami agradese Ita."
+  },
+  {
+    id: 198,
+    category: "Maria",
+    title: "O INAN PEREGRINA",
+    content: "O Inan Peregrina, ami nia Inan doben;\nmai, hanoin ho ami, hakotu lia mesak kmanek. (2x)\n\nTan ne'e, ami hanoin, hanoin atu afahe an\nmaibe ami fiar metin Ita kbiit no maksoin.\nOh, Inan lemo rai, adeus. Oh, Inan wain, adeus!"
+  },
+  {
+    id: 199,
+    category: "Maria",
+    title: "TABE, INAN FETO",
+    content: "1. Tabe, ami Nain Feto, O Maria.\n   Sarani sira Inan, O Maria.\n\nHawelok ba, Kerubim: haklak ba, Serafim,\nho hahi nafatin. Tabe, tabe, tabe, Nain Feto.\n\n2. Inan doben laran luak, O Maria.\n   Inan doben laran diak, O Maria."
+  },
+  {
+    id: 200,
+    category: "Maria",
+    title: "ULUK IHA RAI KANA",
+    content: "1. Uluk iha rai Kana tua la iha.\n   Nain Feto husu ba Jesus: \"Fila be ba tua.\"\n\n2. Husu barak ba Nia, ita Inan doben\n   Virjem Santa Maria: tulun ami kiak!"
+  },
+  {
+    id: 201,
+    category: "Maria",
+    title: "A TREZE DE MAIO",
+    content: "1. A treze de Maio na cova da Iria\n   apareceu brilhando a Virgem Maria\n\nAve, ave, ave Maria! (2x)\n\n2. A Virgem Maria cercada da luz;\n   nossa Mãe bendita e Mãe de Jesus.\n\n3. Foi aos pastorinhos que a Virgem falou,\n   desde entdo nas almas nova luz brilhou.\n\n4. Com doces palavras mandou-nos rezar.\n   A Virgem Maria para nos salvar."
+  },
+  {
+    id: 202,
+    category: "Maria",
+    title: "AUXILIADORA, VIRGEM FORMOSA",
+    content: "1. Auxiliadora, Virgem Formosa.\n   Dos teus devotos, Mãe carinhosa.\n   De mil tormentas entre o furor\n   teus filhos salva, astro de amor.\n\nBradamos todos numa só voz,\nAuxiliadora, rogai por nós. (2x)\n\n2. Tu que do império es soberana\n   tem do da imensa miseria humana\n   do nosso exilio pelo caminho\n   envolve a todos no teu carinho."
+  },
+  {
+    id: 203,
+    category: "Maria",
+    title: "BENDITA SEJAIS",
+    content: "1. Virgem dolorosa, oh quanto penais!\n   Virgem magoada, bendita sejais.\n\n2. Que duras espadas, que duros punhais\n   ferem vosso peito. Bendita sejais.\n\nBendita sejais, Senhora das dores!\nOuvi nossos rogos, Mãe dos pecadores!\n\n3. La vai p'ra o sepulcro, sem Ele ficais!\n   Virgem solitaria, bendita sejais.\n\n4. Tragedia das dores, ja vos presenciais,\n   no Monte Calvario. Bendita sejais.\n\n5. Das lagrimas ternas que assim derramais\n   nos somos a causa! Bendita sejais."
+  },
+  {
+    id: 204,
+    category: "Maria",
+    title: "BENDIZEMOS O TEU NOME",
+    content: "1. Bendizemos o teu nome, Mãe do ceu, Virgem Maria,\n   bendizemos a porfia O teu Filho Salvador.\n\nAqui vimos, Mãe querida consagrar-Te o nosso amor. (2x)\n\n2. Esmagaste, O Virgem Santa, toda bela e imaculada,\n   a cabeça envenenada do drago enganador.\n\n3. Todo o mundo, o Mãe bendita cheio esta de tuas glórias\n   de perpétuas memorias de teu Nome e teu louvor.\n\n4. Advogada poderosa, o universo em Ti confia\n   porque es Tu refugio e guia para e justo e o pecador."
+  },
+  {
+    id: 205,
+    category: "Maria",
+    title: "COM MINHA MÃE ESTAREI",
+    content: "1. Com minha Mãe estarei na santa gloria um dia,\n   junto a Virgem Maria no ceu triunfarei.\n\nNo ceu, no ceu, com minha Mãe estarei. (2x)\n\n2. Com minha Mãe estarei; mas ja que hei ofendido\n   a seu Jesus querido, as culpas chorarei.\n\n3. Com minha Mãe estarei, ela muito chegado\n   à seu trono dourado meu amor lhe darei.\n\n4. Com minha Mãe estarei em seu colo materno,\n   em seu coracao terno, sem fim descansarei."
+  },
+  {
+    id: 206,
+    category: "Maria",
+    title: "CORAÇÃO VIRGINAL DE MARIA",
+    content: "1. Coracao virginal de Maria. (2x)\n   Sede luz e guia (3x) do pobre mortal.\n\n2. Ao chegar minha ultima hora, (2x)\n   Vinde sem demora (3x) levar-me ao ceu."
+  },
+  {
+    id: 207,
+    category: "Maria",
+    title: "DAI-NOS A BENÇÃO",
+    content: "Dai-nos a benção, o Virgem Mae:\npenhor seguro do sumo bem. (2x)\n\n1. Vos sois a rosa de puro amor,\n   suave aspirando celeste odor.\n\n2. O lirio niveo tem esplendor,\n   mas não igual Vosso fulgor.\n\n3. Da humildade a meiga flor,\n   a Vos sauda, Mãe do Senhor.\n\n4. Sois nossa vida, sois nossa luz,\n   o Mãe querida do meu Jesus.\n\n5. Da Vossa graal dai-nos viver\n   fieis servir-vos ate morrer."
+  },
+  {
+    id: 208,
+    category: "Maria",
+    title: "MÃE DE TODOS OS HOMENS",
+    content: "Mãe de todos os homens, ensina-nos a dizer: \"Amen.\"\n\n1. Quando a noite se acerca e a nossa fe desvanece.\n2. Quando a dor nos oprime e a ilusdo ja ndo brilha.\n3. Quando a luz aparece e nos sentimos felizes.\n4. Quando a morte chegar e Tu ao ceu nos levares."
+  },
+  {
+    id: 209,
+    category: "Maria",
+    title: "MIRACULOSA RAINHA DOS CÉUS",
+    content: "1. Nossa Senhora, Mãe de Jesus,\n   dd-nos a graa da tua luz.\n   Virgem Maria, divina flor,\n   dd-nos a esmola do teu amor.\n\nMiraculosa rainha dos ceus\nsob o Teu manto tecido de luz\nFaz com que a guerra se acabe no terra\nE haja entre os homens a paz de Jesus!\n\n2. Se em teu regaço, bendita Mae,\n   Toda a amargura remedio tem.\n   As nossas almas pedem que vds,\n   junto da guerra fazer a paz.\n\n3. Pelas chancas, flores em botão,\n   Pelos velhinhos sem lar em pão,\n   Pelos soldados que a guerra vão,\n   Senhora, escuta nossa oração."
+  },
+  {
+    id: 210,
+    category: "Maria",
+    title: "NO CÉU, NO CÉU",
+    content: "1. No ceu a irei ver, no cu, que feliz dia.\n   Sim, irei ver Maria, meu bem e meu prazer.\n\nNo ceu, no ceu, no ceu: um dia A irei ver. (2x)\n\n2. No ceu a irei ver, a imortal Rainha\n   e o afecto d'alma minha pra sempre hei dizer.\n\n3. No cu a irei ver, e o brado da esperanca\n   que os males abohana, e dao o meu viver.\n\n4. No ceu a irei ver e entao ha sem receio\n   em seu materno seio qual filho adormecer."
+  },
+  {
+    id: 211,
+    category: "Maria",
+    title: "NOME DULCÍSSIMO",
+    content: "1. Nome dulcíssimo, nome de amor.\n   Tu és refúgio do pecador.\n\nEntre coros angélicos e harmonia:\nAve Maria, ave Maria!\n\n2. Teus olhos volve-nos, meiga Senhora.\n   Vê que teu povo hoje te implora.\n\n3. Virgem Maria, imaculada,\n   sem vosso auxílio, não somos nada.\n\n4. Nome bendito, Nossa Senhora.\n   cantar do céu, divina aurora."
+  },
+  {
+    id: 212,
+    category: "Maria",
+    title: "O MARIA, RAINHA DAS MISSÕES",
+    content: "O Maria, Rainha das Missões.\nDai-nos muitos e santos missionários!\nDai-nos muitos e santos missionários!"
+  },
+  {
+    id: 213,
+    category: "Maria",
+    title: "O VIRGEM SACROSSANTA",
+    content: "O Virgem sacrossanta, O Virgem beta e pura.\nOh'ra! nada ha candura que iguale o teu candor.\n\n1. Da luz do sol vestida, descelas corada;\n   tu foste proclamada o lírio do Senhor.\n\n2. De tua luz os raios os anjos iluminam.\n   E terra e céu se inclinam perante o teu fulgor.\n\n3. Tu és das almas puras a Mãe, a protectora.\n   Conserve em mim, Senhora, virente a casta flor.\n\n4. Na tenta, o Virgem, concede-nos vitória;\n   sera entdo a glória, triunfo do teu amor."
+  },
+  {
+    id: 214,
+    category: "Maria",
+    title: "SALVE, MÃE IMACULADA",
+    content: "Salve, Mãe imaculada, dos cristãos sois fe e luz;\nsois filha de Deus amada, pura Mãe do bom Jesus.\nA vossos pés estamos nos, hoje clamando em alto voz:\nO Maria, oh Mãe de Deus;\n\nOrai, orai, orai por nos. (2x)"
+  },
+  {
+    id: 215,
+    category: "Maria",
+    title: "SALVE, NOBRE PADROEIRA",
+    content: "1. Salve, nobre Padroeira do povo, teu profíguo,\n   entre todos escolhido para o povo do Senhor.\n\nO glória da nossa terra que tens salvado mil vezes,\nenquanto houver Timorenses tu serds o seu amor.\n\n2. És a nossa Padroeira; ndo largues o padroado,\n   do rebanho confiado a teu poder protector."
+  },
+  {
+    id: 216,
+    category: "Maria",
+    title: "SANTA MARIA, MÃE DE DEUS",
+    content: "Santa Maria, Mãe de Deus, rogai por nos pecadores!\nSanta Maria, Mãe de Deus e nossa Mãe.\n\n1. Porta do céu, Templo e sacrário do Espírito Santo.\n2. Senhora dos anjos, medianeira de\n   Deus e dos homens.\n3. Advogada dos pobres, misericordia dos pecadores.\n4. Salva dos que te invocam,\n   alegria do céu e da terra.\n5. Unica esperança, escada celeste do reino da gloria."
+  },
+  {
+    id: 217,
+    category: "Maria",
+    title: "SOBRE OS BRAÇOS DE AZINHEIRA",
+    content: "1. Sobre os braços de azinheira,\n   tu vieste, Mãe Clemente.\n\nVisitar a lusa gente de quem es a Padroeira. (2x)\nAve, Mãe Celestial. (2x) Ave, canto Portugal.\n\n2. Foi na Cova da Iria\n   quando o tero Te rezavam,\n   quando os sinos convidavam\n   a orar, era meio-dia.\n\n3. Que desceste la dos ceus\n   a falar aos pastorinhos,\n   inocentes pobrezinhos,\n   Mãe dos homens, Mãe de Deus.\n\n4. Penitencia, orao,\n   se fizeste lhes pedias;\n   do rosario que trazias,\n   mais pediste a devoo.\n\n5. Seja, pois, o sento tero,\n   do cu querida orao;\n   terna e viva devoo\n   que Te oferte o luso bero.\n\n6. E Tu, Mãe, o Mãe de Deus,\n   que venceste a Serpe, o Mal,\n   salva, ampara Portugal,\n   vindo a terra la dos ceus.\n\n7. Do rosario, Virgem pura,\n   Mãe de Fatima, Mãe querida,\n   tu serds por toda a vida,\n   nossa paz, nossa venture."
+  },
+  {
+    id: 218,
+    category: "Maria",
+    title: "SOIS A MÃE DO SENHOR",
+    content: "Sois a Mãe do Senhor, mensageira da paz;\nsois Rainha da terra e do ceu.\n\n1. Vos sois tão bela como a aurora,\n   qual sol refulgente brilhando no ceu.\n\n2. Das pombas simples tendes a graa\n   sois a mensageira da paz e de amor.\n\n3. Qual arco-iris resplandecente,\n   brilhais nas alturas, O Mãe de Deus.\n\n4. Vos sois a estrela dentro de noite\n   guiai nossos passos pela vossa luz.\n\n5. Vos sois a Rainha do mundo inteiro,\n   voltai para nos vossos olhos de Mãe."
+  },
+  {
+    id: 219,
+    category: "Maria",
+    title: "SOIS BENDITA",
+    content: "Sois bendita, Rainha dos ceus.\nSois a honra do povo de Deus.\n\n1. Bendita sois, Maria,\n   no Senhor, Deus excelsso;\n   entre todas as mulheres sobre a terra\n\n2. Vos a glória de Jerusalem,\n   vos a alegria de Israel,\n   vos a honra do nosso povo.\n\n3. Exulte a minha alma,\n   pois me ajudastes;\n   cantarei ao Senhor pelas merces que me fez.\n\n4. Toda sois formosa, O Maria!\n   e a macula original ndo existe em Vos.\n\n5. Ave Maria, cheia de graa,\n   o Senhor é convosco;\n   bendita sois Vos entre as mulheres."
+  },
+  {
+    id: 220,
+    category: "Maria",
+    title: "TU ÉS A GLÓRIA DE JERUSALEM",
+    content: "1. Tu és a glória de Jerusalem; Ave Maria.\n   És a alegria do povo de Deus, Ave Maria!\n\n2. Tu és a honra da humanidade, Ave Maria.\n   És a ditosa por Deus escolhida. Ave Maria.\n\n3. Das tuas mãos nos vieram prodígios, Ave Maria.\n   És o refúgio do povo de Deus, Ave Maria.\n\n4. O que fizeste agradou ao Senhor, Ave Maria.\n   Bendita sejais por Deus poderoso, Ave Maria.\n\n5. Povos da terra, louvai a Maria, Ave Maria.\n   Eternamente aclamaí o seu nome, Ave Maria."
+  },
+  {
+    id: 221,
+    category: "Maria",
+    title: "TU ÉS A GLÓRIA DE SIÃO",
+    content: "Tu és a glória de Siao!\n\n1. Foste abençoada, Virgem Maria,\n   pelo Senhor, pelo Deus altíssimo.\n\n2. Foste colocada, Virgem Maria,\n   acima de todas as mulheres da terra.\n\n3. Tu és a alegria d'Israel,\n   tu és a honra do nosso povo.\n\n4. Ave Maria, cheia de graa,\n   bendito é o fruto do teu ventre."
+  },
+  {
+    id: 222,
+    category: "Maria",
+    title: "TU ÉS, O MÃE QUERIDA",
+    content: "1. Tu és, o Mãe querida, o nosso puro amor.\n   és luz, esperança e vida, es balsamo na dor.\n\nNos somos de Maria, que dita, que prazer.\nJuremos neste dia, ama-La ate morrer.\n\n2. Enquanto o sol der brilho, enquanto Deus for Deus,\n   seremos de teu Filho e havemos de ser teus."
+  },
+  {
+    id: 223,
+    category: "Maria",
+    title: "VAMOS TODOS A MARIA",
+    content: "1. Sois a semente que h-de crescer,\n   Sois a estrela que h-de brilhar,\n   Sois o fermento do povo divinal,\n   luzeiro para iluminar.\n\nSois uma chama que hde aquecer,\nresplendores de fé e verdade.\nSois a pastora que ha-de guiar\no mundo por sendas de paz.\n\nVamos todos a Maria,\ncomungar o amor\ndela nos veto a verdade,\no perdão e a paz.\n\nIde, amigos, proclama-la\nboa Mãe imaculada;\nestard sempre conosco\ncomo tema e boa Mãe.\n\n2. Sois a aurora que traz novo dia,\n   sois a espiga que o grdo vai encher;\n   sois aquilho de caricia à vez,\n   a prece que eu vou rezar.\n\nSois a eleita que Deus escolheu.\nsois palavra que vou proclamar.\nSois reino novo que vai espalhar\njustiça, amor e verdade."
+  },
+  {
+    id: 224,
+    category: "Maria",
+    title: "VIRGEM PURA",
+    content: "1. Virgem pura, tua ternura, e d'olivio ao meu penar;\n   Noite e dia, de Maria, a beleza hei de cantar. (2x)\n\n2. E donzela toda bela, a mais santa em seu primor;\n   desde a hora em que ela fora concebida ao Criador.\n\n3. Foi criada imaculada sem pecado e maldio;\n   foi querida, revestida de mil graas e beno.\n\n4. Aos errantes navegantes ela acode no alto mar;\n   pecadores, nos terrores ela ensina-os a esperar."
+  },
+  {
+    id: 225,
+    category: "Maria",
+    title: "AVE MARIA, GRATIA PLENA",
+    content: "Ave Maria, gratia plena; Dominus tecum,\nbenedicta tu in mulieribus,\net benedictus fructus ventris tui, Jesus.\n\nSancta Maria, Mater Dei, ora pro nobis peccatoribus,\nnunc et in hora mortis nostrae. Amen."
+  },
+  {
+    id: 226,
+    category: "Maria",
+    title: "O SANCTISSIMA",
+    content: "1. O Sanctissima, o piissima, Dulcis, Virgo Maria!\n   Mater amata, intermata;\n\nOra, ora pro nobis. (2x)\n\n2. Consolatium et refugium, Virgo, Mater Maria!\n   Quidquid optamus, per te speramus.\n\n3. Ecce debiles, ecce flebiles. Salva nos, Maria!\n   Tolle langueres, sana dolores."
+  },
+  {
+    id: 227,
+    category: "Maria",
+    title: "SALVE, REGINA",
+    content: "Salve, Regina, Mater misericordiae.\nVita, dulcedo et spes nostra, salve.\n\nAd te clamamus, exules filii Evae,\nad te suspiramus, gementes et flentes\nin hoc lacrimarum valle.\n\nEja, ergo, advocata nostra,\nillos tuos misericordiae oculos ad nos converte,\net Jesum benedictum fructum ventris tui\nnobis, post hoc exilium, ostende.\n\nO clemens, o pia, o dulcis Virgo Maria."
+  },
 ];
 
 // --- DATA: ROZARIU ---
