@@ -5843,12 +5843,10 @@ export default function App() {
     if (terms.length === 0) return KNANANUK_DATA;
 
     return KNANANUK_DATA.filter((s) => {
-      const fullText =
-        s.id.toString() +
-        " " +
-        s.title.toLowerCase() +
-        " " +
-        (s.content ? s.content.toLowerCase() : "");
+      if (!s || !s.id || !s.title) return false;
+      
+      const contentStr = s.content ? s.content.toLowerCase() : "";
+      const fullText = s.id.toString() + " " + s.title.toLowerCase() + " " + contentStr;
 
       return terms.every((term) => fullText.includes(term));
     });
