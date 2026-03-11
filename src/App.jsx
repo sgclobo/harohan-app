@@ -37,7 +37,7 @@ const ORASAUN_DATA = [
     id: "angelus",
     title: "Angelus",
     context: "Tempu bai-bain",
-    content: `Na'i Maromak nia Anju hodi Na'i Maromak nia lian ba Maria.\nNia ko'us dau-daun tamba Espiritu Santu nia grasa.\n\nAve Maria...\n\nHa'u ne'e, Na’i Maromak nia atan deit.\nAtu halo tuir duni Ita Boot nia lian.\n\nAve Maria...\n\nMaromak Filho halo an ba mane.\nNia mai moris duni hamutuk ho ita.\n\nAve Maria...\n\nMaromak nia Inan Santa, harohan mai ami ata.\nAmi atu bele hetan Jesus Kristu nia rahun diak.\n\nOrasaun: Na'i Maromak, ami ata husu ba Ita Boot atu haraik Ita Boot nia grasa mai ami nia klamar. Tuir Anju nia lia ami hatene lolos katak Ita Boot nia Oan halo An ba Mane duni. Tan nia terus to'o mate iha krus, ami harohan ba Ita Boot, halo ami ata moris tali atu ba iha lalehan. Ami husu ne'e tanba ami nia na'i Jesus Kristu. Amen.`,
+    content: `Na'i Maromak nia Anju hodi Na'i Maromak nia lian ba Maria.\nNia ko'us dau-daun tamba Espiritu Santu nia grasa.\n\n**Ave Maria...**\n\nHa'u ne'e, Na’i Maromak nia atan deit.\nAtu halo tuir duni Ita Boot nia lian.\n\n**Ave Maria...**\n\nMaromak Filho halo an ba mane.\nNia mai moris duni hamutuk ho ita.\n\n**Ave Maria...**\n\nMaromak nia Inan Santa, harohan mai ami ata.\nAmi atu bele hetan Jesus Kristu nia rahun diak.\n\n**Orasaun:** Na'i Maromak, ami ata husu ba Ita Boot atu haraik Ita Boot nia grasa mai ami nia klamar. Tuir Anju nia lia ami hatene lolos katak Ita Boot nia Oan halo An ba Mane duni. Tan nia terus to'o mate iha krus, ami harohan ba Ita Boot, halo ami ata moris tali atu ba iha lalehan. Ami husu ne'e tanba ami nia na'i Jesus Kristu. **Amen.**`,
   },
   {
     id: "regina-coeli",
@@ -5842,7 +5842,7 @@ export default function App() {
 
     return KNANANUK_DATA.filter((s) => {
       if (!s || !s.id || !s.title) return false;
-      
+
       const contentStr = s.content ? s.content : "";
       const fullText = normalizeText(s.id.toString() + " " + s.title + " " + contentStr);
 
@@ -6118,9 +6118,8 @@ export default function App() {
                           </span>
                         </div>
                         <ChevronRight
-                          className={`w-5 h-5 text-gray-400 transition-transform duration-300 ${
-                            isOpen ? "rotate-90" : ""
-                          }`}
+                          className={`w-5 h-5 text-gray-400 transition-transform duration-300 ${isOpen ? "rotate-90" : ""
+                            }`}
                         />
                       </button>
 
@@ -6152,11 +6151,10 @@ export default function App() {
                             <div
                               key={song.id}
                               onClick={() => navigateToContent(song, "songs")}
-                              className={`flex items-center justify-between px-4 py-3 cursor-pointer hover:bg-pink-50 transition-colors ${
-                                index !== songsInCategory.length - 1
-                                  ? "border-b border-gray-50"
-                                  : ""
-                              }`}
+                              className={`flex items-center justify-between px-4 py-3 cursor-pointer hover:bg-pink-50 transition-colors ${index !== songsInCategory.length - 1
+                                ? "border-b border-gray-50"
+                                : ""
+                                }`}
                             >
                               <h3 className="font-semibold text-gray-700 text-sm">
                                 {song.title}
