@@ -4541,8 +4541,6 @@ Na'i haksolok ho buat hotu Nia halo. Na'i haksolok ho ha'u nia hananu. Ha'u nia 
     content:
       "Salve, Regina, Mater misericordiae.\nVita, dulcedo et spes nostra, salve.\n\nAd te clamamus, exules filii Evae,\nad te suspiramus, gementes et flentes\nin hoc lacrimarum valle.\n\nEja, ergo, advocata nostra,\nillos tuos misericordiae oculos ad nos converte,\net Jesum benedictum fructum ventris tui\nnobis, post hoc exilium, ostende.\n\nO clemens, o pia, o dulcis Virgo Maria.",
   },
-
-  ,
   {
     id: 228,
     category: "Santu Sira",
@@ -5835,8 +5833,8 @@ export default function App() {
   };
 
   const filteredSongs = useMemo(() => {
-    const terms = searchTerm
-      .toLowerCase()
+    const normalizeText = (text) => text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+    const terms = normalizeText(searchTerm)
       .split(" ")
       .filter((t) => t.trim() !== "");
 
@@ -5845,8 +5843,8 @@ export default function App() {
     return KNANANUK_DATA.filter((s) => {
       if (!s || !s.id || !s.title) return false;
       
-      const contentStr = s.content ? s.content.toLowerCase() : "";
-      const fullText = s.id.toString() + " " + s.title.toLowerCase() + " " + contentStr;
+      const contentStr = s.content ? s.content : "";
+      const fullText = normalizeText(s.id.toString() + " " + s.title + " " + contentStr);
 
       return terms.every((term) => fullText.includes(term));
     });
