@@ -5141,6 +5141,263 @@ be libur ita hadulas altar.`,
    Haraik hakmatek ba sira be terus funu
    fo ksolok ba ami Timor oan sira.`,
   },
+  ,
+  {
+    id: 264,
+    category: "Latin",
+    title: "264. ADORO TE DEVOTE",
+    content: `1. Adoro Te devote latens Deitas,
+   quae sub his figuris vere latitas
+   tibi se cor meum totum subjicit,
+   quia Te contemplans totum deficit.
+
+2. Visus, tactus, gustus in Te fallitur,
+   sed auditu solo tuto creditur:
+   credo quidquid dixit Dei Filius:
+   nil hoc verbo veritatis verius.
+
+3. In cruce latebat sola Deitas,
+   at hic latet simul et humanitas:
+   ambo tamen credens atque confitens,
+   peto quod petivit latro paenitens.
+
+4. Plagas sicut Thomas, non intueor
+   Deum tamen meum Te confiteor:
+   fac me tibi semper magis credere,
+   in Te spem habere, Te diligere.
+
+5. O memoriale mortis Domini,
+   Panis vivus vitam praestans homini,
+   praesta meae menti de Te vivere,
+   et Te illi semper dulce sapere.
+
+6. Pie pellicane Jesu Domine,
+   me immundum munda tuo sanguine,
+   cujus una stilla salvum facere
+   totum mundum quit ab omni scelere.
+
+7. Jesu quem velatum nunc aspicio,
+   oro fiat illud quod tam sitio:
+   ut Te revelata cernens facie,
+   visu sim beatus tuae gloriae.
+   Amen.`,
+  },
+  {
+    id: 265,
+    category: "Latin",
+    title: "265. AITENDE, DOMINE",
+    content: `Attende, Domine, et miserere, quia peccavimus tibi.
+
+1. Ad Te Rex summe, omnium Redemptor
+   oculos nostros sublevamus flentes
+   exaudi, Christe, supplicantum preces
+
+2. Dextera Patris, lapis angularis
+   via salutis janua caelestis,
+   ablue nostri maculas delicti.
+
+3. Rogamus, Deus, tuam majestatem:
+   auribus sacris gemitus exaudi:
+   crimina nostra placidus indulge.`,
+  },
+  {
+    id: 266,
+    category: "Latin",
+    title: "266. AVE VERUM",
+    content: `Ave Verum, Corpus natum de Maria Virgine.
+Vere passum, immolatum in cruce pro homine;
+cujus latus perforatum fluxit aqua et sanguine:
+esto nobis praegustatum mortis in examine.
+
+O Jesu dulcis!
+O Jesu pie!
+O Jesu, fili Mariae.`,
+  },
+  {
+    id: 267,
+    category: "Latin",
+    title: "267. CANTATE DOMINO",
+    content: `Cantate Domino canticum novum,
+cantate omnes terra, alleluia.
+Laetentur coeli et exultet terra,
+jubilemus Deo salutari nostro.`,
+  },
+  {
+    id: 268,
+    category: "Latin",
+    title: "268. CHRISTUS VINCIT",
+    content: `Christus vincit, Christus regnat
+Christus, Christus imperat.
+
+1. N..., summo Pontifice et universal! Patri,
+   pax, vita, et salus perpetua.
+
+2. N..., reverendissimo Episcopo,
+   et universal! clero ei commisso,
+   pax, vita, et salus perpetua.
+
+3. Tempora bona veniant,
+   pax Christi veniat,
+   regnum Christi Veniat.`,
+  },
+  {
+    id: 269,
+    category: "Latin",
+    title: "269. JESU DULCIS MEMORIA",
+    content: `1. Jesu dulcis memoria, dans vera cordia gaudia:
+   sed super mel et omnia, ejus dulcis praesentia.
+
+2. Nil canitur suavius, nil auditur jucundius,
+   nil cogitatur dulcius, quam Jesus Dei Filius.
+
+3. Jesu spes paenitentibus, quam pius es petentibus!
+   quam bonus Te quaerentibus, sed quid invenientibus!
+
+4. Nec lingua valet dicere, nec literae exprimere:
+   expertus potest credere, quid sit Jesum diligere.
+
+5. Sis Jesu nostrum gaudium, qui es futurus praemium:
+   sit nostra in Te gloria, per cuncta semper saecula.
+   Amen.`,
+  },
+  {
+    id: 270,
+    category: "Latin",
+    title: "270. LAUDA JERUSALEM DOMINUM",
+    content: `Lauda, Jerusalem, Dominum. Lauda, Deum tuum, Sion.
+Hosanna, hosanna, Hosanna Filio David.
+
+1. Benedictus Dominus Deus Israel,
+   quia visitavit et fecit
+   redemptionem plebis suae.`,
+  },
+  {
+    id: 271,
+    category: "Latin",
+    title: "271. LAUDATE DOMINUM, OMNES GENTES",
+    content: `Laudate Dominum, omnes gentes.
+Laudate eum, omnes populi,
+quoniam confirmata est super nos
+misericordia ejus.
+Et veritas Domini manet in aeternum.
+Gloria Patri et Filio, et Spiritui Sancto
+sicut erat in principio et nunc et
+semper et in saecula saeculorum.
+Amen.`,
+  },
+  {
+    id: 272,
+    category: "Latin",
+    title: "272. LAUDA SION SALVATOREM",
+    content: `Lauda Sion Salvatorem, lauda ducem et pastorem
+in hymnis et canticis.
+
+Sit laus plena, sit sonora, sit jucunda, sit decora.
+Mentis jubilatio.
+
+Christus vincit, Christus regnat
+Christus imperat. (2x)`,
+  },
+  {
+    id: 273,
+    category: "Latin",
+    title: "273. O SACRUM CONVIVIUM",
+    content: `O sacrum convivium in quo Christus sumitur,
+recolitur memoria passionis ejus: mens impletur gratia
+et futurae gloriae nobis pignus datur.`,
+  },
+  {
+    id: 274,
+    category: "Latin",
+    title: "274. RORATE CAELI DESUPER",
+    content: `Rorate caeli desuper et nubes pluant Justum.
+
+1. Ne irascaris, Domine:
+   ne ultra memineris iniquitatis:
+   ecce civitas Sancti facta est deserta;
+   Sion deserta facta est.
+   Jerusalem desolata est.
+   Domus sanctificationis tuae
+   et gloriae tuae
+   ubi laudaverunt te patres nostri.
+
+2. Peccavimus, et facti sumus
+   tanquam immundos nos,
+   et cecidimus quasi folium universi:
+   et iniquitates nostrae
+   quasi ventus abstulerunt nos:
+   abscondisti faciem tuam a nobis
+   et allisisti nos in manu iniquitatis nostrae.
+   Vide Domine afflictionem populi tui
+   et mitte quem missurus es:
+   emitte Agnum dominatorem terrae,
+   de Petra deserti ad montem filiae Sion:
+   ut auferat ipse jugum captivitatis nostrae.
+
+3. Consolamini, consolamini, popule meus:
+   cito veniet salus tua:
+   quare moerore consumeris,
+   quia innovavit te dolor?
+   Salvabo te, noli timere,
+   ego enim sum Dominus Deus tuus,
+   sanctus Israel, redemptor tuus.`,
+  },
+  {
+    id: 275,
+    category: "Latin",
+    title: "275. TE DEUM",
+    content: `Te Deum laudamus:
+Te Dominum confitemur.
+Te aeternum Patrem omnis terra veneratur.
+Tibi omnes angeli, tibi caeli et universae potestates:
+Tibi Cherubim et Seraphim incessabili voce proclamant:
+Sanctus, sanctus, sanctus Dominus Deus sabaoth.
+Pleni sunt coeli et terra majestatis gloriae tuae.
+Te gloriosus apostolorum chorus,
+Te prophetarum laudabilis numerus,
+Te martyrum candidatus laudat exercitus.
+Te per orbem terrarum sancta confitetur Ecclesia.
+Patrem immensae majestatis.
+Venerandum tuum verum et unicum Filium.
+Sanctum quoque Paraclitum Spiritum.
+Tu Rex gloriae, Christe.
+Tu Patris sempiternus es Filius.
+Tu, ad liberandum suscepturus hominem non horruisti Virginis uterum.
+Tu, devicto mortis aculeo, aperuisti credentibus regna coelorum.
+Tu ad dexteram Dei sedes in gloria Patris.
+Judex crederis esse venturus.
+Te ergo, quaesumus, tuis famulis subveni
+quos pretioso sanguine redemisti.
+Aeterna fac cum sanctis tuis in gloria numerari.
+
+Salvum fac populum tuum, Domine,
+Et benedic haereditati tuae.
+Et rege eos, et extolle illos usque in aeternum.
+Per singulos dies benedicimus Te.
+
+Et laudamus nomen tuum in saeculum et in saeculum saeculi.
+Dignare, Domine, die isto sine peccato nos custodire.
+Miserere nostri, Domine, miserere nostri.
+Fiat misericordia tua, Domine, super nos,
+quemadmodum speravimus in Te.
+In Te, Domine, speravi; non confundar in aeternum.
+
+V. Te, Domine, speravi; non confundar in aeternum.
+R. Benedictus es, Domine, in firmamento coeli.
+V. Et laudabilis et gloriosus et superexaltatus in saecula.
+R. Amen.`,
+  },
+  {
+    id: 276,
+    category: "Latin",
+    title: "276. VENI, VENI EMMANUEL",
+    content: `1. Veni, veni Emmanuel, captivum solve Israel
+   qui gemit in exilio, privatus Dei Filio.
+
+Gaude! Gaude! Emmanuel, nascetur pro te, Israel.
+
+2. Veni, O Sapientia, quae hic disponis omnia`,
+  },
 ];
 
 // --- DATA: ROZARIU ---
@@ -5833,7 +6090,11 @@ export default function App() {
   };
 
   const filteredSongs = useMemo(() => {
-    const normalizeText = (text) => text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+    const normalizeText = (text) =>
+      text
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .toLowerCase();
     const terms = normalizeText(searchTerm)
       .split(" ")
       .filter((t) => t.trim() !== "");
@@ -5844,7 +6105,9 @@ export default function App() {
       if (!s || !s.id || !s.title) return false;
 
       const contentStr = s.content ? s.content : "";
-      const fullText = normalizeText(s.id.toString() + " " + s.title + " " + contentStr);
+      const fullText = normalizeText(
+        s.id.toString() + " " + s.title + " " + contentStr,
+      );
 
       return terms.every((term) => fullText.includes(term));
     });
@@ -6118,8 +6381,9 @@ export default function App() {
                           </span>
                         </div>
                         <ChevronRight
-                          className={`w-5 h-5 text-gray-400 transition-transform duration-300 ${isOpen ? "rotate-90" : ""
-                            }`}
+                          className={`w-5 h-5 text-gray-400 transition-transform duration-300 ${
+                            isOpen ? "rotate-90" : ""
+                          }`}
                         />
                       </button>
 
@@ -6151,10 +6415,11 @@ export default function App() {
                             <div
                               key={song.id}
                               onClick={() => navigateToContent(song, "songs")}
-                              className={`flex items-center justify-between px-4 py-3 cursor-pointer hover:bg-pink-50 transition-colors ${index !== songsInCategory.length - 1
-                                ? "border-b border-gray-50"
-                                : ""
-                                }`}
+                              className={`flex items-center justify-between px-4 py-3 cursor-pointer hover:bg-pink-50 transition-colors ${
+                                index !== songsInCategory.length - 1
+                                  ? "border-b border-gray-50"
+                                  : ""
+                              }`}
                             >
                               <h3 className="font-semibold text-gray-700 text-sm">
                                 {song.title}
