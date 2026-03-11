@@ -4541,11 +4541,607 @@ Na'i haksolok ho buat hotu Nia halo. Na'i haksolok ho ha'u nia hananu. Ha'u nia 
     content:
       "Salve, Regina, Mater misericordiae.\nVita, dulcedo et spes nostra, salve.\n\nAd te clamamus, exules filii Evae,\nad te suspiramus, gementes et flentes\nin hoc lacrimarum valle.\n\nEja, ergo, advocata nostra,\nillos tuos misericordiae oculos ad nos converte,\net Jesum benedictum fructum ventris tui\nnobis, post hoc exilium, ostende.\n\nO clemens, o pia, o dulcis Virgo Maria.",
   },
+
+  ,
   {
     id: 228,
     category: "Santu Sira",
-    title: "228. SÃO JOSE",
-    content: "(Seidauk iha lialal)",
+    title: "228. SÃO JOSE - HO DOMIN BOOT TEBES",
+    content: `1. Ho domin boot tebes hakiak Jesus,
+   Jose, emo santu, hosi Nazare.
+   Tau matan mai ami be la oho iha rai.
+   Ami nia hamulak hato'o ba Jesus. (2x)
+
+2. Serbisu ho liman nudar ema los
+   aihan loron-loron nune'e mak manan.
+   Hanorin mos ami be la'o iha rai. Ami..
+
+3. Bainhira Ita mate, Jesus iha neba;
+   Ho Nia 'ta klamar ba Aman hasa'e.
+   Hadia mos ami ba oras ikus nian. Ami..`,
+  },
+  {
+    id: 229,
+    category: "Santu Sira",
+    title: "229. DON BOSCO - AMAN DOBEN DON BOSCO",
+    content: `1. O aman doben Don Bosco,
+   ami banati no matadalan. (2x)
+   Hanorin ami ita lialos,
+   ita lialos, dalan naroman. (2x)
+
+2. Naroman lemo-lemo mundu
+   rai klaran tomak Salesianu nian. (2x)
+   Mai, mai maun alin, mai hamutuk,
+   mai, ita hamutuk hari mundu foun. (2x)`,
+  },
+  {
+    id: 230,
+    category: "Santu Sira",
+    title: "230. DON BOSCO SANTU",
+    content: `3. Don Bosco santu, santu boot tebes,
+Nia domin halibur ema hot-hotu. (2x)
+Ksolok wain tebes, kmanek wain tebes.
+Kmanek wain tebes katak nia sai santu. (2x)`,
+  },
+  {
+    id: 231,
+    category: "Santu Sira",
+    title: "231. BA OIN BA",
+    content: `Ba oin ba ho fuan no laran manas.
+Kristu mak bolu; ba tuir Nia.
+La bele tauk; ba ho aten berani
+haklaken lia Evangelu.
+Ita Lituari mak Jesus Kristu,
+ita nia mestre Don Bosco,
+ita nia fitun Virjem Maria;
+ba fatin hotu la'o ba.
+
+O Don Bosco, ami foinsa'e sira,
+atu tuir ita nia hanorin,
+iha moris iha rai klaran
+ami berani terus hotu,
+hodi lori ba mundu tomak
+Na'i Jesus nia domin;
+ba labarik sai belun ida
+atu dada sira ba Jesus!`,
+  },
+  {
+    id: 232,
+    category: "Santu Sira",
+    title: "232. DON BOSCO, AMI AMAN",
+    content: `1. Iha mundu oras ne'e susar barak duni.
+   Dala ruma ita tauk, tamba sa? La hatene!
+   La bele lakon esperansa tamba Na'i haraik mai ita
+   belun ida be fo tulun, hodi la'o hamutuk ita!
+
+Don Bosco, ami aman, belun foinsa'e sira nian,
+tu matan (ba) ita oan sira: lori ami ba lalehan!
+Don Bosco ami aman, modelu ami nian
+dada ita oan sira habelun ho Na'i
+
+2. Se ita hetan susar no ita lakon fiar,
+   lalika tauk ona la iha neba ba ita
+   Nia ita belun los, it'ina aman doben mos,
+   ida be hanorin ita atu la'o iha dalan los.`,
+  },
+  {
+    id: 233,
+    category: "Santu Sira",
+    title: "233. DON BOSCO, AMI ITAON SIRA",
+    content: `(Don Bosco, teus filhos amados)
+Don Bosco, ami, itaon sira haklaken
+hanau it'naran boot,
+be it'ina virtude manan,
+nabilan no kmanek wain.
+Se tulun mai am'ina hamulak,
+haraik an no ho neon tomak,
+be mai hosi klamar be fiar,
+no tuir it'ina bolu:
+Da mihi animas!`,
+  },
+  {
+    id: 234,
+    category: "Santu Sira",
+    title: "234. DON BOSCO NIA KMANEK",
+    content: `(Do grande Don Bosco)
+Don Bosco nia kmanek hananu no haklaken;
+nia matenek, laran luak,
+nia hanoin boot no aas.
+Funu makaas be nia manan
+ho kbit, b'rani no naran boot
+iha mundu tomak lemo rai sei lian makaas!`,
+  },
+  {
+    id: 235,
+    category: "Santu Sira",
+    title: "235. HO SINU IHA FESTA",
+    content: `(O Bronzes Sagrados)
+Ho sinu iha festa halia ho ksolok
+hamutuk dere ba ho lia momos
+"ha mundu sei buka bib' luhan 'ha mehi
+foinsa'e sira Aman mai fali, manan.
+Nudar hori uluk Bb' Atan lehan,
+ho matan be moris sei buka bib le lakon;
+hadauk hosi mate no sola nia ukun,
+no lori sira ba moris aas nian.
+
+Don Bosco, Don Bosco, domin nia nain
+nudar Aman diak lori ba Jesus. (2x)`,
+  },
+  {
+    id: 236,
+    category: "Santu Sira",
+    title: "236. MATENEK FO BA NIA",
+    content: `(Sapientiam dedit illi)
+
+1. Matenek fo ba nia, no ho laran be hatene;
+   no aifunan justisa hakmanek nia Na'i Maromak.
+
+Ho laran tomak hananu, hodi haksolok diak los
+iha loron boot ita nia testa nian be Na'i Maromak halo.
+
+2. Fuan boot fo ba nia no ho laran nebe luan;
+   nu' raihenek ita hatsi, hakmanek nia Na'i Maromak.
+
+3. Lia midar 'ha nia ibun, baniben no susuben
+   nia sukat hanesan, hakmanek nia Na'i Maromak.
+
+4. Naran boot to ba nia 'ha rai tomak nia laran;
+   ohon ba sira lemo rai hawain ba nia Na'i Maromak.`,
+  },
+  {
+    id: 237,
+    category: "Santu Sira",
+    title: "237. O DON BOSCO AMAN DIAK",
+    content: `(O Don Bosco, Pai bondoso)
+O Don Bosco, Aman diak: foinsa'e sira nia tulun.
+Hosi leiten aas tau matan ba oan sira nia fuan.
+Ami saran ba ita liman ami nia laran mos;
+halo nia sai nabilan to'o Jesus nia futar oin.
+
+O Don Bosco, O Don Bosco,
+halo ami moris diak los nafatin.
+Am'nia knanuk ksolok rona ba, ami nia domin simu ba!`,
+  },
+  {
+    id: 238,
+    category: "Santu Sira",
+    title: "238. O DON BOSCO IHA LALEHAN",
+    content: `(Don Bosco, la da gloria)
+O Don Bosco 'ha lalehan, rona ami nia harohan
+atu ami halo funu, la tauk ida to'o rohan
+ita Aman, matadalan ba foinsa'e be 'karak moris.
+Sai mos sira nia roman iha dalan ba lalehan.
+
+O Don Bosco, O Don Bosco,
+rona ami lia be, ho laran, sa'e ba
+ita gloria, lakan nudar ahi boot domin nian.`,
+  },
+  {
+    id: 239,
+    category: "Santu Sira",
+    title: "239. O DON BOSCO, ITA NARAN KMANEK",
+    content: `(O Don Bosco, teu nome bendito)
+Don Bosco, it'naran kmanek
+'ho rai klaran, ba oin hodi manan.
+it'nia lia makaas no rohan laek;
+lia hakilar, bolu hotu ba aas:
+"Klamar, klamar foinsa'e sira nian!"
+Ne'e mak lema be Na'i fo mai ha'u!
+Kmanek, kmanek, hahalok nabilan,
+it'nia naran sei kmanek liu tan.`,
+  },
+  {
+    id: 240,
+    category: "Santu Sira",
+    title: "240. PADRE, MESTRE NO AMIGU",
+    content: `1. Don Bosco, aman jovens sira nian,
+   rona ami nia hamulak, knanuk moris nian.
+   Hatudu dalan ba lalehan hamutuk ho Maria,
+   ami mata-dalan.
+
+2. Don Bosco, ami mestre no amigu,
+   ita ami nia modelu moris santidade nian.
+   Loke ami fuan ba Jesus, hametin ami knaar
+   iha mundu ne'e.`,
+  },
+  {
+    id: 241,
+    category: "Santu Sira",
+    title: "241. SALVE DON BOSCO SANTU",
+    content: `Salve, Don Bosco Sanfu, O nia fuan foinsa'e
+hare ba mundu nia mate iha nebe la iha domin.
+
+1. Jovens sira la'o namkari la hatene ba nebe.
+   Joven sira lakon barak la iha fiar pas no domin
+   Don Bosco mai ami nia leet.
+
+2. Hare oin sa ami hafunu atu buka buat be los
+   hare oin sa ami hakarak to iis moris nian ba mundu ne'e
+   Don Bosco mai ami nia leet.`,
+  },
+  {
+    id: 242,
+    category: "Santu Sira",
+    title: "242. SÃO JOAO BOSCO MORIS KIAK",
+    content: `1. São João Bosco moris kiak
+   sei haksolok inan aman.
+   Saran an ba Na'i Maromak
+   hodi serbi ba ema tomak.
+
+Don Bosco entrega an ba Maromak nia Kreda
+halo oan tinan hira iha rai Timor nia iaran. (2x)
+
+2. Ami hasai buat de ami iha,
+   ami isin klamar tomak
+   nudar domin nebe iha,
+   iha São João Bosco nia liman.
+
+3. Tan Don Bosco nia domin,
+   sai nudar bib atan diak.
+   Husik inan, husik aman
+   hodi kaer knaar iha fatin tomak.
+
+4. São João Bosco haraik an
+   tuir lulos Jesus nia moris
+   hodi hatudu ba jovens tomak
+   atu la'o tuir ninia an fatin.`,
+  },
+  {
+    id: 243,
+    category: "Santu Sira",
+    title: "243. SÃO JOÃO BOSCO, AMLULIK DOBEN",
+    content: `1. So Joo Bosco, amlulik doben,
+   ami Mestre, ami Aman.
+   Ba ita boot ami hananu
+   nudar oan be hadomi.
+
+Tamba ita hatudu (mai) ami
+dalan roman ba Maromak,
+ami moris sei nabilan
+ho Maromak nia grasa.
+
+Don Bosco, mai fali iha ami leet.
+Hatudu mai ami Jesus nia oin. (2x)
+
+2. Klosan sira sai santu hotu
+   iha Jesus nia kadunan.
+   Sai Maria nia doben sira;
+   Santu Padre nia emar.
+   Ba Maromak nia Kreda
+   ami hotu sasin tebes,
+   hodi dehan sai nafatin:
+   fo mai klamar, ne'e to'o ona.`,
+  },
+  {
+    id: 244,
+    category: "Santu Sira",
+    title: "244. VIVA DON BOSCO",
+    content: `Viva Don Bosco; viva Don Bosco belun.
+Viva Don Bosco, foinsa'e sira rai tomak nia belun.
+Viva Don Bosco, belun ba Ita oan sira.
+Viva Don Bosco belun be moris 'ha ami leet.
+
+1. It'nia liman, ohin la'o nia liman:
+   It'nia fuan, itharaik tiha ona mai ha'u.
+   Ita hamutuk sei lori ksolok domin nian;
+   ita hamutuk, ha'u ho ita, belun boot los.
+
+2. It'nia dalan, ohin dalan ha'u nian.
+   Ita la'o, ita la'o hori ohin ba oin hamutuk ha'u.
+   Ita dalan, ita dalan, belun barak sei hasouru;
+   ita belun, ita belun, ha'u ho Ita.
+
+(Final) Be moris iha ami leet (3x)`,
+  },
+  {
+    id: 245,
+    category: "Santu Sira",
+    title: "245. DOM BOSCO, PAI AMADO",
+    content: `Don Bosco, Pai amado; do céu entre os fulgores.
+Escutas quem prostrado levanta aos seus clamores.
+Do olhar de paraiso não cesses com amor
+que o teu flegro sorriso, inunde n'alma ardor. (2x)`,
+  },
+  {
+    id: 246,
+    category: "Santu Sira",
+    title: "246. DOM BOSCO, TEUS FILHOS AMADOS",
+    content: `1. Dom Bosco,
+   teus filhos amados te aclamam
+   cantando a vitória
+   que a tua virtude alcançou
+   nimbada de luzes e glória.
+   Atende as preces humildes
+   e cheias de grande fervor
+   das almas que a ti se confiam
+   seguindo o teu brado de amor:
+   Da mihi animas!
+
+2. Teu brano o eterno acolhe
+   com gozo, bondade divina
+   e das almas exercito imenso
+   a ti e a teus filhos destine
+   aos pés do teu santo altar
+   acode uma turba infinita
+   de jovens que ouviram a voz
+   do amor que em ti forte palpita:
+   Da mihi animas.`,
+  },
+  {
+    id: 247,
+    category: "Santu Sira",
+    title: "247. O DOM BOSCO, PAI BONDOSO",
+    content: `1. O Dom Bosco, Pai bondoso
+   e dos jovens protector.
+   Vela o nosso coracao
+   e preserva-o do mal.
+   Confiantes na pureza
+   da presente nossa vida;
+   guarda-a sempre bem florida
+   p'ra Jesus ate ao Ceu:
+
+O Dom Bosco, o Dom Bosco que da nossa mocidade
+és doce encanto e alegria;
+aceita o canto e o affecto aceita a flor. (2x)`,
+  },
+  {
+    id: 248,
+    category: "Santu Sira",
+    title: "248. O DOM BOSCO, TE OFERTAMOS",
+    content: `1. O Dom Bosco, te ofertamos
+   de homenagem nosso preito.
+   Voz de afecto que abrigamos
+   dentro do nosso peito.
+
+Dom Bosco, teus filhos, em cantos de amor
+radiantes te hossanam qual mestre e pastor. (2x)
+
+2. Pai, atende a voz do filho
+   ouve a nossa infante prece;
+   faz da virtude o brilho
+   que em nossa alma nunca cesse.`,
+  },
+  {
+    id: 249,
+    category: "Santu Sira",
+    title: "249. O DOM BOSCO, TEU NOME BENDITO",
+    content: `1. O Dom Bosco, teu nome bendito
+   pelo mundo presto triunfar.
+   O teu eco retumba infinito
+   e clamor de uma gestta imortal.
+
+Almas, almas do céu esmeraldas
+eis o lema que deu teus.
+Glória, glória com grinaldas
+vem cingir essa fronte de luz.`,
+  },
+  {
+    id: 250,
+    category: "Santu Sira",
+    title: "250. SALVE, DOM BOSCO SANTO",
+    content: `Salve, Dom Bosco santo, jovens de coragem:
+Salva, Dom Bosco amigo, ouve nossa canção.
+
+1. Juventude que caminha
+   sem saber onde vai;
+   juventude esta perdida,
+   sem fé, sem paz, sem luz e amor!
+   Don Bosco, ouve a nossa voz.
+
+2. Se soubéssemos quantas vezes
+   nos tentaram vencer;
+   se soubésse quanto custa
+   o ver crueldade, rancor, paixão!
+   Dom Bosco, vem-nos ajudar.`,
+  },
+  {
+    id: 251,
+    category: "Santu Sira",
+    title: "251. DOMINGOS SAVIO, KLOSAN SANTU",
+    content: `Domingos Savio, klosan santu.
+ba foinsa'e sira fitun ida.
+O nia laran mos nabilan
+ami sei haklaken.
+O nia belun Jesus, Maria:
+saran ba sira o nia fuan.
+Haklaken mate, maibe la sola
+tuir dalan kmanek ba Jesus.
+Ami nos sei tuir dalan ne'e
+'ha moris tomak iha mundu ne'e
+hodi kaer didiak ami knaar
+loron-loron nian.`,
+  },
+  {
+    id: 252,
+    category: "Santu Sira",
+    title: "252. DOMINGOS SAVIO, A FLOR MIMOSA",
+    content: `1. Domingos Savio, flor mimosa
+   nascida da alma de Don Bosco.
+   Do teu viver o hino santo
+   a terra vem cantar connosco.
+
+La vamos de alma em cantico
+seguindo exemplo teu
+Queremos da vitória
+a palma erguer, erguer ao ceu: (2x)`,
+  },
+  {
+    id: 253,
+    category: "Santu Sira",
+    title: "253. DOMINGOS SÁVIO, LIRIO CANDIDO",
+    content: `1. Domingos Sávio, O lirio candido
+   veste a terra com certeza
+   para mostrar a flor alvissima
+   a branca veste da pureza.
+
+No ceu's astro fulgido, farol de intensa luz.
+És glória de Dom Bosco, eleito de Jesus. (2x)`,
+  },
+  {
+    id: 254,
+    category: "Santu Sira",
+    title: "254. GLÓRIA, O SÁVIO",
+    content: `1. Glória, o Sávio, a ti cantemos,
+   flor dos jovens a sorrir;
+   Faz que o nosso lirio branco como o teu possa florir. (2x)
+
+2. De lirios e rosas semeia o caminho
+   as almas que anelam ser sb de Jesus.
+   O angelico Sávio dos jovens a flor
+   p'la estrada nos guia, à Deus nos conduz. (2x)`,
+  },
+  {
+    id: 255,
+    category: "Santu Sira",
+    title: "255. AVE, SANTA MARIA MAZZARELLO",
+    content: `Ave, Santa Maria Mazzarello
+knanuk ksolok ami hase'e ba ita
+ami hotu hananu ho domin
+has'e gloria ba Na'i Maromak`,
+  },
+  {
+    id: 256,
+    category: "Santu Sira",
+    title: "256. MORNESE, RAI LORON NIAN",
+    content: `Mornese rai loron nian
+nakonu ho ain nia nebe mahoben sai
+hanesan kosar nebe hakmatek
+makas liu rai turitu no mos
+aifunan haklaken nia milagre.
+
+1. Agradese Na'i tan hase'e ema kiik
+   los duni ita nia ksolok mak ne'e.
+
+2. Aihun no dalan hananu naran ida
+   Maria sarani nia tulun.`,
+  },
+  {
+    id: 257,
+    category: "Santu Sira",
+    title: "257. BAKHITA NUDAR FIN IIDA",
+    content: `Bakhita nia moris hanesan fini ida
+be kuda iha rai Afrika
+ohin loron moris no buras
+hodi fo fuan ba Kreda.
+
+1. Ah, mai ita hahi ho ksolok
+   ba Maromak Aman laran luak
+   tan Nia domin wain tebes.
+
+2. Ohin iha lalehan haksolok
+   iha Maromak nia tutar oin
+   o hetan ema rahun diak lalehan.
+
+3. Maromak fihir o hori uluk kedas
+   atu sai nia manu ain
+   hodi haklaken nia domin ba ema hotu.
+
+4. Laran badinas kaer Kristu nia knaar
+   nudar sasin Maromak nian
+   hodi moris iha fiar laran.`,
+  },
+  {
+    id: 258,
+    category: "Santu Sira",
+    title: "258. IHA KSLOK LALEHAN",
+    content: `Iha ksolok lalehan fitun ida lakan ba Kristu nia gloria,
+ba Kredo tomak nia gloria.
+
+1. O moris iha palasio Canossa,
+   iha familia ida riku soin wain.
+   O simu iha loron Baptismo
+   o nia naran Madalena.
+
+2. Krus nia lalatak o simu
+   hosi kedas o sei labarik:
+   O terus sai wain liu tan;
+   o fuan ba domin nakloke.
+
+3. Ba o familia hakarak
+   naran boot rai ne'e nian
+   maibe o subar iha o laran
+   domin lalehan nian.`,
+  },
+  {
+    id: 259,
+    category: "Santu Sira",
+    title: "259. INAN DIAK, KMOOK NO NABILAN",
+    content: `1. Inan diak, kmook no nabilan
+   iha santu sira nia gloria;
+   hamatan ita oan sira
+   nebe terus, tanis, husu tulun.
+
+File mai, Inan doben:
+hela ho juventude.
+Mai, hanorin moris domin
+nebe lakan iha ita. (2x)`,
+  },
+  {
+    id: 260,
+    category: "Santu Sira",
+    title: "260. JOSEFINA BAKHITA",
+    content: `Josefina Bakhita, Bakhita, Bakhita sai beata.
+
+1. Iha lalehan, harohan mai ami,
+   hatudu dalan mai ami hotu
+   hodi tuir Jesus, ami nia Maksoin.
+
+2. Bainhira labarik, hetan terus oi-oin
+   maibe fiar metin ba Na'i Maromak;
+   tan ne'e Maromak fihir o iha terus nia laran.
+
+3. Hanorin ami banati tuir
+   o nia virtude haraik-an
+   ami nia moris loron-loron nian.`,
+  },
+  {
+    id: 261,
+    category: "Santu Sira",
+    title: "261. MADALENA INAN DOBEN",
+    content: `1. Madalena fuan nakloke
+   kiak sira hetan fatin
+   hodi hatene no la'o ba Kristu
+   Na'i mak hili mak hili kedas ona
+   atu moris diak ba Nia. (2x)
+
+2. Madalena ba hakmatek
+   tamba domin ba Kristu
+   hodi husik buat hotu
+   to moris ba ema tomak.
+
+3. Madalena sei bolu ita
+   atu manas ba Na'i nia reinu
+   nebe belar tebetebes
+   iha mundu rai klaran.
+
+4. Ema wain la hadomi Na'i
+   tamba sira la hatene,
+   to brani mai ami hotu
+   atu bele ba mundu tomak.`,
+  },
+  {
+    id: 262,
+    category: "Santu Sira",
+    title: "262. OHIN LORON KSLOK",
+    content: `Ohin loron ksolok, ksolok boot tebes,
+mai, ita hotu tuku tur, naran
+ba Na'i Maromak, it'nia Aman doben
+be libur ita hadulas altar.`,
+  },
+  {
+    id: 263,
+    category: "Santu Sira",
+    title: "263. O SANTA MADALENA",
+    content: `1. O Santa Madalena, hanoin ami, hanoin ami.
+   husu Jesus mai ami ho ita nia kbit.
+   Haraik tulun wain mai ami;
+   haraik ita nia domin.
+
+2. Ami Inan doben, ho kbitin ita tulun
+   hanoin, sadia sira be terus mate.
+   Haraik hakmatek ba sira be terus funu
+   fo ksolok ba ami Timor oan sira.`,
   },
 ];
 
@@ -5247,14 +5843,13 @@ export default function App() {
     if (terms.length === 0) return KNANANUK_DATA;
 
     return KNANANUK_DATA.filter((s) => {
-      const fullText = (
+      const fullText =
         s.id.toString() +
         " " +
         s.title.toLowerCase() +
         " " +
-        (s.content ? s.content.toLowerCase() : "")
-      );
-      
+        (s.content ? s.content.toLowerCase() : "");
+
       return terms.every((term) => fullText.includes(term));
     });
   }, [searchTerm]);
